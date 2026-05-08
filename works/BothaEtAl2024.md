@@ -25,7 +25,7 @@ updated: 2026-05-08
 ### 主导叙事的问题
 
 - Judy Singer 长期被归功为"neurodiversity"一词的创造者和理论的创始人
-- Steve Silberman 的《NeuroTribes》（2015）在推广这一叙事中起了关键作用——基于与 Singer 的个人交流，将她定位为造词者
+- Steve Silberman 的 [[Silberman2015|《NeuroTribes》]]（2015）在推广这一叙事中起了关键作用——基于与 Singer 的个人交流，将她定位为造词者
 - 此后 Singer 在《卫报》等媒体中被塑造成"神经多样性之母"
 - 但这一叙事**简化了历史，抹杀了社群的集体贡献**
 
@@ -42,10 +42,10 @@ updated: 2026-05-08
 
 **Harvey Blume——第一个在出版物中使用术语的记者**：
 
-- 1997年：Blume 发表关于"neurological diversity"的文章
-- 1998年：Blume 发表关于"neurodiversity"的文章（*The Atlantic*）
+- 1997年：[[Harvey-Blume|Blume]] 发表关于"neurological diversity"的文章
+- 1998年：[[Harvey-Blume|Blume]] 发表关于"neurodiversity"的文章（*The Atlantic*）
 - 关键：**Blume 将这些概念归功于在线孤独谱系社群**（如"研究神经典型者的研究所"ISNT），而非 Singer
-- 在 Singerman 叙事中，Blume 被说成是从 Singer 那里听到这个词的——但这一说法从未被 Blume 本人证实
+- 在 Singer 叙事中，Blume 被说成是从 Singer 那里听到这个词的——但这一说法从未被 Blume 本人证实
 
 **Judy Singer 的实际角色**：
 
@@ -57,9 +57,9 @@ updated: 2026-05-08
 ## 更早的运动起源
 
 - **1992年**：国际孤独谱系网络（Autism Network International, ANI）成立
-- **Jim Sinclair**（酷儿双性人活动家）：1993年撰写具有奠基意义的 "Don't Mourn for Us"，被描述为"神经多样性运动的试金石"
+- **[[Jim-Sinclair]]**（酷儿双性人活动家）：1993年撰写具有奠基意义的 [[Sinclair1993|"Don't Mourn for Us"]]，被描述为"神经多样性运动的试金石"
 - **Ed Roberts、Judy Heumann、Anita Cameron**（孤独谱系者）等人的跨残障倡导工作为神经多样性理论奠定了基础
-- **Kassiane Asasuasu**：2000年创造"neurodivergent"和"neurodivergence"两个术语
+- **Kassiane Asasuasu**：2000年创造"[[神经殊异|neurodivergent]]"和"neurodivergence"两个术语
 
 ## 为什么这很重要
 
