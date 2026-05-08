@@ -65,9 +65,9 @@ Singer 在书中有专门一节讨论"谁真正创造了这个词？"（So, who 
 ## Related
 
 - [[Judy-Singer]] — 作者
-- [[BothaEtAl2024]] — 对本书核心主张的学术修正
-- [[JonesOrchard2024]] — 对 Singer 奠基性排斥的批判
+- [[BothaEtAl2024|Botha et al. (2024)]] — 对本书核心主张的学术修正
+- [[JonesOrchard2024|Jones & Orchard (2024)]] — 对 Singer 奠基性排斥的批判
 - [[神经多样性运动]] — 1990年代至今的运动史（含 Botha 修正）
 - [[神经多样性]] — 概念的完整定义与区分
 - [[残障的社会模式]] — Singer 理论框架的核心来源
-- [[Silberman2015]] — Silberman 将 Singer 推上术语创造者地位的作品
+- [[Silberman2015|Silberman (2015)]] — Silberman 将 Singer 推上术语创造者地位的作品
