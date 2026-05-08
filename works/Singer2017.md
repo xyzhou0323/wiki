@@ -44,13 +44,13 @@ Singer 在书中说明她运营了三个群体：
 
 ### 仅主张高功能/阿斯伯格群体
 
-Singer 在书中明确声明：她的论文"从一开始就明确，我只倡导高功能孤独谱系（或曾称为阿斯伯格综合征的群体）"。这一定位现在被视为神经多样性的**奠基性排斥**——Jones & Orchard（2024）在 [[JonesOrchard2024-神经多样性与残障|对神经多样性的批判]] 中系统地分析了 Singer 原文对学习障碍者的排斥。
+Singer 在书中明确声明：她的论文"从一开始就明确，我只倡导高功能孤独谱系（或曾称为阿斯伯格综合征的群体）"。这一定位现在被视为神经多样性的**奠基性排斥**——Jones & Orchard（2024）在 [[JonesOrchard2024|对神经多样性的批判]] 中系统地分析了 Singer 原文对学习障碍者的排斥。
 
 ### 关于"真正创造者"的讨论
 
 Singer 在书中有专门一节讨论"谁真正创造了这个词？"（So, who really coined the word, anyway?），描述了 Wikipedia 编辑战和围绕术语归属的争议。她将自己定位为术语的创造者，Blume 为首位在印刷中使用的人。
 
-然而，Botha 等（2024）在 [[BothaEtAl2024-神经多样性的集体起源|学术修正]] 中的档案研究表明：Tony Langdon 早在 **1996年** 即在 InLv 中使用了完整的"neurological diversity"概念——比 Singer 的论文和 Blume 的文章都早。Singer 的书中**未提及** Langdon 的1996年帖子。
+然而，Botha 等（2024）在 [[BothaEtAl2024|学术修正]] 中的档案研究表明：Tony Langdon 早在 **1996年** 即在 InLv 中使用了完整的"neurological diversity"概念——比 Singer 的论文和 Blume 的文章都早。Singer 的书中**未提及** Langdon 的1996年帖子。
 
 ## 学术评价
 
@@ -65,9 +65,9 @@ Singer 在书中有专门一节讨论"谁真正创造了这个词？"（So, who 
 ## Related
 
 - [[Judy-Singer]] — 作者
-- [[BothaEtAl2024-神经多样性的集体起源]] — 对本书核心主张的学术修正
-- [[JonesOrchard2024-神经多样性与残障]] — 对 Singer 奠基性排斥的批判
+- [[BothaEtAl2024]] — 对本书核心主张的学术修正
+- [[JonesOrchard2024]] — 对 Singer 奠基性排斥的批判
 - [[神经多样性运动]] — 1990年代至今的运动史（含 Botha 修正）
 - [[神经多样性]] — 概念的完整定义与区分
 - [[残障的社会模式]] — Singer 理论框架的核心来源
-- [[Silberman2015-NeuroTribes-神经部落]] — Silberman 将 Singer 推上术语创造者地位的作品
+- [[Silberman2015]] — Silberman 将 Singer 推上术语创造者地位的作品
