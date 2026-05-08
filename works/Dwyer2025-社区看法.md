@@ -1,7 +1,7 @@
 ---
 title: Dwyer 等 (2025) 社区对神经多样性、残障模式与孤独症干预的看法
 description: Patrick Dwyer、Steven Kapp、Kristen Gillespie-Lynch 等发表于 Autism 期刊的混合方法研究——504 名社群成员实证调查，揭示"强"社会模型修辞与实际干预态度之间的系统性差异，以及孤独谱系与非孤独谱系 NDM 支持者的关键张力
-aliases: [Dwyer-2025-社区看法, Dwyer et al. 2025, Community views of neurodiversity]
+aliases: [Dwyer2025-社区看法, Dwyer et al. 2025, Community views of neurodiversity]
 tags: [work, neurodiversity, disability, autism, methodology, empirical]
 sources: [Dwyer 等 - 2025 - Community views of neurodiversity, models of disability and autism intervention Mixed methods revea.pdf]
 doi: 10.1177/13623613241273029
@@ -20,7 +20,7 @@ updated: 2026-05-08
 
 ## 研究定位
 
-本文是 [[Dwyer-2022-神经多样性方法|Dwyer (2022)]] 理论论文的直接实证后续。Dwyer (2022) 提出了神经多样性方法的规范定义（互动主义中间道路），本文则转向**实证调查**：社群成员实际持有什么观点？"强"社会模型的修辞是否真实反映了倡导者的实际干预态度？
+本文是 [[Dwyer2022-神经多样性方法|Dwyer (2022)]] 理论论文的直接实证后续。Dwyer (2022) 提出了神经多样性方法的规范定义（互动主义中间道路），本文则转向**实证调查**：社群成员实际持有什么观点？"强"社会模型的修辞是否真实反映了倡导者的实际干预态度？
 
 ## 研究设计
 
@@ -165,13 +165,13 @@ NDM 支持与以下立场相关：
 ## Related
 
 - [[Patrick-Dwyer|Patrick Dwyer]] — 第一作者
-- [[Dwyer-2022-神经多样性方法]] — 本文的理论前身，提出了被本文实证检验的互动主义框架
+- [[Dwyer2022-神经多样性方法]] — 本文的理论前身，提出了被本文实证检验的互动主义框架
 - [[残障的社会模式]] — 本文的核心考察对象：强 SM vs 弱 SM 在社群中的实际分布
 - [[残障模型]] — 本文的五维度干预态度量表为残障模型讨论提供了实证基础
 - [[庸俗版神经多样性]] — 本文发现了其可能存在的经验证据（非孤独谱系 vs 孤独谱系 NDM 支持者的关注差异）
 - [[去病理化]] — 本文实证确认了"反对正常化，但对适应性支持开放"的实践共识
 - [[神经多样性与民主研究]] — 本文的干预决策权发现与此高度一致
 - [[神经殊异#与神经少数的关系|神经少数]] — 孤独谱系家长群体的数据支持少数群体自主权
-- [[Neeman-Pellicano-2022-神经多样性作为政治]] — 本文引用的神经多样性多重内涵的理论来源
-- [[Hughes-2021-孤独谱系异质性与神经多样性范式]] — 本文直接回应了 Hughes 对强 SM 的批评
-- [[Chapman-Fletcher-Watson-2025-神经多样性简论]] — 常态范式/神经多样性范式的概念框架
+- [[NeemanPellicano2022-神经多样性作为政治]] — 本文引用的神经多样性多重内涵的理论来源
+- [[Hughes2021-孤独谱系异质性与神经多样性范式]] — 本文直接回应了 Hughes 对强 SM 的批评
+- [[ChapmanFletcherWatson2025-神经多样性简论]] — 常态范式/神经多样性范式的概念框架

@@ -1,7 +1,7 @@
 ---
 title: 神经多样性简论
 description: Oxford Very Short Introduction 系列第 773 卷，Robert Chapman 与 Sue Fletcher-Watson 合著，目前最系统的神经多样性范式入门读物——科学+文化范式转变的纲领性论述
-aliases: [神经多样性简论-Neurodiversity-VSI, Neurodiversity: A Very Short Introduction, 神经多样性: 一本简短导论, Neurodiversity VSI, VSI, Chapman-Fletcher-Watson-2025]
+aliases: [神经多样性简论-Neurodiversity-VSI, Neurodiversity: A Very Short Introduction, 神经多样性: 一本简短导论, Neurodiversity VSI, VSI, ChapmanFletcherWatson2025]
 tags: [work, neurodiversity, foundational]
 sources: [2026-05-07/神经多样性-Neurodiversity A Very Short Introduction (Robert Chapman, Sue Fletcher-Watson)机翻DeepSeek.epub]
 created: 2026-05-07
@@ -121,7 +121,7 @@ Chapman 与 Fletcher-Watson 最重要的概念贡献之一，是用 **"常态范
 - Louise Creechan："神经殊异"是隐含关系性术语，回应文本内部确立的规范标准
 - 神经殊异艺术家的形式实验：Jess Thom（Touretteshero）的图雷特式表演、zines 和拼贴等混合媒体学术
 
-> 相关 Wiki 页面：[[残障模型]]、[[残障的社会模式]]、[[残障肯定模式]]、[[神经多样性与民主研究]]、[[双向同理心问题]]、[[Milton-2012-双向同理心问题]]、[[Milton-2022-双向同理心问题十年回顾]]
+> 相关 Wiki 页面：[[残障模型]]、[[残障的社会模式]]、[[残障肯定模式]]、[[神经多样性与民主研究]]、[[双向同理心问题]]、[[Milton2012-双向同理心问题]]、[[Milton2022-双向同理心问题十年回顾]]
 
 ### 第3章：神经多样性范式的应用（Applications of the Neurodiversity Paradigm）
 
@@ -183,7 +183,7 @@ Chapman 与 Fletcher-Watson 最重要的概念贡献之一，是用 **"常态范
 - 反资本主义立场：如果在资本主义下常态范式无法被真正克服→神经殊异解放=工人阶级解放
 - 神经殊异者需要作为工人（或潜在工人）在工会、投票集团、革命行动中组织
 
-> 相关 Wiki 页面：[[神经多样性与交叉性]]、[[神经多样性与资本主义]]、[[Chapman-2023-正常帝国]]、[[Walker-2021-神经酷儿异端]]、[[神经规范性]]
+> 相关 Wiki 页面：[[神经多样性与交叉性]]、[[神经多样性与资本主义]]、[[Chapman2023-正常帝国]]、[[Walker2021-神经酷儿异端]]、[[神经规范性]]
 
 ### 第5章：当前争议（Current Debates）
 
@@ -254,9 +254,9 @@ Chapman 与 Fletcher-Watson 最重要的概念贡献之一，是用 **"常态范
 - [[庸俗版神经多样性]] — 第5章的核心概念及批判
 - [[神经多样性与学习障碍]] — 第5章对运动的考验
 - [[反精神病学]] — 第5章澄清运动与此传统的区别
-- [[Chapman-2023-正常帝国]] — Chapman 对常态与资本主义的系统分析
-- [[Chapman-2026-后自由主义时代的神经多样性政治]] — Chapman 论后自由主义政治转向
-- [[Walker-2021-神经酷儿异端]] — Walker 文集，神经酷儿概念
+- [[Chapman2023-正常帝国]] — Chapman 对常态与资本主义的系统分析
+- [[Chapman2026-后自由主义时代的神经多样性政治]] — Chapman 论后自由主义政治转向
+- [[Walker2021-神经酷儿异端]] — Walker 文集，神经酷儿概念
 - [[残障模型]] — 第2章的七种残障模型全景
 - [[残障的社会模式]] — 神经多样性运动的关键理论资源
 - [[神经多样性与民主研究]] — 第2章的民主化科学纲领

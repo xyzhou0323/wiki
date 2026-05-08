@@ -6,7 +6,7 @@ tags: [work, neurodiversity, historical]
 sources: [2026-05-07/Botha-et-al-2024-神经多样性集体起源.md, 2026-05-07/神经多样性的诞生-社群历史.md]
 doi: 10.1177/13623613241237871
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-08
 ---
 
 # 神经多样性的集体起源（Botha et al. 2024）
@@ -14,7 +14,7 @@ updated: 2026-05-07
 **作者**（按字母顺序）：Monique Botha, [[Robert-Chapman]], Morénike Giwa Onaiwu, [[Steven-Kapp]], Abs Stannard Ashley, [[Nick-Walker]]
 **发表**：2024年，*Autism* 期刊（SAGE）
 **原文**：https://journals.sagepub.com/doi/full/10.1177/13623613241237871
-**中文版**："神经多样性"的诞生：一段被遗忘的社群历史（译者：XyZ，发布于 neurobridge.cn）
+**中文科普**：["神经多样性"的诞生：一段被遗忘的社群历史](https://neurobridge.cn/docs/neurodiversity/collectiveorigin/)（作者：XyZ，基于 Botha et al. 2024 撰写的科普文章）
 
 ## 核心论点
 
@@ -71,9 +71,9 @@ updated: 2026-05-07
 
 - [[神经多样性运动]] — 应据此修正的运动完整历史
 - [[神经多样性范式]] — 这一集体运动所发展的核心范式
-- [[Singer-2017-神经多样性的诞生]] — Singer 在本书修正后自费出版的个人叙事，声称自己是术语创造者
+- [[Singer2017-神经多样性的诞生]] — Singer 在本书修正后自费出版的个人叙事，声称自己是术语创造者
 - [[Judy-Singer]] — 被修正叙事中的核心人物，最早学术使用者之一
-- [[Steven-Kapp]] — 合著者之一，[[Kapp-2020-孤独谱系社群与神经多样性运动]] 主编
-- [[Nick-Walker]] — 合著者之一，[[Walker-2021-神经酷儿异端]] 作者
+- [[Steven-Kapp]] — 合著者之一，[[Kapp2020-孤独谱系社群与神经多样性运动]] 主编
+- [[Nick-Walker]] — 合著者之一，[[Walker2021-神经酷儿异端]] 作者
 - [[Robert-Chapman]] — 合著者之一
-- [[Chapman-2023-正常帝国]] — Chapman 对资本主义与神经规范性的系统分析
+- [[Chapman2023-正常帝国]] — Chapman 对资本主义与神经规范性的系统分析

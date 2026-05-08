@@ -85,14 +85,14 @@ Temple Grandin 1989年在 Chapel Hill 的公开演讲——作为最早公开自
 
 *NeuroTribes* 在将神经多样性引入主流公共话语方面发挥了不可替代的作用。但它也传播了一个重要错误：将"神经多样性"一词的创造归功于 Judy Singer。
 
-正如 [[Botha-et-al-2024-神经多样性的集体起源|Botha 等（2024）]] 的学术修正所表明的，该概念在1996年由在线孤独谱系社区的 Tony Langdon 完整形成——早于 Singer 和 Harvey Blume 的参与。这一修正现在被视为对 Silberman 叙事的重要学术补正。
+正如 [[BothaEtAl2024-神经多样性的集体起源|Botha 等（2024）]] 的学术修正所表明的，该概念在1996年由在线孤独谱系社区的 Tony Langdon 完整形成——早于 Singer 和 Harvey Blume 的参与。这一修正现在被视为对 Silberman 叙事的重要学术补正。
 
 ## Related
 
 - [[Steve-Silberman]] — 作者
 - [[神经多样性运动]] — 该书详细叙述了从 Kanner 时代到神经多样性运动的历史，但其中的"概念起源"部分已被 Botha 等（2024）修正
-- [[Botha-et-al-2024-神经多样性的集体起源]] — 对书中"Judy Singer 创造术语"叙事的学术修正
-- [[Chapman-Fletcher-Watson-2025-神经多样性简论]] — Chapman & Fletcher-Watson 的更系统化学术介绍（2025）
-- [[Chapman-2023-正常帝国]] — Chapman 对常态的系统性批判
+- [[BothaEtAl2024-神经多样性的集体起源]] — 对书中"Judy Singer 创造术语"叙事的学术修正
+- [[ChapmanFletcherWatson2025-神经多样性简论]] — Chapman & Fletcher-Watson 的更系统化学术介绍（2025）
+- [[Chapman2023-正常帝国]] — Chapman 对常态的系统性批判
 - [[双向同理心问题]] — Milton 2012 的概念，在 NeuroTribes 出版时尚未被充分整合
 - [[神经多样性与资本主义]] — Silberman 乐观的技术赋权叙事 vs 结构性批判
