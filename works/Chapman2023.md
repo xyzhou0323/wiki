@@ -1,5 +1,5 @@
 ---
-title: 正常帝国
+title: Chapman (2023) - 正常帝国
 description: Robert Chapman 著，从马克思主义视角追溯"正常"概念的建构史，论证病理学范式与资本主义的共生关系，提出神经殊异马克思主义作为解放路径
 aliases: [正常帝国-Empire-of-Normality, Empire of Normality, 正常帝国: 神经多样性与资本主义, Empire of Normality: Neurodiversity and Capitalism]
 tags: [work, neurodiversity, foundational, political, capitalism]
@@ -9,7 +9,7 @@ updated: 2026-05-09
 citation_apa: "Chapman, R. (2023). Empire of normality: Neurodiversity and capitalism. Pluto Press."
 ---
 
-# 正常帝国（Empire of Normality）
+# Chapman (2023) — 正常帝国
 
 引用：Chapman, R. (2023). Empire of normality: Neurodiversity and capitalism. Pluto Press.
 

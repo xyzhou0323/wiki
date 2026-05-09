@@ -1,5 +1,5 @@
 ---
-title: Dwyer (2022) 神经多样性方法群
+title: Dwyer (2022) - 神经多样性方法群
 description: Patrick Dwyer 发表于 Human Development 的理论论文——首次系统梳理"神经多样性方法群"（非单数）的内涵、与强社会模型的争论、适用范围争议，并基于互动主义/生态残障观为发展研究者提供实践建议
 aliases: [Dwyer 2022, 神经多样性方法群, The Neurodiversity Approach(es), Dwyer2022]
 tags: [work, neurodiversity, disability, foundational, methodology]
@@ -10,7 +10,7 @@ updated: 2026-05-07
 citation_apa: "Dwyer, P. (2022). The neurodiversity approach(es): What are they and what do they mean for researchers? Human Development, 66(2), 73-92. https://doi.org/10.1159/000523723"
 ---
 
-# Dwyer (2022) 神经多样性方法群
+# Dwyer (2022) — 神经多样性方法群
 
 引用：Dwyer, P. (2022). The neurodiversity approach(es): What are they and what do they mean for researchers? Human Development, 66(2), 73-92. https://doi.org/10.1159/000523723
 

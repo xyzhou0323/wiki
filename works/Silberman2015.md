@@ -1,5 +1,5 @@
 ---
-title: NeuroTribes-神经部落
+title: Silberman (2015) - 神经部落
 description: Steve Silberman (2015) 的里程碑著作——孤独谱系与神经多样性的全面历史，从18世纪前诊断时代到21世纪神经多样性运动，深刻塑造了公众对神经多样性的理解
 aliases: [NeuroTribes-神经部落, NeuroTribes, 神经部落, NeuroTribes: The Legacy of Autism and the Future of Neurodiversity]
 tags: [work, neurodiversity, autism, historical, foundational]
@@ -9,7 +9,7 @@ updated: 2026-05-07
 citation_apa: "Silberman, S. (2015). NeuroTribes: The legacy of autism and the future of neurodiversity. Avery/Penguin Random House."
 ---
 
-# NeuroTribes：孤独谱系的遗产与神经多样性的未来
+# Silberman (2015) — 神经部落
 
 引用：Silberman, S. (2015). NeuroTribes: The legacy of autism and the future of neurodiversity. Avery/Penguin Random House.
 

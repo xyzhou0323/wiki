@@ -1,5 +1,5 @@
 ---
-title: 神经多样性 2.0（Srinivasan 2025）
+title: Srinivasan (2025) - 神经多样性 2.0
 description: Hari Srinivasan 发表于 Research in Autism 的框架论文——整合残障研究、社会正义与政策的跨学科洞见，提出"神经多样性 2.0"框架，反对社会 vs 医学、自主 vs 依赖、优势 vs 缺陷的虚假二元，倡导从被动便利措施转向主动系统设计
 aliases: [Srinivasan 2025, Neurodiversity 2.0, ND 2.0]
 tags: [work, neurodiversity, disability, foundational, framework]
@@ -9,7 +9,7 @@ updated: 2026-05-08
 citation_apa: "Srinivasan, H. (2025). Neurodiversity 2.0: Harnessing cross-disciplinary disability insights. Research in Autism, 127, Article 202652. https://doi.org/10.1016/j.reia.2025.202652"
 ---
 
-# 神经多样性 2.0（Srinivasan 2025）
+# Srinivasan (2025) — 神经多样性 2.0
 
 引用：Srinivasan, H. (2025). Neurodiversity 2.0: Harnessing cross-disciplinary disability insights. Research in Autism, 127, Article 202652. https://doi.org/10.1016/j.reia.2025.202652
 

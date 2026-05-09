@@ -1,5 +1,5 @@
 ---
-title: 神经多样性基本术语与定义（Walker 2014）
+title: Walker (2014) - 神经多样性基本术语与定义
 description: Nick Walker 的奠基性术语定义——神经多样性、神经多样性范式、神经多样性运动、神经殊异、神经典型等核心概念的权威界定
 aliases: [Walker 2014, Neurodiversity: Some Basic Terms & Definitions, 神经多样性术语定义]
 tags: [work, neurodiversity, foundational]
@@ -9,7 +9,7 @@ updated: 2026-05-07
 citation_apa: "Walker, N. (2014). Neurodiversity: Some basic terms & definitions. Neurocosmopolitanism. https://neuroqueer.com/neurodiversity-terms-and-definitions/"
 ---
 
-# 神经多样性基本术语与定义（Walker 2014）
+# Walker (2014) — 神经多样性基本术语与定义
 
 引用：Walker, N. (2014). Neurodiversity: Some basic terms & definitions. Neurocosmopolitanism. https://neuroqueer.com/neurodiversity-terms-and-definitions/
 

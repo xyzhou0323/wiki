@@ -1,5 +1,5 @@
 ---
-title: 学者、行动者还是倡导者？——关于孤独谱系知识生产的批判性反思（Botha 2021）
+title: Botha (2021) - 学者、行动者还是倡导者？关于孤独谱系知识生产的批判性反思
 description: Monique Botha 的自传式民族志——作为孤独谱系研究者在学术界的经历，揭示实证主义"客观性"如何庇护非人化研究并边缘化孤独谱系者的专业见解
 aliases: [Botha 2021, Academic Activist or Advocate, 孤独谱系知识生产批判]
 tags: [work, neurodiversity, autism, critique, methodology]
@@ -10,7 +10,7 @@ updated: 2026-05-08
 citation_apa: "Botha, M. (2021). Academic, activist, or advocate? Angry, entangled, and emerging: A critical reflection on autism knowledge production. Frontiers in Psychology, 12, Article 727542. https://doi.org/10.3389/fpsyg.2021.727542"
 ---
 
-# 学者、行动者还是倡导者？——关于孤独谱系知识生产的批判性反思（Botha 2021）
+# Botha (2021) — 学者、行动者还是倡导者？关于孤独谱系知识生产的批判性反思
 
 引用：Botha, M. (2021). Academic, activist, or advocate? Angry, entangled, and emerging: A critical reflection on autism knowledge production. Frontiers in Psychology, 12, Article 727542. https://doi.org/10.3389/fpsyg.2021.727542
 

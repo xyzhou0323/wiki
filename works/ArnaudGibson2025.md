@@ -1,5 +1,5 @@
 ---
-title: Arnaud & Gibson (2025) — 神经多样性、身份与实体抽象
+title: Arnaud & Gibson (2025) - 神经多样性、身份与实体抽象
 description: Arnaud 与 Gibson 提出 ND 运动的核心诉求（去病理化）应理解为拒绝"实体抽象原则"（HAP）——将孤独谱系从"一个人拥有的可剥离之物"重新概念化为"一个人之所是"；区分孤独谱系身份的两个层次（前反思体验结构与政治/社会认同），并论证由此观之，四类批评均未触及运动实质
 aliases: [ArnaudGibson2025, 神经多样性与实体抽象, Neurodiversity identity and hypostatic abstraction]
 tags: [work, neurodiversity, autism, foundational, methodology]
@@ -9,12 +9,9 @@ updated: 2026-05-09
 citation_apa: "Arnaud, S., & Gibson, Q. H. (2025). Neurodiversity, identity, and hypostatic abstraction. Philosophical Studies, 182, 1157-1178."
 ---
 
-# Arnaud & Gibson (2025)
+# Arnaud & Gibson (2025) — 神经多样性、身份与实体抽象
 
 引用：Arnaud, S., & Gibson, Q. H. (2025). Neurodiversity, identity, and hypostatic abstraction. Philosophical Studies, 182, 1157-1178.
-
-
-**完整引用**：Arnaud, S., & Gibson, Q. H. (2025). Neurodiversity, identity, and hypostatic abstraction. *Philosophical Studies*, 182, 1157–1178.
 
 ## 核心论点
 

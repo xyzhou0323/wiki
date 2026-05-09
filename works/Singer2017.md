@@ -1,5 +1,5 @@
 ---
-title: Singer2017-神经多样性的诞生
+title: Singer (2017) - 神经多样性的诞生
 description: Judy Singer (2017) 自出版的 Honours 论文扩写——自称"神经多样性"一词的创造者，记录了1990年代孤独谱系在线社区与神经多样性概念的浮现过程
 aliases: [NeuroDiversity: The Birth of an Idea, Singer 2017]
 tags: [work, neurodiversity, autism, historical]
@@ -9,7 +9,7 @@ updated: 2026-05-07
 citation_apa: "Singer, J. (2017). NeuroDiversity: The birth of an idea. Self-published."
 ---
 
-# 神经多样性：一个概念的诞生
+# Singer (2017) — 神经多样性的诞生
 
 引用：Singer, J. (2017). NeuroDiversity: The birth of an idea. Self-published.
 

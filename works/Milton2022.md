@@ -1,5 +1,5 @@
 ---
-title: "双向同理心问题：十年回顾（Milton 等, 2022）"
+title: Milton et al. (2022) - 双向同理心问题：十年回顾
 description: Damian Milton、Emine Gurbuz 和 Beatriz López 在 Autism 期刊发表的十年回顾，总结了双向同理心问题概念提出十年来的研究证据与未来方向
 aliases: [The double empathy problem: Ten years on, Milton 2022, DEP十年回顾]
 tags: [work, neurodiversity, autism, foundational]
@@ -10,7 +10,7 @@ updated: 2026-05-07
 citation_apa: "Milton, D., Gurbuz, E., & Lopez, B. (2022). The double empathy problem: Ten years on. Autism, 26(8), 1901-1903. https://doi.org/10.1177/13623613221129123"
 ---
 
-# 双向同理心问题：十年回顾（Milton 等, 2022）
+# Milton et al. (2022) — 双向同理心问题：十年回顾
 
 引用：Milton, D., Gurbuz, E., & Lopez, B. (2022). The double empathy problem: Ten years on. Autism, 26(8), 1901-1903. https://doi.org/10.1177/13623613221129123
 
