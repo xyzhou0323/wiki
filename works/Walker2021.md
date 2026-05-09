@@ -6,9 +6,13 @@ tags: [work, neurodiversity, autism, foundational]
 sources: [2026-05-07/神经酷儿-Neuroqueer Heresies (Nick Walker).epub]
 created: 2026-05-07
 updated: 2026-05-07
+citation_apa: "Walker, N. (2021). Neuroqueer heresies: Notes on the neurodiversity paradigm, autistic empowerment, and postnormal possibilities. Autonomous Press."
 ---
 
 # 神经酷儿异端：神经多样性范式、孤独谱系赋权与后常态可能性的笔记
+
+引用：Walker, N. (2021). Neuroqueer heresies: Notes on the neurodiversity paradigm, autistic empowerment, and postnormal possibilities. Autonomous Press.
+
 
 **作者**：[[Nick-Walker]]（California Institute of Integral Studies）
 **发表**：2021 年，Autonomous Press

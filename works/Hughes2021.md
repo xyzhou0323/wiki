@@ -7,9 +7,13 @@ sources: [2026-05-07/Hughes - 2021 - Does the heterogeneity of autism undermine 
 doi: 10.1111/bioe.12780
 created: 2026-05-07
 updated: 2026-05-07
+citation_apa: "Hughes, J. A. (2021). Does the heterogeneity of autism undermine the neurodiversity paradigm? Bioethics, 35(1), 47-60. https://doi.org/10.1111/bioe.12780"
 ---
 
 # 孤独谱系的异质性是否削弱了神经多样性范式？
+
+引用：Hughes, J. A. (2021). Does the heterogeneity of autism undermine the neurodiversity paradigm? Bioethics, 35(1), 47-60. https://doi.org/10.1111/bioe.12780
+
 
 **作者**：Jonathan A. Hughes（基尔大学法学院）
 **发表**：*Bioethics* (2021), 35:47–60

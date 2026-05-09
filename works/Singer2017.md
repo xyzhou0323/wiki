@@ -6,9 +6,13 @@ tags: [work, neurodiversity, autism, historical]
 sources: [2026-05-07/NeuroDiversity The Birth of an Idea (Judy Singer) (z-library.sk, 1lib.sk, z-lib.sk).pdf]
 created: 2026-05-07
 updated: 2026-05-07
+citation_apa: "Singer, J. (2017). NeuroDiversity: The birth of an idea. Self-published."
 ---
 
 # 神经多样性：一个概念的诞生
+
+引用：Singer, J. (2017). NeuroDiversity: The birth of an idea. Self-published.
+
 
 **作者**：[[Judy-Singer]]（澳大利亚社会学者）
 **发表**：2017 年（自出版），基于 1997-98 年 Honours 论文

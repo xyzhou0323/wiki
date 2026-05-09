@@ -6,9 +6,13 @@ tags: [work, neurodiversity, foundational]
 sources: [2026-05-07/神经多样性-Neurodiversity A Very Short Introduction (Robert Chapman, Sue Fletcher-Watson)机翻DeepSeek.epub]
 created: 2026-05-07
 updated: 2026-05-07
+citation_apa: "Chapman, R., & Fletcher-Watson, S. (2025). Neurodiversity: A very short introduction. Oxford University Press."
 ---
 
 # 神经多样性简论（Neurodiversity: A Very Short Introduction）
+
+引用：Chapman, R., & Fletcher-Watson, S. (2025). Neurodiversity: A very short introduction. Oxford University Press.
+
 
 **作者**：[[Robert-Chapman]] 和 [[Sue-Fletcher-Watson]]
 **系列**：Oxford Very Short Introduction（第 773 卷）

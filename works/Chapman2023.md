@@ -6,9 +6,13 @@ tags: [work, neurodiversity, foundational, political, capitalism]
 sources: [books/正常帝国-Empire of Normality (Robert Chapman).epub]
 created: 2026-05-07
 updated: 2026-05-09
+citation_apa: "Chapman, R. (2023). Empire of normality: Neurodiversity and capitalism. Pluto Press."
 ---
 
 # 正常帝国（Empire of Normality）
+
+引用：Chapman, R. (2023). Empire of normality: Neurodiversity and capitalism. Pluto Press.
+
 
 **完整标题**：Empire of Normality: Neurodiversity and Capitalism
 **作者**：[[Robert-Chapman]]

@@ -6,9 +6,13 @@ tags: [work, neurodiversity, foundational]
 sources: [2026-05-07/Walker-2014-神经多样性基本术语与定义.md]
 created: 2026-05-07
 updated: 2026-05-07
+citation_apa: "Walker, N. (2014). Neurodiversity: Some basic terms & definitions. Neurocosmopolitanism. https://neuroqueer.com/neurodiversity-terms-and-definitions/"
 ---
 
 # 神经多样性基本术语与定义（Walker 2014）
+
+引用：Walker, N. (2014). Neurodiversity: Some basic terms & definitions. Neurocosmopolitanism. https://neuroqueer.com/neurodiversity-terms-and-definitions/
+
 
 **作者**：Nick Walker，加州整合大学（CIIS）心理学教授、孤独谱系酷儿学者
 **发表**：2014年，最初发布于 Neurocosmopolitanism 网站，现发布于 [Neuroqueer](https://neuroqueer.com/neurodiversity-terms-and-definitions/)

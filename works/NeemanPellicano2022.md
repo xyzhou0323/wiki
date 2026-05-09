@@ -7,9 +7,13 @@ sources: [2026-05-07/Ne'eman和Pellicano - 2022 - Neurodiversity as Politics.pdf
 doi: 10.1159/000524277
 created: 2026-05-07
 updated: 2026-05-07
+citation_apa: "Ne'eman, A., & Pellicano, E. (2022). Neurodiversity as politics. Human Development, 66(2), 149-157. https://doi.org/10.1159/000524277"
 ---
 
 # 神经多样性作为政治
+
+引用：Ne'eman, A., & Pellicano, E. (2022). Neurodiversity as politics. Human Development, 66(2), 149-157. https://doi.org/10.1159/000524277
+
 
 **作者**：Ari Ne'eman（哈佛大学健康政策博士项目）和 Elizabeth Pellicano（麦考瑞大学/伦敦大学学院）
 **发表**：*Human Development* (2022), 66:149–157

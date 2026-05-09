@@ -6,9 +6,13 @@ tags: [work, neurodiversity, political, capitalism]
 sources: [2026-05-07/后自由主义时代神经多样性政治.md]
 created: 2026-05-07
 updated: 2026-05-07
+citation_apa: "Chapman, R. (2026, April 21). Neurodiversity politics in a post-liberal era. Substack. https://substack.com/@neurodiversityandcapitalism/p-194900020"
 ---
 
 # 后自由主义时代的神经多样性政治
+
+引用：Chapman, R. (2026, April 21). Neurodiversity politics in a post-liberal era. Substack. https://substack.com/@neurodiversityandcapitalism/p-194900020
+
 
 **作者**：[[Robert-Chapman]]
 **发布**：2026-04-21，Substack（[@neurodiversityandcapitalism](https://substack.com/@neurodiversityandcapitalism)）

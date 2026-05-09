@@ -6,9 +6,13 @@ tags: [work, neurodiversity, autism, historical, foundational]
 sources: [2026-05-07/《神经部落》-Neurotribes The Legacy of Autism and the Future of Neurodiversity (Steve Silberman) (z-library.sk, 1lib.sk, z-lib.sk).epub]
 created: 2026-05-07
 updated: 2026-05-07
+citation_apa: "Silberman, S. (2015). NeuroTribes: The legacy of autism and the future of neurodiversity. Avery/Penguin Random House."
 ---
 
 # NeuroTribes：孤独谱系的遗产与神经多样性的未来
+
+引用：Silberman, S. (2015). NeuroTribes: The legacy of autism and the future of neurodiversity. Avery/Penguin Random House.
+
 
 **作者**：[[Steve-Silberman]]（Wired 杂志记者）
 **发表**：2015 年，Avery / Penguin Random House

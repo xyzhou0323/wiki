@@ -6,9 +6,13 @@ tags: [work, neurodiversity, autism, foundational, historical]
 sources: [2026-05-07/不要为我们悲哀 --- Don't Mourn For Us.md]
 created: 2026-05-07
 updated: 2026-05-07
+citation_apa: "Sinclair, J. (1993). Don't mourn for us. Our Voice, 1(3). Autism Network International. https://www.autreat.com/dont_mourn.html"
 ---
 
 # 不要为我们哀悼（Don't Mourn for Us）
+
+引用：Sinclair, J. (1993). Don't mourn for us. Our Voice, 1(3). Autism Network International. https://www.autreat.com/dont_mourn.html
+
 
 **作者**：[[Jim-Sinclair]]
 **发表**：1993 年，Autism Network International 通讯 *Our Voice* 第1卷第3期

@@ -7,9 +7,13 @@ sources: [2026-05-07/Mandy2025-如今孤独谱系究竟是什么.md]
 doi: 10.5281/zenodo.17989621
 created: 2026-05-07
 updated: 2026-05-07
+citation_apa: "Mandy, W. (2025). What is autism now? Proceedings of the Paris Institute for Advanced Study, 21. https://doi.org/10.5281/zenodo.17989621"
 ---
 
 # 如今，孤独谱系究竟是什么？（Mandy 2025）
+
+引用：Mandy, W. (2025). What is autism now? Proceedings of the Paris Institute for Advanced Study, 21. https://doi.org/10.5281/zenodo.17989621
+
 
 **作者**：Will Mandy
 **发表**：2025年，*Proceedings of the Paris Institute for Advanced Study*（Vol. 21）

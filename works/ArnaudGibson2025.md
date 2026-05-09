@@ -6,9 +6,13 @@ tags: [work, neurodiversity, autism, foundational, methodology]
 sources: [2026-05-09/Arnaud和Gibson - Neurodiversity, identity, and hypostatic abstraction.pdf]
 created: 2026-05-09
 updated: 2026-05-09
+citation_apa: "Arnaud, S., & Gibson, Q. H. (2025). Neurodiversity, identity, and hypostatic abstraction. Philosophical Studies, 182, 1157-1178."
 ---
 
 # Arnaud & Gibson (2025)
+
+引用：Arnaud, S., & Gibson, Q. H. (2025). Neurodiversity, identity, and hypostatic abstraction. Philosophical Studies, 182, 1157-1178.
+
 
 **完整引用**：Arnaud, S., & Gibson, Q. H. (2025). Neurodiversity, identity, and hypostatic abstraction. *Philosophical Studies*, 182, 1157–1178.
 

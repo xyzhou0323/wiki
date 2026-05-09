@@ -6,11 +6,15 @@ tags: [work, neurodiversity, foundational, critique, methodology]
 sources: [2026-05-09/0051276.pdf]
 created: 2026-05-09
 updated: 2026-05-09
+citation_apa: "Bertilsdotter Rosqvist, H., Chown, N., & Stenning, A. (Eds.). (2020). Neurodiversity studies: A new critical paradigm. Routledge."
 doi: 
 isbn: 978-0-367-33831-2
 ---
 
 # Rosqvist et al. (2020) — 神经多样性研究：一种新的批判范式
+
+引用：Bertilsdotter Rosqvist, H., Chown, N., & Stenning, A. (Eds.). (2020). Neurodiversity studies: A new critical paradigm. Routledge.
+
 
 **完整引用**：Bertilsdotter Rosqvist, H., Chown, N., & Stenning, A. (Eds.). (2020). _Neurodiversity Studies: A New Critical Paradigm_. Routledge. Routledge Advances in Sociology (Vol. 285).
 

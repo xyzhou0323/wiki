@@ -6,9 +6,13 @@ tags: [work, neurodiversity, adhd, autism, methodology]
 sources: [2026-05-09/SonugaBarke_Thapar_2021_Neurodiversity_concept_clinicians_scientists.pdf]
 created: 2026-05-09
 updated: 2026-05-09
+citation_apa: "Sonuga-Barke, E., & Thapar, A. (2021). The neurodiversity concept: Is it helpful for clinicians and scientists? The Lancet Psychiatry, 8(7), 559-561."
 ---
 
 # Sonuga-Barke & Thapar (2021)
+
+引用：Sonuga-Barke, E., & Thapar, A. (2021). The neurodiversity concept: Is it helpful for clinicians and scientists? The Lancet Psychiatry, 8(7), 559-561.
+
 
 **完整引用**：Sonuga-Barke, E., & Thapar, A. (2021). The neurodiversity concept: is it helpful for clinicians and scientists? *The Lancet Psychiatry*, 8(7), 559–561.
 

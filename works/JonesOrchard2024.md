@@ -7,9 +7,13 @@ sources: [2026-05-07/Jones和Orchard - 2024 - Neurodiversity and disability what
 doi: 10.1136/medhum-2023-012808
 created: 2026-05-07
 updated: 2026-05-07
+citation_apa: "Jones, E. K., & Orchard, V. (2024). Neurodiversity and disability: What is at stake? Medical Humanities, 50(3), 456-465. https://doi.org/10.1136/medhum-2023-012808"
 ---
 
 # 神经多样性与残障：关键何在？
+
+引用：Jones, E. K., & Orchard, V. (2024). Neurodiversity and disability: What is at stake? Medical Humanities, 50(3), 456-465. https://doi.org/10.1136/medhum-2023-012808
+
 
 **作者**：Eleanor K. Jones（南安普顿大学）和 Vivienne Orchard
 **发表**：*Medical Humanities* (2024), 50:456–465

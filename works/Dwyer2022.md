@@ -7,9 +7,13 @@ sources: [2026-05-07/Dwyer - 2022 - 神经多样性方法群 - 脑脑空间.pdf]
 doi: 10.1159/000523723
 created: 2026-05-07
 updated: 2026-05-07
+citation_apa: "Dwyer, P. (2022). The neurodiversity approach(es): What are they and what do they mean for researchers? Human Development, 66(2), 73-92. https://doi.org/10.1159/000523723"
 ---
 
 # Dwyer (2022) 神经多样性方法群
+
+引用：Dwyer, P. (2022). The neurodiversity approach(es): What are they and what do they mean for researchers? Human Development, 66(2), 73-92. https://doi.org/10.1159/000523723
+
 
 **作者**：[[Patrick-Dwyer|Patrick Dwyer]]（加州大学戴维斯分校，心智与大脑中心 & 心理学系）
 **期刊**：*Human Development*，第 66 卷，第 2 期，第 73–92 页

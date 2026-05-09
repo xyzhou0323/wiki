@@ -6,9 +6,13 @@ tags: [work, neurodiversity, autism, political, intersectionality, methodology]
 sources: [2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf]
 created: 2026-05-09
 updated: 2026-05-09
+citation_apa: "Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. Autism, 27(5), 1249-1253."
 ---
 
 # Cheng et al. (2023)
+
+引用：Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. Autism, 27(5), 1249-1253.
+
 
 **完整引用**：Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. *Autism*, 27(5), 1249–1253.
 

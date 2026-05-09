@@ -7,9 +7,13 @@ sources: [2026-05-07/Double empathy problem_dual_Kimi+DeepSeek.pdf]
 doi: 10.1080/09687599.2012.710008
 created: 2026-05-07
 updated: 2026-05-09
+citation_apa: "Milton, D. E. M. (2012). On the ontological status of autism: The 'double empathy problem'. Disability & Society, 27(6), 883-887. https://doi.org/10.1080/09687599.2012.710008"
 ---
 
 # 论孤独谱系的本体论地位——'双向同理心问题'（Milton, 2012）
+
+引用：Milton, D. E. M. (2012). On the ontological status of autism: The 'double empathy problem'. Disability & Society, 27(6), 883-887. https://doi.org/10.1080/09687599.2012.710008
+
 
 **作者**：Damian E M Milton（伯明翰大学）
 **发表**：*Disability & Society* (2012), Vol. 27(6), pp. 883–887
