@@ -13,7 +13,7 @@ updated: 2026-05-09
 
 ## 核心贡献
 
-- **神经多样性研究**：与 [[Hanna-Bertilsdotter-Rosqvist]] 和 [[Nick-Chown]] 共同主编 [[RosqvistEtAl2020-神经多样性研究]]（Routledge, 2020）——首部提出"神经多样性研究"作为新学术领域的编辑卷
+- **神经多样性研究**：与 [[Hanna-Bertilsdotter-Rosqvist]] 和 [[Nick-Chown]] 共同主编 [[RosqvistEtAl2020]]（Routledge, 2020）——首部提出"神经多样性研究"作为新学术领域的编辑卷
 - **孤独谱系生命书写与共情**：第 7 章（开放获取）——通过分析 Gunilla Gerland、Temple Grandin、Hannah Gadsby 等孤独谱系者的生命书写，论证孤独谱系者展现出对非人类动物、环境和社会的**特殊道德敏感性**，反驳"缺乏共情"的刻板印象
 - **神经殊异道德**：提出孤独谱系生命书写揭示了不同于 Baron-Cohen 共情理论框架的独特道德视角
 
@@ -26,6 +26,6 @@ updated: 2026-05-09
 
 ## Related
 
-- [[RosqvistEtAl2020-神经多样性研究]] — 主编的里程碑编辑卷（含第 7 章：开放获取）
+- [[RosqvistEtAl2020]] — 主编的里程碑编辑卷（含第 7 章：开放获取）
 - [[Hanna-Bertilsdotter-Rosqvist]]、[[Nick-Chown]] — 合作主编
 - [[00-知识地图]] — 知识地图入口

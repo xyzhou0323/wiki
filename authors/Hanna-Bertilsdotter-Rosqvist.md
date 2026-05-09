@@ -13,7 +13,7 @@ updated: 2026-05-09
 
 ## 核心贡献
 
-- **神经多样性研究**：与 [[Nick-Chown]] 和 [[Anna-Stenning]] 共同主编 [[RosqvistEtAl2020-神经多样性研究]]（Routledge, 2020）——首部提出"神经多样性研究"作为新学术领域的编辑卷
+- **神经多样性研究**：与 [[Nick-Chown]] 和 [[Anna-Stenning]] 共同主编 [[RosqvistEtAl2020]]（Routledge, 2020）——首部提出"神经多样性研究"作为新学术领域的编辑卷
 - **感官研究**：与 Jackson-Perry 等合写"感官陌生人"（Sensory Strangers）章节，提出以"cripistemology"（酷残认识论）为方法论框架探索孤独谱系感官体验
 - **孤独谱系写作空间**：领导关于孤独谱系学术写作过程的集体写作实验——flow writing 与孤独谱系认知风格的自然契合
 - **孤独谱系身份政治**：研究孤独谱系社群中的性别、年龄规范性
@@ -27,7 +27,7 @@ updated: 2026-05-09
 
 ## Related
 
-- [[RosqvistEtAl2020-神经多样性研究]] — 主编的里程碑编辑卷
+- [[RosqvistEtAl2020]] — 主编的里程碑编辑卷
 - [[Nick-Chown]]、[[Anna-Stenning]] — 合作主编
 - [[David-Jackson-Perry]] — 感官研究合作者
 - [[00-知识地图]] — 知识地图入口

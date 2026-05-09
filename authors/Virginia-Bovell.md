@@ -20,10 +20,10 @@ updated: 2026-05-09
 ## 代表作品
 
 - 博士论文：_Is the prevention and/or cure of autism a morally legitimate quest?_（University of Oxford, 2015）
-- [[RosqvistEtAl2020-神经多样性研究]] 第 3 章：《预防和/或治愈孤独谱系是否存在伦理理由？》
+- [[RosqvistEtAl2020]] 第 3 章：《预防和/或治愈孤独谱系是否存在伦理理由？》
 
 ## Related
 
-- [[RosqvistEtAl2020-神经多样性研究]]
+- [[RosqvistEtAl2020]]
 - [[去病理化]]
 - [[00-知识地图]]
