@@ -116,6 +116,6 @@ Chapman 承认生态模型的两项限制：
 - [[DussaultBouchard2017|Dussault & Bouchard (2017)]] — 生态功能分析的理论来源
 - [[Dwyer2022|Dwyer (2022)]] — 基于生态模型提出互动主义路径
 - [[Chapman2023|Chapman (2023)]] — 将生态模型的逻辑延伸至政治经济学分析
-- [[神经多样性的马克思主义]] — 马克思主义框架：生态模型作为其科学前提
+- [[神经殊异马克思主义]] — 马克思主义框架：生态模型作为其科学前提
 - [[Judy-Singer|Judy Singer]] — 原始论证来源（Blume 1998; Singer 2020）
 - [[Nick-Walker]] — 神经多样性范式术语框架
