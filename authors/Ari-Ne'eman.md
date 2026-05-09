@@ -27,4 +27,5 @@ ASAN 的基本原则：
 ## Related
 - [[神经多样性运动]] — Ne'eman 组织的政治行动
 - [[Steven-Kapp]] — 合作者，DSM-5 游说的共同记述者
+- [[Elizabeth-Pellicano]] — 合作者，[[NeemanPellicano2022|Ne'eman & Pellicano (2022)]]
 - [[神经多样性]] — ASAN 倡导的核心理念
