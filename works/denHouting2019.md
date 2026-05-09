@@ -97,3 +97,4 @@ den Houting 以"作为一位孤独谱系的孤独谱系研究者"的身份写作
 - [[庸俗版神经多样性]] — 本文首次将"neurodiversity lite"引入学术文献
 - [[去病理化]] — 本文"正常化 vs 福祉"区分是其核心操作
 - [[Shain-M-Neumeier]] — "neurodiversity lite"概念首创者
+- [[Robert-Chapman]] — 将 neurodiversity lite 系统发展为庸俗版神经多样性批判框架

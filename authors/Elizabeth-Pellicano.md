@@ -52,3 +52,4 @@ updated: 2026-05-09
 - [[PellicanodenHouting2022|Pellicano & den Houting (2022)]]
 - [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]]
 - [[Jacquiline-den-Houting|Jacquiline den Houting]]
+- [[Ari-Ne'eman|Ari Ne'eman]] — 合作发表神经多样性作为政治

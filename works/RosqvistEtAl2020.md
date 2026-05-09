@@ -88,6 +88,11 @@ isbn: 978-0-367-33831-2
 - [[Hanna-Bertilsdotter-Rosqvist]]、[[Nick-Chown]]、[[Anna-Stenning]] — 主编
 - [[Robert-Chapman]] — 第 4、14 章作者
 - [[Virginia-Bovell]]、[[Dieuwertje-Dyi-Huijg]]、[[Akiko-Hart]]、[[Mitzi-Waltz]]、[[Alyssa-Hillary]]、[[Alan-Jurgens]]、[[Ines-Hipolito]] — 章节贡献者
+- [[David-Jackson-Perry]] — 第 8 章合著者
+- [[Matthew-K-Belmonte]] — 第 11 章作者
+- [[Nicola-Martin]] — 第 9 章作者
+- [[单一聚焦]] — 第 5 章整合的核心理论
+- [[双向同理心问题]] — 第 5 章整合的核心理论
 - [[残障模型]] — 价值中立模型的系统引入
 - [[残障的社会模式]] — Chapman 对社会模型的内部批判
 - [[听声运动]] — Hart 提议的联盟

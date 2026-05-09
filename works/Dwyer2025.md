@@ -179,3 +179,5 @@ NDM 支持与以下立场相关：
 - [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — 本文引用的神经多样性多重内涵的理论来源
 - [[Hughes2021|Hughes (2021)]] — 本文直接回应了 Hughes 对强 SM 的批评
 - [[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]] — 常态范式/神经多样性范式的概念框架
+- [[Steven-Kapp]] — 共同第二作者
+- [[双向同理心问题]] — 适应技能教学与互动伙伴共同进行的理论依据

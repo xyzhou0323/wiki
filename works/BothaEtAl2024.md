@@ -75,9 +75,14 @@ citation_apa: "Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard As
 
 - [[神经多样性运动]] — 应据此修正的运动完整历史
 - [[神经多样性范式]] — 这一集体运动所发展的核心范式
+- [[神经殊异]] — Kassiane Asasuasu 创造的术语
+- [[Sinclair1993|Sinclair (1993)]] — Jim Sinclair 的奠基宣言
+- [[Jim-Sinclair]] — 运动奠基人
+- [[Harvey-Blume]] — 首位在印刷中使用术语的记者
 - [[Singer2017|Singer (2017)]] — Singer 在本书修正后自费出版的个人叙事，声称自己是术语创造者
 - [[Judy-Singer]] — 被修正叙事中的核心人物，最早学术使用者之一
-- [[Steven-Kapp]] — 合著者之一，[[Kapp2020|Kapp (2020)]] 主编
-- [[Nick-Walker]] — 合著者之一，[[Walker2021|Walker (2021)]] 作者
+- [[Silberman2015|Silberman (2015)]] — 传播 Singer 叙事的最具影响力作品
+- [[Steven-Kapp]] — 合著者之一，Kapp (2020) 主编
+- [[Nick-Walker]] — 合著者之一，Walker (2021) 作者
 - [[Robert-Chapman]] — 合著者之一
 - [[Chapman2023|Chapman (2023)]] — Chapman 对资本主义与神经规范性的系统分析

@@ -103,6 +103,7 @@ Cronlein, T., Langguth, B., Popp, R. et al. "Regensburg Insomnia Scale (RIS): a 
 
 ## Related
 
+- [[神经殊异]] — 睡眠问题高发的群体
+- [[神经多样性范式]] — 睡眠差异作为多因素互动结果
 - [[孤独谱系]] — 睡眠问题高发的神经殊异形式
 - [[ADHD]] — 昼夜节律差异与 ADHD 的关系
-- 述情障碍 — 可能加剧睡眠困难的共现特征

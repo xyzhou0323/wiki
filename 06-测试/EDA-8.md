@@ -67,3 +67,4 @@ O'Nions, Elizabeth, et al. "Extreme demand avoidance in children with autism spe
 
 - [[EDA-QA]] — 成人版要求回避问卷
 - [[孤独谱系]] — PDA 主要被描述于孤独谱系群体
+- [[神经多样性范式]] — 低要求、协作式教育方法的理论基础
