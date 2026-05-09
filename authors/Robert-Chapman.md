@@ -63,6 +63,7 @@ Chapman 的工作代表了神经多样性研究的范式转变——将讨论从
 - [[Chapman2023|Chapman (2023)]] — 代表作（正常帝国）
 - [[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]] — 合著
 - [[Chapman2026|Chapman (2026)]] — 后续论文
+- [[ArnaudGibson2025|Arnaud & Gibson (2025)]] — 大量引用 Chapman 的论述，将其"神经多样性作为政治身份"的论点纳入 HAP 框架
 - [[神经规范性]] — 核心理论概念
 - [[病理学范式]] — 核心批判对象
 - [[神经多样性与资本主义]] — 理论整合

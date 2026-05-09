@@ -90,4 +90,5 @@ updated: 2026-05-09
 - [[残障的社会模式]] — 本文"情境至关重要"论证的理论背景
 - [[孤独谱系]] — 本文讨论的核心对象
 - [[Elizabeth-Pellicano|Elizabeth Pellicano]]
+- [[denHouting2019|den Houting (2019)]] — 本文方法论立场的早期版本：内部人视角与三大误解澄清
 - [[Jacquiline-den-Houting|Jacquiline den Houting]]

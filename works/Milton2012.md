@@ -6,7 +6,7 @@ tags: [work, neurodiversity, autism, foundational, critique]
 sources: [2026-05-07/Double empathy problem_dual_Kimi+DeepSeek.pdf]
 doi: 10.1080/09687599.2012.710008
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-09
 ---
 
 # 论孤独谱系的本体论地位——'双向同理心问题'（Milton, 2012）
@@ -122,3 +122,4 @@ Milton 在论文中综合了以下理论资源：
 - [[神经多样性范式]] — DEP 所处的理论框架
 - [[神经多样性教育]] — DEP 的实践应用
 - [[神经多样性与民主研究]] — DEP 对研究民主化的推动
+- [[SzechyEtAl2024|Szechy et al. (2024)]] — 职场情境中 DEP 的首项实证检验，直接否定 ToM 缺陷假说
