@@ -1,8 +1,10 @@
 ---
 title: Harvey Blume
 aliases: [Harvey Blume]
-tags: [person, author, journalist]
+tags: [author, neurodiversity, autism, historical]
+sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf]
 created: 2026-05-08
+updated: 2026-05-09
 ---
 
 # Harvey Blume
@@ -15,3 +17,4 @@ Blume 通过 InLv（Independent Living Listserv）接触到孤独谱系在线社
 - [[Judy-Singer]] — InLv 中结识，共同参与早期神经多样性概念讨论
 - [[神经多样性运动]] — Blume 报道的在线社群运动
 - [[神经多样性]] — Blume 首次在印刷媒体中使用的术语
+- [[StenningRosqvist2021|Stenning & Rosqvist (2021)]] — 将 Blume 定位为第一/二取向（生物多样性类比 + 功利性）代表
