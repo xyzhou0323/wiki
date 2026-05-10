@@ -87,7 +87,7 @@ citation_apa: "Pellicano, E., & den Houting, J. (2022). Annual Research Review: 
 ## Related
 
 - [[神经多样性范式]] — 本文论证的核心目标范式
-- [[Dwyer-2022-神经多样性方法|Dwyer (2022)]] — 同期发表的神经多样性方法群框架，本文为其补充了范式转型的宏观论证
+- [[Dwyer2022|Dwyer (2022)]] — 同期发表的神经多样性方法群框架，本文为其补充了范式转型的宏观论证
 - [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — 同一作者同年的相关政治分析
 - [[Milton2022|Milton (2022)]] — 本文以双重共情问题为核心理论支撑
 - [[去病理化]] — 本文"多样性非缺陷"框架的直接应用

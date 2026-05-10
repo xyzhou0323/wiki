@@ -47,7 +47,7 @@ Pripas-Kapit（2020，第2章）对 Sinclair 的历史分析指出，在 Sinclai
 - **Temple Grandin** *Emergence: Labeled Autistic*（1986）：以"康复"（recovery/emergence from autism）为核心叙事框架，由 Bernard Rimland 作序"证明"其孤独谱系身份。将孤独谱系描述为类似悲剧的"陷入深渊"
 - **Donna Williams** *Nobody, Nowhere*（1991）：虽展示了孤独谱系行为的个人意义和功能性，但整体叙事仍视孤独谱系为"被困"状态。戏剧性地将家庭关系的破裂归咎于自身的孤独谱系差异
 
-Sinclair 的激进性在于：**拒绝以"向家长解释自闭症"为唯一叙事框架**——xyr 向家长提出了直接的道德-政治要求：停止哀悼，开始接纳。
+Sinclair 的激进性在于：**拒绝以"向家长解释孤独谱系"为唯一叙事框架**——xyr 向家长提出了直接的道德-政治要求：停止哀悼，开始接纳。
 
 ### Autreat
 

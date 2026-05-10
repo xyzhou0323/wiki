@@ -1,5 +1,5 @@
 ---
-title: Dwyer et al. (2025) - 社区对神经多样性、残障模式与孤独症干预的看法
+title: Dwyer et al. (2025) - 社区对神经多样性、残障模式与孤独谱系干预的看法
 description: Patrick Dwyer、Steven Kapp、Kristen Gillespie-Lynch 等发表于 Autism 期刊的混合方法研究——504 名社群成员实证调查，揭示"强"社会模型修辞与实际干预态度之间的系统性差异，以及孤独谱系与非孤独谱系 NDM 支持者的关键张力
 aliases: [Dwyer2025-社区看法, Dwyer et al. 2025, Community views of neurodiversity]
 tags: [work, neurodiversity, disability, autism, methodology, empirical]
@@ -10,7 +10,7 @@ updated: 2026-05-08
 citation_apa: "Dwyer, P., Gurba, A. N., Kapp, S. K., Kilgallon, E., Hersh, L. H., Chang, D. S., Rivera, S. M., & Gillespie-Lynch, K. (2025). Community views of neurodiversity, models of disability and autism intervention: Mixed methods reveal mixed views. Autism, 29(9), 2297-2314. https://doi.org/10.1177/13623613241273029"
 ---
 
-# Dwyer et al. (2025) — 社区对神经多样性、残障模式与孤独症干预的看法
+# Dwyer et al. (2025) — 社区对神经多样性、残障模式与孤独谱系干预的看法
 
 引用：Dwyer, P., Gurba, A. N., Kapp, S. K., Kilgallon, E., Hersh, L. H., Chang, D. S., Rivera, S. M., & Gillespie-Lynch, K. (2025). Community views of neurodiversity, models of disability and autism intervention: Mixed methods reveal mixed views. Autism, 29(9), 2297-2314. https://doi.org/10.1177/13623613241273029
 
@@ -42,7 +42,7 @@ citation_apa: "Dwyer, P., Gurba, A. N., Kapp, S. K., Kilgallon, E., Hersh, L. H.
 |------|------|
 | **NDM 支持/认同量表** | 改编自 Nario-Redmond 等 (2013)，5 条目 7 点李克特量表 |
 | **残障模型支持** | SM 和 MM 各单项评分 + 开放式定义 |
-| **AIAS-G**（孤独症干预态度量表） | 35 条目，经 Hersh 等 (2024) 探索性图分析确定为 **5 个子量表**：正常化（9 项）、适应技能（8 项）、幸福感（6 项）、社会改革（5 项）、支持性环境（5 项） |
+| **AIAS-G**（孤独谱系干预态度量表） | 35 条目，经 Hersh 等 (2024) 探索性图分析确定为 **5 个子量表**：正常化（9 项）、适应技能（8 项）、幸福感（6 项）、社会改革（5 项）、支持性环境（5 项） |
 | **开放式问题** | 定义神经多样性、NDM、SM、MM；比较各模型间的相似性与差异 |
 
 ### 三个核心假设

@@ -65,7 +65,7 @@ citation_apa: "Nair, V. K. K., Farah, W., & Boveda, M. (2024). Is neurodiversity
 
 ## DisCrit 连接
 
-论文呼吁 ND 和 CAS 学者与**残障批判种族研究**（DisCrit: Disability Critical Race Studies, [[Annamma et al. 2013|AnnammaEtAl2013]]）建立关键联系：
+论文呼吁 ND 和 CAS 学者与**残障批判种族研究**（DisCrit: Disability Critical Race Studies, [[AnnammaEtAl2013|Annamma et al. 2013]]）建立关键联系：
 
 - DisCrit 学者将残障与种族视为**相互强化**而非排斥的意识形态范畴
 - 拒绝将残障（特别是语言和认知残障类别）视为生物学或医学问题

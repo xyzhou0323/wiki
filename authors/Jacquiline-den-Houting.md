@@ -56,4 +56,4 @@ updated: 2026-05-09
 - [[Elizabeth-Pellicano|Elizabeth Pellicano]]
 - [[Steven-Kapp|Steven Kapp]] — 合作者
 - [[Sue-Fletcher-Watson|Sue Fletcher-Watson]] — 合作者
-- [[Dwyer-2022-神经多样性方法|Dwyer (2022)]] — 同期的神经多样性方法群框架
+- [[Dwyer2022|Dwyer (2022)]] — 同期的神经多样性方法群框架
