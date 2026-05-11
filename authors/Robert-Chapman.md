@@ -12,7 +12,7 @@ updated: 2026-05-11
 
 Robert Chapman（罗伯特·查普曼）是神经多样性研究领域的核心学者，以将马克思主义分析与神经多样性运动结合而闻名。他是[[神经殊异马克思主义]]（Neurodivergent Marxism）的提出者，现任教于英国杜伦大学（Durham University）。
 
-## 主要著作
+## 本wiki已引用著作
 
 - **[[Chapman2023|Chapman (2023)]]**（Empire of Normality: Neurodiversity and Capitalism）：从马克思主义视角追溯"正常"概念从古希腊到当代的建构史，论证病理学范式与资本主义的共生关系。将 **Francis Galton**（而非通常认为的 Kraepelin）定位为病理学范式的真正奠基人，并提出"正常性帝国"（Empire of Normality）概念——由资本主义体系催生的物质关系、科学范式、官僚机制和行政程序共同构成的压迫性装置
 - **[[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]]**（Neurodiversity: A Very Short Introduction，与 Sue Fletcher-Watson 合著）：系统介绍神经多样性范式，提出"肯定复杂性"和"将神经规范性政治化"两条核心原则
