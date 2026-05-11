@@ -1,0 +1,144 @@
+---
+title: AQ
+description: 孤独谱系商数（AQ）——Baron-Cohen 等人于2001年开发的50题成人及16岁以上孤独谱系特征自填筛查工具，涵盖五个子维度
+aliases: [Autism Spectrum Quotient, 孤独谱系商数, 孤独谱系商数问卷, AQ量表]
+tags: [test, autism, neurodiversity]
+sources: [Baron-Cohen et al. 2001, Ruzich et al. 2015, Jacobson & Truax 1991, Baker et al. 2024]
+created: 2026-05-11
+updated: 2026-05-11
+---
+
+# AQ
+
+**孤独谱系商数**（Autism Spectrum Quotient，AQ）是由 Simon Baron-Cohen 等人于2001年开发的 50 题自填式筛查问卷，用于量化成人及 16 岁以上个体与[[孤独谱系]]相关的特征程度。AQ 是应用最广泛的孤独谱系特质自评量表之一，能有效捕捉类孤独谱系特质水平，有助于区分孤独谱系个体与非孤独谱系个体，但最佳划界分尚未达成共识（Baron-Cohen et al., 2001; Broadbent et al., 2013; Woodbury-Smith et al., 2005）。
+
+> 短版 AQ10（10题）已整合入 [[AQ-EQ-SQ10]] 联合量表中。
+
+## 测试结构
+
+- **50题**，约15-20分钟完成
+- 五个子维度，各10题：
+  - **社交技能**（Social Skill）：题号 1, 11, 13, 15, 22, 36, 44, 45, 47, 48
+  - **注意转换**（Attention Switching）：题号 2, 4, 10, 16, 25, 32, 34, 37, 43, 46
+  - **细节关注**（Attention to Detail）：题号 5, 6, 9, 12, 19, 23, 28, 29, 30, 49
+  - **沟通**（Communication）：题号 7, 17, 18, 26, 27, 31, 33, 35, 38, 39
+  - **想象力**（Imagination）：题号 3, 8, 14, 20, 21, 24, 40, 41, 42, 50
+- 四级 Likert 评分：**非常同意** / **有点同意** / **有点不同意** / **非常不同意**
+- **二分计分**：每题在"孤独谱系方向"上回答得 1 分（不区分轻微/强烈），总分范围 0-50
+
+### 计分规则
+
+每题若在孤独谱系方向上回答则计 1 分：
+
+- **"同意"计 1 分**的题号：1, 2, 4, 5, 6, 7, 9, 12, 13, 16, 18, 19, 20, 21, 22, 23, 26, 33, 35, 39, 41, 42, 43, 45, 46
+- **"不同意"计 1 分**的题号：3, 8, 10, 11, 14, 15, 17, 24, 25, 27, 28, 29, 30, 31, 32, 34, 36, 37, 38, 40, 44, 47, 48, 49, 50
+
+## 结果解读
+
+总分越高，表明整体[[孤独谱系]]特质水平越高。子量表评分越高，则表明与该子维度相关的特定特质水平越高。
+
+### 子维度解读
+
+**社交技能**（题号 1, 11, 13, 15, 22, 36, 44, 45, 47, 48）：反映在社交场合中的自信心和从容程度，包括对社交活动的偏好以及对社交互动的舒适感。
+
+**注意转换**（题号 2, 4, 10, 16, 25, 32, 34, 37, 43, 46）：反映在不同任务或活动之间切换焦点的能力，以及对常规变化或意外事件的适应能力。
+
+**细节关注**（题号 5, 6, 9, 12, 19, 23, 28, 29, 30, 49）：涉及对环境中的细节和模式的高度关注，通常会因此忽略整体大局。
+
+**沟通**（题号 7, 17, 18, 26, 27, 31, 33, 35, 38, 39）：反映进行双向互动沟通、理解对话线索以及解读社交语言细微差别的能力。
+
+**想象力**（题号 3, 8, 14, 20, 21, 24, 40, 41, 42, 50）：侧重于想象性思维，例如假装游戏的能力、假设性思维，以及对虚构作品或创意场景的喜爱。
+
+### 百分位解读
+
+来访者的总分和各子量表得分以**性别特定百分位数**呈现，基于普通人群成年人的常模数据（Baron-Cohen et al., 2001; Ruzich et al., 2015）。百分位数将来访者得分与普通人群成年人的典型得分进行对比：
+
+- **第 50 百分位**：代表普通人群成年人中孤独谱系特质的典型水平
+- **第 90 百分位**：处于普通人群成年人中前 10% 的水平；此范围得分更接近成年孤独谱系个体，而非普通人群
+
+对于 AQ 总分，13% 的男性和 4% 的女性得分处于分别与孤独谱系男性和女性典型得分相符的范围。
+
+### 结果分类
+
+分数分为两类，采用加权中点法计算阈值（Jacobson & Truax, 1991）：
+
+#### "与孤独谱系一致"（Consistent with Autism）
+
+得分与成年孤独谱系个体的得分比与普通人群成年人的得分更接近。阈值为孤独谱系样本与非临床/社区样本得分分布之间的**加权中点**。
+
+#### "显著"（Pronounced）
+
+得分处于孤独谱系分布的上半部分（≥ 孤独谱系成人第 50 百分位），反映较高水平的孤独谱系特征。
+
+> **例外——细节关注**：由于孤独谱系样本与社区样本在此子量表上的分数分布存在显著重叠，"显著"阈值采用孤独谱系样本内的第 **90** 百分位（而非第 50 百分位）。
+
+#### 总分分类阈值
+
+| 分类                              | 男性   | 女性   | 综合   |
+| ------------------------------- | ---- | ---- | ---- |
+| 与孤独谱系一致（Consistent with Autism） | ≥ 26 | ≥ 27 | ≥ 26 |
+| 显著（Pronounced）                  | ≥ 37 | ≥ 39 | ≥ 36 |
+
+### 性别差异注意事项
+
+包括 AQ 在内的许多孤独谱系障碍评估工具主要针对孤独谱系障碍的男性特征开发，因此对女性和非二元性别孤独谱系障碍的敏感性可能较低。当女性或非二元性别受访者的 AQ 总分略低于"与孤独谱系一致"阈值（例如 23-26 分）时，应谨慎解释，并结合其他信息来源进行综合评估。
+
+### 平均分参考（Ruzich et al., 2015; Baron-Cohen et al., 2001）
+
+| 维度 | 社区全体 | 社区男性 | 社区女性 | 孤独谱系全体 | 孤独谱系男性 | 孤独谱系女性 |
+|------|----------|----------|----------|-------------|-------------|-------------|
+| 总分 AQ | 16.94 (6.94) | 17.89 (7.31) | 14.88 (7.14) | 35.19 (7.72) | 36.40 (8.45) | 38.87 (7.01) |
+| 社交技能 | 2.6 (2.3) | 2.8 (2.5) | 2.3 (2.2) | 7.5 (1.9) | 7.4 (2.0) | 7.9 (1.4) |
+| 注意转换 | 3.9 (1.9) | 4.3 (1.9) | 3.6 (1.8) | 8.0 (1.8) | 7.7 (1.9) | 8.9 (1.0) |
+| 细节关注 | 5.3 (2.3) | 5.2 (2.3) | 5.4 (2.3) | 6.7 (2.3) | 6.6 (2.3) | 6.9 (2.1) |
+| 沟通 | 2.4 (1.9) | 2.8 (2.0) | 2.1 (1.8) | 7.2 (2.0) | 7.2 (2.0) | 7.3 (2.1) |
+| 想象力 | 2.3 (1.7) | 2.7 (1.9) | 1.9 (1.5) | 6.4 (2.1) | 6.2 (2.2) | 7.0 (1.5) |
+
+Ruzich et al. (2015) 对 6,934 名社区样本的系统综述与 Baron-Cohen et al. (2001) 的 58 名孤独谱系成人样本对比。
+
+### 结果解读注意事项
+
+虽然 AQ 为孤独谱系特质提供了宝贵的见解并可作为综合评估的一部分，但得分也可能反映孤独谱系障碍以外的现象或与其共同发生的情况（如焦虑、抑郁、ADHD 等）。重要的是要在个体的**发育史**和其他个人特征的背景下解读结果。
+
+## 心理测量特性
+
+- **重测信度**：良好
+- **内部一致性**：中等至高
+- **灵敏度/特异度（阈值 32）**：80% 的 AS/HFA 个体得分 ≥ 32，仅 2% 非临床对照组
+- **已知局限**：2017 年 Rasch 验证研究（Lundqvist & Lindner）指出部分题目（9, 21, 29, 30, 49）对孤独谱系特征的代表性不足；原始五因子结构在不同样本中的可重复性存在争议，后续研究发现了二因子、三因子或四因子替代结构
+
+## 在神经多样性范式中的位置
+
+AQ 是最早将孤独谱系特征视为**连续分布**而非二元分类的工具之一——这一思路与[[神经多样性范式]]中"谱系是人类神经多样性的一部分"的立场有所交集。
+然而，AQ 的开发基于 Baron-Cohen 的"极端男性大脑"理论框架，该理论将孤独谱系认知风格本质化为性别化的缺陷模型，在[[神经多样性]]社群中面临[[双向同理心问题]]和性别本质主义等批评。在当代解读中，AQ 高分反映个体认知模式的偏离[[神经典型]]标准，而非"更严重"的障碍。
+
+## 相关测试
+
+- [[AQ-EQ-SQ10]] — 包含 AQ10 短版的联合评估（30题）
+- [[RAADS-R]] — 更长的成人孤独谱系评估（80题），含发展视角
+- [[CATI]] — 更细维度的孤独谱系特征量表（42题，六维度）
+- [[PES]] — 同理心评估，可替代 EQ 的单一维度解读
+
+## 参考文献
+
+1. **Baron-Cohen, S., Wheelwright, S., Skinner, R., Martin, J., & Clubley, E. (2001).** The Autism-Spectrum Quotient (AQ): Evidence from Asperger Syndrome/High-Functioning Autism, Males and Females, Scientists and Mathematicians. *Journal of Autism and Developmental Disorders*, 31(1), 5-17. DOI: [10.1023/A:1005653411471](https://doi.org/10.1023/A:1005653411471)
+2. **Ruzich, E., Allison, C., Smith, P., Watson, P., Auyeung, B., Ring, H., & Baron-Cohen, S. (2015).** Measuring autistic traits in the general population: A systematic review of the Autism-Spectrum Quotient (AQ) in a nonclinical population sample of 6,900 typical adult males and females. *Molecular Autism*, 6:2. DOI: [10.1186/2040-2392-6-2](https://doi.org/10.1186/2040-2392-6-2)
+3. **Jacobson, N. S., & Truax, P. (1991).** Clinical significance: A statistical approach to defining meaningful change in psychotherapy research. *Journal of Consulting and Clinical Psychology*, 59(1), 12-19. DOI: [10.1037/0022-006X.59.1.12](https://doi.org/10.1037/0022-006X.59.1.12)
+4. **Broadbent, J., Galic, I., & Stokes, M. A. (2013).** Validation of the Autism Spectrum Quotient (AQ) in an Australian sample. Manuscript submitted for publication.
+5. **Woodbury-Smith, M. R., Robinson, J., Wheelwright, S., & Baron-Cohen, S. (2005).** Screening adults for Asperger Syndrome using the AQ: A preliminary study of its diagnostic validity in clinical practice. *Journal of Autism and Developmental Disorders*, 35(3), 331-335.
+6. **Lundqvist, L. O., & Lindner, H. (2017).** Is the Autism-Spectrum Quotient a valid measure of traits associated with the autism spectrum? A Rasch validation study. *Autism Research*, 10(1), 99-111.
+7. **Baker, L. J., Bartel, K., Kerns, C., & Stokes, M. A. (2024).** Autism Spectrum Quotient (AQ) assessment review. NovoPsych. [novopsych.com/assessments/autism-spectrum-quotient-aq/](https://novopsych.com/assessments/autism-spectrum-quotient-aq/)
+
+## 版权
+
+AQ 量表版权归[剑桥大学孤独谱系研究中心 (ARC)](https://www.autismresearchcentre.com/)所有，仅供研究和非商业用途使用。
+
+## Related
+
+- [[孤独谱系]] — 该测试所评估的核心概念
+- [[神经多样性范式]] — 理解测试结果的理论框架
+- [[神经典型]] — 高分反映个体认知模式偏离神经典型标准
+- [[AQ-EQ-SQ10]] — 包含 AQ10 短版
+- [[RAADS-R]] — 更全面的成人孤独谱系评估
+- [[CATI]] — 六维度孤独谱系特征量表
+- [[双向同理心问题]] — 挑战 AQ 理论框架中"同理心缺陷"前提
