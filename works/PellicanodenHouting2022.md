@@ -82,7 +82,7 @@ citation_apa: "Pellicano, E., & den Houting, J. (2022). Annual Research Review: 
 
 ## 学术定位
 
-本文是神经多样性研究中引用率最高的综述之一。两位作者均为该领域核心人物：Pellicano 是孤独谱系科学范式转型的主要学术倡导者，den Houting 是公开的孤独谱系研究者，以"内部人视角"（insider perspective）著称。
+本文是神经多样性研究中引用率最高的综述之一。两位作者均为该领域重要研究者：Pellicano 是孤独谱系科学范式转型的主要学术倡导者，den Houting 是公开的孤独谱系研究者，以"内部人视角"（insider perspective）著称。
 
 ## Related
 

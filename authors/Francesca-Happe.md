@@ -29,7 +29,7 @@ updated: 2026-05-09
 
 ## 学科史角色
 
-与 [[Uta-Frith|Uta Frith]] 合作撰写 [[HappeFrith2020|Happé & Frith (2020)]]——以三十余年亲身研究经历为脉络，梳理孤独谱系概念的七大变遷。两位作者对"从发育病症到神经殊异性"这一观念变迁的公开接纳，标志着传统孤独谱系研究界对 ND 视角的逐步开放。
+与 [[Uta-Frith|Uta Frith]] 合作撰写 [[HappeFrith2020|Happé & Frith (2020)]]——以三十余年亲身研究经历为脉络，梳理孤独谱系概念的七大变遷。两位作者对"从发育障碍到神经殊异性"这一观念变迁的公开接纳，标志着传统孤独谱系研究界对 ND 视角的逐步开放。
 
 另与 Fletcher-Watson 合著 *Autism: A new introduction to psychological theory and current debate*（Routledge, 2019）。
 

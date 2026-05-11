@@ -80,7 +80,7 @@ citation_apa: "Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard As
 - [[Jim-Sinclair]] — 运动奠基人
 - [[Harvey-Blume]] — 首位在印刷中使用术语的记者
 - [[Singer2017|Singer (2017)]] — Singer 在本书修正后自费出版的个人叙事，声称自己是术语创造者
-- [[Judy-Singer]] — 被修正叙事中的核心人物，最早学术使用者之一
+- [[Judy-Singer]] — 被修正叙事中的当事人，最早学术使用者之一
 - [[Silberman2015|Silberman (2015)]] — 传播 Singer 叙事的最具影响力作品
 - [[Steven-Kapp]] — 合著者之一，Kapp (2020) 主编
 - [[Nick-Walker]] — 合著者之一，Walker (2021) 作者
