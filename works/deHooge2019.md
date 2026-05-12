@@ -23,19 +23,19 @@ updated: 2026-05-10
 
 - **定性分析**：对象涵盖医学文本、Autism Speaks 宣传材料、BBC《Sherlock》和《The Rosie Project》等媒体案例
 - **情境知识认识论**（standpoint epistemology）：作者以 #ActuallyAutistic 身份写作，拒绝以非孤独谱系实证学术作为合法性来源——"孤独谱系话语与我是共构的"
-- **Crip 理论框架**：将残障批判理论（crip theory）应用于孤独谱系，类比酷儿理论对 LGBTIA+ 社群的作用
+- **酷残理论框架**：将残障批判理论（crip theory）应用于孤独谱系，类比酷儿理论对 LGBTIA+ 社群的作用
 
 ## 论文结构
 
-### 第一部分：去/人化与 Cripping 象征界
+### 第一部分：去/人化与酷残化象征界
 
 **1.1 孤独谱系的失声与逻各斯中心主义**
 
 de Hooge 分析 Autism Speaks 的商业广告《I Am Autism》和纪录片《Autism Everyday》，揭示孤独谱系者如何被建构为"被孤独谱系夺取声音"的主体。她运用 Derrida 的逻各斯中心主义批判：口语被置于其他表达形式之上，失语者被视为非理性、非人。当"孤独谱系说话时，孤独谱系者却不被听见"——这是一种全面的认识论失信（credibility gap）。
 
-**1.2 抵抗：Cripping 象征界**
+**1.2 抵抗：酷残化象征界**
 
-通过 Mel Baggs 的视频《In My Language》，de Hooge 展示孤独谱系者如何以"crip"策略颠覆象征界。Baggs 与水的互动不是象征性的——"水不象征任何东西，我只是在与水互动，如同水在与我的互动"——这呼应了 Karen Barad 的"内在互动"（intra-action）概念：人类—非人类的边界在互动中共同构成。
+通过 Mel Baggs 的视频《In My Language》，de Hooge 展示孤独谱系者如何以"酷残"策略颠覆象征界。Baggs 与水的互动不是象征性的——"水不象征任何东西，我只是在与水互动，如同水在与我的互动"——这呼应了 Karen Barad 的"内在互动"（intra-action）概念：人类—非人类的边界在互动中共同构成。
 
 关键区分：ABA 与同性恋转化治疗共享历史根源（Ole Ivar Lovaas 同时主持 The Feminine Boy Project 和 The Young Autism Project），两者都试图将不符合规范性别的身体训练为"正常"。
 

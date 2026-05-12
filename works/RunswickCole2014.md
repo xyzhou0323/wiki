@@ -1,7 +1,7 @@
 ---
 title: Runswick-Cole (2014) - "我们"与"他们"：neoliberal时代神经多样性政治的限度与可能
 description: Katherine Runswick-Cole 在 Disability & Society 发表的论文，分析神经多样性运动作为身份政治在 neoliberal 语境下的局限性——"我们 vs 他们"的二元逻辑如何被 neoliberal 社会同构性地利用
-aliases: [RunswickCole2014, 'Us' and 'them' neurodiversity neoliberal, 神经多样性政治与新自由主义]
+aliases: [RunswickCole2014, "'Us' and 'them' neurodiversity neoliberal", 神经多样性政治与新自由主义]
 tags: [work, neurodiversity, political, capitalism, critique]
 sources: [2026-05-09/runswick-cole-2014-us-and-them-neurodiversity-neoliberal.pdf]
 created: 2026-05-09
