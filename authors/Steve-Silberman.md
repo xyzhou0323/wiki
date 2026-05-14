@@ -42,7 +42,7 @@ Silberman 在 Wired 的报道涵盖技术文化与神经多样性的交汇。他
 
 ## Related
 
-- [[Silberman2015|Silberman (2015)]] — 代表作
+- [[Silberman2015|Silberman (2015)]]
 - [[神经多样性运动]] — 该书所详尽叙述的历史
 - [[BothaEtAl2024|Botha et al. (2024)]] — 修正了书中的概念起源叙事
 - [[Robert-Chapman]] — 神经多样性学术理论的主要贡献者

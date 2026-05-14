@@ -1,6 +1,6 @@
 ---
 title: Robert Chapman
-description: 神经多样性研究核心学者，《正常帝国》和《神经多样性简论》作者，提出神经殊异马克思主义（Neurodivergent Marxism）
+description: 神经多样性研究学者，《正常帝国》和《神经多样性简论》作者，提出神经殊异马克思主义（Neurodivergent Marxism）
 aliases: [罗伯特·查普曼, Chapman]
 tags: [author, neurodiversity, foundational, political]
 sources: [books/正常帝国-Empire of Normality (Robert Chapman).epub, books/神经多样性-Neurodiversity A Very Short Introduction (Robert Chapman, Sue Fletcher-Watson)机翻DeepSeek.epub, 2026-05-09/josp.12456.pdf, 2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf]
@@ -10,7 +10,7 @@ updated: 2026-05-11
 
 # Robert Chapman
 
-Robert Chapman（罗伯特·查普曼）是神经多样性研究领域的核心学者，以将马克思主义分析与神经多样性运动结合而闻名。他是[[神经殊异马克思主义]]（Neurodivergent Marxism）的提出者，现任教于英国杜伦大学（Durham University）。
+Robert Chapman（罗伯特·查普曼）是神经多样性研究领域的学者，以将马克思主义分析与神经多样性运动结合而闻名。他是[[神经殊异马克思主义]]（Neurodivergent Marxism）的提出者，现任教于英国杜伦大学（Durham University）。
 
 ## 本wiki已引用著作
 
@@ -67,7 +67,7 @@ Chapman 的工作代表了神经多样性研究的范式转变——将讨论从
 
 - [[Sue-Fletcher-Watson]] — 合著者
 - [[Monique-Botha]] — 合著者
-- [[Chapman2023|Chapman (2023)]] — 代表作（正常帝国）
+- [[Chapman2023|Chapman (2023)]]
 - [[Chapman2021|Chapman (2021)]] — 生态模型理论论文
 - [[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]] — 合著
 - [[ChapmanCarel2022|Chapman & Carel (2022)]] — 认识论不正义分析

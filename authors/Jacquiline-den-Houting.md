@@ -52,7 +52,7 @@ updated: 2026-05-09
 
 - [[神经多样性范式]]
 - [[PellicanodenHouting2022|Pellicano & den Houting (2022)]]
-- [[denHouting2019|den Houting (2019)]] — 内部人视角代表作
+- [[denHouting2019|den Houting (2019)]] — 内部人视角
 - [[Elizabeth-Pellicano|Elizabeth Pellicano]]
 - [[Steven-Kapp|Steven Kapp]] — 合作者
 - [[Sue-Fletcher-Watson|Sue Fletcher-Watson]] — 合作者

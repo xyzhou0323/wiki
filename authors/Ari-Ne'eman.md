@@ -1,6 +1,6 @@
 ---
 title: Ari Ne'eman
-description: 孤独谱系自倡导者，ASAN 联合创始人与创始主席，神经多样性运动最核心的政治领导者与 DSM-5 游说者
+description: 孤独谱系自倡导者，ASAN 联合创始人与创始主席，神经多样性运动政治领导者与 DSM-5 游说者
 aliases: [Ari Ne'eman, Ari Neeman, Ne'eman, 阿里·内曼]
 tags: [author, neurodiversity, autism, activist, foundational]
 created: 2026-05-08
@@ -15,7 +15,7 @@ updated: 2026-05-10
 
 ## 学术与运动定位
 
-Ari Ne'eman 是神经多样性运动最核心的政治领导者之一。他在 2007 年与 Scott Robertson 共同创立了 ASAN——世界上最具影响力的孤独谱系自倡导组织。Ne'eman 代表了一种独特的"运动内部行动者"（insider activist）角色：既直接参与政治游说（DSM-5、政策倡导）、又从事学术写作（话语分析、伦理批判），同时始终将自倡导者的立场性置于工作中心。
+Ari Ne'eman 是神经多样性运动的政治领导者之一。他在 2007 年与 Scott Robertson 共同创立了 ASAN——世界上有影响力的孤独谱系自倡导组织。Ne'eman 代表了一种独特的"运动内部行动者"（insider activist）角色：既直接参与政治游说（DSM-5、政策倡导）、又从事学术写作（话语分析、伦理批判），同时始终将自倡导者的立场性置于工作中心。
 
 ## 核心贡献
 

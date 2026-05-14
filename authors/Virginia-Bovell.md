@@ -17,7 +17,7 @@ updated: 2026-05-09
 - **共同立场提议**：不否认孤独谱系者和家庭经历的实际苦难，但主张区分"回应苦难"与"消除孤独谱系本身"
 - **治愈/预防实践的类型学**：系统区分概念前期干预（产前携带者筛查）、产前干预（选择性堕胎）和产后干预（行为疗法）
 
-## 代表作品
+## 参考文献
 
 - 博士论文：_Is the prevention and/or cure of autism a morally legitimate quest?_（University of Oxford, 2015）
 - [[RosqvistEtAl2020]] 第 3 章：《预防和/或治愈孤独谱系是否存在伦理理由？》
