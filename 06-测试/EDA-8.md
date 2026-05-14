@@ -3,8 +3,9 @@ title: EDA-8
 description: 儿童要求回避——5-17岁儿童青少年 PDA 特征的8题快速筛查工具
 aliases: [EDA-8 儿童要求回避, 儿童PDA筛查, Extreme Demand Avoidance 8]
 tags: [test, autism, PDA, children, neurodiversity]
+sources: [2026-05-14/What-is-PDA-booklet-website-v2.1.pdf]
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-05-14
 ---
 
 # EDA-8 儿童要求回避
@@ -66,5 +67,6 @@ O'Nions, Elizabeth, et al. "Extreme demand avoidance in children with autism spe
 ## Related
 
 - [[EDA-QA]] — 成人版要求回避问卷
+- [[广泛性要求回避|PDA]] — 广泛性要求回避概念页
 - [[孤独谱系]] — PDA 主要被描述于孤独谱系群体
 - [[神经多样性范式]] — 低要求、协作式教育方法的理论基础

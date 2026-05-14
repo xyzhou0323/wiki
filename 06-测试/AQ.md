@@ -5,7 +5,7 @@ aliases: [Autism Spectrum Quotient, 孤独谱系商数, 孤独谱系商数问卷
 tags: [test, autism, neurodiversity]
 sources: [Baron-Cohen et al. 2001, Ruzich et al. 2015, Jacobson & Truax 1991, Baker et al. 2024]
 created: 2026-05-11
-updated: 2026-05-11T20:00
+updated: 2026-05-14
 ---
 
 # AQ
@@ -13,7 +13,7 @@ updated: 2026-05-11T20:00
 **孤独谱系商数**（Autism Spectrum Quotient，AQ）是由 Simon Baron-Cohen 等人于2001年开发的 50 题自填式筛查问卷，用于量化成人及 16 岁以上个体与[[孤独谱系]]相关的特征程度。AQ 是应用最广泛的孤独谱系特质自评量表之一，能有效捕捉类孤独谱系特征水平，有助于区分孤独谱系个体与非孤独谱系个体，但最佳划界分尚未达成一致的共识（Baron-Cohen et al., 2001; Broadbent et al., 2013; Woodbury-Smith et al., 2005）。
 
 > **本站测试**：[AQ 孤独谱系商数](https://neuroxyz.cn/tests/aq.html)
->简版 AQ10（10题）已整合入 [[AQ-EQ-SQ10]] 联合量表中。
+>简版 AQ10（10题）已整合入 [[AQ-EQ-SQ10]] 联合量表中。英国 [[NICE2021|NICE CG142]] 临床指南推荐 AQ-10 作为成人孤独谱系初步筛查工具——得分 ≥ 6 建议转诊综合评估。
 
 ## 测试结构
 
@@ -195,3 +195,4 @@ AQ 量表版权归[剑桥大学孤独谱系研究中心 (ARC)](https://www.autis
 - [[RAADS-R]] — 更全面的成人孤独谱系评估
 - [[CATI]] — 六维度孤独谱系特征量表
 - [[双向同理心问题]] — 挑战 AQ 理论框架中"同理心缺陷"前提
+- [[NICE2021|NICE (2021)]] — 英国临床指南推荐 AQ-10（6 分阈值）作为成人筛查工具
