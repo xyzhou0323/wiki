@@ -92,7 +92,7 @@ citation_apa: "Pellicano, E., & den Houting, J. (2022). Annual Research Review: 
 - [[Milton2022|Milton (2022)]] — 本文以双重共情问题为核心理论支撑
 - [[去病理化]] — 本文"多样性非缺陷"框架的直接应用
 - [[残障的社会模式]] — 本文"情境至关重要"论证的理论背景
-- [[孤独谱系]] — 本文讨论的核心对象
+- [[孤独谱系障碍]] — 本文讨论的核心对象
 - [[Elizabeth-Pellicano|Elizabeth Pellicano]]
 - [[denHouting2019|den Houting (2019)]] — 本文方法论立场的早期版本：内部人视角与三大误解澄清
 - [[Jacquiline-den-Houting|Jacquiline den Houting]]

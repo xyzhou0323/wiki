@@ -9,7 +9,7 @@ updated: 2026-05-14
 
 # EDA-QA 成人要求回避
 
-**EDA-QA**（Extreme Demand Avoidance Questionnaire – Adult）是一份评估成年[[孤独谱系]]个体**极端/广泛性要求回避**（PDA，也称"广泛性要求回避"）特征的自填工具。
+**EDA-QA**（Extreme Demand Avoidance Questionnaire – Adult）是一份评估成年[[孤独谱系障碍]]个体**极端/广泛性要求回避**（PDA，也称"广泛性要求回避"）特征的自填工具。
 
 > **本站测试**：[EDA-QA 成人要求回避](https://neuroxyz.cn/tests/edaqa.html)
 
@@ -60,7 +60,7 @@ PDA 并非每个孤独谱系个体都有的特征。研究人员尚在探索 PDA
 ## 相关测试
 
 - [[EDA-8]] — 儿童版 8 题快速筛查表
-- [[孤独谱系]] — PDA 主要在孤独谱系群体中被描述
+- [[孤独谱系障碍]] — PDA 主要在孤独谱系群体中被描述
 
 ## 参考文献
 

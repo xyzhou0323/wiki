@@ -32,5 +32,5 @@ updated: 2026-05-09
 - [[SonugaBarkeThapar2021|Sonuga-Barke & Thapar (2021)]]
 - [[Edmund-Sonuga-Barke]] — 共同作者
 - [[ADHD]]
-- [[孤独谱系]]
+- [[孤独谱系障碍]]
 - [[神经多样性范式]]

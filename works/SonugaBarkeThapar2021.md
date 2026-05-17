@@ -92,7 +92,7 @@ citation_apa: "Sonuga-Barke, E., & Thapar, A. (2021). The neurodiversity concept
 - [[神经多样性]] — ND 作为生物学事实
 - [[神经多样性范式]] — ND 范式 vs 病理学范式
 - [[ADHD]] — 论文讨论的核心病症之一
-- [[孤独谱系]] — 论文讨论的核心病症之一
+- [[孤独谱系障碍]] — 论文讨论的核心病症之一
 - [[ArnaudGibson2025|Arnaud & Gibson (2025)]] — HAP 框架对比：ND 运动拒绝的恰恰是"障碍由功能障碍定义"的前提
 - [[PellicanodenHouting2022|Pellicano & den Houting (2022)]] — 库恩范式转型框架 vs 论文的"无矛盾整合论"
 - [[Dwyer2022|Dwyer (2022)]] — 互动主义中间道路 vs 被论文混入"激进 ND"的标签

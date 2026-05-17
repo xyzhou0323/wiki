@@ -121,3 +121,4 @@ citation_apa: "Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer,
 - [[Dwyer2022|Dwyer (2022)]] — 将孤独谱系倦怠列为社群自我理论化的关键成果
 - [[单一聚焦]] — 同为社群原创理论概念
 - [[残障的社会模式]] — 环境改造而非个体正常化的理论依据
+- [[MantzalasEtAl2024|Mantzalas et al. (2024)]] — ABM 的首次公开发表心理测量验证，AASPIRE 同一研究脉络的量化延伸

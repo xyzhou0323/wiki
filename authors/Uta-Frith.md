@@ -36,6 +36,6 @@ updated: 2026-05-09
 
 - [[HappeFrith2020|Happé & Frith (2020)]] — 与 Happé 合作的孤独谱系概念七大变遷回顾
 - [[Francesca-Happe]] — 主要学术合作者与继承人
-- [[孤独谱系]] — 核心研究对象
+- [[孤独谱系障碍]] — 核心研究对象
 - [[双向同理心问题]] — Milton (2012) 的理论在某种程度上是对 ToM 缺陷假说（单向缺陷框架）的回应
 - [[Silberman2015|Silberman (2015)]] — *NeuroTribes* 中详细记述了 Frith 翻译 Asperger 论文的历史

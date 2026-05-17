@@ -3,9 +3,9 @@ title: Francesca Happé
 description: 英国孤独谱系研究权威，King's College London 教授，弱中央统合假说和可分解三元假说的提出者
 aliases: [Francesca Happé, Happé, Francesca Happe, Happe]
 tags: [author, autism, foundational]
-sources: [2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf]
+sources: [2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf, 2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf]
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-17
 ---
 
 # Francesca Happé
@@ -37,7 +37,8 @@ updated: 2026-05-09
 
 - [[HappeFrith2020|Happé & Frith (2020)]] — 孤独谱系概念七大变遷的权威回顾
 - [[Uta-Frith]] — 长期合作者
-- [[孤独谱系]] — 核心研究对象
+- [[孤独谱系障碍]] — 核心研究对象
 - [[述情障碍]] — Happé 参与的 Bird & Cook 研究挑战了孤独谱系→同理心困难的直接因果关系
 - [[CAT-Q]] — Hull 等在 Happé 指导下开发
 - [[Sue-Fletcher-Watson]] — 合著合作者
+- [[SarrEtAl2024|Sarr et al. (2024)]] — 合著者，共制Delphi法鉴别诊断共识
