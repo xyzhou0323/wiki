@@ -9,7 +9,7 @@ created: 2026-05-10
 updated: 2026-05-10
 ---
 
-# de Hooge (2019)
+# de Hooge (2019)—二元男孩：孤独谱系、阿斯至上主义与后/人文主义规范性
 
 引用：de Hooge, A. N. (2019). Binary Boys: Autism, Aspie Supremacy and Post/Humanist Normativity. _Disability Studies Quarterly_, _39_(1). https://doi.org/10.18061/dsq.v39i1.6461
 
