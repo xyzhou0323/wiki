@@ -69,7 +69,7 @@ Runswick-Cole 系统分析了"神经多样性政治"（politics of neurodiversit
 
 Runswick-Cole 借用 Ruffolo (2009) 的区分：
 
-- **身份政治**（identity politics）：依赖"我们 vs 他们"的本质主义二元框架——这正是 neoliberal 社会通过差异进行治理的机制
+- **身份政治**（identity politics）：依赖"我们 vs 他们"的本质主义二元框架——这是 neoliberal 社会通过差异进行治理的机制
 - **身份的政治**（politics of identity）：不依赖本质主义主张——拒绝将身份作为固定、本质化的政治基础
 
 核心结论：揭示身份政治的限度本身**不足以颠覆现状**（McRuer 2006）。问题仍然开放：如何超越身份政治的限度？
@@ -78,7 +78,7 @@ Runswick-Cole 借用 Ruffolo (2009) 的区分：
 
 本文发表于 2014 年——在神经多样性运动的形成期和主流化临界点上——捕捉了运动在 neoliberal 语境中面临的**结构性悖论**：
 
-1. 运动依赖的权利框架和身份政治形式正是 neoliberal 治理的核心机制
+1. 运动依赖的权利框架和身份政治形式是 neoliberal 治理的核心机制
 2. neoliberal 社会通过"承认差异"来治理和商品化差异——而非消除压迫
 3. 运动所争取的"承认"可能最后只不过是 neoliberal 社会中"as good as it gets"的政策上限
 

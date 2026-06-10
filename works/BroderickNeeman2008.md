@@ -1,6 +1,6 @@
 ---
 title: Broderick & Ne'eman (2008) - 孤独症作为隐喻：叙事与反叙事
-description: Broderick & Ne'eman 运用 Foucault 框架分析孤独症话语中的隐喻斗争——疾病隐喻（主流叙事）vs. 神经多样性（反叙事），论证反叙事对文化批判与意识形态抵抗的关键作用
+description: Broderick & Ne'eman 运用 Foucault 框架分析孤独症话语中的隐喻斗争——疾病隐喻（主流叙事）vs. 神经多样性（反叙事），论证反叙事对文化批判与意识形态抵抗的作用
 aliases: [Autism as metaphor: narrative and counter-narrative, Broderick & Ne'eman 2008, BroderickNeeman2008, 孤独症作为隐喻]
 tags: [work, neurodiversity, autism, discourse, foundational]
 sources: [2026-05-09/Autism as metaphor narrative and counter-narrative (Broderick, Alicia A. Neeman, Ari).pdf]
@@ -102,7 +102,7 @@ Ari Ne'eman 提出双轨策略：
 1. **继续谴责**：揭露使用优生学式语言的团体，将其排斥在可接受的主流话语之外
 2. **解决根源**：通过改善孤独谱系者及家庭的生活质量（AAC 技术、公共教育、过渡和成人支持），减少家长被"治愈导向"团体吸引的动机
 
-## 独特的学术贡献
+## 学术贡献
 
 1. **Foucault 框架的系统运用**：将孤独症话语斗争概念化为 Foucault 意义上的"真理地位的战斗"
 2. **隐喻的政治经济学分析**：揭示隐喻并非中立的修辞选择，而是权力/知识生产的一环

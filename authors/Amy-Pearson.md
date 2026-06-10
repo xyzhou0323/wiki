@@ -27,4 +27,4 @@ Amy Pearson 是 Durham University 心理学系神经多样性与发展中心（C
 
 - [[Monique-Botha]] — 合著者，共同提出批判实在论与反健全主义框架
 - [[Robert-Chapman]] — 合著 Pearson & Rose (2023)，关注 ND 范式与政治经济学
-- [[Kieran-Rose]] — 合著者，The Autistic Advocate 创始人
+- Kieran-Rose — 合著者，The Autistic Advocate 创始人

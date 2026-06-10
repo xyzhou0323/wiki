@@ -17,7 +17,7 @@ updated: 2026-05-09
 
 与 [[Quinn-Hiroshi-Gibson|Quinn Hiroshi Gibson]] 合作，在 *Philosophical Studies* 发表 [[ArnaudGibson2025|Arnaud & Gibson (2025)]]：
 
-- 将 Peirce 的"实体抽象"（hypostatic abstraction）概念——通过 [[Rashed, 2020]] 引入精神病学批判——发展为 **HAP（实体抽象原则）**框架，精确形式化 ND 运动中"去病理化"的哲学含义
+- 将 Peirce 的"实体抽象"（hypostatic abstraction）概念——通过 Rashed (2020) 引入精神病学批判——发展为 **HAP（实体抽象原则）**框架，精确形式化 ND 运动中"去病理化"的哲学含义
 - 区分孤独谱系身份的**双重结构**：前反思体验结构（pre-reflective structuring of experience）与社会/政治认同
 - 论证 ND 运动并非反精神病学的延续——差异不在经验主张而在对"人与标签关系"的理解
 - 系统反驳四类主流批评并揭示其共享的 HAP 预设

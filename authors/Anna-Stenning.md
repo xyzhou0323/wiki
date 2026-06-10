@@ -28,7 +28,7 @@ sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new c
 
 ## Related
 
-- [[RosqvistEtAl2020]] — 主编的里程碑编辑卷（含第 7 章：开放获取）
+- [[RosqvistEtAl2020]] — 主编的编辑卷（含第 7 章：开放获取）
 - [[StenningRosqvist2021|Stenning & Rosqvist (2021)]] — ND Studies 方法论纲领：三种取向与第四取向
 - [[Hanna-Bertilsdotter-Rosqvist]]、[[Nick-Chown]] — 合作主编
 - [[神经多样性研究]] — 共同奠基的学术领域

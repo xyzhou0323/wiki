@@ -29,9 +29,9 @@ sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new c
 
 ## Related
 
-- [[RosqvistEtAl2020]] — 主编的里程碑编辑卷
+- [[RosqvistEtAl2020]] — 主编的编辑卷
 - [[StenningRosqvist2021|Stenning & Rosqvist (2021)]] — ND Studies 方法论纲领：三种取向与第四取向
 - [[Nick-Chown]]、[[Anna-Stenning]] — 合作主编
-- [[David-Jackson-Perry]] — 感官研究合作者
+- David-Jackson-Perry — 感官研究合作者
 - [[神经多样性研究]] — 共同奠基的学术领域
 - [[00-知识地图]] — 知识地图入口

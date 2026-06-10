@@ -19,5 +19,5 @@ Peter Wright 是 Murdoch University（Perth, Western Australia）的残障与融
 ## Related
 
 - [[CarmelChapmanWright2026|Carmel, Chapman & Wright (2026)]] — 本 wiki 收录的 Wright 合著作品
-- [[残障正义]] — Wright 研究的核心概念
+- 残障正义 — Wright 研究的核心概念
 - [[融合教育]] — Wright 的研究与融合教育的日常实践维度相交

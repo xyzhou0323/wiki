@@ -21,7 +21,7 @@ updated: 2026-05-17
 
 ### 可分解三元假说（Fractionated Triad Hypothesis）
 
-与 Ronald 和 Plomin 合作（[[Happé, Ronald & Plomin, 2006]]），基于双生子早期发展研究（TEDS）论证：
+与 Ronald 和 Plomin 合作（Happé, Ronald & Plomin, 2006），基于双生子早期发展研究（TEDS）论证：
 
 - 孤独谱系的**社会、沟通、刻板/重复行为三个症状域**在行为、遗传、认知层面具有不同来源
 - 一般人群中这三个维度的特质仅**中度相关**——许多儿童只在一个领域表现出显著困难

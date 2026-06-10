@@ -57,7 +57,7 @@ citation_apa: "Nair, V. K. K., Farah, W., & Boveda, M. (2024). Is neurodiversity
 
 ### 分配性实践
 
-[[Canagarajah (2023)|Canagarajah2023]] 区分了：**北方**关注个体能力和沟通结果；**南方**强调**分配性实践**（distributional practice）——对理解和照护神经殊异者的伦理和道德责任。这不否认南方存在边缘化，但南方社区基于关系性和社区价值的实践不可被否定。
+Canagarajah (2023) 区分了：**北方**关注个体能力和沟通结果；**南方**强调**分配性实践**（distributional practice）——对理解和照护神经殊异者的伦理和道德责任。这不否认南方存在边缘化，但南方社区基于关系性和社区价值的实践不可被否定。
 
 ### 警惕移植
 
@@ -65,11 +65,11 @@ citation_apa: "Nair, V. K. K., Farah, W., & Boveda, M. (2024). Is neurodiversity
 
 ## DisCrit 连接
 
-论文呼吁 ND 和 CAS 学者与**残障批判种族研究**（DisCrit: Disability Critical Race Studies, [[AnnammaEtAl2013|Annamma et al. 2013]]）建立关键联系：
+论文呼吁 ND 和 CAS 学者与**残障批判种族研究**（DisCrit: Disability Critical Race Studies, Annamma et al. 2013）建立关键联系：
 
 - DisCrit 学者将残障与种族视为**相互强化**而非排斥的意识形态范畴
 - 拒绝将残障（特别是语言和认知残障类别）视为生物学或医学问题
-- 这些论点与 ND 拒绝病理学范式的基础**高度一致**——但 DisCrit 提供更深层的分析：揭示能力主义意识形态如何根植于种族的建构中
+- 这些论点与 ND 拒绝病理学范式的基础**一致**——但 DisCrit 提供更深层的分析：揭示能力主义意识形态如何根植于种族的建构中
 
 ## 结论：三步去殖民化路径
 
@@ -86,9 +86,9 @@ citation_apa: "Nair, V. K. K., Farah, W., & Boveda, M. (2024). Is neurodiversity
 - [[神经多样性与交叉性]] — 本文批判 ND 交叉性分析不足
 - [[ChengEtAl2023|Cheng et al. (2023)]] — 同样关注 ND 运动的西方中心性与全球南方
 - [[JonesOrchard2024|Jones & Orchard (2024)]] — ND 与残障的关系审视
-- [[GiwaOnaiwu2020|Giwa Onaiwu (2020)]] — ND 运动的白人特权问题
-- [[BothaGillespieLynch2022|Botha & Gillespie-Lynch (2022)]] — ND 的交叉性研究
-- [[AnnammaEtAl2013|Annamma et al. (2013)]] — DisCrit 奠基文本
+- Giwa Onaiwu (2020) — ND 运动的白人特权问题
+- Botha & Gillespie-Lynch (2022) — ND 的交叉性研究
+- Annamma et al. (2013) — DisCrit 奠基文本
 - [[Nick-Walker]] — ND 范式的理论奠基人，本文承认为其贡献但在种族维度上加以批判
 - [[Robert-Chapman|Chapman (2023)]] — 本文引用的 Galton 批判
 - [[Jim-Sinclair|Sinclair (1993)]] — ND 运动奠基文本

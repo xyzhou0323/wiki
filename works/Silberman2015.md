@@ -1,6 +1,6 @@
 ---
 title: Silberman (2015) - 神经部落
-description: Steve Silberman (2015) 的里程碑著作——孤独谱系与神经多样性的全面历史，从18世纪前诊断时代到21世纪神经多样性运动，深刻塑造了公众对神经多样性的理解
+description: Steve Silberman (2015) 的著作——孤独谱系与神经多样性的全面历史，从18世纪前诊断时代到21世纪神经多样性运动，塑造了公众对神经多样性的理解
 aliases: [NeuroTribes-神经部落, NeuroTribes, 神经部落, NeuroTribes: The Legacy of Autism and the Future of Neurodiversity]
 tags: [work, neurodiversity, autism, historical, foundational]
 sources: [2026-05-07/《神经部落》-Neurotribes The Legacy of Autism and the Future of Neurodiversity (Steve Silberman) (z-library.sk, 1lib.sk, z-lib.sk).epub]
@@ -21,7 +21,7 @@ citation_apa: "Silberman, S. (2015). NeuroTribes: The legacy of autism and the f
 
 ## 概述
 
-*NeuroTribes*（2015）是神经多样性和孤独谱系史上具有里程碑意义的普及性著作。Steve Silberman 以 Wired 杂志记者的叙事技巧，追溯了从18世纪的 Henry Cavendish 到21世纪神经多样性运动的完整历史。该书获得2015年 Samuel Johnson 非虚构奖，被广泛认为是将神经多样性概念引入主流公共话语的关键作品。
+*NeuroTribes*（2015）是神经多样性和孤独谱系史上重要的普及性著作。Steve Silberman 以 Wired 杂志记者的叙事技巧，追溯了从18世纪的 Henry Cavendish 到21世纪神经多样性运动的完整历史。该书获得2015年 Samuel Johnson 非虚构奖，被广泛认为是将神经多样性概念引入主流公共话语的关键作品。
 
 ## 核心叙事：孤独谱系作为人类遗产
 
@@ -71,7 +71,7 @@ Lorna Wing 的工作——她与丈夫 John 在 Camberwell 展开流行病学研
 
 ### 第9章：雨人效应
 
-*Rain Man*（1988）对公众孤独谱系认知的深刻影响——既打破了沉默，也固化了"孤独谱系=学者综合症"的刻板印象。
+*Rain Man*（1988）对公众孤独谱系认知的影响——既打破了沉默，也固化了"孤独谱系=学者综合症"的刻板印象。
 
 ### 第10章：潘多拉之盒
 

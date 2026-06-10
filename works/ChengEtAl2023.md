@@ -3,26 +3,27 @@ title: Cheng et al. (2023) - 神经多样性与社区主导的权利运动：全
 description: Cheng、Tekola、Balasubramanian、Crane 与 Leadbitter 在 Autism 期刊发表的社论，指出神经多样性运动的西方中心性，以埃塞俄比亚、印度和香港为例分析全球南方社区的独特社会文化条件，呼吁避免将 ND 框架不加批判地移植至非欧美语境，倡导多向知识交流与本土化权利运动
 aliases: [ChengEtAl2023, Neurodiversity global research partnerships, ND运动全球南方]
 tags: [work, neurodiversity, autism, political, intersectionality, methodology]
-sources: [2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf]
+sources: [2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf, 2026-06-10/full.md]
 created: 2026-05-09
-updated: 2026-05-09
-citation_apa: "Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. Autism, 27(5), 1249-1253."
+updated: 2026-06-10
+citation_apa: "Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. Autism, 27(3), 573–577. https://doi.org/10.1177/13623613231159165"
 ---
 
 # Cheng et al. (2023) — 神经多样性与社区主导的权利运动：全球研究合作的障碍与机遇
 
-引用：Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. Autism, 27(5), 1249-1253.
+引用：Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. *Autism*, 27(3), 573–577. https://doi.org/10.1177/13623613231159165
 
-
-**完整引用**：Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. *Autism*, 27(5), 1249–1253.
-
-**作者**：[[Yulin-Cheng|Yulin Cheng]]（香港大学，孤独谱系自倡导者）、Bethlehem Tekola（King's College London）、Anand Balasubramanian、[[Laura-Crane|Laura Crane]]（UCL 孤独谱系研究与教育中心）、Kathy Leadbitter（曼彻斯特大学）
-
+**作者**：[[Yulin-Cheng|Yulin Cheng]]（香港大学，孤独谱系自倡导者）、[[Bethlehem-Tekola]]（King's College London，埃塞俄比亚孤独谱系与发育障碍研究者）、Anand Balasubramanian、[[Laura-Crane|Laura Crane]]（UCL 孤独谱系研究与教育中心）、[[Kathy-Leadbitter]]（曼彻斯特大学，神经多样性肯定式干预与参与式研究）
+**年份**：2023
+**期刊**：*Autism*, Vol. 27, No. 03, pp. 573–577
+**DOI**：10.1177/13623613231159165
 **类型**：Editorial（社论）
 
 ## 核心论点
 
 神经多样性运动主要由**英语国家的白人孤独谱系者及盟友**在欧美特定社会文化条件下推动，反映了这些社群的具体关切。其核心价值观——平等、尊严、尊重——具有普遍性，但**不加批判地将 ND 框架整体移植至亚洲和非洲社群必须避免**。全球研究合作需要多向知识交流，尊重本土理论框架和权利运动。
+
+关键在于：ND 运动以**个体身份与权利**为核心组织框架——这在欧美文化中自然流畅，但在埃塞俄比亚或印度等以**家族与社区集体关系**为身份根基的文化中可能显得陌生。适合这些语境的是**家庭与社区驱动的运动**——以接纳、包容和参与为目标，而非以个体权利诉求为核心。这些运动可能"看起来与白人主导的权利运动不同"、规模较小、不以英语或互联网传播——但它们不应被视为不存在。
 
 ## 神经多样性运动的西方中心性
 
@@ -49,7 +50,7 @@ ND 运动与知识生产去殖民化运动共享四项基本目标：
 
 **文化特征**：强烈强调相互依赖、社区与家庭。身份嵌入家庭与社区的集体关系——以个体身份与权利为核心的运动在社会文化上可能显得陌生。
 
-**本土实践**：Zemi Yenus（亚的斯亚贝巴的家长倡导者）实践对孤独谱系儿童的**根本接纳**，成功推动社区内的包容与参与——与 ND 肯定原则高度一致，尽管未使用 ND 语言。
+**本土实践**：Zemi Yenus（亚的斯亚贝巴的家长倡导者）实践对孤独谱系儿童的**根本接纳**，成功推动社区内的包容与参与——与 ND 肯定原则一致，尽管未使用 ND 语言。
 
 ### 印度
 
@@ -65,7 +66,7 @@ ND 运动与知识生产去殖民化运动共享四项基本目标：
 
 ### 香港
 
-**条件**：政治挑战使社会变革尤为困难——与中国的紧张关系使边缘群体难以发声。在威权体制下，质疑权力的民主化知识生产实践（如质性、包容性、参与式研究）被视为**次于传统量化研究**，且有潜在颠覆性。学者和行动者须自我审查。
+**条件**：政治挑战使社会变革很困难——与中国的紧张关系使边缘群体难以发声。在威权体制下，质疑权力的民主化知识生产实践（如质性、包容性、参与式研究）被视为**次于传统量化研究**，且有潜在颠覆性。学者和行动者须自我审查。
 
 **文化特征**：新自由主义与"亚洲世界城市"追求创造强调学业表现的竞争文化。社会从众受到高度重视——使家长难以接纳和庆祝孤独谱系儿童的差异。
 
@@ -85,8 +86,10 @@ ND 运动与知识生产去殖民化运动共享四项基本目标：
 - [[神经多样性运动]] — 本文审视其西方中心性与全球适用性
 - [[神经多样性与交叉性]] — 种族、文化与去殖民化维度
 - [[神经多样性与民主研究]] — 全球研究合作的方法论原则
-- [[GiwaOnaiwu2020|Giwa Onaiwu (2020)]] — ND 运动的白人特权问题
-- [[BothaGillespieLynch2022|Botha & Gillespie-Lynch (2022)]] — 交叉性视角下的孤独谱系身份发展
+- Giwa Onaiwu (2020) — ND 运动的白人特权问题
+- Botha & Gillespie-Lynch (2022) — 交叉性视角下的孤独谱系身份发展
 - [[JonesOrchard2024|Jones & Orchard (2024)]] — 去历史化与神经中心主义
 - [[Yulin-Cheng]] — 第一作者，孤独谱系自倡导者
+- [[Bethlehem-Tekola]] — 共同作者，KCL 全球心理健康中心
 - [[Laura-Crane]] — 共同作者，UCL CRAE
+- [[Kathy-Leadbitter]] — 共同作者，曼彻斯特大学

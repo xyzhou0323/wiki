@@ -52,15 +52,15 @@ isbn: 978-0-367-33831-2
 
 **第 7 章 — [[Anna-Stenning]]**：《通过孤独谱系生命书写理解共情：论神经殊异道德的重要性》★开放获取。通过分析 Gunilla Gerland、Temple Grandin、Hannah Gadsby 等人的孤独谱系生命书写，反驳孤独谱系者"缺乏共情"的刻板印象，论证孤独谱系生命书写揭示了一种**独特道德视角**——对非人类动物、环境和社会正义的特殊敏感性。挑战 Baron-Cohen 的共情理论。
 
-**第 8 章 — [[David-Jackson-Perry]]、[[Hanna-Bertilsdotter-Rosqvist]]、Jenn Layton Annable、Marianthi Kourti**：《感官陌生人：在规范感官世界中的旅行》。四人集体写作——以"cripistemology"（酷残认识论）为方法论框架，探索孤独谱系者的感官体验如何被认知规范性的世界所排斥。引入"感官陌生人"（sensory stranger）概念。
+**第 8 章 — David-Jackson-Perry、[[Hanna-Bertilsdotter-Rosqvist]]、Jenn Layton Annable、Marianthi Kourti**：《感官陌生人：在规范感官世界中的旅行》。四人集体写作——以"cripistemology"（酷残认识论）为方法论框架，探索孤独谱系者的感官体验如何被认知规范性的世界所排斥。引入"感官陌生人"（sensory stranger）概念。
 
 ### 第四部分：工作中的神经多样性（Neurodiversity at Work）
 
-**第 9 章 — [[Nicola-Martin]]**：《实践型学术：优化孤独谱系学者、专业服务人员与"典型学者"之间的有益研究合作》。基于 CADS 和 PARC（参与式孤独谱系研究集体）的实践经验，提出结构化合作模式。
+**第 9 章 — Nicola-Martin**：《实践型学术：优化孤独谱系学者、专业服务人员与"典型学者"之间的有益研究合作》。基于 CADS 和 PARC（参与式孤独谱系研究集体）的实践经验，提出结构化合作模式。
 
-**第 10 章 — [[Hanna-Bertilsdotter-Rosqvist]]、Linda Örulv、Serena Hasselblad、Dennis Hansson、Kirke Nilsson、Hajo Seng**：《设计孤独谱系研究空间：探索情境、空间和社交性对孤独谱系写作过程的影响》。集体写作实验——论证物理和社交空间的设计深刻影响孤独谱系者的学术写作过程，flow writing 与孤独谱系认知风格的自然契合。
+**第 10 章 — [[Hanna-Bertilsdotter-Rosqvist]]、Linda Örulv、Serena Hasselblad、Dennis Hansson、Kirke Nilsson、Hajo Seng**：《设计孤独谱系研究空间：探索情境、空间和社交性对孤独谱系写作过程的影响》。集体写作实验——论证物理和社交空间的设计影响了孤独谱系者的学术写作过程，flow writing 与孤独谱系认知风格的自然契合。
 
-**第 11 章 — [[Matthew-K-Belmonte]]**：《个人与机构如何学会为人类认知多样性留出空间：来自我在神经科学中的生活的个人视角》。作为孤独谱系者的兄弟和神经科学家，Belmonte 以个人叙事方式反思学术界对认知多样性的系统性排斥——"human, but more so"（人类，但更是如此）。
+**第 11 章 — Matthew-K-Belmonte**：《个人与机构如何学会为人类认知多样性留出空间：来自我在神经科学中的生活的个人视角》。作为孤独谱系者的兄弟和神经科学家，Belmonte 以个人叙事方式反思学术界对认知多样性的系统性排斥——"human, but more so"（人类，但更是如此）。
 
 ### 第五部分：挑战脑限认知（Challenging Brain-Bound Cognition）
 
@@ -72,7 +72,7 @@ isbn: 978-0-367-33831-2
 
 **第 14 章 — [[Robert-Chapman]]**：《为研究和实践定义神经多样性》。基于 Walker（2014）术语框架的澄清和辩护。区分神经多样性（事实）≠ 神经多样性范式（框架）≠ 神经多样性运动（政治）。界定研究的适当范围：应以发育性、认知性、感官性变异为主体，区别于创伤和应激导致的"纯粹"精神病症（如 PTSD、重性抑郁、焦虑障碍）。
 
-**第 15 章 — [[Akiko-Hart]]**：《一个新的联盟？听声运动与神经多样性》。探讨[[听声运动]]（Hearing Voices Movement）与神经多样性运动之间建立联盟的可能性和张力。听声运动强调个人苦难与康复叙事——这与神经多样性运动对身份肯定和反病理化的侧重构成矛盾，但也为联盟提供了互补基础。
+**第 15 章 — [[Akiko-Hart]]**：《一个新的联盟？听声运动与神经多样性》。探讨听声运动（Hearing Voices Movement）与神经多样性运动之间建立联盟的可能性和张力。听声运动强调个人苦难与康复叙事——这与神经多样性运动对身份肯定和反病理化的侧重构成矛盾，但也为联盟提供了互补基础。
 
 **第 16 章 — Hanna Bertilsdotter Rosqvist、Anna Stenning、Nick Chown**：《神经多样性研究：提出一个新的探究领域》。全书结论——正式提出"神经多样性研究"作为新的学术探究领域。关键主张：
 - 神经多样性不应等同于批判孤独谱系研究——必须涵盖 ADHD、阅读障碍、Tourette、听声、Down 综合征、痴呆等所有神经殊异形式
@@ -88,12 +88,12 @@ isbn: 978-0-367-33831-2
 - [[Hanna-Bertilsdotter-Rosqvist]]、[[Nick-Chown]]、[[Anna-Stenning]] — 主编
 - [[Robert-Chapman]] — 第 4、14 章作者
 - [[Virginia-Bovell]]、[[Dieuwertje-Dyi-Huijg]]、[[Akiko-Hart]]、[[Mitzi-Waltz]]、[[Alyssa-Hillary]]、[[Alan-Jurgens]]、[[Ines-Hipolito]] — 章节贡献者
-- [[David-Jackson-Perry]] — 第 8 章合著者
-- [[Matthew-K-Belmonte]] — 第 11 章作者
-- [[Nicola-Martin]] — 第 9 章作者
+- David-Jackson-Perry — 第 8 章合著者
+- Matthew-K-Belmonte — 第 11 章作者
+- Nicola-Martin — 第 9 章作者
 - [[单一聚焦]] — 第 5 章整合的核心理论
 - [[双向同理心问题]] — 第 5 章整合的核心理论
 - [[残障模型]] — 价值中立模型的系统引入
 - [[残障的社会模式]] — Chapman 对社会模型的内部批判
-- [[听声运动]] — Hart 提议的联盟
+- 听声运动 — Hart 提议的联盟
 - [[神经多样性]] — 第 14 章的定义澄清

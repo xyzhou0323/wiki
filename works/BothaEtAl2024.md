@@ -29,7 +29,7 @@ citation_apa: "Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard As
 ### 主导叙事的问题
 
 - Judy Singer 长期被归功为"neurodiversity"一词的创造者和理论的创始人
-- Steve Silberman 的 [[Silberman2015|《NeuroTribes》]]（2015）在推广这一叙事中起了关键作用——基于与 Singer 的个人交流，将她定位为造词者
+- Steve Silberman 的 [[Silberman2015|《NeuroTribes》]]（2015）在推广这一叙事中起了作用——基于与 Singer 的个人交流，将她定位为造词者
 - 此后 Singer 在《卫报》等媒体中被塑造成"神经多样性之母"
 - 但这一叙事**简化了历史，抹杀了社群的集体贡献**
 

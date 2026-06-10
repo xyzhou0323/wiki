@@ -31,7 +31,7 @@ Singer 在书中详述了她1990年代参与孤独谱系在线社区的历程，
 
 Singer 1998 年发表的书籍章节 *Why Can't You Be Normal for Once in Your Life?* 中写道：
 
-> 对我而言，"孤独谱系"的关键意义在于它呼唤并预期一种神经多样性的政治（a politics of Neurological Diversity），或"神经多样性"（Neurodiversity）。"神经不同者"代表了阶级/性别/种族这些熟悉的政治范畴之外的新增维度，并将增强残障社会模式的洞见。
+> 对我而言，"孤独谱系"的意义在于它呼唤并预期一种神经多样性的政治（a politics of Neurological Diversity），或"神经多样性"（Neurodiversity）。"神经不同者"代表了阶级/性别/种族这些熟悉的政治范畴之外的新增维度，并将增强残障社会模式的洞见。
 
 ### 与 Harvey Blume 的关系
 

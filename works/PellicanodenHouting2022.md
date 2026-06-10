@@ -57,7 +57,7 @@ citation_apa: "Pellicano, E., & den Houting, J. (2022). Annual Research Review: 
 - **重新定义"有意义的生活"**：孤独谱系者的生活可能与常规理想毫无相似之处，但仍可以是丰富和充实的
 - 孤独谱系接纳（autism acceptance）与更好的心理健康相关联（Cage et al. 2018；Cooper et al. 2017）
 
-### 情境至关重要
+### 情境很重要
 
 - 神经多样性范式要求从"改变孤独谱系者"转向**挑战影响其发展的社会因素**
 - 障碍存在于物理环境和社会态度层面——歧视和污名构成严重障碍，只能在**社会和系统层面**通过促进包容与公平来解决
@@ -91,7 +91,7 @@ citation_apa: "Pellicano, E., & den Houting, J. (2022). Annual Research Review: 
 - [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — 同一作者同年的相关政治分析
 - [[Milton2022|Milton (2022)]] — 本文以双重共情问题为核心理论支撑
 - [[去病理化]] — 本文"多样性非缺陷"框架的直接应用
-- [[残障的社会模式]] — 本文"情境至关重要"论证的理论背景
+- [[残障的社会模式]] — 本文"情境很重要"论证的理论背景
 - [[孤独谱系障碍]] — 本文讨论的核心对象
 - [[Elizabeth-Pellicano|Elizabeth Pellicano]]
 - [[denHouting2019|den Houting (2019)]] — 本文方法论立场的早期版本：内部人视角与三大误解澄清

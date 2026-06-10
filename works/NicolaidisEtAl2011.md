@@ -26,7 +26,7 @@ authors:
 
 AASPIRE（Academic Autistic Spectrum Partnership in Research and Education, [www.aaspire.org](https://www.aaspire.org)）从一群孤独谱系自倡导者和孤独谱系儿童家长组成的非正式"期刊俱乐部"发展而来。2006 年，该群体在评论一篇 fMRI 论文时爆发了关键争论——该研究声称孤独谱系者"不做白日梦"，社群成员知道这与自身经验相悖，并指出研究方案未考虑字面语言理解和任务切换困难。一位从事 CBPR 的健康服务研究者（Nicolaidis）和一位对复杂系统感兴趣的自倡导研究生（Raymaker）决定正式建立学术-社群合作。
 
-本文是 AASPIRE 的首篇方法论文献，系统记录了这一开创性合作的前四年经验教训。
+本文是 AASPIRE 的首篇方法论文献，系统记录了这一合作的前四年经验教训。
 
 ## 核心经验
 
@@ -97,20 +97,20 @@ AASPIRE 的基础架构：
 
 ## 对神经多样性研究的意义
 
-本文是 **"Nothing About Us Without Us" 原则在孤独谱系研究中最早期、最具体的方法论文献**——发表于该口号被广泛用于孤独谱系研究语境之前。它证明：
+本文是 **"Nothing About Us Without Us" 原则在孤独谱系研究中最早的、具体的方法论文献**——发表于该口号被广泛用于孤独谱系研究语境之前。它证明：
 
 - 孤独谱系自倡导者构成一个**真正的社群**，可以作为 CBPR 的身份单元
 - 孤独谱系者**能够且应当作为 CBPR 中的平等伙伴**
 - 包容孤独谱系者作为平等伙伴需要**对基础设施和实践的重大关注**——而非只是态度上的"欢迎"
 - 这项工作**有潜力彻底转变孤独谱系研究领域**
 
-本文直接奠定了此后十年 AASPIRE 产出[[Raymaker2020|孤独谱系倦怠]]等里程碑研究的方法论基础。
+本文直接奠定了此后十年 AASPIRE 产出[[Raymaker2020|孤独谱系倦怠]]等研究的方法论基础。
 
 ## Related
 
 - [[参与式行动研究]] — PAR 方法论：本文是 PAR 在孤独谱系研究中最早的系统实践记录
 - [[神经多样性与民主研究]] — "Nothing About Us Without Us"的民主研究原则
-- [[Raymaker2020|Raymaker et al. (2020)]] — AASPIRE 的里程碑成果：孤独谱系倦怠的 CBPR 学术定义
+- [[Raymaker2020|Raymaker et al. (2020)]] — AASPIRE 的重要成果：孤独谱系倦怠的 CBPR 学术定义
 - [[LloydEvans2023|Lloyd-Evans (2023)]] — PAR 通用工具包：八阶段与 A-Z 车轮
 - [[Dora-Raymaker]] — AASPIRE 社群联合主任，本文联合第一作者
 - [[Christina-Nicolaidis]] — AASPIRE 学术联合主任，本文联合第一作者

@@ -10,7 +10,7 @@ updated: 2026-05-07
 
 # Francis Galton
 
-Francis Galton（弗朗西斯·高尔顿，1822-1911）是19世纪最具影响力的科学家之一。他是 Erasmus Darwin 的孙子、Charles Darwin 的表弟，创立了心理测量学、行为遗传学和优生学。
+Francis Galton（弗朗西斯·高尔顿，1822-1911）是19世纪有影响力的科学家之一。他是 Erasmus Darwin 的孙子、Charles Darwin 的表弟，创立了心理测量学、行为遗传学和优生学。
 
 ## 生平与影响
 

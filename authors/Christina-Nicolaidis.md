@@ -10,7 +10,7 @@ updated: 2026-05-21
 
 # Christina Nicolaidis
 
-Christina Nicolaidis（克里斯蒂娜·尼科莱迪斯）是 Oregon Health & Science University（OHSU）的健康服务研究者、内科医师。她最初从事非裔美国人和拉丁裔社群的 CBPR，随后将这一方法学传统开创性地适配于孤独谱系自倡导者社群。
+Christina Nicolaidis（克里斯蒂娜·尼科莱迪斯）是 Oregon Health & Science University（OHSU）的健康服务研究者、内科医师。她最初从事非裔美国人和拉丁裔社群的 CBPR，随后将这一方法学传统适配于孤独谱系自倡导者社群。
 
 ## AASPIRE 与 CBPR
 
@@ -38,4 +38,4 @@ Nicolaidis 的 AASPIRE 工作包括：
 - [[Dora-Raymaker]] — AASPIRE 社群联合主任，长期合作者
 - [[参与式行动研究]] — 本文在孤独谱系研究中的最早系统实践
 - [[神经多样性与民主研究]] — "Nothing About Us Without Us"
-- [[Raymaker2020|Raymaker et al. (2020)]] — AASPIRE 的里程碑成果
+- [[Raymaker2020|Raymaker et al. (2020)]] — AASPIRE 的重要成果

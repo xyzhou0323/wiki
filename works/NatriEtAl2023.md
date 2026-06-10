@@ -16,7 +16,7 @@ citation_apa: "Natri, H. M., Abubakare, O., Asasumasu, K., Basargekar, A., Beaud
 **年份**：2023
 **期刊**：*Autism Research*, Vol. 16, No. 04
 **DOI**：10.1002/aur.2928
-**类型**：Letter / Commentary（对 [[Singer et al. (2023)]] 的回应）
+**类型**：Letter / Commentary（对 Singer et al. (2023) 的回应）
 
 ## 定位
 

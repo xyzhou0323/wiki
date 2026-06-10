@@ -1,6 +1,6 @@
 ---
 title: Chapman & Botha (2023) — 神经殊异知情治疗
-description: 将神经多样性范式首次形式化应用于心理治疗框架——提出去病理化的神经殊异知情治疗三原则：功能障碍的关系性重构、神经殊异接纳与骄傲、治疗师的认识谦逊
+description: 将神经多样性范式首次形式化应用于心理治疗框架——提出去病理化的神经殊异知情治疗三原则：功能障碍的关系性重构、神经殊异接纳与自尊、治疗师的认识谦逊
 aliases: [ChapmanBotha2023, Neurodivergence-informed therapy, 神经多样性知情治疗]
 tags: [work, neurodiversity, autism, clinical, foundational]
 sources: [2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf]
@@ -34,14 +34,14 @@ citation_apa: "Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy
 - **个体与环境间的关系性障碍**：孤独谱系者的压力和低福祉与**社会障碍**（歧视、排斥、感官不适环境）显著相关（Botha & Frost, 2020; Renty & Roeyers, 2006），而非内在功能障碍
 - **干预方向的灵活性**：临床关系应建立在无障碍环境、协作性关系经验和承认非内部视角局限性的认识谦逊之上
 
-### 二、神经殊异接纳、骄傲与社群文化
+### 二、神经殊异接纳、自尊与社群文化
 
-以**神经殊异骄傲**（neurodivergent pride）对抗内在化污名（internalized stigma），类比 LGBTQ+ 肯定治疗（Malyon, 1982）：
+以**神经殊异自尊**（neurodivergent pride）对抗内在化污名（internalized stigma），类比 LGBTQ+ 肯定治疗（Malyon, 1982）：
 
 - 内在化污名尤其隐蔽——来自边缘化遭遇，但一旦形成可自我持续，是孤独谱系者心理困扰的最强预测因素之一
 - 积极孤独谱系社会认同对心理健康具有保护作用（Cooper et al., 2017）
 - 孤独谱系接纳（autism acceptance）与孤独谱系个体及家庭成员的高福祉相关（Cage et al., 2018; Da Paz et al., 2018）
-- 引入 **[[神经类型烦躁]]**（neurotype dysphoria）概念——个体的目标或身份认同与自身神经类型发生冲突（如孤独谱系青少年渴望成为能在神经典型主导的派对中如鱼得水的人），帮助以去病理化方式理解神经殊异者的痛苦
+- 引入 **神经类型烦躁**（neurotype dysphoria）概念——个体的目标或身份认同与自身神经类型发生冲突（如孤独谱系青少年渴望成为能在神经典型主导的派对中如鱼得水的人），帮助以去病理化方式理解神经殊异者的痛苦
 
 ### 三、治疗师的认知谦逊
 
@@ -88,9 +88,9 @@ citation_apa: "Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy
 - [[病理学范式]] — 临床替代对象
 - [[去病理化]] — 核心实践意涵
 - [[双向同理心问题]] — 关系性功能障碍的核心例证（[[Milton2012|Milton (2012)]]）
-- [[神经类型烦躁]] — Chapman (2020) 提出的相关概念
+- 神经类型烦躁 — Chapman (2020) 提出的相关概念
 - [[神经殊异]] — 本文使用的基础术语
 - [[掩饰与伪装]] — 伪装与自杀/抑郁的关联是抵制正常化的关键实证依据
 - [[神经多样性与残障]] — 社会-关系模型的理论基础
 - [[BothaEtAl2024|Botha et al. (2024)]] — Botha 与 Chapman 的后续合作，修正神经多样性概念的起源叙事
-- [[Sonuga-BarkeThapar2021|Sonuga-Barke & Thapar (2021)]] — 本文回应的《柳叶刀》评论，提出神经多样性概念的临床意涵
+- [[SonugaBarkeThapar2021|Sonuga-Barke & Thapar (2021)]] — 本文回应的《柳叶刀》评论，提出神经多样性概念的临床意涵
