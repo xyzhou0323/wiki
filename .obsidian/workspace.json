@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-批判/神经多样性与资本主义.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经多样性与资本主义"
+              "title": "README"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "778082b9ff6a2fda",
   "lastOpenFiles": [
+    "TEMPLATE.md",
     "01-基础/残障模型.md",
     "02-批判/阿斯至上主义.md"
   ]

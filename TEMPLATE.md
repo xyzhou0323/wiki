@@ -2,9 +2,9 @@
 title: 页面标题（必填）
 description: 一句话描述这个页面的内容，会显示在搜索结果和页面列表里
 aliases: [英文名, 其他别名]
-tags: []
-created: 2026-06-11
-updated: 2026-06-11
+tags: [concept, neurodiversity]
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
 ---
 
 # 页面标题
@@ -24,3 +24,8 @@ updated: 2026-06-11
 
 1. 作者 (年份) - 文献标题
 2. 作者 (年份) - 文献标题
+
+## 相关页面
+
+- [[相关页面一]] — 一句话关系描述
+- [[相关页面二]] — 一句话关系描述
