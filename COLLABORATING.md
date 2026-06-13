@@ -157,6 +157,22 @@ citation_apa: "Author, A. A. (Year). Title. Journal, Volume(Issue), Pages. https
 - 一个页面聚焦一个主题，主题过大的页面应拆分为多个子页面
 - 优先概括和总结，不要直接复制大段原文
 
+## 署名
+
+如果你新建或大幅编辑了某个页面，欢迎在页面底部署名，可链接到你的个人网站、GitHub 主页或社交媒体：
+
+```markdown
+> 贡献者：[你的名字](https://your-website.com)
+```
+
+多人贡献时用顿号分隔：
+
+```markdown
+> 贡献者：[张三](https://zhangsan.dev)、[李四](https://github.com/lisi)
+```
+
+署名行放在页面正文末尾、wikilinks 之前。此字段非强制——署名与否由贡献者自行决定。
+
 ## FAQ
 
 ### Q: 我不确定我的内容是否适合 Wiki？
