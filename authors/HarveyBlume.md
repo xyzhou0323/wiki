@@ -1,5 +1,6 @@
 ---
 title: Harvey Blume
+description: 记者、作家，1998年9月30日在The Atlantic发表"Autism & The Internet"，首次在印刷媒体中使用"神经多样性"（neurodiversity）一词
 aliases: [Harvey Blume]
 tags: [author, neurodiversity, autism, historical]
 sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf]

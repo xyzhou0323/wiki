@@ -1,5 +1,6 @@
 ---
 title: Dinah Murray
+description: 孤独谱系研究者，2005年与Mike Lesser和Wenn Lawson在Autism共同提出单一聚焦（Monotropism）理论——孤独谱系社群自我理论化的关键成果
 aliases: [Dinah Murray]
 tags: [person, researcher, autism, monotropism]
 created: 2026-05-08

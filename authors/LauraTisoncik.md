@@ -1,5 +1,6 @@
 ---
 title: Laura Tisoncik
+description: 孤独谱系活动家，1998年联合创建讽刺网站"神经典型研究所"（ISNT），以精神病学语言反向审视神经典型者——早期"颠倒凝视"的创造性抗争
 aliases: [Laura Tisoncik]
 tags: [person, activist, neurodiversity]
 created: 2026-05-08
