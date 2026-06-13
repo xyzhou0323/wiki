@@ -13,7 +13,7 @@ citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., Mc
 
 引用：Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., McClintick, J., Pfender, E., & Carrasco, R. (2020). Teaching and researching with a mental health diagnosis: Practices and perspectives on academic ableism. _Rhetoric of Health & Medicine_, _3_(2), Article 1.
 
-**作者**：Ann E. Green、[[AlyssaHillary|Alyssa Hillary]]（以 "Alyssa _" 署名）、Lucía Durá、Patrick Harris、Leah Heilig、Bailey Kirby、Jay McClintick、Emily Pfender、Rebecca Carrasco
+**作者**：Ann E. Green、[[Alyssa-Hillary|Alyssa Hillary]]（以 "Alyssa _" 署名）、Lucía Durá、Patrick Harris、Leah Heilig、Bailey Kirby、Jay McClintick、Emily Pfender、Rebecca Carrasco
 **年份**：2020
 **来源**：Rhetoric of Health & Medicine
 **学科**：修辞学、残障研究、健康传播
@@ -26,7 +26,7 @@ citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., Mc
 
 ### 诊断之路的挣扎
 
-多位作者描述了获取正确诊断的曲折过程——在危机时刻才得以获得诊断和治疗，而非在早期预防阶段。Leah 指出："获得诊断比大多数人意识到的要困难得多，尤其是在医疗服务如此紧缩、精神疾病叙事仍容易被忽视的情况下。" 这呼应了[[病理学范式]]中诊断作为"社会建构的不可变真理"（Molloy 2015）的批判。
+多位作者描述了获取正确诊断的曲折过程——在危机时刻才得以获得诊断和治疗，而非在早期预防阶段。Leah 指出："获得诊断比大多数人意识到的要困难得多，尤其是在医疗服务如此紧缩、精神疾病叙事仍容易被忽视的情况下。" 这呼应了[[常态范式]]中诊断作为"社会建构的不可变真理"（Molloy 2015）的批判。
 
 ### 披露的复杂抉择
 
@@ -72,7 +72,7 @@ citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., Mc
 
 ## Related
 
-- [[AlyssaHillary|Alyssa Hillary]] — 合著者（以 "Alyssa _" 署名）
+- [[Alyssa-Hillary|Alyssa Hillary]] — 合著者（以 "Alyssa _" 署名）
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 主题 7 精選文獻：將本文納入神經多樣性入門閱讀清單
 - [[神经多样性与民主研究]] — 参与式方法论与多声部研究的交叉
 - [[去病理化]] — 对话中对 DSM 诊断框架的批判与此交叉

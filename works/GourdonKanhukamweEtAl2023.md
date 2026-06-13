@@ -12,7 +12,7 @@ citation_apa: "Gourdon-Kanhukamwe, A., Kalandadze, T., Yeung, S. K., Azevedo, F.
 
 引用：Gourdon-Kanhukamwe, A., et al. (2023). Opening up understanding of neurodiversity: A call for applying participatory and open scholarship practices. *The Cognitive Psychology Bulletin, 1*(8), 23–27. https://doi.org/10.53841/bpscog.2023.1.8.23
 
-**作者**：[[AmelieGourdonKanhukamwe]]（第一作者）、Tamara Kalandadze、Siu Kit Yeung、Flavio Azevedo、Bethan Iley、Jenny Mai Phan、Anusha V. Ramji、John J. Shaw、[[MirelaZaneva]]、Marie Dokovova、Helena Hartmann、[[StevenKapp|Steven K. Kapp]]、Kayleigh L. Warrington、FORRT、[[MahmoudMElsherif]]（通讯作者）
+**作者**：[[Amelie-Gourdon-Kanhukamwe]]（第一作者）、Tamara Kalandadze、Siu Kit Yeung、Flavio Azevedo、Bethan Iley、Jenny Mai Phan、Anusha V. Ramji、John J. Shaw、[[Mirela-Zaneva]]、Marie Dokovova、Helena Hartmann、[[Steven-Kapp|Steven K. Kapp]]、Kayleigh L. Warrington、FORRT、[[Mahmoud-M-Elsherif]]（通讯作者）
 **年份**：2023
 **期刊**：*The Cognitive Psychology Bulletin*（英国心理学会），Vol. 1, No. 08
 **DOI**：10.53841/bpscog.2023.1.8.23
@@ -38,10 +38,10 @@ citation_apa: "Gourdon-Kanhukamwe, A., Kalandadze, T., Yeung, S. K., Azevedo, F.
 
 ## Related
 
-- [[AmelieGourdonKanhukamwe]] — 第一作者
+- [[Amelie-Gourdon-Kanhukamwe]] — 第一作者
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 收录本文为精选文献的阅读清单（主题 9）
-- [[MirelaZaneva]] — 联名作者
-- [[StevenKapp|Steven K. Kapp]] — 联名作者
-- [[MahmoudMElsherif]] — 通讯作者，FORRT 神经多样性团队领导者
+- [[Mirela-Zaneva]] — 联名作者
+- [[Steven-Kapp|Steven K. Kapp]] — 联名作者
+- [[Mahmoud-M-Elsherif]] — 通讯作者，FORRT 神经多样性团队领导者
 - [[神经多样性与民主研究]] — 参与式研究框架
 - [[神经多样性范式]] — 理论根基

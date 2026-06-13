@@ -14,7 +14,7 @@ citation_apa: "Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy
 
 引用：Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy. *Developmental Medicine & Child Neurology, 65*(3), 310–317. https://doi.org/10.1111/dmcn.15384
 
-**作者**：[[RobertChapman|Robert Chapman]]（Sheffield Hallam University）、[[MoniqueBotha|Monique Botha]]（University of Stirling）
+**作者**：[[Robert-Chapman|Robert Chapman]]（Sheffield Hallam University）、[[Monique-Botha|Monique Botha]]（University of Stirling）
 
 **发表**：*Developmental Medicine & Child Neurology* (2023), 65(3):310–317（受邀综述，在线发表于 2022 年）
 
@@ -67,8 +67,8 @@ citation_apa: "Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy
 | 术语 | 定义 |
 |------|------|
 | **神经多样性（neurodiversity）** | 人类神经认知功能的自然变异，是生物多样性的一个方面 |
-| **神经多样性范式** | 由 [[NickWalker|Walker (2012)]] 系统化的理解人类心智变异、能力与残障的新框架 |
-| **病理学范式** | 主导范式——以相对受限的认知功能规范为标准，将偏离视为障碍、疾病或功能障碍 |
+| **神经多样性范式** | 由 [[Nick-Walker|Walker (2012)]] 系统化的理解人类心智变异、能力与残障的新框架 |
+| **常态范式** | 主导范式——以相对受限的认知功能规范为标准，将偏离视为障碍、疾病或功能障碍 |
 | **神经殊异（neurodivergent）** | 偏离社会规范性期望的神经认知功能 |
 | **神经典型（neurotypical）** | 符合社会规范性期望的神经认知功能 |
 | **神经少数群体（neurominority）** | 在特定社会中被边缘化的神经认知少数群体 |
@@ -82,10 +82,10 @@ citation_apa: "Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy
 
 ## Related
 
-- [[RobertChapman]] — 第一作者
-- [[MoniqueBotha]] — 第二作者
+- [[Robert-Chapman]] — 第一作者
+- [[Monique-Botha]] — 第二作者
 - [[神经多样性范式]] — 本文试图应用于临床的核心范式
-- [[病理学范式]] — 临床替代对象
+- [[常态范式]] — 临床替代对象
 - [[去病理化]] — 核心实践意涵
 - [[双向同理心问题]] — 关系性功能障碍的核心例证（[[Milton2012|Milton (2012)]]）
 - 神经类型烦躁 — Chapman (2020) 提出的相关概念

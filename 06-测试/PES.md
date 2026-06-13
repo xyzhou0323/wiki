@@ -1,7 +1,7 @@
 ---
 title: PES
 description: 珀斯同理心量表——测量识别、理解和分享他人情感的能力，区分正负性情绪和认知/情感同理心，由 Brett et al. (2023) 开发
-aliases: [PES 珀斯同理心量表, 珀斯同理心量表, Perth Empathy Scale]
+aliases: [PES, PES 珀斯同理心量表, 珀斯同理心量表, Perth Empathy Scale]
 tags: [test, empathy, autism, neurodiversity]
 sources: [Brett et al. 2023]
 created: 2026-05-08

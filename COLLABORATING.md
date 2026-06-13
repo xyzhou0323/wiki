@@ -55,7 +55,7 @@
 ---
 title: 页面标题
 description: 一句话描述这个页面的内容，会显示在搜索结果和页面列表里
-aliases: [英文名, 其他别名]
+aliases: [英文/缩写, 中文别名, ...]  ← 首个别名应为英文或缩写（决定部署 URL 路径）
 tags: [类型标签, 领域标签]
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
@@ -67,9 +67,9 @@ updated: YYYY-MM-DD
 | 页面类型 | 格式 | 示例 |
 |----------|------|------|
 | 概念页 | 中文，无分隔符 | `神经多样性教育.md` |
-| 作者页 | `FirstNameLastName.md`（CamelCase，无连字符） | `RobertChapman.md` |
+| 作者页 | `FirstName-LastName.md`（连字符分隔） | `Robert-Chapman.md` |
 | 著作页 | `AuthorYear.md` | `Chapman2023.md` |
-| 测试页 | 缩写（CamelCase，无连字符） | `AQChild.md`、`RAADSR.md` |
+| 测试页 | 缩写（连字符分隔） | `AQ-Child.md`、`RAADS-R.md` |
 
 - 文件名避免特殊符号 `# ? / \ : * " < > |`
 - 英文概念保留英文原名，中文译名放入 `aliases`

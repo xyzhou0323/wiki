@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "06-测试/AQ-Child.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "AQ-Child"
             }
           }
         ]
@@ -182,6 +182,9 @@
   },
   "active": "778082b9ff6a2fda",
   "lastOpenFiles": [
+    "COLLABORATING.md.tmp.40000.29f64c1de216",
+    "CATQ.md",
+    "README.md",
     "CONTRIBUTING.md.tmp.12116.9aff92f2f96c",
     "CONTRIBUTING.md.tmp.12116.a4097c9b8afb",
     "TEMPLATE.md",

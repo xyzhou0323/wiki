@@ -13,7 +13,7 @@ citation_apa: "Runswick-Cole, K. (2014). 'Us' and 'them': the limits and possibi
 
 引用：Runswick-Cole, K. (2014). 'Us' and 'them': the limits and possibilities of a 'politics of neurodiversity' in neoliberal times. *Disability & Society, 29*(7), 1117–1129. https://doi.org/10.1080/09687599.2014.910107
 
-**作者**：[[KatherineRunswickCole]]（Manchester Metropolitan University）
+**作者**：[[Katherine-Runswick-Cole]]（Manchester Metropolitan University）
 
 **发表**：*Disability & Society* (2014), 29(7):1117–1129
 
@@ -62,7 +62,7 @@ Runswick-Cole 系统分析了"神经多样性政治"（politics of neurodiversit
 ### 3. 群体的 homogenization
 
 - "神经多元"和"神经典型"的二元构建必然导致**各自群体内部的 homogenization**
-- 残障研究已批评社会模式 homogenize 残障者经验——而神经多样性政治依赖的是同样的二元逻辑
+- 残障研究已批评社会模型 homogenize 残障者经验——而神经多样性政治依赖的是同样的二元逻辑
 - 存在严重风险：神经多样性政治将**无法关注**其他形式的边缘化——包括异性恋/性别主义、种族主义、贫困和帝国主义，以及它们之间的**交叉**
 
 ## 替代路径：从身份政治到"身份的政治"
@@ -93,4 +93,4 @@ Runswick-Cole 借用 Ruffolo (2009) 的区分：
 - [[神经多样性的去殖民化]] — ND 政治在全球层面的进一步追问
 - [[NairEtAl2024|Nair et al. (2024)]] — ND 作为全球北方白人范式的去殖民化批判
 - [[庸俗版神经多样性]] — 神经多样性话语被商品化和收编的具体形式
-- [[KatherineRunswickCole]] — 本文作者
+- [[Katherine-Runswick-Cole]] — 本文作者

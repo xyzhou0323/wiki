@@ -14,7 +14,7 @@ doi: 10.1037/a0028353
 
 引用：Kapp, S. K., Gillespie-Lynch, K., Sherman, L. E., & Hutman, T. (2013). Deficit, difference, or both? Autism and neurodiversity. *Developmental Psychology, 49*(1), 59–71. https://doi.org/10.1037/a0028353
 
-**作者**：[[StevenKapp|Steven K. Kapp]]、Kristen Gillespie-Lynch、Lauren E. Sherman、Ted Hutman（均来自 UCLA）
+**作者**：[[Steven-Kapp|Steven K. Kapp]]、Kristen Gillespie-Lynch、Lauren E. Sherman、Ted Hutman（均来自 UCLA）
 **发表**：2012 年 4 月 30 日在线首发，*Developmental Psychology* 2013 年第 49 卷第 1 期
 **类型**：定量实证研究（在线调查）
 **样本**：N = 657（孤独谱系者、亲友、无关联者）
@@ -119,10 +119,10 @@ doi: 10.1037/a0028353
 
 ## Related
 
-- [[StevenKapp]] — 第一作者与通讯作者
+- [[Steven-Kapp]] — 第一作者与通讯作者
 - [[Kapp2020|Kapp (2020)]] — Kapp 后续主编的运动史文集
 - [[Milton2012|Milton (2012)]] — 同期发表在 *Disability & Society* 的 DEP 概念
 - [[PellicanodenHouting2022|Pellicano & den Houting (2022)]] — 后续的库恩范式转型论证
 - [[神经多样性运动]] — 本文是早期运动的实证基础
 - [[双向同理心问题]] — 本文结论与 DEP 的"沟通是双向的"呼应
-- [[残障的社会模式]] — Kapp 指出运动并非纯粹社会模式立场
+- [[残障的社会模型]] — Kapp 指出运动并非纯粹社会模型立场

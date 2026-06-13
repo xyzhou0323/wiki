@@ -15,7 +15,7 @@ citation_apa: "Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard As
 引用：Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard Ashley, A., & Walker, N. (2024). The neurodiversity concept was developed collectively: An overdue correction on the origins of neurodiversity theory. Autism, 28(6), 1591-1594. https://doi.org/10.1177/13623613241237871
 
 
-**作者**（按字母顺序）：Monique Botha, [[RobertChapman]], Morénike Giwa Onaiwu, [[StevenKapp]], Abs Stannard Ashley, [[NickWalker]]
+**作者**（按字母顺序）：Monique Botha, [[Robert-Chapman]], Morénike Giwa Onaiwu, [[Steven-Kapp]], Abs Stannard Ashley, [[Nick-Walker]]
 **发表**：2024年，*Autism* 期刊（SAGE）
 **原文**：https://journals.sagepub.com/doi/full/10.1177/13623613241237871
 **中文科普**：["神经多样性"的诞生：一段被遗忘的社群历史](https://neurobridge.cn/docs/neurodiversity/collectiveorigin/)（作者：XyZ，基于 Botha et al. 2024 撰写的科普文章）
@@ -46,8 +46,8 @@ citation_apa: "Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard As
 
 **Harvey Blume——第一个在出版物中使用术语的记者**：
 
-- 1997年：[[HarveyBlume|Blume]] 发表关于"neurological diversity"的文章
-- 1998年：[[HarveyBlume|Blume]] 发表关于"neurodiversity"的文章（*The Atlantic*）
+- 1997年：[[Harvey-Blume|Blume]] 发表关于"neurological diversity"的文章
+- 1998年：[[Harvey-Blume|Blume]] 发表关于"neurodiversity"的文章（*The Atlantic*）
 - 关键：**Blume 将这些概念归功于在线孤独谱系社群**（如"研究神经典型者的研究所"ISNT），而非 Singer
 - 在 Singer 叙事中，Blume 被说成是从 Singer 那里听到这个词的——但这一说法从未被 Blume 本人证实
 
@@ -61,7 +61,7 @@ citation_apa: "Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard As
 ## 更早的运动起源
 
 - **1992年**：国际孤独谱系网络（Autism Network International, ANI）成立
-- **[[JimSinclair]]**（酷儿双性人活动家）：1993年撰写具有奠基意义的 [[Sinclair1993|"Don't Mourn for Us"]]，被描述为"神经多样性运动的试金石"
+- **[[Jim-Sinclair]]**（酷儿双性人活动家）：1993年撰写具有奠基意义的 [[Sinclair1993|"Don't Mourn for Us"]]，被描述为"神经多样性运动的试金石"
 - **Ed Roberts、Judy Heumann、Anita Cameron**（孤独谱系者）等人的跨残障倡导工作为神经多样性理论奠定了基础
 - **Kassiane Asasuasu**：2000年创造"[[神经殊异|neurodivergent]]"和"neurodivergence"两个术语
 
@@ -77,12 +77,12 @@ citation_apa: "Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard As
 - [[神经多样性范式]] — 这一集体运动所发展的核心范式
 - [[神经殊异]] — Kassiane Asasuasu 创造的术语
 - [[Sinclair1993|Sinclair (1993)]] — Jim Sinclair 的奠基宣言
-- [[JimSinclair]] — 运动奠基人
-- [[HarveyBlume]] — 首位在印刷中使用术语的记者
+- [[Jim-Sinclair]] — 运动奠基人
+- [[Harvey-Blume]] — 首位在印刷中使用术语的记者
 - [[Singer2017|Singer (2017)]] — Singer 在本书修正后自费出版的个人叙事，声称自己是术语创造者
-- [[JudySinger]] — 被修正叙事中的当事人，最早学术使用者之一
+- [[Judy-Singer]] — 被修正叙事中的当事人，最早学术使用者之一
 - [[Silberman2015|Silberman (2015)]] — 传播 Singer 叙事的作品
-- [[StevenKapp]] — 合著者之一，Kapp (2020) 主编
-- [[NickWalker]] — 合著者之一，Walker (2021) 作者
-- [[RobertChapman]] — 合著者之一
+- [[Steven-Kapp]] — 合著者之一，Kapp (2020) 主编
+- [[Nick-Walker]] — 合著者之一，Walker (2021) 作者
+- [[Robert-Chapman]] — 合著者之一
 - [[Chapman2023|Chapman (2023)]] — Chapman 对资本主义与神经规范性的系统分析

@@ -1,7 +1,7 @@
 ---
 title: ACOS
 description: ADHD 临床结果量表——评估 ADHD 核心症状、共现心理健康困难和日常功能挑战，适用于长期追踪
-aliases: [ACOS ADHD临床结果量表, ADHD临床结果量表, ADHD Clinical Outcome Scale]
+aliases: [ACOS, ACOS ADHD临床结果量表, ADHD临床结果量表, ADHD Clinical Outcome Scale]
 tags: [test, ADHD, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-09
@@ -96,7 +96,7 @@ ACOS 具有良好的心理测量特性（Adamis 等, 2024）：
 
 ## 相关测试
 
-- [[RAADSR]] 和 [[CATI]] 评估孤独谱系特征，ADHD 与孤独谱系存在高度共现
+- [[RAADS-R]] 和 [[CATI]] 评估孤独谱系特征，ADHD 与孤独谱系存在高度共现
 
 ## Related
 
@@ -104,4 +104,4 @@ ACOS 具有良好的心理测量特性（Adamis 等, 2024）：
 - [[神经殊异]] — ADHD 作为神经殊异的一种形式
 - [[神经多样性范式]] — 理解 ADHD 的理论框架
 - [[孤独谱系障碍]] — 与 ADHD 高度共现的神经发育类型
-- [[RAADSR]] 和 [[CATI]] — 评估孤独谱系特征的测试
+- [[RAADS-R]] 和 [[CATI]] — 评估孤独谱系特征的测试

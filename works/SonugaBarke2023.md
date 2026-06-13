@@ -12,7 +12,7 @@ citation_apa: "Sonuga-Barke, E. J. S. (2023). Paradigm 'flipping' to reinvigorat
 
 引用：Sonuga-Barke, E. J. S. (2023). Paradigm 'flipping' to reinvigorate translational science: Outlining a neurodevelopmental science framework from a 'neurodiversity' perspective. *Journal of Child Psychology and Psychiatry, 64*(10), 1405–1408. https://doi.org/10.1111/jcpp.13886
 
-**作者**：[[EdmundSonugaBarke|Edmund J. S. Sonuga-Barke]]（King's College London，JCPP 主编）
+**作者**：[[Edmund-Sonuga-Barke|Edmund J. S. Sonuga-Barke]]（King's College London，JCPP 主编）
 **年份**：2023
 **期刊**：*Journal of Child Psychology and Psychiatry*, Vol. 64, No. 10, pp. 1405–1408
 **DOI**：10.1111/jcpp.13886
@@ -71,9 +71,9 @@ RE-STAR（Regulating Emotions – Strengthening Adolescent Resilience）是研�
 
 ## Related
 
-- [[EdmundSonugaBarke|Edmund J. S. Sonuga-Barke]] — 作者，JCPP 主编
+- [[Edmund-Sonuga-Barke|Edmund J. S. Sonuga-Barke]] — 作者，JCPP 主编
 - [[SonugaBarkeThapar2021|Sonuga-Barke & Thapar (2021)]] — 作者与 Thapar 的联合立场声明
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 收录本文为精选文献的阅读清单（主题 6）
 - [[神经多样性范式]] — 本文提出的"分歧范式"的理论基础
 - [[PellicanodenHouting2022|Pellicano & den Houting (2022)]] — 同以 Kuhn 范式框架论证孤独谱系科学转型
-- [[AnitaThapar]] — 与作者合作提出 ND-临床整合论
+- [[Anita-Thapar]] — 与作者合作提出 ND-临床整合论

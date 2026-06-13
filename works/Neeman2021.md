@@ -14,7 +14,7 @@ doi: 10.1001/amajethics.2021.569
 
 引用：Ne'eman, A. (2021). When disability is defined by behavior, outcome measures should not promote "passing". AMA Journal of Ethics, 23(7), E569-E575. https://doi.org/10.1001/amajethics.2021.569
 
-**作者**：[[AriNe'eman|Ari Ne'eman]]（哈佛大学健康政策博士候选人）
+**作者**：[[Ari-Ne'eman|Ari Ne'eman]]（哈佛大学健康政策博士候选人）
 **发表**：*AMA Journal of Ethics* (2021), 23(7), E569-E575
 **类型**：伦理学分析
 
@@ -130,9 +130,9 @@ Manuel Casanova 等批评者暗示神经多样性反对一切干预——"有头
 - [[掩饰与伪装]] — 本文系统论证了扮装（passing）/掩饰的内化伤害
 - [[去病理化]] — 本文的"神经多样性透镜"框架是对去病理化的实践操作化
 - [[孤独谱系倦怠]] — 扮装是倦怠的主要触发因素之一
-- [[CATQ]] — 本文从伦理角度批判了以消除诊断特质为目标的结果测量，互补于 [[ArnoldEtAl2026|Arnold et al. (2026)]] 从方法论角度的批判
+- [[CAT-Q]] — 本文从伦理角度批判了以消除诊断特质为目标的结果测量，互补于 [[ArnoldEtAl2026|Arnold et al. (2026)]] 从方法论角度的批判
 - [[ArnoldEtAl2026|Arnold et al. (2026)]] — 掩饰概念化与方法论问题的系统综述，与本文形成伦理-方法论互补
 - [[Dwyer2022|Dwyer (2022)]] — 互动主义/生态模型：区分"无意正常化"与"刻意正常化"，与本文的正常化批判一致
 - [[Dwyer2025|Dwyer et al. (2025)]] — 504 人实证确认：正常化为明确红线
 - [[神经多样性与残障]] — 本文的"以特质为导向"框架是 ND-残障关系的实践解决方案
-- [[AriNe'eman]] — 作者页
+- [[Ari-Ne'eman]] — 作者页

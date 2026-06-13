@@ -14,7 +14,7 @@ citation_apa: "Singer, J. (2017). NeuroDiversity: The birth of an idea. Self-pub
 引用：Singer, J. (2017). NeuroDiversity: The birth of an idea. Self-published.
 
 
-**作者**：[[JudySinger]]（澳大利亚社会学者）
+**作者**：[[Judy-Singer]]（澳大利亚社会学者）
 **发表**：2017 年（自出版），基于 1997-98 年 Honours 论文
 **类型**：自传式学术论述——扩展的本科论文
 **中译**：中文-英文双语 PDF（Kimi + DeepSeek 翻译）
@@ -23,7 +23,7 @@ citation_apa: "Singer, J. (2017). NeuroDiversity: The birth of an idea. Self-pub
 
 *NeuroDiversity: The Birth of an Idea*（2017）是 Judy Singer 对其 1998 年 Honours 论文 *Odd People In: The Birth of Community amongst people on the Autistic Spectrum* 的自出版扩写。该书旨在确立 Singer 作为"神经多样性"（neurodiversity）一词的创造者的历史地位。
 
-Singer 在书中详述了她1990年代参与孤独谱系在线社区的历程，以及她通过残障研究（Disability Studies）的理论框架——尤其是社会模式——来理解自身家庭经历（母亲、自己和女儿均处于孤独谱系特征光谱上）的学术努力。
+Singer 在书中详述了她1990年代参与孤独谱系在线社区的历程，以及她通过残障研究（Disability Studies）的理论框架——尤其是社会模型——来理解自身家庭经历（母亲、自己和女儿均处于孤独谱系特征光谱上）的学术努力。
 
 ## 核心主张
 
@@ -31,7 +31,7 @@ Singer 在书中详述了她1990年代参与孤独谱系在线社区的历程，
 
 Singer 1998 年发表的书籍章节 *Why Can't You Be Normal for Once in Your Life?* 中写道：
 
-> 对我而言，"孤独谱系"的意义在于它呼唤并预期一种神经多样性的政治（a politics of Neurological Diversity），或"神经多样性"（Neurodiversity）。"神经不同者"代表了阶级/性别/种族这些熟悉的政治范畴之外的新增维度，并将增强残障社会模式的洞见。
+> 对我而言，"孤独谱系"的意义在于它呼唤并预期一种神经多样性的政治（a politics of Neurological Diversity），或"神经多样性"（Neurodiversity）。"神经不同者"代表了阶级/性别/种族这些熟悉的政治范畴之外的新增维度，并将增强残障社会模型的洞见。
 
 ### 与 Harvey Blume 的关系
 
@@ -64,14 +64,14 @@ Singer 在书中有专门一节讨论"谁真正创造了这个词？"（So, who 
 2. **Jones & Orchard（2024）** 揭示了 Singer 原文中对学习障碍者的**奠基性排斥**——将"摇晃、情感封闭、智力受损的儿童"排除在外的做法
 3. Singer 仅关注高功能/阿斯伯格群体，这一定位并非偶然，而是其理论的构成性特征
 
-尽管如此，Singer 的工作仍然是神经多样性学术化的最早尝试之一——她将残障社会模式系统性地应用于正在浮现的孤独谱系自倡导运动，这是有价值的理论贡献。
+尽管如此，Singer 的工作仍然是神经多样性学术化的最早尝试之一——她将残障社会模型系统性地应用于正在浮现的孤独谱系自倡导运动，这是有价值的理论贡献。
 
 ## Related
 
-- [[JudySinger]] — 作者
+- [[Judy-Singer]] — 作者
 - [[BothaEtAl2024|Botha et al. (2024)]] — 对本书核心主张的学术修正
 - [[JonesOrchard2024|Jones & Orchard (2024)]] — 对 Singer 奠基性排斥的批判
 - [[神经多样性运动]] — 1990年代至今的运动史（含 Botha 修正）
 - [[神经多样性]] — 概念的完整定义与区分
-- [[残障的社会模式]] — Singer 理论框架的核心来源
+- [[残障的社会模型]] — Singer 理论框架的核心来源
 - [[Silberman2015|Silberman (2015)]] — Silberman 将 Singer 推上术语创造者地位的作品

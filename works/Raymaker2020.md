@@ -14,7 +14,7 @@ citation_apa: "Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer,
 
 引用：Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer, M., Delos Santos, A., Kapp, S. K., Hunter, M., Joyce, A., & Nicolaidis, C. (2020). "Having all of your internal resources exhausted beyond measure and being left with no clean-up crew": Defining autistic burnout. *Autism in Adulthood*, 2(2), 132-143. https://doi.org/10.1089/aut.2019.0079
 
-**作者**：[[DoraRaymaker|Dora M. Raymaker]]、Alan R. Teo、Nicole A. Steckler、Brandy Lentz、Mirah Scharer、Austin Delos Santos、[[StevenKapp|Steven K. Kapp]]、Morrigan Hunter、Andee Joyce、Christina Nicolaidis
+**作者**：[[Dora-Raymaker|Dora M. Raymaker]]、Alan R. Teo、Nicole A. Steckler、Brandy Lentz、Mirah Scharer、Austin Delos Santos、[[Steven-Kapp|Steven K. Kapp]]、Morrigan Hunter、Andee Joyce、Christina Nicolaidis
 **期刊**：*Autism in Adulthood*，第 2 卷，第 2 期，第 132–143 页
 **DOI**：[10.1089/aut.2019.0079](https://doi.org/10.1089/aut.2019.0079)
 **发表**：2020 年 6 月 10 日在线发表
@@ -113,12 +113,12 @@ citation_apa: "Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer,
 
 ## Related
 
-- [[DoraRaymaker]] — 第一作者，CBPR 方法论专家
-- [[StevenKapp]] — 合著者
+- [[Dora-Raymaker]] — 第一作者，CBPR 方法论专家
+- [[Steven-Kapp]] — 合著者
 - [[孤独谱系倦怠]] — Wiki 概念页面
 - [[掩饰与伪装]] — 倦怠的核心触发因素
 - [[双向同理心问题]] — 神经典型环境持续压力源的理论基础
 - [[Dwyer2022|Dwyer (2022)]] — 将孤独谱系倦怠列为社群自我理论化的关键成果
 - [[单一聚焦]] — 同为社群原创理论概念
-- [[残障的社会模式]] — 环境改造而非个体正常化的理论依据
+- [[残障的社会模型]] — 环境改造而非个体正常化的理论依据
 - [[MantzalasEtAl2024|Mantzalas et al. (2024)]] — ABM 的首次公开发表心理测量验证，AASPIRE 同一研究脉络的量化延伸

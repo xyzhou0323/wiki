@@ -12,7 +12,7 @@ updated: 2026-05-10
 
 引用：Chapman, R. (2025, April 4). Yes, it really is possible for everyone to be neurodivergent. *Neurodiversity and Capitalism*. https://substack.com/@neurodiversityandcapitalism/p-160531383
 
-**作者**：[[RobertChapman|Robert Chapman]]
+**作者**：[[Robert-Chapman|Robert Chapman]]
 **发表**：*Neurodiversity and Capitalism* (Substack), 2025-04-04
 **类型**：博客文章
 
@@ -48,7 +48,7 @@ Chapman 指出，这种论调的真正驱动力并非对概念精确性的学术
 ## Related
 
 - [[神经多样性批判与回应]] — 批评四直接引用本文
-- [[RobertChapman]] — 作者页
+- [[Robert-Chapman]] — 作者页
 - [[神经殊异]] — 本文论证的核心概念
 - [[神经多样性范式]] — 本文所基于的理论框架
 - [[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]] — 第5章对自我认同问题的扩展讨论

@@ -15,7 +15,7 @@ citation_apa: "Pellicano, E., & den Houting, J. (2022). Annual Research Review: 
 引用：Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from 'normal science' to neurodiversity in autism science. Journal of Child Psychology and Psychiatry, 63(4), 381-396. https://doi.org/10.1111/jcpp.13534
 
 
-**作者**：[[ElizabethPellicano|Elizabeth Pellicano]]（麦考瑞大学教育学院 / 孤独谱系生活合作研究中心）和 [[JacquilinedenHouting|Jacquiline den Houting]]（同上）
+**作者**：[[Elizabeth-Pellicano|Elizabeth Pellicano]]（麦考瑞大学教育学院 / 孤独谱系生活合作研究中心）和 [[Jacquiline-den-Houting|Jacquiline den Houting]]（同上）
 **发表**：*Journal of Child Psychology and Psychiatry* (2022), 63(4): 381–396
 **类型**：年度研究综述（Annual Research Review），英中双语版
 
@@ -91,8 +91,8 @@ citation_apa: "Pellicano, E., & den Houting, J. (2022). Annual Research Review: 
 - [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — 同一作者同年的相关政治分析
 - [[Milton2022|Milton (2022)]] — 本文以双重共情问题为核心理论支撑
 - [[去病理化]] — 本文"多样性非缺陷"框架的直接应用
-- [[残障的社会模式]] — 本文"情境很重要"论证的理论背景
+- [[残障的社会模型]] — 本文"情境很重要"论证的理论背景
 - [[孤独谱系障碍]] — 本文讨论的核心对象
-- [[ElizabethPellicano|Elizabeth Pellicano]]
+- [[Elizabeth-Pellicano|Elizabeth Pellicano]]
 - [[denHouting2019|den Houting (2019)]] — 本文方法论立场的早期版本：内部人视角与三大误解澄清
-- [[JacquilinedenHouting|Jacquiline den Houting]]
+- [[Jacquiline-den-Houting|Jacquiline den Houting]]
