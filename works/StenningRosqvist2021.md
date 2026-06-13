@@ -18,13 +18,13 @@ doi: 10.1080/09687599.2021.1919503
 
 ## 定位
 
-发表于 _Disability & Society_ 的"Current Issue"（当前议题）文章，是 [[RosqvistEtAl2020]] 编辑卷的后续理论阐述。两位作者——[[Anna-Stenning]] 和 [[Hanna-Bertilsdotter-Rosqvist]]——在该编辑卷出版后，进一步澄清"神经多样性研究"（neurodiversity studies）作为批判范式的理论基础和方法论方向。开放获取（CC BY-NC-ND 4.0），截至 2021 年已有 29,000+ 浏览量、72+ 引用。
+发表于 _Disability & Society_ 的"Current Issue"（当前议题）文章，是 [[RosqvistEtAl2020]] 编辑卷的后续理论阐述。两位作者——[[AnnaStenning]] 和 [[HannaBertilsdotterRosqvist]]——在该编辑卷出版后，进一步澄清"神经多样性研究"（neurodiversity studies）作为批判范式的理论基础和方法论方向。开放获取（CC BY-NC-ND 4.0），截至 2021 年已有 29,000+ 浏览量、72+ 引用。
 
 ## 核心主张
 
 ### 神经发育分类作为"移动目标"
 
-借用 [[Robert-Chapman|Chapman (2020)]] 的表述，神经发育分类和神经殊异的集体概念是**"移动目标"（moving target）**——它回应文化和社会需求，同时也回应人类之间潜在的无限神经差异。因此，不应假设神经多样性必然对应于现有临床类别（以孤独谱系为核心范例），而应为其他尚未被定义的差异形式留出空间。
+借用 [[RobertChapman|Chapman (2020)]] 的表述，神经发育分类和神经殊异的集体概念是**"移动目标"（moving target）**——它回应文化和社会需求，同时也回应人类之间潜在的无限神经差异。因此，不应假设神经多样性必然对应于现有临床类别（以孤独谱系为核心范例），而应为其他尚未被定义的差异形式留出空间。
 
 ### 对神经多样性的三种理解取向
 
@@ -79,10 +79,10 @@ doi: 10.1080/09687599.2021.1919503
 
 文章引用的主要人物和著作：
 
-- **[[Jim-Sinclair|Sinclair (1992)]]**："Bridging the Gaps"——"神经殊异者遇到的问题"vs"我们就是问题"
-- **[[Robert-Chapman|Chapman (2020)]]**：神经发育分类作为"移动目标"
-- **[[Judy-Singer|Singer (2017)]]**：神经多样性的诞生，第一波女性主义类比
-- **[[Harvey-Blume|Blume (1998)]]**：_The Atlantic_ 文章首次将术语引入出版物
+- **[[JimSinclair|Sinclair (1992)]]**："Bridging the Gaps"——"神经殊异者遇到的问题"vs"我们就是问题"
+- **[[RobertChapman|Chapman (2020)]]**：神经发育分类作为"移动目标"
+- **[[JudySinger|Singer (2017)]]**：神经多样性的诞生，第一波女性主义类比
+- **[[HarveyBlume|Blume (1998)]]**：_The Atlantic_ 文章首次将术语引入出版物
 - **Ian Hacking (2007)**："Kinds of People: Moving Targets"——"科学发现引擎"
 - **E.O. Wilson (1985)**：生物多样性危机
 - **Woods, Milton, Arnold & Graby (2018)**："Redefining Critical Autism Studies"
@@ -92,10 +92,10 @@ doi: 10.1080/09687599.2021.1919503
 
 - [[RosqvistEtAl2020]] — 本文的理论基础（编辑卷），第 16 章已初步提出 ND Studies 框架
 - [[神经多样性研究]] — 本文所阐述的批判范式概念页
-- [[Anna-Stenning]]、[[Hanna-Bertilsdotter-Rosqvist]] — 作者
-- [[Robert-Chapman]] — "移动目标"概念、编辑卷第 4/14 章
-- [[Jim-Sinclair]] — 第三取向的精神来源
-- [[Judy-Singer]]、[[Harvey-Blume]] — 第一/二取向的代表人物
+- [[AnnaStenning]]、[[HannaBertilsdotterRosqvist]] — 作者
+- [[RobertChapman]] — "移动目标"概念、编辑卷第 4/14 章
+- [[JimSinclair]] — 第三取向的精神来源
+- [[JudySinger]]、[[HarveyBlume]] — 第一/二取向的代表人物
 - [[神经多样性]] — 本文批判了其与生物多样性的类比
 - [[神经规范性]] — 本文重新框架医学模型的核心批判对象
 - [[神经多样性与资本主义]] — 第二取向（新自由主义收编）的系统分析

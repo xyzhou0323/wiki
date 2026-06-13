@@ -14,7 +14,7 @@ citation_apa: "Chapman, R., & Fletcher-Watson, S. (2025). Neurodiversity: A very
 引用：Chapman, R., & Fletcher-Watson, S. (2025). Neurodiversity: A very short introduction. Oxford University Press.
 
 
-**作者**：[[Robert-Chapman]] 和 [[Sue-Fletcher-Watson]]
+**作者**：[[RobertChapman]] 和 [[SueFletcherWatson]]
 **系列**：Oxford Very Short Introduction（第 773 卷）
 **年份**：2025
 **版本**：DeepSeek 机翻中英双语版
@@ -245,8 +245,8 @@ Chapman 与 Fletcher-Watson 的概念贡献之一，是用 **"常态范式"（no
 
 ## Related
 
-- [[Robert-Chapman]] — 合著者，神经多样性马克思主义理论家
-- [[Sue-Fletcher-Watson]] — 合著者，发展性障碍心理学家
+- [[RobertChapman]] — 合著者，神经多样性马克思主义理论家
+- [[SueFletcherWatson]] — 合著者，发展性障碍心理学家
 - [[神经多样性范式]] — 本书的核心理论框架
 - [[神经多样性]] — 生物学事实 vs 范式 vs 运动的三层区分
 - [[病理学范式]] — 本书提出以"常态范式"替代

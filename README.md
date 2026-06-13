@@ -45,7 +45,7 @@ works/                 # 73 部参考文献
 
 ## 参与共建
 
-无需安装任何软件，全程在浏览器完成。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+无需安装任何软件，全程在浏览器完成。详见 [COLLABORATING.md](COLLABORATING.md)。
 
 ## 维护
 

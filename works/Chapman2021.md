@@ -13,7 +13,7 @@ citation_apa: "Chapman, R. (2021). Neurodiversity and the social ecology of ment
 
 引用：Chapman, R. (2021). Neurodiversity and the social ecology of mental functions. *Perspectives on Psychological Science, 16*(6), 1360–1372. https://doi.org/10.1177/1745691620959833
 
-**作者**：[[Robert-Chapman|Robert Chapman]]（Durham University）
+**作者**：[[RobertChapman|Robert Chapman]]（Durham University）
 
 **发表**：*Perspectives on Psychological Science* (2021), 16(6):1360–1372
 
@@ -108,7 +108,7 @@ Chapman 承认生态模型的两项限制：
 
 ## Related
 
-- [[Robert-Chapman]] — 作者页
+- [[RobertChapman]] — 作者页
 - [[神经多样性与残障]] — 生态模型是互动主义路径的理论基础
 - [[神经多样性范式]] — 生态模型为该范式提供科学理论支撑
 - [[残障的社会模式]] — 生态模型兼容于社会-关系模型
@@ -117,5 +117,5 @@ Chapman 承认生态模型的两项限制：
 - [[Dwyer2022|Dwyer (2022)]] — 基于生态模型提出互动主义路径
 - [[Chapman2023|Chapman (2023)]] — 将生态模型的逻辑延伸至政治经济学分析
 - [[神经殊异马克思主义]] — 马克思主义框架：生态模型作为其科学前提
-- [[Judy-Singer|Judy Singer]] — 原始论证来源（Blume 1998; Singer 2020）
-- [[Nick-Walker]] — 神经多样性范式术语框架
+- [[JudySinger|Judy Singer]] — 原始论证来源（Blume 1998; Singer 2020）
+- [[NickWalker]] — 神经多样性范式术语框架

@@ -37,5 +37,5 @@ Elizabeth Barnes 在本书中提出了一个影响深远的残障定义——以
 
 - [[残障的哲学定义]] — 四种哲学定义进路的完整讨论
 - [[残障肯定模式]] — Barnes 的定义与肯定模式深度兼容
-- [[Elizabeth-Barnes|Elizabeth Barnes]] — 作者页面
+- [[ElizabethBarnes|Elizabeth Barnes]] — 作者页面
 - [[残障模型]] — 社会建构论所在的理论语境

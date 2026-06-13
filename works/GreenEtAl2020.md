@@ -13,7 +13,7 @@ citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., Mc
 
 引用：Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., McClintick, J., Pfender, E., & Carrasco, R. (2020). Teaching and researching with a mental health diagnosis: Practices and perspectives on academic ableism. _Rhetoric of Health & Medicine_, _3_(2), Article 1.
 
-**作者**：Ann E. Green、[[Alyssa-Hillary|Alyssa Hillary]]（以 "Alyssa _" 署名）、Lucía Durá、Patrick Harris、Leah Heilig、Bailey Kirby、Jay McClintick、Emily Pfender、Rebecca Carrasco
+**作者**：Ann E. Green、[[AlyssaHillary|Alyssa Hillary]]（以 "Alyssa _" 署名）、Lucía Durá、Patrick Harris、Leah Heilig、Bailey Kirby、Jay McClintick、Emily Pfender、Rebecca Carrasco
 **年份**：2020
 **来源**：Rhetoric of Health & Medicine
 **学科**：修辞学、残障研究、健康传播
@@ -50,7 +50,7 @@ citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., Mc
 
 ### 合理调整的侷限
 
-对话强烈呼应 [[Margaret-Price|Price (2011)]] 对"access vs accommodation"的区分：
+对话强烈呼应 [[MargaretPrice|Price (2011)]] 对"access vs accommodation"的区分：
 
 - **Alyssa** 的批判最为尖锐："Access 是我可以出现并拥有我需要的东西，无需做大量额外工作——那些健全人不需要做的工作。"
 - **Jay** 在反复被要求"个案处理"后彻底放弃正式调整流程——"证明残障的持续劳动"本身就构成了障碍
@@ -72,7 +72,7 @@ citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., Mc
 
 ## Related
 
-- [[Alyssa-Hillary|Alyssa Hillary]] — 合著者（以 "Alyssa _" 署名）
+- [[AlyssaHillary|Alyssa Hillary]] — 合著者（以 "Alyssa _" 署名）
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 主题 7 精選文獻：將本文納入神經多樣性入門閱讀清單
 - [[神经多样性与民主研究]] — 参与式方法论与多声部研究的交叉
 - [[去病理化]] — 对话中对 DSM 诊断框架的批判与此交叉

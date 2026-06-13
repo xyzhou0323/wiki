@@ -14,7 +14,7 @@ citation_apa: "Srinivasan, H. (2025). Neurodiversity 2.0: Harnessing cross-disci
 引用：Srinivasan, H. (2025). Neurodiversity 2.0: Harnessing cross-disciplinary disability insights. Research in Autism, 127, Article 202652. https://doi.org/10.1016/j.reia.2025.202652
 
 
-**作者**：[[Hari-Srinivasan|Hari Srinivasan]]（范德堡大学神经科学博士生，孤独谱系自倡导者）
+**作者**：[[HariSrinivasan|Hari Srinivasan]]（范德堡大学神经科学博士生，孤独谱系自倡导者）
 **发表**：2025年9月，*Research in Autism* 第 127 卷，202652
 **DOI**：[10.1016/j.reia.2025.202652](https://doi.org/10.1016/j.reia.2025.202652)
 **开放获取**：Creative Commons
@@ -88,7 +88,7 @@ Srinivasan 是孤独谱系自倡导者和神经科学研究者——同时处于
 
 ## Related
 
-- [[Hari-Srinivasan]] — 作者
+- [[HariSrinivasan]] — 作者
 - [[Dwyer2022|Dwyer (2022)]] — 互动主义/生态模型的理论基础
 - [[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]] — ND 2.0 扩展的核心原则
 - [[JonesOrchard2024|Jones & Orchard (2024)]] — 神经中心主义批判与 ND 2.0 共享的反思方向

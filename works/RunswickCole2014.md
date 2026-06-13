@@ -13,7 +13,7 @@ citation_apa: "Runswick-Cole, K. (2014). 'Us' and 'them': the limits and possibi
 
 引用：Runswick-Cole, K. (2014). 'Us' and 'them': the limits and possibilities of a 'politics of neurodiversity' in neoliberal times. *Disability & Society, 29*(7), 1117–1129. https://doi.org/10.1080/09687599.2014.910107
 
-**作者**：[[Katherine-Runswick-Cole]]（Manchester Metropolitan University）
+**作者**：[[KatherineRunswickCole]]（Manchester Metropolitan University）
 
 **发表**：*Disability & Society* (2014), 29(7):1117–1129
 
@@ -93,4 +93,4 @@ Runswick-Cole 借用 Ruffolo (2009) 的区分：
 - [[神经多样性的去殖民化]] — ND 政治在全球层面的进一步追问
 - [[NairEtAl2024|Nair et al. (2024)]] — ND 作为全球北方白人范式的去殖民化批判
 - [[庸俗版神经多样性]] — 神经多样性话语被商品化和收编的具体形式
-- [[Katherine-Runswick-Cole]] — 本文作者
+- [[KatherineRunswickCole]] — 本文作者

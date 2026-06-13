@@ -13,7 +13,7 @@ citation_apa: "Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitt
 
 引用：Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. *Autism*, 27(3), 573–577. https://doi.org/10.1177/13623613231159165
 
-**作者**：[[Yulin-Cheng|Yulin Cheng]]（香港大学，孤独谱系自倡导者）、[[Bethlehem-Tekola]]（King's College London，埃塞俄比亚孤独谱系与发育障碍研究者）、Anand Balasubramanian、[[Laura-Crane|Laura Crane]]（UCL 孤独谱系研究与教育中心）、[[Kathy-Leadbitter]]（曼彻斯特大学，神经多样性肯定式干预与参与式研究）
+**作者**：[[YulinCheng|Yulin Cheng]]（香港大学，孤独谱系自倡导者）、[[BethlehemTekola]]（King's College London，埃塞俄比亚孤独谱系与发育障碍研究者）、Anand Balasubramanian、[[LauraCrane|Laura Crane]]（UCL 孤独谱系研究与教育中心）、[[KathyLeadbitter]]（曼彻斯特大学，神经多样性肯定式干预与参与式研究）
 **年份**：2023
 **期刊**：*Autism*, Vol. 27, No. 03, pp. 573–577
 **DOI**：10.1177/13623613231159165
@@ -89,7 +89,7 @@ ND 运动与知识生产去殖民化运动共享四项基本目标：
 - Giwa Onaiwu (2020) — ND 运动的白人特权问题
 - Botha & Gillespie-Lynch (2022) — 交叉性视角下的孤独谱系身份发展
 - [[JonesOrchard2024|Jones & Orchard (2024)]] — 去历史化与神经中心主义
-- [[Yulin-Cheng]] — 第一作者，孤独谱系自倡导者
-- [[Bethlehem-Tekola]] — 共同作者，KCL 全球心理健康中心
-- [[Laura-Crane]] — 共同作者，UCL CRAE
-- [[Kathy-Leadbitter]] — 共同作者，曼彻斯特大学
+- [[YulinCheng]] — 第一作者，孤独谱系自倡导者
+- [[BethlehemTekola]] — 共同作者，KCL 全球心理健康中心
+- [[LauraCrane]] — 共同作者，UCL CRAE
+- [[KathyLeadbitter]] — 共同作者，曼彻斯特大学

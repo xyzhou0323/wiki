@@ -14,7 +14,7 @@ citation_apa: "Silberman, S. (2015). NeuroTribes: The legacy of autism and the f
 引用：Silberman, S. (2015). NeuroTribes: The legacy of autism and the future of neurodiversity. Avery/Penguin Random House.
 
 
-**作者**：[[Steve-Silberman]]（Wired 杂志记者）
+**作者**：[[SteveSilberman]]（Wired 杂志记者）
 **发表**：2015 年，Avery / Penguin Random House
 **类型**：普及性科学史著作
 **中译**：中文名为《神经部落》
@@ -93,7 +93,7 @@ Temple Grandin 1989年在 Chapel Hill 的公开演讲——作为最早公开自
 
 ## Related
 
-- [[Steve-Silberman]] — 作者
+- [[SteveSilberman]] — 作者
 - [[神经多样性运动]] — 该书详细叙述了从 Kanner 时代到神经多样性运动的历史，但其中的"概念起源"部分已被 Botha 等（2024）修正
 - [[BothaEtAl2024|Botha et al. (2024)]] — 对书中"Judy Singer 创造术语"叙事的学术修正
 - [[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]] — Chapman & Fletcher-Watson 的更系统化学术介绍（2025）
