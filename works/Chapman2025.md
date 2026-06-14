@@ -51,4 +51,4 @@ Chapman 指出，这种论调的真正驱动力并非对概念精确性的学术
 - [[Robert-Chapman]] — 作者页
 - [[神经殊异]] — 本文论证的核心概念
 - [[神经多样性范式]] — 本文所基于的理论框架
-- [[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]] — 第5章对自我认同问题的扩展讨论
+- [[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]] — 第5章对自我认同问题的扩展讨论

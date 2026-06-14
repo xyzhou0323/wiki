@@ -1,6 +1,6 @@
 ---
 title: AQ-Child
-description: 儿童版孤独谱系商数（AQ-Child）——Auyeung 等人于2008年开发的50题教育者报告量表，评估4-11岁儿童的孤独谱系特征，改编自成人版和青少年版AQ，包含五个子维度
+description: 儿童版孤独谱系商数（AQ-Child, Autism Spectrum Quotient Children's Version）是 Auyeung 等人于2008年开发的50题教育者报告量表，用于评估4-11岁儿童的孤独谱系特征，改编自成人版和青少年版AQ，涵盖五个子维度
 aliases: [AQ-Child, 孤独谱系商数儿童版, AQ儿童版, AQ-儿童, Autism Spectrum Quotient Children's Version]
 tags: [test, autism, neurodiversity]
 sources:

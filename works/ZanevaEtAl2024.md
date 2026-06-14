@@ -1,6 +1,6 @@
 ---
 title: Zaneva et al. (2024) - 神经多样性导论：一份带注释的阅读清单
-description: 由神经多元化研究者团队协作开发的带注释阅读清单，涵盖神经多样性的历史与当代理解的 9 个主题，面向希望理解关键概念并推动更严谨、去污名化、可及且包容的科研实践的研究者与教育者
+description: 由神经多元化研究者团队协作开发的带注释阅读清单——涵盖神经多样性的历史与当代理解的 9 个主题，面向希望理解关键概念并推动更严谨、去污名化、可及且包容的科研实践的研究者与教育者
 aliases: [Introduction to Neurodiversity: An Annotated Reading List, ZanevaEtAl2024]
 tags: [work, neurodiversity, foundational]
 sources: [2026-06-10/ZanevaEtAl2024-Introduction-to-Neurodiversity-An-Annotated-Reading-List.md]

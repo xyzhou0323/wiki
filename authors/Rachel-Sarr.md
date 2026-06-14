@@ -1,6 +1,6 @@
 ---
 title: Rachel Sarr
-description: King's College London 研究者，主持首项共制Delphi法孤独谱系、依恋障碍、CPTSD与EUPD鉴别诊断共识研究
+description: Rachel Sarr 是伦敦国王学院 IoPPN 研究者，主持首项共制 Delphi 法孤独谱系、依恋障碍、CPTSD 与 EUPD 鉴别诊断共识研究
 aliases: [Rachel Sarr, Sarr]
 tags: [author, autism, neurodiversity, applied]
 sources: [2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf]

@@ -1,6 +1,6 @@
 ---
 title: Jacquiline den Houting
-description: 孤独谱系研究者、神经多样性倡导者，以"内部人视角"推动孤独谱系科学的范式转型
+description: Jacquiline den Houting 是麦考瑞大学教育学院孤独谱系研究者与自倡导者，以"内部人视角"推动孤独谱系科学范式转型，与 Elizabeth Pellicano 合作发表了该领域引用率最高的论文之一
 aliases: [Jacqui den Houting, 杰奎琳·登·胡廷]
 tags: [author, neurodiversity, autism]
 created: 2026-05-09

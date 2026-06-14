@@ -77,7 +77,7 @@ Srinivasan 的核心政策主张：
 ## 与既有神经多样性框架的关系
 
 - **[[Dwyer2022|Dwyer (2022)]]** 的互动主义/生态模型为 ND 2.0 提供了核心理论基础——Srinivasan 的框架可视为将互动主义逻辑推进到所有社会系统
-- **[[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]]** 的"肯定复杂性"和"将神经规范性政治化"两条原则在 ND 2.0 中得到跨学科扩展
+- **[[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]]** 的"肯定复杂性"和"将神经规范性政治化"两条原则在 ND 2.0 中得到跨学科扩展
 - **[[JonesOrchard2024|Jones & Orchard (2024)]]** 对神经中心主义的批判与 ND 2.0 对"神经"前缀的反思一致
 - **[[庸俗版神经多样性]]** 中批判的企业收编是 ND 2.0 试图通过主动系统设计来抵抗的趋势
 - **[[残障模型]]** 中的生物心理社会模型和 ICF 被 ND 2.0 明确整合为医学-社会桥梁
@@ -90,7 +90,7 @@ Srinivasan 是孤独谱系自倡导者和神经科学研究者——同时处于
 
 - [[Hari-Srinivasan]] — 作者
 - [[Dwyer2022|Dwyer (2022)]] — 互动主义/生态模型的理论基础
-- [[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]] — ND 2.0 扩展的核心原则
+- [[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]] — ND 2.0 扩展的核心原则
 - [[JonesOrchard2024|Jones & Orchard (2024)]] — 神经中心主义批判与 ND 2.0 共享的反思方向
 - [[庸俗版神经多样性]] — ND 2.0 试图抵抗的企业收编
 - [[残障模型]] — 生物心理社会模型与 ICF 被整合为桥梁

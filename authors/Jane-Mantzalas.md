@@ -1,6 +1,6 @@
 ---
 title: Jane Mantzalas
-description: La Trobe University 孤独谱系研究者，首篇系统检验 AASPIRE 孤独谱系倦怠量表（ABM）心理测量特性的研究第一作者
+description: Jane Mantzalas 是 La Trobe University OTARC 研究者，首篇系统检验 AASPIRE 孤独谱系倦怠量表（ABM）心理测量特性研究的第一作者
 aliases: [Jane Mantzalas, Joanna Mantzalas, Mantzalas]
 tags: [author, autism, neurodiversity, mental-health, applied]
 sources: [2026-05-14/Mantzalas 等 - 2024 - Measuring and validating autistic burnout.pdf]

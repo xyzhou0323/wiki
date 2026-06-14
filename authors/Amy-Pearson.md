@@ -1,6 +1,6 @@
 ---
 title: Amy Pearson
-description: Durham University 心理学系神经多样性与发展中心研究员，聚焦神经殊异术语偏好与去人化研究——2026 年首项跨神经发育类型的术语偏好混合方法研究第一作者
+description: Amy Pearson 是杜伦大学心理学系神经多样性与发展中心研究员，聚焦神经殊异术语偏好与去人化研究，2026 年首项跨神经发育类型术语偏好混合方法研究（n=902）的第一作者
 aliases: [Amy Pearson, Pearson]
 tags: [author, neurodiversity, autism]
 sources: [2026-05-21/pearson-et-al-2026-it-s-like-calling-short-people-vertically-challenged-language-and-terminology-preferences-among.pdf]

@@ -1,6 +1,6 @@
 ---
 title: Amélie Gourdon-Kanhukamwe
-description: 伦敦国王学院神经科学与心理学教育高级讲师，社会心理学家与数据科学家，FORRT 成员——ADHD 研究者，聚焦神经多样性与开放学术的交叉
+description: Amélie Gourdon-Kanhukamwe 是伦敦国王学院神经科学与心理学教育高级讲师，社会心理学家与数据科学家，FORRT 成员，ADHD 认同者，聚焦神经多样性与开放学术的交叉
 aliases: [Amelie Gourdon-Kanhukamwe, Gourdon-Kanhukamwe]
 tags: [author, neurodiversity, open-scholarship, ADHD, psychology]
 created: 2026-06-10

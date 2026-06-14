@@ -1,6 +1,6 @@
 ---
 title: Alicia A. Broderick
-description: 哥伦比亚大学教师学院教育学者，孤独症话语的文化批判研究者，与 Ari Ne'eman 合作完成孤独症隐喻分析的奠基性研究
+description: Alicia A. Broderick 是哥伦比亚大学教师学院融合教育学者，以孤独症话语的文化批判研究著称，与 Ari Ne'eman 合作完成了为孤独症隐喻分析奠基的系统性话语分析（2008）
 aliases: [Alicia Broderick, Alicia A. Broderick, Broderick, 艾丽西娅·布罗德里克]
 tags: [author, neurodiversity, autism, discourse]
 created: 2026-05-10

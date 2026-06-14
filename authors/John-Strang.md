@@ -1,6 +1,6 @@
 ---
 title: John F. Strang
-description: Children's National Hospital（华盛顿特区）性别与孤独谱系项目主任，性别多样性与孤独谱系交叉领域核心临床研究者——开发 Gender Self-Report 测量工具，领导 WPATH 神经多样性培训
+description: John F. Strang 是 Children's National Hospital（华盛顿特区）性别与孤独谱系项目主任，性别多样性与孤独谱系交叉领域的核心临床研究者，开发了 Gender Self-Report 测量工具并领导 WPATH 神经多样性培训
 aliases: [John Strang, Strang]
 tags: [author, autism, neurodiversity, applied]
 sources: [2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md]

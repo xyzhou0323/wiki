@@ -1,6 +1,6 @@
 ---
 title: Gemma Louise Williams
-description: 布莱顿与萨塞克斯医学院荣誉访问讲师，朴茨茅斯大学心理学讲师——孤独谱系自倡导者，身份在前语言的坚定主张者，跨神经类型沟通与认知语言学研究者
+description: Gemma Louise Williams 是布莱顿与萨塞克斯医学院荣誉访问讲师，朴茨茅斯大学心理学讲师，孤独谱系自倡导者，以关联理论重新审视跨神经类型沟通和身份在前语言的坚定主张而闻名
 aliases: [Gemma L. Williams, Gemma Williams, Williams]
 tags: [author, neurodiversity, autism, language, linguistics]
 created: 2026-06-10

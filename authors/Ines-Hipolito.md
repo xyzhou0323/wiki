@@ -1,6 +1,6 @@
 ---
 title: Inês Hipólito
-description: 心灵哲学与神经科学交叉学者，以生成主义框架论证孤独谱系社会认知风格应为"认知多样性"而非"理论缺陷"
+description: Inês Hipólito 是心灵哲学与认知科学交叉学者，以生成主义框架论证孤独谱系社会认知风格应被理解为全人层面的"认知多样性"而非次人格层面的"心智理论缺陷"
 aliases: [Inês Hipólito, Ines Hipolito]
 tags: [author, neurodiversity, autism, philosophy, cognitive-science]
 created: 2026-05-09

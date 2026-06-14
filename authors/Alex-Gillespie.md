@@ -1,6 +1,6 @@
 ---
 title: Alex Gillespie
-description: LSE 心理与行为科学系教授，交互主体性理论的权威阐述者——其分析框架使神经殊异交互主体性的实证识别成为可能
+description: Alex Gillespie 是伦敦政治经济学院（LSE）心理与行为科学系教授，交互主体性理论的权威阐述者，其"协调"与"交互主体性"的区分为不以神经典型规范为标准研究孤独谱系社交互动提供了分析框架
 aliases: [Gillespie, 亚历克斯·吉莱斯皮]
 tags: [author, psychology, social-interaction, theory]
 sources: [2026-05-21/heasman-gillespie-2018-neurodivergent-intersubjectivity-distinctive-features-of-how-autistic-people-create-shared.pdf]

@@ -1,6 +1,6 @@
 ---
 title: NSAC-30
-description: 神经殊异自理与启动表——帮助神经殊异个体识别日常功能优势和挑战的赋权型自填工具，涵盖六大维度
+description: 神经殊异自理与启动表（NSAC-30）是一份赋权型自填工具，帮助神经殊异个体识别日常功能中的优势与挑战，涵盖六大维度
 aliases: [NSAC-30, Admin神经殊异自理与启动表, 神经殊异自理与启动表, NSAC30]
 tags: [test, neurodiversity, self-care, executive-function]
 created: 2026-05-08

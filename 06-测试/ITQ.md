@@ -1,6 +1,6 @@
 ---
 title: ITQ
-description: 国际创伤问卷——基于 ICD-11 模型评估 PTSD 与 CPTSD 的临床自填工具，经广泛验证具有良好的信效度与跨文化适用性
+description: 国际创伤问卷（ITQ, International Trauma Questionnaire）是一份基于 ICD-11 创伤诊断模型的自评工具，用于评估 PTSD 与 CPTSD 的症状及功能影响，经广泛验证具有良好的信效度与跨文化适用性
 aliases: [ITQ, ITQ 国际创伤问卷, 国际创伤问卷, International Trauma Questionnaire]
 tags: [test, trauma, PTSD, CPTSD, neurodiversity]
 created: 2026-05-08

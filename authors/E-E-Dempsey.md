@@ -1,6 +1,6 @@
 ---
 title: E. E. Dempsey
-description: Dalhousie University 研究者，孤独谱系道德判断系统综述第一作者——挑战理性主义道德发展理论
+description: E. E. Dempsey 是 Dalhousie University 心理学与神经科学系研究者，孤独谱系道德判断系统综述的第一作者，该综述挑战 Piaget/Kohlberg 理性主义传统并以 Haidt 道德基础理论为替代框架
 aliases: [E. E. Dempsey, Dempsey]
 tags: [author, autism, neurodiversity, systematic-review]
 sources: [2026-05-14/Morality in autism spectrum disorder A systematic review.pdf]

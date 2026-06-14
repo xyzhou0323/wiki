@@ -1,6 +1,6 @@
 ---
 title: Kristen Gillespie-Lynch
-description: 发展心理学研究者，Patrick Dwyer的学术合作者与导师，共同开发首个系统测量孤独谱系干预态度的AIAS-G五维度量表
+description: Kristen Gillespie-Lynch 是发展心理学研究者，Patrick Dwyer 的学术合作者与导师，共同开发了首个系统测量孤独谱系干预态度的 AIAS-G 五维度量表
 aliases: [Kristen Gillespie-Lynch, Kristen Lynch]
 tags: [person, researcher, autism, neurodiversity]
 created: 2026-05-08

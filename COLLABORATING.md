@@ -54,7 +54,7 @@
 ```yaml
 ---
 title: 页面标题
-description: 一句话描述这个页面的内容，会显示在搜索结果和页面列表里
+description: 完整句子描述页面内容——含主语，供搜索结果和HTML meta使用
 aliases: [英文/缩写, 中文别名, ...]  ← 首个别名应为英文或缩写（决定部署 URL 路径）
 tags: [类型标签, 领域标签]
 created: YYYY-MM-DD
@@ -172,6 +172,16 @@ citation_apa: "Author, A. A. (Year). Title. Journal, Volume(Issue), Pages. https
 ```
 
 署名行放在页面正文末尾、wikilinks 之前。此字段非强制——署名与否由贡献者自行决定。
+
+## 开源与自行部署
+
+本 Wiki 及其全部内容以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议发布。你可以：
+
+- **自行部署**：fork 本仓库，用 Obsidian、Hugo、Quartz 或任何 Markdown 兼容工具发布你自己的版本
+- **修改内容**：修改、翻译、改编任何页面，衍生作品须以相同协议（CC BY-NC-SA）发布
+- **非商业使用**：用于教学、研究、个人学习、机构内部知识库等场景
+
+要求：**注明原始来源**（链接回本仓库或 [neuroxyz.cn/wiki](https://neuroxyz.cn/wiki/)），**禁止商用**。
 
 ## FAQ
 

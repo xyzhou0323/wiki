@@ -1,6 +1,6 @@
 ---
 title: ND范式与有害补充替代疗法的避免
-description: 神经多样性范式如何通过拒绝"治愈"叙事、互动主义干预伦理和自主权原则，为孤独谱系个体提供避免有害补充替代疗法的保护性框架——整合Dwyer (2022)互动主义框架、UpToDate (2026)临床CAM评估与NICE (2021)政策实践
+description: ND范式与有害补充替代疗法的避免分析神经多样性范式如何通过拒绝"治愈"叙事、互动主义干预伦理和自主权原则三重机制，为孤独谱系个体提供避免有害补充替代疗法的保护性框架——整合Dwyer (2022)互动主义框架、UpToDate (2026)临床CAM评估与NICE (2021)政策实践
 aliases: [CAM, ND范式与CAM, ND范式的治疗筛选作用]
 tags: [concept, neurodiversity, autism, applied]
 sources: [2026-05-07/Dwyer - 2022 - 神经多样性方法群 - 脑脑空间.pdf, 2026-05-14/autism-spectrum-disorder-in-adults-diagnosis-and-management-pdf-35109567475909.pdf, 2026-05-18/儿童与青少年孤独症谱系障碍的补充和整合医学治疗.md]

@@ -1,6 +1,6 @@
 ---
 title: AQ
-description: 孤独谱系商数（AQ）——Baron-Cohen 等人于2001年开发的50题成人及16岁以上孤独谱系特征自填筛查工具，涵盖五个子维度
+description: 孤独谱系商数（AQ, Autism Spectrum Quotient）是 Baron-Cohen 等人于2001年开发的50题自填筛查工具，用于评估成人及16岁以上个体的孤独谱系特征，涵盖五个子维度
 aliases: [AQ, Autism Spectrum Quotient, 孤独谱系商数, 孤独谱系商数问卷, AQ量表]
 tags: [test, autism, neurodiversity]
 sources: [Baron-Cohen et al. 2001, Ruzich et al. 2015, Jacobson & Truax 1991, Baker et al. 2024]

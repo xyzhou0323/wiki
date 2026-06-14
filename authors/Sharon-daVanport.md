@@ -1,6 +1,6 @@
 ---
 title: Sharon daVanport
-description: 孤独谱系活动家，2010年创立孤独谱系女性与非二元性别网络（AWN），将交叉性女权主义引入神经多样性运动
+description: Sharon daVanport 是孤独谱系活动家，2010 年创立孤独谱系女性与非二元性别网络（AWN），将交叉性女权主义引入神经多样性运动，将性别化暴力作为孤独谱系自倡导的核心议题
 aliases: [Sharon daVanport, Sharon-daVanport]
 tags: [person, activist, neurodiversity, feminism]
 created: 2026-05-08

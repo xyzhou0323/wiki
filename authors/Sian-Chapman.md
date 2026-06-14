@@ -1,6 +1,6 @@
 ---
 title: Sian Chapman
-description: Murdoch University 残障与融合研究者，合作研究残障正义的日常实践维度
+description: Sian Chapman 是 Murdoch University 残障与融合研究者，Carmel, Chapman & Wright（2026）合著者，研究残障正义与包容在日常场所和空间中的实践维度
 aliases: [Sian Chapman, Chapman S]
 tags: [author, disability, inclusion]
 sources: [2026-05-12/Disability Justice  The Challenges of Inclusion in Everyday Life.pdf]

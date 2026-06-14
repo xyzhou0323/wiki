@@ -1,6 +1,6 @@
 ---
 title: Steven Kapp
-description: 孤独谱系学者与神经多样性活动家，Kapp 2020 主编，Botha et al. 2024 合著者，UCLA 教育心理学博士，朴茨茅斯大学心理学系讲师
+description: Steven Kapp 是朴茨茅斯大学心理学系孤独谱系学者与神经多样性活动家，Kapp 2020 主编——首部由运动内部 21 位关键领导者以第一人称亲述的神经多样性运动全史
 aliases: [Steven Kapp, Steven K. Kapp, Kapp, 史蒂文·卡普]
 tags: [author, neurodiversity, autism, foundational]
 created: 2026-05-07

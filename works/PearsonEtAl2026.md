@@ -1,6 +1,6 @@
 ---
 title: Pearson et al. (2026) - 就像把矮个子叫做"垂直挑战者"：英国神经殊异成人的语言与术语偏好
-description: 首项跨神经发育类型的术语偏好混合方法研究（n=902），发现IFL在多数类别中显著更受欢迎和较少冒犯（Tourette和口吃除外），两主题分析：外部标签的不充分与污名化、社群内部的体验与主体性
+description: 首项跨神经发育类型的术语偏好混合方法研究（n=902）——发现身份优先语言在多数类别中显著更受欢迎和较少冒犯（Tourette与口吃除外），揭示外部标签的不充分与污名化、社群内部的体验与主体性两大主题
 aliases: [Pearson et al. 2026, Pearson2026]
 tags: [work, neurodiversity, autism, critique]
 citation_apa: "Pearson, A., Grant, A., Leigh, J., Macdonald, S. J., Williams, K., Williams, G., Spaeth, E., Rose, K., Memmott, A., & Botha, M. (2026). 'It's like calling short people vertically challenged': Language and terminology preferences among neurodivergent adults in the United Kingdom. Neurodiversity, 4, 1–16. https://doi.org/10.1177/27546330261428235"

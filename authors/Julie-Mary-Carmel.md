@@ -1,6 +1,6 @@
 ---
 title: Julie-Mary Carmel
-description: Murdoch University 残障研究者，以自传式民族志方法研究残障正义在日常生活中的运作
+description: Julie-Mary Carmel 是 Murdoch University 残障研究者，以自传式民族志方法结合照护者具身体验，研究残障正义在日常场所与空间中的实现与缺失
 aliases: [Julie-Mary Carmel, Carmel]
 tags: [author, disability, lived-experience]
 sources: [2026-05-12/Disability Justice  The Challenges of Inclusion in Everyday Life.pdf]

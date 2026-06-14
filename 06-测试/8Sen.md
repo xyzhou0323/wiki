@@ -1,6 +1,6 @@
 ---
 title: 8Sen
-description: 感官知觉特殊性测试——从8种感官维度、3种非典型倾向建立个体的感官处理档案
+description: 感官知觉特殊性测试（8Sen）从八种感官维度与三种非典型倾向出发，为个体建立多维度感官处理档案
 aliases: [8Sen, 8Sen 感官知觉特殊性, 感官知觉特殊性测试, 8SEN]
 tags: [test, sensory, autism, neurodiversity]
 created: 2026-05-08

@@ -1,6 +1,6 @@
 ---
 title: ASRS
-description: 成人 ADHD 自填筛查量表——基于 DSM-5-TR 标准的18题自评工具，由 Kessler et al. (2005) 开发，经 CFA 验证三因素结构。注意在低发生率人群中假阳性率极高，仅可作为筛查而非诊断工具
+description: 成人 ADHD 自填筛查量表（ASRS, Adult ADHD Self-Report Scale）是基于 DSM-5-TR 标准的18题自评工具，由 Kessler et al. (2005) 开发并经 CFA 验证三因素结构。需注意在低发生率人群中该量表假阳性率极高，仅可作为筛查而非诊断工具
 aliases: [ASRS, Adult ADHD Self-Report Scale, 成人ADHD自填量表, ASRS v1.1]
 tags: [test, adhd, neurodiversity]
 sources: [Kessler et al. 2005, Kessler et al. 2007, Adler et al. 2006, Adler et al. 2018, Stanton et al. 2018, Hines et al. 2012, Alarachi et al. 2024, Ustun et al. 2017, Chamberlain et al. 2021, UpToDate 2026]

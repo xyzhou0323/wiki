@@ -1,6 +1,6 @@
 ---
 title: Francis Galton
-description: 优生学创始人、心理测量学和行为遗传学先驱，常态范式的奠基人
+description: Francis Galton（弗朗西斯·高尔顿）是 19 世纪优生学创始人、心理测量学和行为遗传学先驱，被 Robert Chapman 定位为常态范式的真正奠基人——其对遗传优越性的痴迷为现代"正常"概念奠定了科学外衣
 aliases: [弗朗西斯·高尔顿, Galton, 高尔顿]
 tags: [author, neurodiversity, historical]
 sources: [2026-05-07/正常帝国-Empire of Normality (Robert Chapman).epub]

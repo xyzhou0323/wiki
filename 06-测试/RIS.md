@@ -1,6 +1,6 @@
 ---
 title: RIS
-description: 雷根斯堡失眠量表——评估失眠心理症状和睡眠参数的自评工具，适用于失眠认知行为疗法效果评估
+description: 雷根斯堡失眠量表（RIS, Regensburg Insomnia Scale）是一份简短的自评量表，用于评估失眠的心理症状与睡眠参数，特别适用于失眠认知行为疗法（CBT-I）的效果评估
 aliases: [RIS, RIS 雷根斯堡失眠量表, 雷根斯堡失眠量表, Regensburg Insomnia Scale]
 tags: [test, sleep, insomnia, neurodiversity]
 created: 2026-05-08

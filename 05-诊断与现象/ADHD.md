@@ -1,6 +1,6 @@
 ---
 title: ADHD
-description: 注意缺陷/多动障碍（ADHD）的诊断标准、临床特征、流行病学与神经多样性解读
+description: ADHD（Attention Deficit Hyperactivity Disorder，注意缺陷/多动障碍）涵盖其诊断标准、临床特征、流行病学与神经多样性解读——在互动主义框架下，ADHD被理解为个体神经认知特征与社会环境互动的产物
 aliases: [ADHD, 注意缺陷/多动障碍, 多动症, Attention Deficit Hyperactivity Disorder]
 tags: [concept, adhd, neurodiversity, foundational]
 sources: [2026-05-09/ADHD诊断标准原文（DSM5TR ICD11）.pdf, 2026-05-18/儿童和青少年注意缺陷多动障碍的流行病学与发病机制.md, 2026-05-18/儿童和青少年注意缺陷多动障碍的临床特征和诊断.md, 2026-05-18/成人注意缺陷多动障碍的流行病学、临床特征、评估和诊断.md]

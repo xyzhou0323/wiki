@@ -1,6 +1,6 @@
 ---
 title: Heini Natri
-description: 计算基因组学研究者，TGen 研究助理教授，GATFAR 成员——领导孤独谱系研究中的反健全主义语言运动
+description: Heini Natri 是计算基因组学研究者，TGen 研究助理教授，GATFAR 成员，领导孤独谱系研究中的反健全主义语言运动，2023 年以 68 位联名作者发表论证反健全主义语言与高质量研究完全兼容
 aliases: [Heini M. Natri, Natri]
 tags: [author, neurodiversity, autism, genomics, bioethics]
 created: 2026-06-10

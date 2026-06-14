@@ -1,6 +1,6 @@
 ---
 title: Akiko Hart
-description: 英国国家幸存者用户网络（NSUN）CEO，提出听声运动与神经多样性运动建立联盟的倡导者
+description: Akiko Hart 是英国国家幸存者用户网络（NSUN）CEO，曾任 Mind in Camden 听声项目经理与欧洲精神健康主任，以倡导听声运动与神经多样性运动建立联盟而闻名
 aliases: [Akiko Hart]
 tags: [author, neurodiversity, hearing-voices, mental-health]
 created: 2026-05-09

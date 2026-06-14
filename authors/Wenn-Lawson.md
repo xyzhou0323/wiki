@@ -1,6 +1,6 @@
 ---
 title: Wenn Lawson
-description: 孤独谱系心理学家、研究者，2005年与Murray和Lesser共同提出单一聚焦（Monotropism）理论，2025年出版该理论20年来最全面的单卷处理
+description: Wenn Lawson 是澳大利亚科廷大学孤独谱系心理学家与研究者，2005 年与 Murray 和 Lesser 共同提出单一聚焦（Monotropism）理论，2025 年出版该理论 20 年来最全面的单卷处理
 aliases: [Wenn B. Lawson, Wenn Lawson, Lawson]
 tags: [person, researcher, autism, monotropism]
 created: 2026-05-20

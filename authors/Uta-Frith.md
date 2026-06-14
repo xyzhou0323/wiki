@@ -1,6 +1,6 @@
 ---
 title: Uta Frith
-description: 英国发展认知神经科学先驱，Theory of Mind 缺陷假说的提出者，将 Asperger 1944 年论文译为英文从而将 Asperger 综合征引入国际学界
+description: Uta Frith 是伦敦大学学院（UCL）认知神经科学研究所荣誉退休教授，英国皇家学会院士，Theory of Mind 缺陷假说的提出者，1991 年将 Asperger 1944 年论文译为英文从而将 Asperger 综合征引入国际学界
 aliases: [Uta Frith, Frith]
 tags: [author, autism, foundational, historical]
 sources: [2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf]

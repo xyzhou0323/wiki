@@ -73,7 +73,7 @@ citation_apa: "Retief, M. & Letsosa, R. (2018). Models of disability: A brief ov
 
 ## 与神经多样性的关联
 
-Retief & Letsosa 的论文本身不讨论神经多样性——它发表于 2018 年，来自南非实践神学领域。但其系统分类为[[残障模型]]提供了重要的补充框架：慈善、经济、人权、文化和极限模型补充了当前 wiki 主要基于 Chapman & Fletcher-Watson (2025) 和 Dwyer (2022) 的模型分类。
+Retief & Letsosa 的论文本身不讨论神经多样性——它发表于 2018 年，来自南非实践神学领域。但其系统分类为[[残障模型]]提供了重要的补充框架：慈善、经济、人权、文化和极限模型补充了当前 wiki 主要基于 Chapman & Fletcher-Watson (2026) 和 Dwyer (2022) 的模型分类。
 
 ## Related
 

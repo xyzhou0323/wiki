@@ -1,6 +1,6 @@
 ---
 title: ASD干预
-description: 全面介绍ASD的三类干预——行为教育、药物、补充替代疗法——正统医疗模型的循证推荐，以及神经多样性视角的伦理评价
+description: ASD干预（Intervention）全面梳理ASD的三类干预措施——行为教育、药物与补充替代疗法——同时呈现正统医疗模型的循证推荐与神经多样性范式的伦理评价框架
 aliases: [Intervention, ASD干预, ND干预, 神经多样性干预, 神经多样性干预伦理]
 tags: [concept, neurodiversity, autism, intervention, applied, ethics]
 sources: [2026-05-18/儿童与青少年孤独症谱系障碍的行为和教育干预.md, 2026-05-18/儿童与青少年孤独症谱系障碍的药物干预.md, 2026-05-18/Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf, 2026-05-07/Dwyer - 2022 - 神经多样性方法群 - 脑脑空间.pdf, 2026-05-18/儿童与青少年孤独症谱系障碍的补充和整合医学治疗.md]

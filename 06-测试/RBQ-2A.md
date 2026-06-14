@@ -1,6 +1,6 @@
 ---
 title: RBQ-2A
-description: 成人重复行为——评估成年人重复感觉运动和坚持同一性特征的自填工具
+description: 成人重复行为问卷（RBQ-2A, Repetitive Behaviour Questionnaire 2 – Adult）是一份自填工具，用于评估成年人的重复感觉运动行为与坚持同一性特征
 aliases: [RBQ-2A, RBQ-2A 成人重复行为, 成人重复行为]
 tags: [test, autism, repetitive-behavior, neurodiversity]
 created: 2026-05-08

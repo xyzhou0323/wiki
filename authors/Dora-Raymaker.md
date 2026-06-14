@@ -1,6 +1,6 @@
 ---
 title: Dora Raymaker
-description: 孤独谱系研究者，波特兰州立大学公卫学院研究副教授，AASPIRE 联合主任，CBPR 方法论先驱，孤独谱系倦怠概念的学术化推动者
+description: Dora Raymaker 是波特兰州立大学公共卫生学院研究副教授，AASPIRE 联合主任，以 CBPR 方法论的先驱性应用和孤独谱系倦怠概念的学术化推动而闻名
 aliases: [Dora Raymaker, Dora M. Raymaker, Raymaker]
 tags: [author, autism, neurodiversity, disability, methodology]
 created: 2026-05-14

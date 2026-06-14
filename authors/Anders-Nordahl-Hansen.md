@@ -1,6 +1,6 @@
 ---
 title: Anders Nordahl-Hansen
-description: Østfold University College（挪威）教育、ICT 与学习系教授，性别多样性与孤独谱系交叉研究先驱——2018 年发表该领域首篇范围综述并持续追踪至 2024 年
+description: Anders Nordahl-Hansen 是 Østfold University College（挪威）教育、ICT 与学习系教授，性别多样性与孤独谱系交叉研究先驱，2018 年发表该领域首篇范围综述并持续追踪至 2024 年
 aliases: [Anders Nordahl-Hansen, Nordahl-Hansen]
 tags: [author, autism, neurodiversity, methodology]
 sources: [2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md]

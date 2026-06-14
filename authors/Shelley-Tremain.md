@@ -1,6 +1,6 @@
 ---
 title: Shelley Tremain
-description: 残障哲学家，以福柯式分析挑战损伤/残障区分，主张损伤本身是社会建构——残障是生命权力装置而非自然范畴
+description: Shelley Tremain 是残障哲学家，以将福柯的生命权力概念系统应用于残障研究而闻名，提出最具争议的论证——损伤本身同样是被装置生产的社会范畴，挑战了社会模型的损伤/残障区分
 aliases: [雪莱·特雷曼, Tremain]
 tags: [author, disability, critique]
 sources: [2026-05-12/Disability Definitions and Models (Stanford Encyclopedia of Philosophy).md]

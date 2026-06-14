@@ -1,6 +1,6 @@
 ---
 title: AQ-Adol
-description: 青少年版孤独谱系商数（AQ-Adolescent）——Baron-Cohen 等人于2006年开发的50题教育者报告量表，评估12-15岁青少年的孤独谱系特征，包含五个子维度
+description: 青少年版孤独谱系商数（AQ-Adolescent）是 Baron-Cohen 等人于2006年开发的50题教育者报告量表，用于评估12-15岁青少年的孤独谱系特征，涵盖五个子维度
 aliases: [AQ-Adolescent, 孤独谱系商数青少年版, AQ青少年版, AQ-青少年版]
 tags: [test, autism, neurodiversity]
 sources:

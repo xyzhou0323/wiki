@@ -1,17 +1,17 @@
 ---
-title: Chapman & Fletcher-Watson (2025) - 神经多样性简论
+title: Chapman & Fletcher-Watson (2026) - 神经多样性简论
 description: Oxford Very Short Introduction 系列第 773 卷，Robert Chapman 与 Sue Fletcher-Watson 合著，目前最系统的神经多样性范式入门读物——科学+文化范式转变的纲领性论述
-aliases: [神经多样性简论-Neurodiversity-VSI, Neurodiversity: A Very Short Introduction, 神经多样性: 一本简短导论, Neurodiversity VSI, VSI, ChapmanFletcherWatson2025]
+aliases: [神经多样性简论-Neurodiversity-VSI, Neurodiversity: A Very Short Introduction, 神经多样性: 一本简短导论, Neurodiversity VSI, VSI, ChapmanFletcherWatson2026]
 tags: [work, neurodiversity, foundational]
 sources: [2026-05-07/神经多样性-Neurodiversity A Very Short Introduction (Robert Chapman, Sue Fletcher-Watson)机翻DeepSeek.epub]
 created: 2026-05-07
 updated: 2026-05-07
-citation_apa: "Chapman, R., & Fletcher-Watson, S. (2025). Neurodiversity: A very short introduction. Oxford University Press."
+citation_apa: "Chapman, R., & Fletcher-Watson, S. (2026). Neurodiversity: A very short introduction. Oxford University Press."
 ---
 
-# Chapman & Fletcher-Watson (2025) — 神经多样性简论
+# Chapman & Fletcher-Watson (2026) — 神经多样性简论
 
-引用：Chapman, R., & Fletcher-Watson, S. (2025). Neurodiversity: A very short introduction. Oxford University Press.
+引用：Chapman, R., & Fletcher-Watson, S. (2026). Neurodiversity: A very short introduction. Oxford University Press.
 
 
 **作者**：[[Robert-Chapman]] 和 [[Sue-Fletcher-Watson]]

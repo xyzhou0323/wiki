@@ -1,6 +1,6 @@
 ---
 title: Christina Nicolaidis
-description: Oregon Health & Science University 健康服务研究者，AASPIRE 学术联合主任——将 CBPR 方法首次系统适配于孤独谱系自倡导者社群的先驱
+description: Christina Nicolaidis 是 Oregon Health & Science University 健康服务研究者与内科医师，AASPIRE 学术联合主任，首次将社区参与式研究（CBPR）方法系统适配于孤独谱系自倡导者社群
 aliases: [Nicolaidis, 克里斯蒂娜·尼科莱迪斯]
 tags: [author, neurodiversity, autism, methodology, health-services]
 sources: [2026-05-21/nihms359888.pdf]

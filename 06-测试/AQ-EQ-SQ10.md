@@ -1,6 +1,6 @@
 ---
 title: AQ-EQ-SQ10
-description: 联合量表——整合 AQ10 孤独谱系商数、EQ10 同理心商数和 SQ10 系统化商数，快速评估大脑类型
+description: 联合量表（AQ-EQ-SQ10，也称 Q30）整合了 AQ10 孤独谱系商数、EQ10 同理心商数与 SQ10 系统化商数三个简短量表，用于快速评估个体的大脑类型
 aliases: [Q30, 简版联合量表, AQ-EQ-SQ, SQ10-EQ10-AQ10, Q30联合量表, AQ10-EQ10-SQ10]
 tags: [test, autism, empathy, systemizing, neurodiversity]
 created: 2026-05-08

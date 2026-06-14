@@ -1,6 +1,6 @@
 ---
 title: MAIA-Y
-description: 少年版多维内感觉评估——评估7-17岁儿童青少年内感觉觉察、调节和信任水平
+description: 少年版多维内感觉评估（MAIA-Y, MAIA Youth）是 MAIA-2 的少年版本，适用于7-17岁儿童青少年，用于评估内感觉的觉察、调节与信任水平
 aliases: [MAIA-Y, 少年版内感觉评估, 少年内感觉评估, MAIA Youth]
 tags: [test, interoception, children, autism, neurodiversity]
 created: 2026-05-08

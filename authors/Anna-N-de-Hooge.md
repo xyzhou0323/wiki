@@ -1,6 +1,6 @@
 ---
 title: Anna N. de Hooge
-description: 孤独谱系学者，首篇阿斯至上主义系统学术分析的作者，以情境知识认识论和酷残理论框架研究孤独谱系话语
+description: Anna N. de Hooge 是孤独谱系学者，以首篇阿斯至上主义（Aspie Supremacy）系统学术分析（2019）著称，采用情境知识认识论和酷残理论框架研究孤独谱系社群中的权力与身份政治
 aliases: [de Hooge, Anna de Hooge, Anna N. de Hooge]
 tags: [author, autism, critique, intersectionality]
 sources: [2026-05-10/Binary Boys Autism, Aspie Supremacy and PostHumanist Normativity.md]

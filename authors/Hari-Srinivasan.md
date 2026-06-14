@@ -1,6 +1,6 @@
 ---
 title: Hari Srinivasan
-description: 孤独谱系自倡导者，范德堡大学神经科学博士生，2025 年提出"神经多样性 2.0"跨学科整合框架
+description: Hari Srinivasan 是孤独谱系自倡导者与范德堡大学神经科学博士生，2025 年提出"神经多样性 2.0"跨学科整合框架，拒绝社会 vs 医学模型、自主 vs 依赖、优势 vs 缺陷三组虚假二元
 aliases: [Hari Srinivasan]
 tags: [author, neurodiversity, autism, neuroscience]
 created: 2026-05-08

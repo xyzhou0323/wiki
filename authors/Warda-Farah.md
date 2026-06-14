@@ -1,6 +1,6 @@
 ---
 title: Warda Farah
-description: 神经殊异学者、言语语言治疗师，ND 去殖民化批判的共同作者，关注种族与神经殊异的交叉性
+description: Warda Farah 是英国格林尼治大学神经殊异学者、言语语言治疗师，Nair et al.（2024）的共同作者，以关注种族与神经殊异交叉性和揭露言语语言治疗中的反黑人性著称
 aliases: [Farah, Warda Farah]
 tags: [author, neurodiversity, critique, intersectionality, decolonial]
 sources: [2026-05-09/nair-et-al-2024-is-neurodiversity-a-global-northern-white-paradigm.pdf]

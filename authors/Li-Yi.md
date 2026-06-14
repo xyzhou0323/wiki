@@ -1,6 +1,6 @@
 ---
 title: Li Yi
-description: 北京大学心理学系研究者，孤独谱系社会信息加工唤起机制综述第一作者——主张唤起不足与唤起过度共存而非互斥
+description: Li Yi（易莉）是北京大学心理学系研究者，孤独谱系社会信息加工唤起机制综述第一作者，主张唤起不足与唤起过度共存而非互斥，因个体、情境和发展阶段而异
 aliases: [Li Yi, Yi]
 tags: [author, autism, neurodiversity, review]
 sources: [2026-05-14/Child Dev Perspectives - 2022 - Yi - Hypo‐ or hyperarousal  The .pdf]

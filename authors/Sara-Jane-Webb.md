@@ -1,6 +1,6 @@
 ---
 title: Sara Jane Webb
-description: University of Washington（西雅图）精神病学与行为科学系研究员，参与性别多样性与孤独谱系交叉研究
+description: Sara Jane Webb 是华盛顿大学精神病学与行为科学系研究员，参与性别多样性与孤独谱系交叉的多学科合作研究，聚焦孤独谱系早期识别与生物标志物
 aliases: [Sara Jane Webb, Webb]
 tags: [author, autism, neurodiversity]
 sources: [2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md]

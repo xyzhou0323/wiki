@@ -1,6 +1,6 @@
 ---
 title: Yulin Cheng
-description: 孤独谱系自倡导者与研究者，香港大学博士候选人，以内部人视角研究孤独谱系福祉，Cheng et al. (2023) 第一作者
+description: Yulin Cheng（郑裕林）是香港大学博士候选人与孤独谱系自倡导者，Cheng et al.（2023）第一作者，以内部人视角研究孤独谱系福祉并揭示神经多样性运动在东亚威权政治与新自由主义语境中的文化障碍
 aliases: [Yulin Cheng, Cheng, 郑裕林]
 tags: [author, autism, neurodiversity, intersectionality]
 sources: [2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf]

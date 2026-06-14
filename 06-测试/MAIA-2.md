@@ -1,6 +1,6 @@
 ---
 title: MAIA-2
-description: 多维内感觉评估第二版——评估个体对身体内感觉的觉察、调节和信任水平的自填工具，由 Mehling et al. (2018) 开发
+description: 多维内感觉评估第二版（MAIA-2, Multidimensional Assessment of Interoceptive Awareness）是一份自填工具，由 Mehling et al. (2018) 开发，用于评估个体对身体内感觉的觉察、调节与信任水平
 aliases: [MAIA-2, 多维内感觉评估, 内感觉评估, Multidimensional Assessment of Interoceptive Awareness]
 tags: [test, interoception, autism, neurodiversity]
 sources: [Mehling et al. 2018]

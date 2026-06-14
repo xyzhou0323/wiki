@@ -1,6 +1,6 @@
 ---
 title: 广泛性要求回避
-description: 广泛性要求回避（PDA）是孤独谱系中的一个特征剖面——以对日常要求的极端回避和"社交"策略性回避为标志，其核心驱动因素被认为是高度焦虑
+description: 广泛性要求回避（Pervasive Demand Avoidance, PDA）是孤独谱系中的一个特征剖面，以对日常要求的极端回避和以社交策略作为回避手段为标志——其核心驱动因素被认为是高度焦虑，而非蓄意违抗
 aliases: [PDA, Pathological Demand Avoidance, 广泛性要求回避, 极端需求回避, 需求回避剖面, PDA剖面, EDA, Extreme Demand Avoidance, 广泛性要求回避，病理性需求回避]
 tags: [concept, autism, neurodiversity]
 sources: [2026-05-14/What-is-PDA-booklet-website-v2.1.pdf]

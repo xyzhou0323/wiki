@@ -1,6 +1,6 @@
 ---
 title: 页面标题（必填）
-description: 一句话描述这个页面的内容，会显示在搜索结果和页面列表里
+description: 完整句子描述页面内容——含主语，供搜索结果和HTML meta使用
 aliases: [英文名, 其他别名]
 tags: [concept, neurodiversity]
 created: YYYY-MM-DD
