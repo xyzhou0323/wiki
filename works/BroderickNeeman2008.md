@@ -68,7 +68,7 @@ doi: 10.1080/13603110802377490
 **反叙事：孤独症作为神经多样性**
 - 将接受种族、宗教等差异的范式扩展至神经学领域
 - 孤独症被定位于社会/文化/政治话语中，而非纯粹的医学和疾病语言
-- 代表性组织：ASAN、ANI、AUTCOM、Autism Acceptance Project、Aspies for Freedom
+- 代表性组织：[ASAN](https://autisticadvocacy.org/)、ANI、AUTCOM、Autism Acceptance Project、Aspies for Freedom
 
 ### 隐喻的政治经济学
 
@@ -106,7 +106,7 @@ Ari Ne'eman 提出双轨策略：
 
 1. **Foucault 框架的系统运用**：将孤独症话语斗争概念化为 Foucault 意义上的"真理地位的战斗"
 2. **隐喻的政治经济学分析**：揭示隐喻并非中立的修辞选择，而是权力/知识生产的一环
-3. **ASAN 创始人与学者的合作**：Broderick（非孤独谱系学者-盟友）与 Ne'eman（孤独谱系自倡导者-ASAN 主席）的跨神经类型合作
+3. **[ASAN](https://autisticadvocacy.org/) 创始人与学者的合作**：Broderick（非孤独谱系学者-盟友）与 Ne'eman（孤独谱系自我倡权者-ASAN 主席）的跨神经类型合作
 4. **身份优先语言的政治**：论文主动使用"autistic person"而非"person with autism"，并在注释中阐述了语言学政治理由
 5. **运动史档案价值**：记录了 2008 年前后的运动状态——包括早期的 Aspergia 神话、ANI 的全谱系方法转向等历史细节
 

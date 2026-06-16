@@ -19,6 +19,6 @@ updated: 2026-05-18
 
 ## Related
 
-- [[Dora-Raymaker]] — AASPIRE 团队核心成员，ABM 开发者
+- [[Dora-Raymaker]] — [AASPIRE](https://aaspire.org/) 团队核心成员，ABM 开发者
 - [[Raymaker2020|Raymaker et al. (2020)]] — ABM 的质性开发基础
 - [[孤独谱系倦怠]] — 核心研究主题

@@ -50,7 +50,7 @@ citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., Mc
 
 ### 合理调整的侷限
 
-对话强烈呼应 [[MargaretPrice|Price (2011)]] 对"access vs accommodation"的区分：
+对话强烈呼应Price (2011) 对"access vs accommodation"的区分：
 
 - **Alyssa** 的批判最为尖锐："Access 是我可以出现并拥有我需要的东西，无需做大量额外工作——那些健全人不需要做的工作。"
 - **Jay** 在反复被要求"个案处理"后彻底放弃正式调整流程——"证明残障的持续劳动"本身就构成了障碍

@@ -23,16 +23,16 @@ citation_apa: "Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer,
 
 ## 研究团队
 
-十位作者中九位自我认同为孤独谱系者——本文是"Nothing About Us Without Us"原则在学术研究中的典范实践。研究采用 CBPR 方法，孤独谱系社群成员参与研究的**全过程**：从研究设计、数据收集、编码分析到论文撰写。
+十位作者中九位自我认同为孤独谱系者——本文是"Nothing About Us Without Us"原则在学术研究中的典范实践。研究采用 [[参与式行动研究|CBPR]] 方法，孤独谱系社群成员参与研究的**全过程**：从研究设计、数据收集、编码分析到论文撰写。
 
 ## 核心贡献
 
-本文是**首篇对"孤独谱系倦怠"（Autistic Burnout）进行学术定义的论文**。此前，该概念在孤独谱系社群中长期被讨论和描述（博客、论坛、社交媒体），但从未进入学术文献。Raymaker 等填补了这一空白，将社群知识正式学术化。
+本文是**首篇对"[[孤独谱系倦怠]]"（Autistic Burnout）进行学术定义的论文**。此前，该概念在孤独谱系社群中长期被讨论和描述（博客、论坛、社交媒体），但从未进入学术文献。[[Dora-Raymaker|Raymaker]] 等填补了这一空白，将社群知识正式学术化。
 
 ## 方法论：扎根理论的 CBPR
 
 - 采用建构主义扎根理论（Charmaz 2006），对 19 位孤独谱系成人的深度访谈进行三阶段编码
-- CBPR 社群伙伴来自 Academic Autism Spectrum Partnership in Research and Education（AASPIRE）
+- [[参与式行动研究|CBPR]] 社群伙伴来自 Academic Autism Spectrum Partnership in Research and Education（[AASPIRE](https://aaspire.org/)）
 - 编码过程包含孤独谱系与非孤独谱系研究者的协作，以弥合跨神经类型视角差异
 - 数据收集工具和访谈问题由社群伙伴共同设计
 

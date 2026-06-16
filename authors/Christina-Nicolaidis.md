@@ -14,15 +14,15 @@ Christina Nicolaidis（克里斯蒂娜·尼科莱迪斯）是 Oregon Health & Sc
 
 ## AASPIRE 与 CBPR
 
-Nicolaidis 与 [[Dora-Raymaker]] 于 2006 年共同创立了 AASPIRE（Academic Autistic Spectrum Partnership in Research and Education）——首个系统性将社区参与式研究（CBPR）方法应用于孤独谱系研究的学术-社群合作组织。
+Nicolaidis 与 [[Dora-Raymaker]] 于 2006 年共同创立了 [AASPIRE](https://aaspire.org/)（Academic Autistic Spectrum Partnership in Research and Education）——首个系统性将社区参与式研究（CBPR）方法应用于孤独谱系研究的学术-社群合作组织。
 
-她在 [[NicolaidisEtAl2011|Nicolaidis et al. (2011)]] 中系统记录了 AASPIRE 早期的核心经验——包括"谁是社群"的定义问题、远程文本协作、五指共识法、结构化邮件格式——这些策略后来成为孤独谱系参与式研究的标准参考。
+她在 [[NicolaidisEtAl2011|Nicolaidis et al. (2011)]] 中系统记录了 [AASPIRE](https://aaspire.org/) 早期的核心经验——包括"谁是社群"的定义问题、远程文本协作、五指共识法、结构化邮件格式——这些策略后来成为孤独谱系参与式研究的标准参考。
 
-作为 AASPIRE 学术联合主任，她与 Raymaker **每日共同运营**组织：所有决定共享、所有材料（从资助申请到内部备忘录）共同创建。
+作为 [AASPIRE](https://aaspire.org/) 学术联合主任，她与 Raymaker **每日共同运营**组织：所有决定共享、所有材料（从资助申请到内部备忘录）共同创建。
 
 ## 研究贡献
 
-Nicolaidis 的 AASPIRE 工作包括：
+Nicolaidis 的 [AASPIRE](https://aaspire.org/) 工作包括：
 
 - **孤独谱系成人健康照顾体验**：在线混合方法研究，评估健康照顾差异
 - **互联网使用、联结感与福祉**：互联网作为孤独谱系社群基础设施的研究
@@ -31,7 +31,7 @@ Nicolaidis 的 AASPIRE 工作包括：
 
 ## 本wiki已引用著作
 
-- **[[NicolaidisEtAl2011|Nicolaidis et al. (2011)]]**（Collaboration strategies in nontraditional CBPR partnerships）：AASPIRE 创始方法论文献——将 CBPR 适配于孤独谱系自倡导者社群的四大经验
+- **[[NicolaidisEtAl2011|Nicolaidis et al. (2011)]]**（Collaboration strategies in nontraditional CBPR partnerships）：[AASPIRE](https://aaspire.org/) 创始方法论文献——将 CBPR 适配于孤独谱系自倡导者社群的四大经验
 
 ## Related
 

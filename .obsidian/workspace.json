@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "083e86b3ccc6e1d2",
+        "id": "c381d5873117dec5",
         "type": "tabs",
         "children": [
           {
-            "id": "778082b9ff6a2fda",
+            "id": "8be197a1e7a5799c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "works/ZanevaEtAl2024.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ZanevaEtAl2024"
+              "title": "新标签页"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "明确引用",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,27 +176,40 @@
       "bases:新建数据库": false
     }
   },
-  "active": "778082b9ff6a2fda",
+  "active": "1145e7a65511def4",
   "lastOpenFiles": [
-    "01-基础/神经殊异.md",
+    "authors/Steven-Kapp.md",
     "works/ZanevaEtAl2024.md",
-    "01-基础/神经多样性范式.md",
+    "works/YiEtAl2022.md",
+    "works/StennerEtAl2025.md",
+    "works/Srinivasan2025.md",
+    "works/RozenkrantzEtAl2021.md",
+    "works/NairEtAl2024.md",
+    "works/Milton2012.md",
+    "authors/Liron-Rozenkrantz.md",
+    "works/JonesOrchard2024.md",
+    "works/HeratyEtAl2023.md",
+    "works/HeasmanGillespie2019.md",
+    "works/GernsbacherYergeau2019.md",
+    "works/denHouting2019.md",
+    "works/ChapmanFletcherWatson2026.md",
+    "works/CastenEtAl2023.md",
+    "works/BothaHanlonWilliams2023.md",
+    "works/Botha2025.md",
+    "works/ArnaudGibson2025.md",
+    "authors/Anna-N-de-Hooge.md",
+    "05-诊断与现象/ADHD.md",
+    "02-批判分析/庸俗版神经多样性.md",
+    "04-体验与实践/双向同理心问题.md",
+    "01-基础/神经殊异.md",
+    "02-批判分析/神经殊异马克思主义.md",
+    "04-体验与实践/神经多样性与学习障碍.md",
+    "Pasted image 20260616213853.png",
     "00-知识地图.md.tmp.39540.f6dcfd09db3c",
     "00-知识地图.md.tmp.39540.a3d55aeff221",
-    "authors/Melanie-Yergeau.md",
-    "authors/Morton-Ann-Gernsbacher.md",
-    "works/GernsbacherYergeau2019.md",
-    "sources/APA PsycNet 全文 HTML 页面 --- APA PsycNet FullTextHTML page.md",
-    "sources/APA PsycNet 全文 HTML 页面 --- APA PsycNet FullTextHTML page 1.md",
-    "06-测试/AQ-Child.md",
     "sources",
     "COLLABORATING.md.tmp.40000.29f64c1de216",
-    "CATQ.md",
-    "README.md",
     "CONTRIBUTING.md.tmp.12116.9aff92f2f96c",
-    "CONTRIBUTING.md.tmp.12116.a4097c9b8afb",
-    "TEMPLATE.md",
-    "01-基础/残障模型.md",
-    "02-批判/阿斯至上主义.md"
+    "CONTRIBUTING.md.tmp.12116.a4097c9b8afb"
   ]
 }
