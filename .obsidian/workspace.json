@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-实践应用/信息大放送.md",
+                "file": "01-基础/神经多样性运动.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信息大放送"
+              "title": "神经多样性运动"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "明确引用",
+                "query": "AWN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,6 +183,20 @@
   },
   "active": "8be197a1e7a5799c",
   "lastOpenFiles": [
+    "authors/Sharon-daVanport.md",
+    "works/ReaEtAl2024.md",
+    "05-诊断与现象/PDA.md",
+    "works/Kapp2020.md",
+    "03-历史脉络/神经多样性运动史.md",
+    "01-基础/神经多样性运动.md",
+    "[Academic.md",
+    "Pasted image 20260616213853.png",
+    "works/BothaEtAl2024.md",
+    "01-基础/神经典型.md",
+    "03-历史脉络/神经多样性运动史.md.tmp.13936.45a9debb854b",
+    "01-基础/神经多样性运动.md.tmp.13936.09f303877901",
+    "01-基础/神经多样性运动.md.tmp.13936.e4dad2a890b1",
+    "04-实践应用/信息大放送.md",
     "04-实践应用/信息大放送.md.tmp.23488.284db0e2afde",
     "04-实践应用/信息大放送.md.tmp.23488.40579489bc03",
     "04-实践应用/信息大放送.md.tmp.23488.35c76dcf75ea",
@@ -190,15 +205,10 @@
     "00-知识地图.md.tmp.23488.493dcbb37b50",
     "00-知识地图.md.tmp.23488.c10accce3492",
     "00-知识地图.md.tmp.23488.d35ddc390fd4",
-    "00-知识地图.md.tmp.23488.b81f71dd3ba1",
-    "00-知识地图.md.tmp.23488.459c74f807a0",
-    "00-知识地图.md.tmp.23488.bfb95f9dd1f9",
-    "04-实践应用/双向同理心问题.md.tmp.23488.7bff4ea08fb0",
     "authors/Martine-van-Driel.md",
     "authors/Nelya-Koteyko.md",
     "authors/Jessica-Aiston.md",
     "works/AistonEtAl2025.md",
-    "04-实践应用/信息大放送.md",
     "04-实践应用/融合教育.md",
     "04-实践应用/神经多样性研究.md",
     "04-实践应用/神经多样性教育.md",
@@ -209,15 +219,6 @@
     "04-实践应用/ND范式与补充替代疗法.md",
     "04-实践应用/ASD干预.md",
     "05-诊断与现象/掩饰与伪装.md",
-    "05-诊断与现象/孤独谱系倦怠.md",
-    "05-诊断与现象/单一聚焦.md",
-    "authors/Steven-Kapp.md",
-    "works/ZanevaEtAl2024.md",
-    "works/YiEtAl2022.md",
-    "works/StennerEtAl2025.md",
-    "works/Srinivasan2025.md",
-    "works/RozenkrantzEtAl2021.md",
-    "works/NairEtAl2024.md",
-    "Pasted image 20260616213853.png"
+    "05-诊断与现象/孤独谱系倦怠.md"
   ]
 }
