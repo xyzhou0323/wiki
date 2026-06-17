@@ -11,10 +11,14 @@
             "id": "8be197a1e7a5799c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04-实践应用/信息大放送.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "信息大放送"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "1145e7a65511def4",
+  "active": "8be197a1e7a5799c",
   "lastOpenFiles": [
     "04-实践应用/信息大放送.md.tmp.23488.284db0e2afde",
     "04-实践应用/信息大放送.md.tmp.23488.40579489bc03",
