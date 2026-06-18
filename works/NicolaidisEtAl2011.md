@@ -55,7 +55,7 @@ AASPIRE（Academic Autistic Spectrum Partnership in Research and Education, [www
 - 无需实时处理听觉语言
 - 允许更长的回应时间
 
-[AASPIRE]([Academic Autism Spectrum Partnership in Research and Education – Academic Autism Spectrum Partnership in Research and Education](https://aaspire.org/)) 引用 Blume (1997) 的话："**互联网对孤独谱系者的影响，有朝一日可能在规模上堪比手语在聋人中的传播。**"
+[AASPIRE](https://aaspire.org/) 引用 Blume (1997) 的话："**互联网对孤独谱系者的影响，有朝一日可能在规模上堪比手语在聋人中的传播。**"
 
 具体策略：
 - **以文字网络聊天**（text-based Internet chat）为会议媒介——而非电话或面对面

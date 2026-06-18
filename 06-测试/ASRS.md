@@ -12,7 +12,7 @@ updated: 2026-05-18
 
 **ASRS**（Adult ADHD Self-Report Scale, v1.1）是一份18题自填问卷，用于评估成年人（18+）的[[ADHD]] 特征。量表基于 WHO 复合性国际诊断访谈（CIDI, 2001），题目与 DSM-IV 及 DSM-5-TR 标准一致，措辞专为反映成人的特征表现而设计（Kessler et al., 2005）。
 
-> **青衫Neuro测试**：[ASRS 成人 ADHD 自填量表]([成人 ADHD 自填量表 (ASRS) | 青衫 Neuro](https://qingshanasd.cn/quotients/adhd/))
+> **青衫Neuro测试**：[ASRS 成人 ADHD 自填量表](https://qingshanasd.cn/quotients/adhd/)
 > **中文版提示**：本测试目前仅有英文原版常模，**尚无中文版常模**。本站提供的百分位、阈值等解读数据均基于英文原版，缺少本土化验证。中文语境下的分数解读存在文化差异风险，结果**仅供参考**，不构成任何临床判断依据。
 
 ## 用途
