@@ -1,15 +1,23 @@
 ---
-title: Green et al. (2020) - 带着精神健康诊断进行教学与研究：学术健全主义的实践与视角
-description: 九位有精神健康诊断的学者以对话形式探讨诊断获取、披露决策、症状的利弊、合理调整的侷限，揭示学术健全主义如何渗透学术体系的日常运作
-aliases: [GreenEtAl2020, Green et al. (2020), Teaching and Researching with a Mental Health Diagnosis]
-tags: [work, neurodiversity, disability, methodology]
-sources: [2026-06-12/Teaching and Researching with a Mental Health Diagnosis.md]
+title: Green et al. (2020) - 带着精神健康诊断进行教学与研究：学术健全中心主义的实践与视角
+description: 九位有精神健康诊断的学者以对话形式探讨诊断获取、披露决策、症状的利弊、合理调整的侷限，揭示学术健全中心主义如何渗透学术体系的日常运作
+aliases:
+  - GreenEtAl2020
+  - Green et al. (2020)
+  - Teaching and Researching with a Mental Health Diagnosis
+tags:
+  - work
+  - neurodiversity
+  - disability
+  - methodology
+sources:
+  - 2026-06-12/Teaching and Researching with a Mental Health Diagnosis.md
 created: 2026-06-12
 updated: 2026-06-12
 citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., McClintick, J., Pfender, E., & Carrasco, R. (2020). Teaching and researching with a mental health diagnosis: Practices and perspectives on academic ableism. Rhetoric of Health & Medicine, 3(2), Article 1."
 ---
 
-# Green et al. (2020) — 带着精神健康诊断进行教学与研究：学术健全主义的实践与视角
+# Green et al. (2020) — 带着精神健康诊断进行教学与研究：学术健全中心主义的实践与视角
 
 引用：Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., McClintick, J., Pfender, E., & Carrasco, R. (2020). Teaching and researching with a mental health diagnosis: Practices and perspectives on academic ableism. _Rhetoric of Health & Medicine_, _3_(2), Article 1.
 
@@ -20,7 +28,7 @@ citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., Mc
 
 ## 定位
 
-本文以**多人对话**（dialogue）的非传统学术体裁写成，九位有精神健康诊断的学者共同探讨如何在学术界中应对自身状况与寻求合理调整。对话涵盖孤独谱系、双相障碍、边缘型人格障碍（BPD）、抑郁与焦虑、强迫症（OCD）、创伤后应激障碍（PTSD）等诊断。作者群体跨越学科（神经科学、计算科学、英语）、性别身份、性取向和学术职级（研究生至正教授），以第一人称视角揭露学术健全主义（academic ableism）的结构性运作。
+本文以**多人对话**（dialogue）的非传统学术体裁写成，九位有精神健康诊断的学者共同探讨如何在学术界中应对自身状况与寻求合理调整。对话涵盖孤独谱系、双相障碍、边缘型人格障碍（BPD）、抑郁与焦虑、强迫症（OCD）、创伤后应激障碍（PTSD）等诊断。作者群体跨越学科（神经科学、计算科学、英语）、性别身份、性取向和学术职级（研究生至正教授），以第一人称视角揭露学术健全中心主义（academic ableism）的结构性运作。
 
 ## 关键主题
 
@@ -62,11 +70,11 @@ citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., Mc
 
 ## 理论贡献
 
-1. **方法论创新**：以多声部对话（multivocal dialogue）作为学术体裁——对话的间隙、沉默和断裂本身成为反对话语统合和学术健全主义的实践。"将精神残障纳入学术话语，不是将其整齐地置于框架内，而是让对话本身揭示我们寻求修辞性过程中的混乱。"
+1. **方法论创新**：以多声部对话（multivocal dialogue）作为学术体裁——对话的间隙、沉默和断裂本身成为反对话语统合和学术健全中心主义的实践。"将精神残障纳入学术话语，不是将其整齐地置于框架内，而是让对话本身揭示我们寻求修辞性过程中的混乱。"
 
-2. **学术健全主义的操作化**：将 Dolmage (2017) 和 Price (2011) 的理论框架落实到学者的日常经验——诊断、披露、调整、教学、研究——展示了健全主义如何在每个环节运作。
+2. **学术健全中心主义的操作化**：将 Dolmage (2017) 和 Price (2011) 的理论框架落实到学者的日常经验——诊断、披露、调整、教学、研究——展示了健全中心主义如何在每个环节运作。
 
-3. **交叉性视角**：作者群体跨越性别（顺性别、性别酷儿、非二元、跨性别）、性取向（无性恋、异性恋、双性恋、同性恋）、职级（研究生到正教授）和学科——展示了学术健全主义与性别、种族、职业安全的交叉运作。
+3. **交叉性视角**：作者群体跨越性别（顺性别、性别酷儿、非二元、跨性别）、性取向（无性恋、异性恋、双性恋、同性恋）、职级（研究生到正教授）和学科——展示了学术健全中心主义与性别、种族、职业安全的交叉运作。
 
 4. **集体脆弱性作为抵抗**：Ann 明确指出"通过集体对话和集体行动，我们才能改变工作条件"——对抗新自由主义大学对个体化解决方案的诱惑。
 

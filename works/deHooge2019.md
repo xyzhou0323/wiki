@@ -15,9 +15,9 @@ updated: 2026-05-10
 
 ## 核心论点
 
-本文是[[阿斯至上主义]]（Aspie Supremacy）的首篇系统性学术分析。de Hooge 采用情境知识（situated knowledges）认识论，论证阿斯至上主义由两个相互交织的面向构成：**反孤独谱系的健全主义**（anti-autistic ableism）和**阿斯主体的优越性建构**——后者以白人气质（whiteness）、男性气质（masculinity）和经济价值（economic worthiness）为定义标准。
+本文是[[阿斯至上主义]]（Aspie Supremacy）的首篇系统性学术分析。de Hooge 采用情境知识（situated knowledges）认识论，论证阿斯至上主义由两个相互交织的面向构成：**反孤独谱系的健全中心主义**（anti-autistic ableism）和**阿斯主体的优越性建构**——后者以白人气质（whiteness）、男性气质（masculinity）和经济价值（economic worthiness）为定义标准。
 
-核心论点：阿斯至上主义与反孤独谱系健全主义并非对立，而是**同一枚硬币的两面**。这一意识形态不仅隐藏在 Hans Asperger 的纳粹合作行为背后，更持续影响当今的孤独谱系话语。
+核心论点：阿斯至上主义与反孤独谱系健全中心主义并非对立，而是**同一枚硬币的两面**。这一意识形态不仅隐藏在 Hans Asperger 的纳粹合作行为背后，更持续影响当今的孤独谱系话语。
 
 ## 方法论
 

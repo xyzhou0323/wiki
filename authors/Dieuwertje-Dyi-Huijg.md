@@ -9,7 +9,7 @@ updated: 2026-05-09
 
 # Dieuwertje Dyi Huijg
 
-曼彻斯特大学社会学博士。博士论文探讨"交叉性能动性"（intersectional agency）作为多石机制（polylithic mechanism）的理论建构。当前研究聚焦交叉性、能动性、抵抗与健全主义/神经规范性。
+曼彻斯特大学社会学博士。博士论文探讨"交叉性能动性"（intersectional agency）作为多石机制（polylithic mechanism）的理论建构。当前研究聚焦交叉性、能动性、抵抗与健全中心主义/神经规范性。
 
 ## 核心贡献
 
@@ -22,7 +22,7 @@ updated: 2026-05-09
 
 - 交叉性理论与能动性
 - 批判神经多样性研究
-- 健全主义与神经规范性
+- 健全中心主义与神经规范性
 - 社会学理论
 
 ## Related

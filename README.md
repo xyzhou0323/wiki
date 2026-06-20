@@ -47,6 +47,8 @@ works/                 # 73 部参考文献
 
 无需安装任何软件，全程在浏览器完成。详见 [COLLABORATING.md](COLLABORATING.md)。
 
+写作和翻译遵循[[术语翻译对照表]]的术语约定。
+
 ## 维护
 
 本 Wiki 由 Claude Code 通过 `llm-wiki` 技能协助维护，每次操作记录于 [wiki-log.md](../wiki-log.md)。页面数量和链接状态定期自动更新。

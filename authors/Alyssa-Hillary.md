@@ -30,7 +30,7 @@ updated: 2026-06-10
 ## 本wiki已引用著作
 
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 神经多样性导论：一份带注释的阅读清单（共同资深作者，与 Mirela Zaneva、Mahmoud Elsherif 共同领导）
-- [[GreenEtAl2020|Green et al. (2020)]] — 带着精神健康诊断进行教学与研究：学术健全主义的实践与视角
+- [[GreenEtAl2020|Green et al. (2020)]] — 带着精神健康诊断进行教学与研究：学术健全中心主义的实践与视角
 - [[RosqvistEtAl2020]] — 第 6 章：跨文化沟通框架应用于跨神经类型沟通
 
 ## Related
