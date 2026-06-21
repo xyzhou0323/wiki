@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "术语翻译对照表.md",
+                "file": "TEMPLATE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "术语翻译对照表"
+              "title": "TEMPLATE"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "8be197a1e7a5799c",
   "lastOpenFiles": [
-    "01-基础/神经殊异.md",
     "术语翻译对照表.md",
+    "01-基础/神经殊异.md",
     "01-基础/神经多样性.md",
     "04-实践应用/单一聚焦.md",
     "04-实践应用/神经多样性教育.md",
