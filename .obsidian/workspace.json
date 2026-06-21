@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMPLATE.md",
+                "file": "术语翻译对照表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TEMPLATE"
+              "title": "术语翻译对照表"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "双相情感",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,8 +181,9 @@
       "bases:新建数据库": false
     }
   },
-  "active": "8be197a1e7a5799c",
+  "active": "7979cd594eed060f",
   "lastOpenFiles": [
+    "TEMPLATE.md",
     "术语翻译对照表.md",
     "01-基础/神经殊异.md",
     "01-基础/神经多样性.md",
@@ -207,7 +209,6 @@
     "02-批判分析/神经多样性与交叉性.md",
     "02-批判分析/神经多样性与残障.md",
     "02-批判分析/神经多样性批判与回应.md",
-    "02-批判分析/神经多样性的去殖民化.md",
     "COLLABORATING.md.tmp.17700.f812eb08406a",
     "README.md.tmp.17700.27512ca5af87",
     "术语翻译对照表.md.tmp.17700.7372356ae9f9",
