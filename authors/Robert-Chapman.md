@@ -1,16 +1,18 @@
 ---
 title: Robert Chapman
-description: Robert Chapman 是杜伦大学神经多样性研究学者，《正常帝国》和《神经多样性简论》的作者，神经殊异马克思主义（Neurodivergent Marxism）的提出者，将马克思主义分析系统引入神经多样性运动
+description: Robert Chapman 是 Sheffield Hallam 大学教育与孤独谱系高级讲师、神经殊异哲学家，《正常帝国》和《神经多样性简论》的作者，神经殊异马克思主义（Neurodivergent Marxism）的提出者，知名博客 Critical Neurodiversity 的作者
 aliases: [罗伯特·查普曼, Chapman]
 tags: [author, neurodiversity, foundational, political]
 sources: [books/正常帝国-Empire of Normality (Robert Chapman).epub, books/神经多样性-Neurodiversity A Very Short Introduction (Robert Chapman, Sue Fletcher-Watson)机翻DeepSeek.epub, 2026-05-09/josp.12456.pdf, 2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf]
 created: 2026-05-07
-updated: 2026-05-11
+updated: 2026-06-23
 ---
 
 # Robert Chapman
 
-Robert Chapman（罗伯特·查普曼）是神经多样性研究领域的学者，以将马克思主义分析与神经多样性运动结合而闻名。他是[[神经殊异马克思主义]]（Neurodivergent Marxism）的提出者，现任教于英国杜伦大学（Durham University）。
+Robert Chapman（罗伯特·查普曼）是神经殊异哲学家、神经多样性研究学者，以将马克思主义分析与神经多样性运动结合而闻名。他是[[神经殊异马克思主义]]（Neurodivergent Marxism）的提出者，现任 Sheffield Hallam 大学教育与孤独谱系高级讲师（Senior Lecturer in Education and Autism）。此前曾任教于布里斯托大学（University of Bristol）、伦敦国王学院（King's College London）和埃塞克斯大学（University of Essex）。
+
+2023 年 5 月，Chapman 作为提名研究员（Nominated Fellow）入驻爱丁堡大学人文高等研究院（[IASH](https://www.iash.ed.ac.uk/profile/dr-robert-chapman)），与 [[Sue-Fletcher-Watson]] 在驻院期间合作撰写 [[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]]（Neurodiversity: A Very Short Introduction）。他是神经多样性主题知名博客 [**Critical Neurodiversity**](https://criticalneurodiversity.com/) 的作者，亦在 Substack（[neurodiversityandcapitalism](https://substack.com/@neurodiversityandcapitalism)）持续发表。
 
 ## 本wiki已引用著作
 

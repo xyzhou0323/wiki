@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "术语翻译对照表.md",
+                "file": "02-批判分析/阿斯至上主义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "术语翻译对照表"
+              "title": "阿斯至上主义"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,10 +180,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "7979cd594eed060f",
+  "active": "8be197a1e7a5799c",
   "lastOpenFiles": [
-    "TEMPLATE.md",
+    "02-批判分析/神经多样性批判与回应.md",
     "术语翻译对照表.md",
+    "TEMPLATE.md",
     "01-基础/神经殊异.md",
     "01-基础/神经多样性.md",
     "04-实践应用/单一聚焦.md",
@@ -208,7 +208,6 @@
     "02-批判分析/神经多样性与资本主义.md",
     "02-批判分析/神经多样性与交叉性.md",
     "02-批判分析/神经多样性与残障.md",
-    "02-批判分析/神经多样性批判与回应.md",
     "COLLABORATING.md.tmp.17700.f812eb08406a",
     "README.md.tmp.17700.27512ca5af87",
     "术语翻译对照表.md.tmp.17700.7372356ae9f9",
