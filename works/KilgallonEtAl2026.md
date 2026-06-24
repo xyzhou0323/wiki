@@ -65,7 +65,7 @@ citation_apa: "Kilgallon, E., Botha, M., Dwyer, P., Bottema-Beutel, K., Milton, 
 
 ### 支持 DEP 的证据
 
-- 孤独谱系-非孤独谱系配对报告更低融洽度、更少同步性和更频繁的误解（Crompton, Ropar et al., 2020; Morrison et al., 2020; Bolis et al., 2021; Foster et al., 2025）
+- 孤独谱系-非孤独谱系配对报告更低融洽度、更少同步性和更频繁的误解（[[CromptonEtAl2020|Crompton, Ropar et al. (2020)]]; Morrison et al., 2020; Bolis et al., 2021; Foster et al., 2025）
 - 混合神经类型互动常为最不成功的——与孤独谱系"缺陷"理论明显矛盾
 - 部分研究的不同发现（如 Wadge et al., 2019）不构成反驳——DEP 主张的是更大**概率**的连接，而非任何情境下都成立
 

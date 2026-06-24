@@ -1,6 +1,6 @@
 ---
 title: Catherine Crompton
-description: Catherine J. Crompton 是爱丁堡大学 Usher 研究所高级研究员（Ph.D.），Edinburgh Neuroscience 成员，双 empathy 问题最重要的实证研究者之一，以扩散链实验首次证明孤独谱系者间信息传递高效、跨神经类型互动融洽度差异著称，获 Autistica 公众参与奖（2018）
+description: Catherine J. Crompton 是爱丁堡大学 Usher 研究所高级研究员（Ph.D.），Edinburgh Neuroscience 成员，双向同理心问题最重要的实证研究者之一，以扩散链实验首次证明孤独谱系者间信息传递高效、跨神经类型互动融洽度差异著称，获 Autistica 公众参与奖（2018）
 aliases: [Catherine Crompton, Catherine J. Crompton, Crompton, 凯瑟琳·克朗普顿]
 tags: [author, neurodiversity, autism, double-empathy, translational-neuroscience]
 sources: [2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md]
@@ -10,7 +10,7 @@ updated: 2026-06-24
 
 # Catherine Crompton
 
-**身份**：孤独谱系社交互动研究者 × 双 empathy 问题实证验证者 × 转化神经科学学者
+**身份**：孤独谱系社交互动研究者 × 双向同理心问题实证验证者 × 转化神经科学学者
 **机构**：爱丁堡大学（University of Edinburgh），人口健康科学学院，Usher 研究所，生物医学、自我与社会中心（Centre for Biomedicine, Self and Society）
 **职称**：高级研究员（Senior Research Fellow）
 **隶属**：Edinburgh Neuroscience、爱丁堡心理健康网络
@@ -20,11 +20,11 @@ updated: 2026-06-24
 
 ## 学术定位
 
-Crompton 的研究横跨**孤独谱系社交认知、健康不平等与转化神经科学**。她的早期工作涉及健康老化中的协作学习与记忆，近年聚焦**神经多样性框架下的跨神经类型互动**，以严格的行为实验方法为[[双向同理心问题|双 empathy 问题]]提供关键实证证据。同时关注孤独谱系成人的**健康体验**（如 Ehlers-Danlos 综合征共病）和**开放科学工具开发**（如 duet R 包）。
+Crompton 的研究横跨**孤独谱系社交认知、健康不平等与转化神经科学**。她的早期工作涉及健康老化中的协作学习与记忆，近年聚焦**神经多样性框架下的跨神经类型互动**，以严格的行为实验方法为[[双向同理心问题]]提供关键实证证据。同时关注孤独谱系成人的**健康体验**（如 Ehlers-Danlos 综合征共病）和**开放科学工具开发**（如 duet R 包）。
 
 ## 研究
 
-### 双 empathy 问题的实证验证
+### 双向同理心问题的实证验证
 
 Crompton 是 DEP 理论最重要的实证研究者之一，其系列实验为 DEP 提供了直接而系统的行为证据：
 
@@ -73,11 +73,15 @@ Crompton 是 DEP 理论最重要的实证研究者之一，其系列实验为 DE
 
 ## 本wiki已引用著作
 
+- [[CromptonEtAl2020|Crompton et al. (2020)]] — 首次扩散链实验，证明孤独谱系者间信息传递高效、跨神经类型衰减
+- [[CromptonEtAl2025|Crompton et al. (2025)]] — 大规模预注册复制，再次确认孤独谱系链无缺陷，发现诊断告知改善融洽度
 - [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清（合著者）
 
 ## Related
 
 - [[双向同理心问题]]
+- [[CromptonEtAl2020|Crompton et al. (2020)]]
+- [[CromptonEtAl2025|Crompton et al. (2025)]]
 - [[KilgallonEtAl2026|Kilgallon et al. (2026)]]
 - [[Milton2012|Milton (2012)]]
 - [[Damian-Milton]] — DEP 原创者

@@ -16,7 +16,7 @@ updated: 2026-06-24
 
 ## 相关研究
 
-Kilgallon 主导了 [[KilgallonEtAl2026|Kilgallon et al. (2026)]]——一篇重新阐明 [[双向同理心问题]]（DEP）本质的重要概念澄清论文。该文联合 DEP 的原创者（Milton）、主要实证研究者（Crompton、Sasson）和批判理论家（Botha、Bottema-Beutel、Dwyer），系统回应了对 DEP 的实证主义批评，将 DEP 重新确立为社会学框架而非社会-认知理论。
+Kilgallon 主导了 [[KilgallonEtAl2026|Kilgallon et al. (2026)]]——一篇重新阐明 [[双向同理心问题]]（DEP）本质的重要概念澄清论文。该文联合 DEP 的原创者（Milton）、主要实证研究者（[[Catherine-Crompton|Crompton]]、Sasson）和批判理论家（Botha、Bottema-Beutel、Dwyer），系统回应了对 DEP 的实证主义批评，将 DEP 重新确立为社会学框架而非社会-认知理论。
 
 ## 本wiki已引用著作
 
