@@ -27,7 +27,7 @@ Kapp 的研究方法多样，涵盖质性、量化、混合方法，从社区参
 
 2007 年，Kapp 通过 ASAN 联合创始人 Scott Robertson 在 Facebook 上的介绍，了解到神经多样性与残障权利运动。在南加州充满敌意的环境中（CARD、Lovaas Institute、Cure Autism Now、TACA 的伪科学宣传），Kapp 选择进入学术领域——"学习主流科学的思维和语言，以更好地批判它们。"
 
-## 核心贡献
+## 相关研究
 
 ### Kapp 2020 编辑文集
 

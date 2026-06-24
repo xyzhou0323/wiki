@@ -20,7 +20,7 @@ citation_apa: "Sarr, R., Spain, D., Quinton, A. M. G., Happé, F., Brewin, C. R.
 **方法**：共制三轮 Delphi 法 | **样本**：106 位国际专业人员（R1）→ 59（R2, 56%）→ 55（R3, 52%）
 **资金**：King's College London、Medical Research Council、NIHR Maudsley Biomedical Research Centre
 
-## 核心贡献
+## 本文要点
 
 本文是**首项采用共制 Delphi 法系统建立四种状况鉴别诊断共识的研究**。[[孤独谱系障碍]]、依恋障碍（RAD/DSED）、CPTSD 和 EUPD 之间存在大量症状重叠——情绪失调、认知与行为僵化、感官处理差异、人际困难——使得临床鉴别诊断面临重大挑战。研究通过三轮 Delphi 流程，最终**275 条陈述达成共识**（≥80% 一致），另有部分陈述未达共识（如孤独谱系与 EUPD 共现的陈述全部未通过）。
 

@@ -19,7 +19,7 @@ citation_apa: "Rozenkrantz, L., D'Mello, A. M., & Gabrieli, J. D. E. (2021). Enh
 **DOI**：[10.1016/j.tics.2021.05.004](https://doi.org/10.1016/j.tics.2021.05.004)
 **方法**：综述
 
-## 核心贡献
+## 本文要点
 
 本文综述了孤独谱系者在推理、判断和决策中的**增强理性**（enhanced rationality）：一种比神经典型者更客观、更少受认知偏误影响的判断方式。这一发现挑战了"人类必然是 predictably irrational 的"这一行为经济学基本假设——至少不是必然会犯的。
 

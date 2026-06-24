@@ -11,7 +11,7 @@ updated: 2026-05-09
 
 伦敦国王学院精神病学、心理学与神经科学研究所（IoPPN）发育精神病理学教授，*Journal of Child Psychology and Psychiatry*（JCPP）主编。
 
-## 核心贡献
+## 相关研究
 
 ### ADHD 与神经发育障碍研究
 

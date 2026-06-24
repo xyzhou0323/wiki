@@ -17,17 +17,17 @@ updated: 2026-06-24
 
 ## 学术定位
 
-Alicia Broderick 是美国融合教育与残障研究领域的重要学者。她的研究聚焦于**孤独症话语的文化批判**——分析流行话语如何塑造教育实践和教育政策。她代表了一种跨神经类型的学者-盟友（scholar-ally）角色：在批判主流孤独症话语的同时，主动与孤独谱系同事进行合作研究。
+Alicia Broderick 是美国融合教育与残障研究领域的重要学者。她的研究聚焦于**孤独谱系话语的文化批判**——分析流行话语如何塑造教育实践和教育政策。她代表了一种跨神经类型的学者-盟友（scholar-ally）角色：在批判主流孤独症话语的同时，主动与孤独谱系同事进行合作研究。
 
-2022 年，Broderick 出版了《**The Autism Industrial Complex: How Branding, Marketing, and Capital Investment Turned Autism into Big Business**》（Myers Education Press）——对孤独症如何被品牌化、市场化、资本化为巨大产业的系统批判。
+2022 年，Broderick 出版了《**The Autism Industrial Complex: How Branding, Marketing, and Capital Investment Turned Autism into Big Business**》（Myers Education Press）——对孤独谱系如何被品牌化、市场化、资本化为巨大产业的系统批判。
 
-## 核心贡献
+## 相关研究
 
 ### 孤独症隐喻与话语分析
 
-- 合著 [[BroderickNeeman2008|Broderick & Ne'eman (2008)]]——运用 Sontag 的疾病隐喻理论与 Foucault 的真理政体框架，首次系统分析孤独症话语中"疾病隐喻"与"神经多样性反叙事"之间的文化斗争
-- 论文论证了隐喻如何为关于孤独症成因和干预的主导信念建立"常识性叙事一致性"
-- 对"恢复（至正常）"话语进行了批判性分析
+- 合著 [[BroderickNeeman2008|Broderick & Ne'eman (2008)]]——运用 Sontag 的疾病隐喻理论与 Foucault 的真理政体框架，首次系统分析孤独症话语中“疾病隐喻”与“神经多样性反叙事”之间的文化斗争
+- 论文论证了隐喻如何为关于孤独症成因和干预的主导信念建立“常识性叙事一致性”
+- 对“恢复（至正常）”话语进行了批判性分析
 
 ### 孤独症产业批判（2022）
 
@@ -46,7 +46,7 @@ Alicia Broderick 是美国融合教育与残障研究领域的重要学者。她
 ### 方法论承诺
 
 - 研究实践的核心承诺：**与孤独谱系同事在探究和倡导过程中进行合作**
-- 这体现了[[神经多样性研究]]中提倡的"跨神经类型合作"（cross-neurotype collaboration）方法论
+- 这体现了[[神经多样性研究]]中提倡的“跨神经类型合作”（cross-neurotype collaboration）方法论
 - 同时认真对待作为非孤独谱系学者-盟友的立场性
 
 ## 学术影响脉络
@@ -60,11 +60,11 @@ Broderick 的工作位于以下知识传统的交汇点：
 
 ## 代表著作
 
-| 著作 | 年份 | 核心贡献 |
-| --- | --- | --- |
-| [[BroderickNeeman2008|Broderick & Ne'eman]] | 2008 | 孤独症作为隐喻：叙事与反叙事——话语分析奠基文献 |
-| Broderick | 2022 | *The Autism Industrial Complex*——孤独症产业的系统批判 |
-| Go Jefferies, Rhoads, Vogus, Satornino, Joffe & Broderick | 2025 | 神经多样性视角下的市场包容（*JPP&M*） |
+| 著作                                                        | 年份   | 相关研究                                        |     |
+| --------------------------------------------------------- | ---- | ------------------------------------------- | --- |
+| [[BroderickNeeman2008\|Broderick & Ne'eman]]              | 2008 | 孤独症作为隐喻：叙事与反叙事——话语分析奠基文献                    |     |
+| Broderick                                                 | 2022 | *The Autism Industrial Complex*——孤独症产业的系统批判 |     |
+| Go Jefferies, Rhoads, Vogus, Satornino, Joffe & Broderick | 2025 | 神经多样性视角下的市场包容（*JPP&M*）                      |     |
 
 ## Related
 
@@ -72,5 +72,5 @@ Broderick 的工作位于以下知识传统的交汇点：
 - [[BroderickNeeman2008|Broderick & Ne'eman (2008)]] — 主要合作著作
 - [[神经规范性]] — 其话语批判的核心对象
 - [[去病理化]] — 其隐喻分析是去病理化批判的理论资源
-- [[神经多样性研究]] — 其实践的"跨神经类型合作"方法论与此领域一致
+- [[神经多样性研究]] — 其实践的“跨神经类型合作”方法论与此领域一致
 - [[庸俗版神经多样性]] — 与她批判的孤独症产业及主流收编相关

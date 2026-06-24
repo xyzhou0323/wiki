@@ -11,7 +11,7 @@ updated: 2026-06-16
 
 Melanie Yergeau 是密歇根大学（University of Michigan）英语语言文学系副教授，孤独谱系自倡导者。她的学术工作在修辞理论、残障研究和孤独谱系批判的交叉点上运作。
 
-## 核心贡献
+## 相关研究
 
 ### Authoring Autism (2018)
 

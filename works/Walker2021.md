@@ -23,7 +23,7 @@ citation_apa: "Walker, N. (2021). Neuroqueer heresies: Notes on the neurodiversi
 
 *Neuroqueer Heresies*（2021）汇集了 Nick Walker 在过去十几年间发表的关于神经多样性范式和孤独谱系赋权的短篇文章，附有作者回顾性评注。这些文章最初发表于 Walker 于2013年创建的 Neurocosmopolitanism 网站，其中多篇对神经多样性话语和新兴的神经多样性研究（Neurodiversity Studies）领域产生了持久影响。
 
-该书的核心贡献包括：
+该书的要点包括：
 - 收录了引用率最高的 [[Walker2014|神经多样性基本术语定义]]（2014）
 - 首次系统阐述了"**神经酷儿**"（neuroqueer）概念——Walker 于2008年在研究生论文中创造
 - 提供了从[[常态范式]]向[[神经多样性范式]]转变的实践框架

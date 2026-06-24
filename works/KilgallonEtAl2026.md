@@ -17,7 +17,7 @@ citation_apa: "Kilgallon, E., Botha, M., Dwyer, P., Bottema-Beutel, K., Milton, 
 **发表**：*Autism in Adulthood*
 **类型**：理论澄清与综述
 
-## 核心贡献
+## 本文要点
 
 本文在 DEP 研究快速增长、部分研究者开始质疑其理论连贯性（如 Livingston et al., 2025）的背景下，重新阐明 [[双向同理心问题]]（DEP）的本质、边界与认识论基础。作者团队包括 DEP 的原创者、发展者和主要实证研究者，兼具孤独谱系与非孤独谱系学者视角。
 

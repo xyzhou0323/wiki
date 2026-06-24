@@ -19,7 +19,7 @@ citation_apa: "Szechy, K. A., Turk, P. D., & O'Donnell, L. A. (2024). Autism and
 
 **作者**：[[Kathryn-Szechy|Kathryn A. Szechy]]（温莎大学社会工作学院）、Pamela D. Turk（密歇根州卫生与公众服务部）、Lisa A. O'Donnell（韦恩州立大学社会工作学院）
 
-## 核心贡献
+## 本文要点
 
 首次将 **[[双向同理心问题|双向同理心问题（DEP）]]** 实证检验应用于**职场情境**。研究直接比较了两种对孤独谱系社交困难的竞争性解释——ToM 缺陷假说 vs DEP——在理解孤独谱系员工行为方面的表现。
 

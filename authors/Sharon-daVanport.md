@@ -12,7 +12,7 @@ updated: 2026-06-16
 
 孤独谱系活动家。2010 年创立**孤独谱系女性与非二元性别网络**（Autistic Women & Nonbinary Network, [AWN](https://awnnetwork.org/)），同时联合创办孤独谱系有色人种网络。
 
-## 核心贡献
+## 相关活动
 
 ### AWN：将交叉性女权主义引入神经多样性运动
 

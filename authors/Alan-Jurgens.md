@@ -23,7 +23,7 @@ Jurgens 的研究聚焦于**生成主义社会认知**（Enactive Social Cogniti
 
 2022 年，Jurgens 在美国哲学协会芝加哥会议中对 Maiese & Hanna (2019) *The Mind-Body Politic* 发表评论，评论文章"Master Narratives: Embodying Ideology"发表于 *Journal of the Philosophy of Emotion* (2024)。
 
-## 核心贡献
+## 相关研究
 
 ### 生成主义与神经多样性的整合
 

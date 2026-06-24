@@ -10,7 +10,7 @@ created: 2026-05-08
 
 孤独谱系自倡导者、残障权利律师、活动家。与 Shain M. Neumeier 共同领导了反对 Judge Rotenberg Center（JRC）电击"治疗"的废除运动（Kapp 2020 第14章）。
 
-## 核心贡献
+## 相关活动
 
 ### JRC 废除运动
 

@@ -20,7 +20,7 @@ updated: 2026-06-24
 
 Milton 自 2000 年起在继续和高等教育领域教授孤独谱系与学习障碍课程，2017 年加入肯特大学 Tizard 中心任兼职讲师。他的研究以**提升孤独谱系者和学习障碍者在研究过程中的有意义参与**为核心原则，并担任**参与式孤独谱系研究集体**（Participatory Autism Research Collective, PARC）主席。
 
-## 核心贡献
+## 相关研究
 
 ### 双向同理心问题（DEP）
 
@@ -48,7 +48,7 @@ Milton 于 2012 年在 *Disability & Society* 发表的 [[Milton2012|Milton (201
 
 **Milton & Bracher (2013)** 在 *Medical Sociology Online* 发表"Autistics speak but are they heard"，批判孤独谱系研究中系统性排斥孤独谱系者声音的问题——预演了后续[[参与式行动研究]]和"没有我们的参与，不做关于我们的决定"的核心诉求。
 
-### 编辑贡献
+### 编辑作品
 
 - **Milton & Ryan (2022)** — *The Routledge International Handbook of Critical Autism Studies*（联合主编）——批判孤独谱系研究里程碑式编辑卷
 - **Milton, Murray, Ridout, Martin & Mills (2020)** — *The Neurodiversity Reader*（Pavilion，联合主编）

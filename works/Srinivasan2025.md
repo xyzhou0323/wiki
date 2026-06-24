@@ -19,7 +19,7 @@ citation_apa: "Srinivasan, H. (2025). Neurodiversity 2.0: Harnessing cross-disci
 **DOI**：[10.1016/j.reia.2025.202652](https://doi.org/10.1016/j.reia.2025.202652)
 **开放获取**：Creative Commons
 
-## 核心贡献
+## 本文要点
 
 Srinivasan 提出**"神经多样性 2.0"（Neurodiversity 2.0）**框架——通过整合残障研究、社会正义与政策的跨学科洞见，对神经多样性运动的基础原则进行系统升级。核心操作是**拒绝当前话语中主导的三组虚假二元**：
 

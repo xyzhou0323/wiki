@@ -11,7 +11,7 @@ updated: 2026-05-09
 
 英国独立孤独谱系研究者，以书籍索引为职业，业余从事孤独谱系学术研究。
 
-## 核心贡献
+## 相关研究
 
 - **神经多样性研究**：与 [[Hanna-Bertilsdotter-Rosqvist]] 和 [[Anna-Stenning]] 共同主编 [[RosqvistEtAl2020]]（Routledge, 2020）——首部提出"神经多样性研究"作为新学术领域的编辑卷
 - **Wittgenstein 与孤独谱系**：将 Wittgenstein 语言游戏概念应用于分析孤独谱系如何通过神经典型的语言实践被建构为病理——"智力"概念是语言游戏对思维的"蛊惑"（bewitchment）

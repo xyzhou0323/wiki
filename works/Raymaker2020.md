@@ -34,7 +34,7 @@ citation_apa: 'Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer,
 
 十位作者中九位自我认同为孤独谱系者——本文是"Nothing About Us Without Us"原则在学术研究中的典范实践。研究采用 [[参与式行动研究|CBPR]] 方法，孤独谱系社群成员参与研究的**全过程**：从研究设计、数据收集、编码分析到论文撰写。
 
-## 核心贡献
+## 本文要点
 
 本文是**首篇对"[[孤独谱系耗竭]]"（Autistic Burnout）进行学术定义的论文**。此前，该概念在孤独谱系社群中长期被讨论和描述（博客、论坛、社交媒体），但从未进入学术文献。[[Dora-Raymaker|Raymaker]] 等填补了这一空白，将社群知识正式学术化。
 

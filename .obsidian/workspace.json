@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-实践应用/神经多样性教育.md",
+                "file": "works/ZanevaEtAl2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经多样性教育"
+              "title": "ZanevaEtAl2024"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "遗传性",
+                "query": "核心贡献",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,32 +183,32 @@
   },
   "active": "8be197a1e7a5799c",
   "lastOpenFiles": [
-    "04-实践应用/融合教育.md",
-    "04-实践应用/单一聚焦.md",
-    "03-历史脉络/优生学.md",
-    "03-历史脉络/神经多样性运动史.md",
-    "03-历史脉络/反精神病学.md",
-    "03-历史脉络/常态的发明.md",
-    "02-批判分析/庸俗版神经多样性.md",
-    "02-批判分析/新自由主义与精神健康.md",
-    "02-批判分析/神经殊异马克思主义.md",
-    "02-批判分析/神经撒切尔主义.md",
-    "02-批判分析/神经规范性.md",
-    "02-批判分析/神经多样性与资本主义.md",
-    "02-批判分析/神经多样性与交叉性.md",
-    "02-批判分析/神经多样性的去殖民化.md",
-    "02-批判分析/神经多样性与残障.md",
-    "02-批判分析/神经多样性批判与回应.md",
-    "02-批判分析/去病理化.md",
-    "02-批判分析/批判残障理论.md",
-    "02-批判分析/残障正义.md",
-    "02-批判分析/残障肯定模型.md",
-    "02-批判分析/残障的哲学定义.md",
-    "02-批判分析/残障的社会模型.md",
-    "02-批判分析/阿斯至上主义.md",
-    "01-基础/神经殊异.md",
-    "01-基础/神经多样性运动.md",
-    "01-基础/神经多样性范式.md",
+    "authors/Shain-M-Neumeier.md",
+    "authors/Yulin-Cheng.md",
+    "works/YiEtAl2022.md",
+    "authors/Warda-Farah.md",
+    "authors/Virginia-Bovell.md",
+    "authors/Vishnu-KK-Nair.md",
+    "works/Walker2021.md",
+    "authors/Sue-Fletcher-Watson.md",
+    "works/SzechyEtAl2024.md",
+    "authors/Steven-Kapp.md",
+    "authors/Steve-Silberman.md",
+    "works/Srinivasan2025.md",
+    "authors/Siofra-Heraty.md",
+    "authors/Sharon-daVanport.md",
+    "works/RozenkrantzEtAl2021.md",
+    "works/SarrEtAl2024.md",
+    "authors/Roald-Øien.md",
+    "works/ReaEtAl2024.md",
+    "works/Raymaker2020.md",
+    "authors/Patrick-Dwyer.md",
+    "authors/Nick-Walker.md",
+    "authors/Nick-Chown.md",
+    "authors/Morton-Ann-Gernsbacher.md",
+    "authors/Monique-Botha.md",
+    "authors/Mitzi-Waltz.md",
+    "authors/Mildred-Boveda.md",
     "04-实践应用/双向同理心问题.md.tmp.32348.4ca943e02293",
     "04-实践应用/双向同理心问题.md.tmp.32348.a4cc0e5845e1",
     "04-实践应用/双向同理心问题.md.tmp.32348.7cdab9fca127",
