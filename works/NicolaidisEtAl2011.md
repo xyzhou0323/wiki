@@ -39,13 +39,13 @@ AASPIRE（Academic Autistic Spectrum Partnership in Research and Education, [www
 
 ## 核心经验
 
-### 1. 谁是"社群"？
+### 1. 谁是“社群”？
 
 孤独谱系自我倡权社群遵循与 LGBTQ+ 和聋人社群相同的**个体成员身份模式**（individual membership pattern）——社群成员来自以非孤独谱系者为主的家庭。这意味着家庭成员是重要的利益相关者，但**其价值观和优先事项可能与自我倡权社群相冲突**。
 
-例证：2008 年 IACC 分析显示，2,200 万美元研究经费中，37% 用于病因与预防研究，仅 1% 用于"我可以在哪里获得服务？"。许多家长运营的组织将资源导向"治愈"和"预防"——这些方向被许多孤独谱系自我倡权者视为**非人化且有害**。
+例证：2008 年 IACC 分析显示，2,200 万美元研究经费中，37% 用于病因与预防研究，仅 1% 用于“我可以在哪里获得服务？”。许多家长运营的组织将资源导向“治愈”和“预防”——这些方向被许多孤独谱系自我倡权者视为**非人化且有害**。
 
-[AASPIRE](https://aaspire.org/) 的决定性立场：**聚焦于自我倡权社群的优先事项**，欢迎认同这一使命的家庭成员作为盟友参与。这与健康差异研究者与同性恋男性社群合作时不会花时间辩论"同性恋是否道德"的逻辑相同——AASPIRE 不辩论"孤独谱系是否应被预防/治愈"这类政治问题。
+[AASPIRE](https://aaspire.org/) 的决定性立场：**聚焦于自我倡权社群的优先事项**，欢迎认同这一使命的家庭成员作为盟友参与。这与健康差异研究者与同性恋男性社群合作时不会花时间辩论“同性恋是否道德”的逻辑相同——AASPIRE 不辩论“孤独谱系是否应被预防/治愈”这类政治问题。
 
 ### 2. 社群不在地理本地怎么办？
 
@@ -113,13 +113,13 @@ AASPIRE（Academic Autistic Spectrum Partnership in Research and Education, [www
 - 包容孤独谱系者作为平等伙伴需要**对基础设施和实践的重大关注**——而非只是态度上的"欢迎"
 - 这项工作**有潜力彻底转变孤独谱系研究领域**
 
-本文奠定了此后十年 [AASPIRE](https://aaspire.org/) 产出[[Raymaker2020|孤独谱系倦怠]]等研究的方法论基础。
+本文奠定了此后十年 [AASPIRE](https://aaspire.org/) 产出[[Raymaker2020|孤独谱系耗竭]]等研究的方法论基础。
 
 ## Related
 
 - [[参与式行动研究]] — PAR 方法论：本文是 PAR 在孤独谱系研究中最早的系统实践记录
 - [[神经多样性与民主研究]] — "Nothing About Us Without Us"的民主研究原则
-- [[Raymaker2020|Raymaker et al. (2020)]] — AASPIRE 的重要成果：孤独谱系倦怠的 CBPR 学术定义
+- [[Raymaker2020|Raymaker et al. (2020)]] — AASPIRE 的重要成果：孤独谱系耗竭的 CBPR 学术定义
 - [[LloydEvans2023|Lloyd-Evans (2023)]] — PAR 通用工具包：八阶段与 A-Z 车轮
 - [[Dora-Raymaker]] — AASPIRE 社群联合主任，本文联合第一作者
 - [[Christina-Nicolaidis]] — AASPIRE 学术联合主任，本文联合第一作者
