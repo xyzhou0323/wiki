@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-实践应用/双向同理心问题.md",
+                "file": "02-批判分析/庸俗版神经多样性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "双向同理心问题"
+              "title": "庸俗版神经多样性"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "核心贡献",
+                "query": "批判残障理论",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,19 +181,34 @@
       "bases:新建数据库": false
     }
   },
-  "active": "8be197a1e7a5799c",
+  "active": "7979cd594eed060f",
   "lastOpenFiles": [
+    "02-批判分析/庸俗版神经多样性.md.tmp.23888.2c1e7278dd52",
+    "02-批判分析/庸俗版神经多样性.md.tmp.23888.2b5ee4a8fdf5",
+    "02-批判分析/庸俗版神经多样性.md.tmp.23888.ef600348855c",
+    "02-批判分析/庸俗版神经多样性.md.tmp.23888.295534df1237",
+    "02-批判分析/庸俗版神经多样性.md.tmp.23888.812409d72996",
+    "02-批判分析/庸俗版神经多样性.md.tmp.23888.0ba4a782dada",
+    "02-批判分析/新自由主义与精神健康.md",
+    "02-批判分析/庸俗版神经多样性.md",
+    "02-批判分析/神经规范性.md",
+    "works/Dwyer2025.md",
+    "02-批判分析/神经撒切尔主义.md",
+    "authors/Huilin-Zhu.md",
+    "authors/Robert-Chapman.md",
+    "works/PearsonEtAl2026.md",
+    "02-批判分析/庸俗版神经多样性.md.tmp.23888.94d2efb83150",
+    "02-批判分析/庸俗版神经多样性.md.tmp.23888.1f3ade2b1492",
+    "01-基础/神经多样性范式.md.tmp.38236.2cdccbd61e3a",
+    "02-批判分析/残障的哲学定义.md.tmp.38236.2a7a9d2b84c5",
+    "02-批判分析/残障正义.md.tmp.38236.3f514a2960e3",
+    "02-批判分析/批判性残障理论.md",
+    "authors/Uchong-Lao.md",
+    "神经多样性工具包.md",
+    "04-实践应用/双向同理心问题.md",
     "works/ZanevaEtAl2024.md",
-    "works/KilgallonEtAl2026.md.tmp.24432.5b7c14a4a343",
-    "04-实践应用/双向同理心问题.md.tmp.24432.175dada29303",
-    "README.md.tmp.24432.90cb03acf32c",
-    "README.md.tmp.24432.544e614ce150",
-    "00-知识地图.md.tmp.24432.85ed42cb5f4d",
-    "00-知识地图.md.tmp.24432.cbcb6bb85bf5",
     "works/CromptonEtAl2025.md",
-    "works/CromptonEtAl2025.md.tmp.24432.d403677d199f",
     "works/CromptonEtAl2020.md",
-    "00-知识地图.md.tmp.24432.d250779ac64e",
     "authors/Shain-M-Neumeier.md",
     "authors/Yulin-Cheng.md",
     "works/YiEtAl2022.md",
@@ -203,21 +219,6 @@
     "authors/Sue-Fletcher-Watson.md",
     "works/SzechyEtAl2024.md",
     "authors/Steven-Kapp.md",
-    "authors/Steve-Silberman.md",
-    "works/Srinivasan2025.md",
-    "authors/Siofra-Heraty.md",
-    "authors/Sharon-daVanport.md",
-    "works/RozenkrantzEtAl2021.md",
-    "works/SarrEtAl2024.md",
-    "authors/Roald-Øien.md",
-    "works/ReaEtAl2024.md",
-    "works/Raymaker2020.md",
-    "authors/Patrick-Dwyer.md",
-    "authors/Nick-Walker.md",
-    "authors/Nick-Chown.md",
-    "authors/Morton-Ann-Gernsbacher.md",
-    "04-实践应用/双向同理心问题.md.tmp.32348.4ca943e02293",
-    "04-实践应用/双向同理心问题.md.tmp.32348.a4cc0e5845e1",
     "Pasted image 20260616213853.png"
   ]
 }

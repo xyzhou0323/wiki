@@ -23,7 +23,7 @@ citation_apa: "Carmel, J.-M., Chapman, S., & Wright, P. (2026). Disability justi
 
 ## 方法
 
-采用**回顾性自传式民族志**（retrospective autoethnography），以第一作者（Julie-Mary Carmel）作为照护者的视角，通过 8 个生活片段（vignettes）呈现 Taylor——一名 3 至 6 岁使用轮椅的儿童——在日常生活中面临的包容与排斥。研究以[[批判残障理论]]（CDT）和社会模型为分析框架。
+采用**回顾性自传式民族志**（retrospective autoethnography），以第一作者（Julie-Mary Carmel）作为照护者的视角，通过 8 个生活片段（vignettes）呈现 Taylor——一名 3 至 6 岁使用轮椅的儿童——在日常生活中面临的包容与排斥。研究以[[批判性残障理论]]（CDT）和社会模型为分析框架。
 
 ## 核心概念
 
@@ -88,7 +88,7 @@ citation_apa: "Carmel, J.-M., Chapman, S., & Wright, P. (2026). Disability justi
 
 ## Related
 
-- [[批判残障理论]] — 本文的分析框架
+- [[批判性残障理论]] — 本文的分析框架
 - [[残障的社会模型]] — 本文核心理论工具
 - [[残障模型]] — 医学模式与社会模型的对比在本文中通过具体生活片段被生动呈现
 - [[融合教育]] — 本文的规划性排除与第三方发言为融合教育提供了日常实践层面的质性证据
