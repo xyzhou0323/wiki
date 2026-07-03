@@ -1,6 +1,6 @@
 ---
 title: Yueran Pan
-description: 潘悦然（Yueran Pan）是 Lao et al. (2024) 的合著者，参与了中国孤独症术语感知调查的方法学支持与可视化
+description: 潘悦然（Yueran Pan）是武汉大学计算机学院与昆山杜克大学数据科学研究中心研究者，Lao et al. (2024) 合著者，参与了中国孤独症术语感知调查的方法学支持与可视化
 aliases: [Yueran Pan, Pan, 潘悦然]
 tags: [author, autism]
 sources: []
@@ -11,6 +11,7 @@ updated: 2026-07-03
 # Yueran Pan
 
 **中文名**：潘悦然
+**任职**：武汉大学计算机学院（武汉）、昆山杜克大学数据科学研究中心（昆山）
 **角色**：科研工作者
 
 ## 本wiki已引用著作
