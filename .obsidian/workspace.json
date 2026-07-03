@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-批判分析/庸俗版神经多样性.md",
+                "file": "works/LaoEtAl2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "庸俗版神经多样性"
+              "title": "LaoEtAl2026"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "批判残障理论",
+                "query": "反故事",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,8 +181,26 @@
       "bases:新建数据库": false
     }
   },
-  "active": "7979cd594eed060f",
+  "active": "8be197a1e7a5799c",
   "lastOpenFiles": [
+    "authors/Huilin-Zhu.md",
+    "works/LaoEtAl2026.md",
+    "05-诊断与现象/孤独谱系障碍.md",
+    "works/LaoZhu2024.md",
+    "works/LaoEtAl2024.md",
+    "works/KilgallonEtAl2026.md",
+    "04-实践应用/双向同理心问题.md",
+    "authors/Sarah-Arnaud.md",
+    "术语翻译对照表.md",
+    "02-批判分析/庸俗版神经多样性.md",
+    "works/ChapmanFletcherWatson2026.md",
+    "works/Dwyer2025.md",
+    "works/Srinivasan2025.md",
+    "works/JonesOrchard2024.md",
+    "works/Chapman2023.md",
+    "works/NeemanPellicano2022.md",
+    "works/Hughes2021.md",
+    "works/denHouting2019.md",
     "02-批判分析/庸俗版神经多样性.md.tmp.23888.2c1e7278dd52",
     "02-批判分析/庸俗版神经多样性.md.tmp.23888.2b5ee4a8fdf5",
     "02-批判分析/庸俗版神经多样性.md.tmp.23888.ef600348855c",
@@ -190,35 +208,17 @@
     "02-批判分析/庸俗版神经多样性.md.tmp.23888.812409d72996",
     "02-批判分析/庸俗版神经多样性.md.tmp.23888.0ba4a782dada",
     "02-批判分析/新自由主义与精神健康.md",
-    "02-批判分析/庸俗版神经多样性.md",
     "02-批判分析/神经规范性.md",
-    "works/Dwyer2025.md",
     "02-批判分析/神经撒切尔主义.md",
-    "authors/Huilin-Zhu.md",
     "authors/Robert-Chapman.md",
     "works/PearsonEtAl2026.md",
     "02-批判分析/庸俗版神经多样性.md.tmp.23888.94d2efb83150",
     "02-批判分析/庸俗版神经多样性.md.tmp.23888.1f3ade2b1492",
     "01-基础/神经多样性范式.md.tmp.38236.2cdccbd61e3a",
     "02-批判分析/残障的哲学定义.md.tmp.38236.2a7a9d2b84c5",
-    "02-批判分析/残障正义.md.tmp.38236.3f514a2960e3",
     "02-批判分析/批判性残障理论.md",
     "authors/Uchong-Lao.md",
     "神经多样性工具包.md",
-    "04-实践应用/双向同理心问题.md",
-    "works/ZanevaEtAl2024.md",
-    "works/CromptonEtAl2025.md",
-    "works/CromptonEtAl2020.md",
-    "authors/Shain-M-Neumeier.md",
-    "authors/Yulin-Cheng.md",
-    "works/YiEtAl2022.md",
-    "authors/Warda-Farah.md",
-    "authors/Virginia-Bovell.md",
-    "authors/Vishnu-KK-Nair.md",
-    "works/Walker2021.md",
-    "authors/Sue-Fletcher-Watson.md",
-    "works/SzechyEtAl2024.md",
-    "authors/Steven-Kapp.md",
     "Pasted image 20260616213853.png"
   ]
 }
