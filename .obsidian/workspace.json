@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "works/UNICEF2026.md",
+                "file": "04-实践应用/融合教育.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNICEF2026"
+              "title": "融合教育"
             }
           }
         ]
@@ -182,6 +182,8 @@
   },
   "active": "8be197a1e7a5799c",
   "lastOpenFiles": [
+    "04-实践应用/融合教育.md.tmp.31540.796cc94664de",
+    "works/UNICEF2026.md",
     "04-实践应用/融合教育.md",
     "README.md.tmp.19232.4bb768352ab8",
     "00-知识地图.md.tmp.19232.0eb765265a3a",
@@ -212,7 +214,6 @@
     "authors/Uchong-Lao.md",
     "authors/Huilin-Zhu.md",
     "works/LaoEtAl2026.md",
-    "works/LaoEtAl2024.md",
     "00-知识地图.md.tmp.6932.142454084ea1",
     "authors/Yueran-Pan.md.tmp.6932.311442b21084",
     "authors/Yueran-Pan.md.tmp.6932.84445f04cd00",
