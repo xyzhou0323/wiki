@@ -17,7 +17,7 @@ updated: 2026-05-09
 
 与 [[Sarah-Arnaud|Sarah Arnaud]] 合作发表 [[ArnaudGibson2025|Arnaud & Gibson (2025)]]，将 Peirce 的"实体抽象"概念适用于 ND 运动分析：
 
-- 精确形式化 **HAP（实体抽象原则）**
+- 形式化 **HAP（实体抽象原则）**
 - 以成瘾哲学的专业知识为对比——论证为何 Pickard 为成瘾辩护 HAP 的实用主义论证不能类推至孤独谱系
 - 提供两个身份层面（前反思体验结构 vs 社会/政治认同）的现象学分析
 
