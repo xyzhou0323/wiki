@@ -74,8 +74,8 @@ citation_apa: "Crompton, C. J., Ropar, D., Evans-Williams, C. V. M., Flynn, E. G
 ## Related
 
 - [[CromptonEtAl2025|Crompton et al. (2025)]] — 本研究的复制与扩展（N=311）
-- [[双向同理心问题]]
-- [[Catherine-Crompton]]
-- [[Sue-Fletcher-Watson]]
-- [[Milton2012|Milton (2012)]]
-- [[KilgallonEtAl2026|Kilgallon et al. (2026)]]
+- [[双向同理心问题]] — 本研究为其提供关键实证支持的框架：孤独谱系者间信息传递高效、跨神经类型衰减
+- [[Catherine-Crompton]] — 本文第一作者
+- [[Sue-Fletcher-Watson]] — 合著者
+- [[Milton2012|Milton (2012)]] — DEP 原初论文
+- [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清

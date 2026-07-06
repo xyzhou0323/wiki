@@ -30,4 +30,3 @@ updated: 2026-05-09
 - [[RosqvistEtAl2020]] — 主编的编辑卷
 - [[Hanna-Bertilsdotter-Rosqvist]]、[[Anna-Stenning]] — 合作主编
 - [[Ines-Hipolito]] — 第 12 章合作者
-- [[00-知识地图]] — 知识地图入口

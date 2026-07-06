@@ -34,4 +34,3 @@ sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new c
 - [[Nick-Chown]]、[[Anna-Stenning]] — 合作主编
 - David-Jackson-Perry — 感官研究合作者
 - [[神经多样性研究]] — 共同奠基的学术领域
-- [[00-知识地图]] — 知识地图入口

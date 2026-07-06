@@ -93,6 +93,6 @@ citation_apa: "Pellicano, E., & den Houting, J. (2022). Annual Research Review: 
 - [[去病理化]] — 本文"多样性非缺陷"框架的直接应用
 - [[残障的社会模型]] — 本文"情境很重要"论证的理论背景
 - [[孤独谱系障碍]] — 本文讨论的核心对象
-- [[Elizabeth-Pellicano|Elizabeth Pellicano]]
+- [[Elizabeth-Pellicano|Elizabeth Pellicano]] — 第一作者
 - [[denHouting2019|den Houting (2019)]] — 本文方法论立场的早期版本：内部人视角与三大误解澄清
-- [[Jacquiline-den-Houting|Jacquiline den Houting]]
+- [[Jacquiline-den-Houting|Jacquiline den Houting]] — 第二作者

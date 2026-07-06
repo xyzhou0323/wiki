@@ -79,11 +79,11 @@ Crompton 是 DEP 理论最重要的实证研究者之一，其系列实验为 DE
 
 ## Related
 
-- [[双向同理心问题]]
-- [[CromptonEtAl2020|Crompton et al. (2020)]]
-- [[CromptonEtAl2025|Crompton et al. (2025)]]
-- [[KilgallonEtAl2026|Kilgallon et al. (2026)]]
-- [[Milton2012|Milton (2012)]]
+- [[双向同理心问题]] — Crompton 以扩散链实验为其提供最直接的实证验证
+- [[CromptonEtAl2020|Crompton et al. (2020)]] — 首次扩散链实验（第一作者）
+- [[CromptonEtAl2025|Crompton et al. (2025)]] — 大规模预注册复制（第一作者）
+- [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清（合著者）
+- [[Milton2012|Milton (2012)]] — DEP 原初论文
 - [[Damian-Milton]] — DEP 原创者
 - [[Monique-Botha]] — DEP 合作者
 - [[Sue-Fletcher-Watson]] — 长期合作者，神经多样性 VSI 合著者

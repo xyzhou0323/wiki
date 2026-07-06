@@ -81,11 +81,11 @@ Milton 于 2012 年在 *Disability & Society* 发表的 [[Milton2012|Milton (201
 
 ## Related
 
-- [[双向同理心问题]]
-- [[Milton2012|Milton (2012)]]
-- [[Milton2022|Milton (2022)]]
-- [[KilgallonEtAl2026|Kilgallon et al. (2026)]]
+- [[双向同理心问题]] — Milton 原创的核心理论框架
+- [[Milton2012|Milton (2012)]] — DEP 原初论文
+- [[Milton2022|Milton (2022)]] — DEP 十年回顾
+- [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清（合著者）
 - [[Brett-Heasman]] — 孤独谱系流动研究合作者
-- [[参与式行动研究]]
-- [[神经多样性范式]]
-- [[常态范式]]
+- [[参与式行动研究]] — Milton 在 PARC 推动的研究方法论
+- [[神经多样性范式]] — DEP 的理论基础
+- [[常态范式]] — DEP 所挑战的传统模型

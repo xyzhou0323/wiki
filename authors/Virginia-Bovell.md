@@ -29,9 +29,8 @@ updated: 2026-05-09
 ## Related
 
 - [[Robert-Chapman]] — 合著者
-- [[ChapmanBovell2022|Chapman & Bovell (2022)]]
-- [[RosqvistEtAl2020]]
+- [[ChapmanBovell2022|Chapman & Bovell (2022)]] — ABA 伦理争议的系统分析（合著）
+- [[RosqvistEtAl2020]] — 第 3 章：预防和/或治愈孤独谱系是否存在伦理理由
 - [[应用行为分析]] — ABA 伦理争议
 - [[ASD干预]] — 干预伦理
-- [[去病理化]]
-- [[00-知识地图]]
+- [[去病理化]] — Bovell 的伦理分析所支持的核心批判立场

@@ -46,5 +46,5 @@ Fricker 的研究跨越道德哲学与社会认识论，但其自述几乎所有
 
 ## Related
 
-- [[知识不正义]]
-- [[Fricker2017|Fricker (2017)]]
+- [[知识不正义]] — Fricker 创立的核心分析框架
+- [[Fricker2017|Fricker (2017)]] — Fricker 在 Routledge Handbook 中对知识不正义概念的概念细化

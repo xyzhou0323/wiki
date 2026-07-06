@@ -85,8 +85,8 @@ citation_apa: "Crompton, C. J., Foster, S. J., Wilks, C. E. H., Dodd, M., Efthim
 ## Related
 
 - [[CromptonEtAl2020|Crompton et al. (2020)]] — 本研究复制的原始实验
-- [[双向同理心问题]]
-- [[Catherine-Crompton]]
-- [[Noah-Sasson]]
-- [[Sue-Fletcher-Watson]]
-- [[KilgallonEtAl2026|Kilgallon et al. (2026)]]
+- [[双向同理心问题]] — 本研究为其提供扩展实证支持的框架
+- [[Catherine-Crompton]] — 本文第一作者
+- [[Noah-Sasson]] — 合著者，DEP 实证研究者
+- [[Sue-Fletcher-Watson]] — 合著者
+- [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清

@@ -38,4 +38,4 @@ updated: 2026-05-09
 - [[ArnaudGibson2025|Arnaud & Gibson (2025)]] — 主要合作著作
 - [[Quinn-Hiroshi-Gibson]] — 主要合作者
 - [[去病理化]] — HAP 框架直接对应
-- [[神经多样性范式]]
+- [[神经多样性范式]] — Arnaud 的 HAP 框架所支持和形式化的核心范式

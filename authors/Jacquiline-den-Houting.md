@@ -50,10 +50,10 @@ updated: 2026-05-09
 
 ## Related
 
-- [[神经多样性范式]]
-- [[PellicanodenHouting2022|Pellicano & den Houting (2022)]]
+- [[神经多样性范式]] — den Houting 以内部人视角推进的核心框架
+- [[PellicanodenHouting2022|Pellicano & den Houting (2022)]] — 从常规科学转向神经多样性
 - [[denHouting2019|den Houting (2019)]] — 内部人视角
-- [[Elizabeth-Pellicano|Elizabeth Pellicano]]
+- [[Elizabeth-Pellicano|Elizabeth Pellicano]] — 长期合作者
 - [[Steven-Kapp|Steven Kapp]] — 合作者
 - [[Sue-Fletcher-Watson|Sue Fletcher-Watson]] — 合作者
 - [[Dwyer2022|Dwyer (2022)]] — 同期的神经多样性方法群框架

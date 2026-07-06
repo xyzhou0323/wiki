@@ -71,7 +71,7 @@ Chapman 的工作代表了神经多样性研究的范式转变——将讨论从
 
 - [[Sue-Fletcher-Watson]] — 合著者
 - [[Monique-Botha]] — 合著者
-- [[Chapman2023|Chapman (2023)]]
+- [[Chapman2023|Chapman (2023)]] — 《正常帝国》
 - [[Chapman2021|Chapman (2021)]] — 生态模型理论论文
 - [[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]] — 合著
 - [[ChapmanCarel2022|Chapman & Carel (2022)]] — 知识不正义分析

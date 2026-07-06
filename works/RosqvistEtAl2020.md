@@ -84,7 +84,6 @@ isbn: 978-0-367-33831-2
 
 - [[StenningRosqvist2021|Stenning & Rosqvist (2021)]] — 编辑卷的后续理论阐述，三种取向 → 第四取向
 - [[神经多样性研究]] — 编辑卷正式提出的学术领域
-- [[00-知识地图]] — 知识地图入口
 - [[Hanna-Bertilsdotter-Rosqvist]]、[[Nick-Chown]]、[[Anna-Stenning]] — 主编
 - [[Robert-Chapman]] — 第 4、14 章作者
 - [[Virginia-Bovell]]、[[Dieuwertje-Dyi-Huijg]]、[[Akiko-Hart]]、[[Mitzi-Waltz]]、[[Alyssa-Hillary]]、[[Alan-Jurgens]]、[[Ines-Hipolito]] — 章节贡献者

@@ -32,4 +32,3 @@ sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new c
 - [[StenningRosqvist2021|Stenning & Rosqvist (2021)]] — ND Studies 方法论纲领：三种取向与第四取向
 - [[Hanna-Bertilsdotter-Rosqvist]]、[[Nick-Chown]] — 合作主编
 - [[神经多样性研究]] — 共同奠基的学术领域
-- [[00-知识地图]] — 知识地图入口

@@ -28,7 +28,7 @@ updated: 2026-06-10
 
 ## Related
 
-- [[BothaHanlonWilliams2023|Botha et al. (2023)]]
-- [[ZanevaEtAl2024|Zaneva et al. (2024)]]
-- [[神经多样性范式]]
-- [[去病理化]]
+- [[BothaHanlonWilliams2023|Botha et al. (2023)]] — 语言重要吗？身份在前与人称在前语言的使用（共同作者）
+- [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 神经多样性入门阅读清单（共同作者）
+- [[神经多样性范式]] — Williams 的身份在前语言倡导的理论基础
+- [[去病理化]] — 语言选择的核心批判立场
