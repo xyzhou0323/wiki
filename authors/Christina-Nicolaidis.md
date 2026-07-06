@@ -31,7 +31,7 @@ Nicolaidis 与 [[Dora-Raymaker]] 于 2006 年共同创立了 [AASPIRE](https://a
 
 ### NIMH 资助的孤独谱系健康照顾研究
 
-Nicolaidis 主持了一系列 NIMH 资助的孤独谱系成人健康照顾研究，并开发了 [AASPIRE 健康照顾工具包](https://www.autismandhealth.org)（AASPIRE Healthcare Toolkit），供初级保健场景使用。ta 目前正在领导一项大型 NIMH R01 项目，开发和测试一套面向孤独谱系成人的无障碍患者报告结局测量工具。
+Nicolaidis 主持了一系列 NIMH 资助的孤独谱系成人健康照顾研究，并开发了 [AASPIRE 健康照顾工具包](https://www.autismandhealth.org)（AASPIRE Healthcare Toolkit），供初级保健场景使用。ta 目前正在领导一项大型 NIMH R01 项目，开发和测试一套面向孤独谱系成人的无障碍报告结局测量工具。
 
 ### 健康公平与健康社会决定因素
 
