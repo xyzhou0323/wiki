@@ -22,7 +22,7 @@ updated: 2026-05-09
 - 论证 ND 运动并非反精神病学的延续——差异不在经验主张而在对"人与标签关系"的理解
 - 系统反驳四类主流批评并揭示其共享的 HAP 预设
 
-也参与了精神科中的**认知不正义**（epistemic injustice）讨论（Pantazakos & Arnaud, 2024）。
+也参与了精神科中的**知识不正义**（epistemic injustice）讨论（Pantazakos & Arnaud, 2024）。
 
 ## Related
 
