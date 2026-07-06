@@ -17,6 +17,10 @@ updated: 2026-05-09
 - **共同立场提议**：不否认孤独谱系者和家庭经历的实际苦难，但主张区分"回应苦难"与"消除孤独谱系本身"
 - **治愈/预防实践的类型学**：系统区分概念前期干预（产前携带者筛查）、产前干预（选择性堕胎）和产后干预（行为疗法）
 
+## 本wiki已引用著作
+
+- **[[ChapmanBovell2022|Chapman & Bovell (2022)]]**（与 [[Robert-Chapman]] 合著）：以 ABA 争议为案例系统分析四重伦理维度——疗效、正常化/社会控制、创伤/福祉、自主权——论证当代 ABA 实践的显著部分需要废除或改革
+
 ## 参考文献
 
 - 博士论文：_Is the prevention and/or cure of autism a morally legitimate quest?_（University of Oxford, 2015）
@@ -24,6 +28,10 @@ updated: 2026-05-09
 
 ## Related
 
+- [[Robert-Chapman]] — 合著者
+- [[ChapmanBovell2022|Chapman & Bovell (2022)]]
 - [[RosqvistEtAl2020]]
+- [[应用行为分析]] — ABA 伦理争议
+- [[ASD干预]] — 干预伦理
 - [[去病理化]]
 - [[00-知识地图]]

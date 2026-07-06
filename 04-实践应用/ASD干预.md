@@ -20,6 +20,7 @@ sources:
   - 2026-05-18/Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf
   - 2026-05-07/Dwyer - 2022 - 神经多样性方法群 - 脑脑空间.pdf
   - 2026-05-18/儿童与青少年孤独症谱系障碍的补充和整合医学治疗.md
+  - 2026-07-05/ChapmanBovell2022-NeurodiversityAdvocacyAntiTherapy.md
 created: 2026-05-18
 updated: 2026-06-10
 ---
@@ -284,5 +285,5 @@ ND 范式与正统医疗模型在 ASD 干预上的分歧，根源不在于具体
 - [[神经多样性批判与回应]] — "ND 反对一切干预"及其他批评的系统回应
 - [[神经多样性教育]] — 肯定式教育的替代框架
 - [[融合教育]] — 教育安置的 ND 视角
-- Chapman & Bovell (2020) — 当代 ABA 的伦理批判
+- [[ChapmanBovell2022|Chapman & Bovell (2022)]] — 当代 ABA 的伦理批判：四重伦理维度（疗效、正常化、创伤、自主权）
 - [[Constantino2018|Constantino (2018)]] — 口吃治疗的平行论证：福祉 vs 正常化的分水岭，常态范式固有伦理缺陷的跨诊断证据
