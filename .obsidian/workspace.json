@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "works/Sinclair1993.md",
+                "file": "02-批判分析/神经殊异马克思主义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sinclair1993"
+              "title": "神经殊异马克思主义"
             }
           }
         ]
@@ -180,8 +180,25 @@
       "bases:新建数据库": false
     }
   },
-  "active": "1145e7a65511def4",
+  "active": "b8ce71431e6b7390",
   "lastOpenFiles": [
+    "04-实践应用/神经多样性与民主研究.md",
+    "02-批判分析/神经殊异马克思主义.md",
+    "works/Chapman2026b.md",
+    "works/Chapman2026.md",
+    "02-批判分析/神经殊异马克思主义.md.tmp.28572.99b14b00a1c1",
+    "02-批判分析/神经殊异马克思主义.md.tmp.28572.0a01330d252f",
+    "02-批判分析/神经殊异马克思主义.md.tmp.28572.c11e6c76b086",
+    "02-批判分析/神经殊异马克思主义.md.tmp.28572.299502b94d14",
+    "02-批判分析/神经殊异马克思主义.md.tmp.28572.e0d2a4b7fa2d",
+    "02-批判分析/神经殊异马克思主义.md.tmp.28572.69549320d20e",
+    "02-批判分析/神经殊异马克思主义.md.tmp.28572.abfdec57ee1b",
+    "02-批判分析/神经殊异马克思主义.md.tmp.28572.fc45065cdcbb",
+    "02-批判分析/神经殊异马克思主义.md.tmp.28572.c01955986a34",
+    "02-批判分析/神经殊异马克思主义.md.tmp.28572.ffc0a377b424",
+    "01-基础/常态范式.md",
+    "术语翻译对照表.md",
+    "works/Sinclair1993.md",
     "04-实践应用/ND范式与补充替代疗法.md",
     "authors/Li-Yi.md",
     "works/BothaHanlonWilliams2023.md",
@@ -201,23 +218,6 @@
     "06-测试/RIS.md",
     "06-测试/RAADS-R.md",
     "works/Neeman2021.md",
-    "works/MullerKosmarovChapman2026.md",
-    "works/KappEtAl2012.md",
-    "06-测试/ITQ.md",
-    "works/Fricker2017.md",
-    "works/Dwyer2025.md",
-    "03-历史脉络/DSM史.md",
-    "works/deHooge2019.md",
-    "00-知识地图.md.tmp.16044.9a9ae50eb1df",
-    "00-知识地图.md.tmp.16044.bd8f8f04a2b9",
-    "00-知识地图.md.tmp.16044.af10957be0ac",
-    "05-诊断与现象/数学障碍.md.tmp.16044.0b2fd1ed4437",
-    "05-诊断与现象/特定学习障碍.md.tmp.16044.9dae6cb2eb65",
-    "05-诊断与现象/数学障碍.md.tmp.16044.f39b10e738fc",
-    "05-诊断与现象/阅读障碍.md.tmp.16044.bdcd32f9f64f",
-    "05-诊断与现象/阅读障碍.md.tmp.16044.3e534bb6af4a",
-    "05-诊断与现象/阅读障碍.md.tmp.16044.a7e079eecd2d",
-    "05-诊断与现象/阅读障碍.md.tmp.16044.99c87bc588b8",
     "Pasted image 20260616213853.png"
   ]
 }
