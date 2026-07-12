@@ -13,11 +13,13 @@ updated: 2026-05-18
 **身份**：La Trobe University，Olga Tennison 孤独谱系研究中心（OTARC）研究者
 **研究领域**：孤独谱系耗竭的测量与验证、心理测量学
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[MantzalasEtAl2024|Mantzalas et al. (2024)]] — 首篇系统检验孤独谱系耗竭测量工具心理测量特性的研究：ABM 四因子结构、单一高阶"孤独谱系耗竭"构念、CBI-P-E 作为替代筛查工具
 
-## Related
+### 其他相关页面
 
 - [[Dora-Raymaker]] — [AASPIRE](https://aaspire.org/) 团队核心成员，ABM 开发者
 - [[Raymaker2020|Raymaker et al. (2020)]] — ABM 的质性开发基础

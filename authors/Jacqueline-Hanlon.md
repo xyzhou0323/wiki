@@ -11,12 +11,13 @@ updated: 2026-06-10
 
 **Jacqueline Hanlon**，Botha et al. (2023) 共同作者。
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[BothaHanlonWilliams2023|Botha et al. (2023)]] — 语言重要吗？孤独谱系研究中身份在前与人称在前语言的使用（*JADD*）
 
-## Related
+### 其他相关页面
 
-- [[BothaHanlonWilliams2023|Botha et al. (2023)]] — 语言重要吗？身份在前与人称在前语言的使用（共同作者）
 - [[Monique-Botha]] — 本文第一作者
 - [[Gemma-Williams]] — 本文共同作者

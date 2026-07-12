@@ -18,11 +18,13 @@ Roald A. Øien 是 UiT – The Arctic University of Norway（特罗姆瑟）和 
 - 孤独谱系评估与筛查的跨国研究
 - 关注孤独谱系的性别差异与共现状况
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[ReaEtAl2024|Rea et al. (2024)]] — 性别多样性与孤独谱系交叉更新范围综述（合著者），基于其 2018 年原始综述扩展
 
-## 参见
+### 其他相关页面
 
 - [[Anders-Nordahl-Hansen]] — 长期合作者，共同发表 2018 原始综述和 2019 更新
 - [[John-Strang]] — 合作者，综述共同领导

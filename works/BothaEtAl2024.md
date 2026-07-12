@@ -35,7 +35,7 @@ citation_apa: "Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard As
 
 ### 被揭示的关键事实
 
-**1996年——Tony Langdon 的帖子**（Martijn Dekker 2023年档案发现）：
+**1996年——Tony Langdon 的帖子**（[[Martijn-Dekker|Martijn Dekker]] 2023年档案发现）：
 
 - 在 Independent Living（InLv）邮件列表的讨论中，Tony Langdon 写道：
   > "the neurological diversity of people. i.e. the atypical among a society provide the different perspectives needed to generate new ideas and advances, whether they be technological, cultural, artistic or otherwise"

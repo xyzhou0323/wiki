@@ -36,15 +36,16 @@ Fricker 的研究跨越道德哲学与社会认识论，但其自述几乎所有
 
 此外，Fricker 对体裁的边界同样感兴趣——结合对显性论证在特定主题上局限性的认识，她最近创作了一部哲学戏剧，并正在撰写一部"戏剧嵌套小说"（*Short Lease*）。
 
-## 本wiki已引用著作
-
-- **[[Fricker2017|Fricker (2017)]]** — 在《Routledge Handbook of Epistemic Injustice》中细化知识不正义的概念边界，强调两类核心形式均以非故意的误判为特征，并论证人际层面的不正义编码着更大的社会结构
-
 ## 外部链接
 
 - [mirandafricker.com](https://www.mirandafricker.com/) — 个人学术网站
 
 ## Related
 
+### 本wiki已引用著作
+
+- **[[Fricker2017|Fricker (2017)]]** — 在《Routledge Handbook of Epistemic Injustice》中细化知识不正义的概念边界，强调两类核心形式均以非故意的误判为特征，并论证人际层面的不正义编码着更大的社会结构
+
+### 其他相关页面
+
 - [[知识不正义]] — Fricker 创立的核心分析框架
-- [[Fricker2017|Fricker (2017)]] — Fricker 在 Routledge Handbook 中对知识不正义概念的概念细化

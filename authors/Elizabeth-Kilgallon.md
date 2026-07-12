@@ -18,14 +18,15 @@ updated: 2026-06-24
 
 Kilgallon 主导了 [[KilgallonEtAl2026|Kilgallon et al. (2026)]]——一篇重新阐明 [[双向同理心问题]]（DEP）本质的重要概念澄清论文。该文联合 DEP 的原创者（Milton）、主要实证研究者（[[Catherine-Crompton|Crompton]]、Sasson）和批判理论家（Botha、Bottema-Beutel、Dwyer），系统回应了对 DEP 的实证主义批评，将 DEP 重新确立为社会学框架而非社会-认知理论。
 
-## 本wiki已引用著作
-
-- [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清（第一作者）
-
 ## Related
 
-- [[双向同理心问题]] — Kilgallon et al. (2026) 重新阐明的核心框架
+### 本wiki已引用著作
+
 - [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清（第一作者）
+
+### 其他相关页面
+
+- [[双向同理心问题]] — Kilgallon et al. (2026) 重新阐明的核心框架
 - [[Monique-Botha]] — 论文合著者，DEP 批判理论维度贡献者
 - [[Patrick-Dwyer]] — 论文合著者，ND 方法群框架提出者
 - [[Damian-Milton]] — 论文合著者，DEP 原创者

@@ -36,11 +36,13 @@ Rachel Sarr 的研究聚焦于**孤独谱系、依恋障碍、复杂性创伤后
 
 - **Sarr (2024)** — *Differential diagnosis of autism, attachment disorders, complex post-traumatic stress disorder and emotionally unstable personality disorder: A Delphi study*，Doctor of Clinical Psychology（DClinPsy），King's College London。导师：F. Rumball & D. Spain。
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[SarrEtAl2024|Sarr et al. (2025)]] — 首项共制 Delphi 法孤独谱系、依恋障碍、CPTSD 与 EUPD 鉴别诊断共识研究（106 位国际专家，275 条共识陈述）
 
-## Related
+### 其他相关页面
 
 - [[Francesca-Happe]] — 合作者，IoPPN 同事
 - [[Debbie-Spain]] — 博士导师，合作者

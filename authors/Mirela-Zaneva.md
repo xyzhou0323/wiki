@@ -17,6 +17,12 @@ updated: 2026-06-10
 - 开放与可重复科学
 - 参与式研究方法
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 神经多样性导论：一份带注释的阅读清单（通讯作者，与 Mahmoud Elsherif、Alyssa Hillary Zisk 共同领导）
+
+### 其他相关页面
+
+暂无

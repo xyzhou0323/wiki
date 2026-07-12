@@ -1,6 +1,6 @@
 ---
 title: Jacquiline den Houting
-description: Jacquiline den Houting 是麦考瑞大学教育学院孤独谱系研究者与自倡导者，以"内部人视角"推动孤独谱系科学范式转型，与 Elizabeth Pellicano 合作发表了该领域引用率最高的论文之一
+description: Jacquiline den Houting 是麦考瑞大学教育学院孤独谱系研究者与自我倡权者，以"内部人视角"推动孤独谱系科学范式转型，与 Elizabeth Pellicano 合作发表了该领域引用率最高的论文之一
 aliases: [Jacqui den Houting, 杰奎琳·登·胡廷]
 tags: [author, neurodiversity, autism]
 created: 2026-05-09
@@ -26,7 +26,7 @@ updated: 2026-05-09
 
 ### 内部人视角方法论
 
-在 [[denHouting2019|den Houting (2019)]] 中以孤独谱系研究者的身份阐述神经多样性范式的核心主张——系统澄清对 ND 运动的三大误解（差异 vs 残障、仅适用于"高功能"、不需要支持），强调**自倡导者社群在知识生产中的权威性**。该文是神经多样性研究方法论的重要早期陈述，也是首篇将"neurodiversity lite"概念引入学术文献的论文。
+在 [[denHouting2019|den Houting (2019)]] 中以孤独谱系研究者的身份阐述神经多样性范式的核心主张——系统澄清对 ND 运动的三大误解（差异 vs 残障、仅适用于"高功能"、不需要支持），强调**自我倡权者社群在知识生产中的权威性**。该文是神经多样性研究方法论的重要早期陈述，也是首篇将"neurodiversity lite"概念引入学术文献的论文。
 
 ### 研究经费政治学
 
@@ -50,9 +50,14 @@ updated: 2026-05-09
 
 ## Related
 
-- [[神经多样性范式]] — den Houting 以内部人视角推进的核心框架
+### 本wiki已引用著作
+
 - [[PellicanodenHouting2022|Pellicano & den Houting (2022)]] — 从常规科学转向神经多样性
 - [[denHouting2019|den Houting (2019)]] — 内部人视角
+
+### 其他相关页面
+
+- [[神经多样性范式]] — den Houting 以内部人视角推进的核心框架
 - [[Elizabeth-Pellicano|Elizabeth Pellicano]] — 长期合作者
 - [[Steven-Kapp|Steven Kapp]] — 合作者
 - [[Sue-Fletcher-Watson|Sue Fletcher-Watson]] — 合作者

@@ -17,10 +17,6 @@ Sue Fletcher-Watson（苏·弗莱彻-沃森）是爱丁堡大学（University of
 > 个人主页：https://edwebprofiles.ed.ac.uk/profile/dr-sue-fletcher-watson
 > 博客：medium.com（个人博客）
 
-## 本wiki已引用著作
-
-- **[[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]]**（Neurodiversity: A Very Short Introduction，与 Robert Chapman 合著）：系统介绍神经多样性范式，提出"肯定复杂性"和"将神经规范性政治化"两条核心原则
-
 ## 研究方向与项目
 
 ### 神经多样性教育：LEANS
@@ -51,7 +47,12 @@ Fletcher-Watson 主持 **LEANS**（Learning About Neurodiversity at School，学
 
 ## Related
 
+### 本wiki已引用著作
+
+- **[[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]]**（Neurodiversity: A Very Short Introduction，与 Robert Chapman 合著）：系统介绍神经多样性范式，提出"肯定复杂性"和"将神经规范性政治化"两条核心原则
+
+### 其他相关页面
+
 - [[Robert-Chapman]] — 长期合作者
-- [[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]] — 合著作品
 - [[神经多样性范式]] — 核心理论贡献
 - [[参与式行动研究]] — 方法论框架

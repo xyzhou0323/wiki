@@ -28,7 +28,12 @@ Farah 与 [[Vishnu-KK-Nair|Nair]]、[[Mildred-Boveda|Boveda]] 共同发表了 [[
 
 ## Related
 
-- [[NairEtAl2024|Nair et al. (2024)]] — ND 去殖民化系统阐述
+### 本wiki已引用著作
+
+- [[NairEtAl2024|Nair et al. (2024)]]
+
+### 其他相关页面
+
 - [[Vishnu-KK-Nair]] — 长期合作者
 - [[Mildred-Boveda]] — 合作者
 - [[神经多样性的去殖民化]] — 所阐述的核心批判方向

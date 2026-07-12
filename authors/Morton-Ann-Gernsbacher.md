@@ -25,13 +25,14 @@ Gernsbacher 是对"孤独谱系者缺乏心理理论"这一心理学界主流断
 
 Gernsbacher, Stevenson, & Dern (2017) 提供了实证证据，表明非孤独谱系者在理解孤独谱系者时往往与反过来一样处于劣势——为 [[双向同理心问题|Milton (2012) 的双向同理心问题]] 提供了实证支持。
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[GernsbacherYergeau2019|Gernsbacher & Yergeau (2019)]] — 孤独谱系者缺乏心理理论主张的实证失败（*Archives of Scientific Psychology*）
 
-## Related
+### 其他相关页面
 
-- [[GernsbacherYergeau2019|Gernsbacher & Yergeau (2019)]] — 本 wiki 收录的代表作
 - [[Melanie-Yergeau]] — 合著者
 - [[双向同理心问题]] — Gernsbacher 的研究为该理论提供了实证支持
 - [[Uta-Frith]] — ToM 缺陷假说传统的主要代表

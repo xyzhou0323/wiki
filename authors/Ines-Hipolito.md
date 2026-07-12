@@ -27,7 +27,12 @@ updated: 2026-05-09
 
 ## Related
 
-- [[RosqvistEtAl2020]] — 第 12 章
+### 本wiki已引用著作
+
+- [[RosqvistEtAl2020]] — 第 12 章（与 Daniel D. Hutto 和 Nick-Chown 合写）
+
+### 其他相关页面
+
 - [[Nick-Chown]] — 合作者
 - [[双向同理心问题]] — 替代缺陷模型的相关论证
 - [[神经多样性范式]] — Hipolito 的生成主义框架所支持的核心范式

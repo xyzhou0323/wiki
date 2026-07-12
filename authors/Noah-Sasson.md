@@ -36,14 +36,15 @@ Sasson, Morrison, Kelsven & Pinkham (2020) 在 *Autism Research* 发表，发现
 
 Jones, DeBrabander & Sasson (2021) 发表于 *Autism*，考察孤独谱系接纳培训对外显和内隐偏见的影响——将 DEP 原则转化为可操作的干预措施。
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清（合著者）
 
-## Related
+### 其他相关页面
 
 - [[双向同理心问题]] — Sasson 以真实社交互动实验为 DEP 提供关键实证基础
-- [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清论文（合著者）
 - [[Monique-Botha]] — 社区心理学家，第一印象与 DEP 研究的合作者
 - [[Kristen-Bottema-Beutel]] — 反健全中心主义方法论者，研究伦理与反健全中心主义语言合作者
 - [[神经多样性范式]] — Sasson 的 DEP 实证工作所支持和推进的理论框架

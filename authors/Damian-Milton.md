@@ -73,18 +73,17 @@ Milton 于 2012 年在 *Disability & Society* 发表的 [[Milton2012|Milton (201
 - 心理健康社会学模块
 - 指导方向：社会文化语境中的孤独谱系、批判孤独谱系研究、参与式研究与孤独谱系声音、孤独谱系同理心定性研究、教育方法与辅导实践
 
-## 本wiki已引用著作
-
-- [[Milton2012|Milton (2012)]] — DEP 原初论文
-- [[Milton2022|Milton (2022)]] — DEP 十年回顾
-- [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清（合著者）
-
 ## Related
 
-- [[双向同理心问题]] — Milton 原创的核心理论框架
+### 本wiki已引用著作
+
 - [[Milton2012|Milton (2012)]] — DEP 原初论文
 - [[Milton2022|Milton (2022)]] — DEP 十年回顾
 - [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清（合著者）
+
+### 其他相关页面
+
+- [[双向同理心问题]] — Milton 原创的核心理论框架
 - [[Brett-Heasman]] — 孤独谱系流动研究合作者
 - [[参与式行动研究]] — Milton 在 PARC 推动的研究方法论
 - [[神经多样性范式]] — DEP 的理论基础

@@ -33,9 +33,14 @@ Síofra Heraty 是 Birkbeck, University of London 心理科学系脑与认知发
 - 神经殊异者的生活体验与积极结局
 - 参与式研究作为弥合社群分歧的实践工具
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[HeratyEtAl2023|Heraty et al. (2023)]] — _Cell_ 评论：社群之间的桥梁建设——想象生物医学孤独谱系研究的未来
+
+### 其他相关页面
+
 
 ## 参见
 

@@ -40,15 +40,15 @@ updated: 2026-07-03
 
 创造性提出基于孤独症文化理念下的**干预三原则**，并在此基础上建立了孤独症**结构化社交行为干预 BSR 模式**（Behavior-Structured-Relationship model），将结构化教学、行为干预和关系建立整合为系统化的干预框架。
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[LaoEtAl2024|Lao et al. (2024)]] — 通讯作者，中文孤独症术语的社群感知调查（*Autism in Adulthood*）
 - [[LaoEtAl2026|Lao et al. (2026)]] — 共同通讯作者，与孤独谱系对话：中文自闭症话语的解构与叙事能动性的重建（*Humanities and Social Sciences Communications*）
 
-## Related
+### 其他相关页面
 
-- [[LaoEtAl2024|Lao et al. (2024)]] — 通讯作者
-- [[LaoEtAl2026|Lao et al. (2026)]] — 共同通讯作者
 - [[Uchong-Lao|刘宇翀]] — 合作者
 - [[Huilin-Zhu|朱绘霖]] — 合作者与共同通讯作者
 - [[孤独谱系障碍]] — 核心研究主题

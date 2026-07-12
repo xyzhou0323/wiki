@@ -18,7 +18,13 @@ updated: 2026-06-10
 - 参与式研究
 - 反健全中心主义
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 神经多样性导论：一份带注释的阅读清单（共同资深作者，与 Mirela Zaneva、Alyssa Hillary Zisk 共同领导）
 - Elsherif, Wheeldon, & Frisson (2021) — Do dyslexia and stuttering share a processing deficit?（第一作者）
+
+### 其他相关页面
+
+暂无

@@ -19,11 +19,13 @@ John F. Strang 是 Children's National Hospital（华盛顿特区）性别与孤
 - **WPATH 培训**：自 2018 年起在 WPATH 全球教育研究所推动将孤独谱系与性别多样性交叉纳入国际培训模块
 - **社区参与式研究**：推动以神经殊异性别多样青年和家庭为核心的参与式研究框架
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[ReaEtAl2024|Rea et al. (2024)]] — 性别多样性与孤独谱系交叉更新范围综述（共同领导，与 Anders Nordahl-Hansen 同等贡献）
 
-## 参见
+### 其他相关页面
 
 - [[Anders-Nordahl-Hansen]] — 合著者，综述的共同领导者
 - [[Jacquiline-den-Houting]] — 同样关注孤独谱系研究方法论与社群参与

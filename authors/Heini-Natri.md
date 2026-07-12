@@ -25,13 +25,14 @@ updated: 2026-06-10
 - 社群参与式基因组学研究
 - 性别差异与进化遗传学
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[NatriEtAl2023|Natri et al. (2023)]] — 反健全中心主义语言与高质量孤独谱系研究完全兼容：对 Singer et al. (2023) 的回应（*Autism Research*，68 位联名作者）
 
-## Related
+### 其他相关页面
 
-- [[NatriEtAl2023|Natri et al. (2023)]] — 反健全中心主义语言回应（第一作者）
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — FORRT 阅读清单（本文为主题 8 精选文献）
 - [[去病理化]] — Natri 的反健全中心主义语言论证的核心立场
 - [[神经多样性范式]] — 本文论证的理论框架基础

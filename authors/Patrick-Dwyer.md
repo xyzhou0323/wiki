@@ -103,19 +103,25 @@ Dwyer 的工作不怕揭示运动内部的不一致（如"强"SM 支持者在实
 
 ## Related
 
-- [[Dwyer2022|Dwyer (2022)]] — 理论框架论文
-- [[Dwyer2025|Dwyer (2025)]] — 实证后续研究
-- [[DwyerEtAl2023|Dwyer et al. (2023)]] — 神经多样性包容高校：获UC学术评议会认可的13条系统建议
-- [[SchuckEtAl2022|Schuck et al. (2022)]] — 作为孤独谱系合作者参与调和 ND 运动与 NDBI 干预的跨阵营协作
+### 本wiki已引用著作
+
+- [[Dwyer2022|Dwyer (2022)]] — 神经多样性方法群理论框架
+- [[Dwyer2025|Dwyer (2025)]] — 504 人混合方法实证调查
+- [[DwyerEtAl2023|Dwyer et al. (2023)]] — 神经多样性包容高校：获 UC 学术评议会认可的 13 条系统建议
+- [[DwyerEtAl2026|Dwyer et al. (2026)]] — 跨诊断听觉过度反应与注意力研究
+- [[SchuckEtAl2022|Schuck et al. (2022)]] — 调和 ND 运动与 NDBI 干预的跨阵营协作
+- [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清（合著者）
+
+### 其他相关页面
+
 - [[Steven-Kapp]] — 长期合作者
 - [[Robert-Chapman]] — 理论对话者
 - [[Kristen-Gillespie-Lynch]] — 合作者，AIAS-G 共同开发者
 - [[Susan-M-Rivera]] — 学术导师/合作者
 - [[残障的社会模型]] — 核心理论资源
 - [[残障模型]] — 互动主义立场的理论基础
-- [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清（合著者）
 - [[双向同理心问题]] — 社群知识学术化的关键理论
 - [[去病理化]] — 互动主义立场的实践含义
-- [[单一聚焦]] — Dwyer 关注的社群理论化学术化案例
+- [[单一聚焦]] — 关注的社群理论化学术化案例
 - [[孤独谱系耗竭]] — 同上
-- [[神经多样性运动]] — Dwyer 所参与并研究的运动
+- [[神经多样性运动]] — 所参与并研究的运动

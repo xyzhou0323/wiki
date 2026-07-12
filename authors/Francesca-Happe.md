@@ -35,10 +35,15 @@ updated: 2026-05-17
 
 ## Related
 
+### 本wiki已引用著作
+
 - [[HappeFrith2020|Happé & Frith (2020)]] — 孤独谱系概念七大变遷的权威回顾
+- [[SarrEtAl2024|Sarr et al. (2024)]] — 合著者，共制Delphi法鉴别诊断共识
+
+### 其他相关页面
+
 - [[Uta-Frith]] — 长期合作者
 - [[孤独谱系障碍]] — 核心研究对象
 - [[述情障碍]] — Happé 参与的 Bird & Cook 研究挑战了孤独谱系→同理心困难的直接因果关系
 - [[CAT-Q]] — Hull 等在 Happé 指导下开发
 - [[Sue-Fletcher-Watson]] — 合著合作者
-- [[SarrEtAl2024|Sarr et al. (2024)]] — 合著者，共制Delphi法鉴别诊断共识

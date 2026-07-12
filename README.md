@@ -1,8 +1,8 @@
 # 神经多样性 Wiki
 
-本仓库是[神经多样性 Wiki](https://github.com/xyzhou0323/ndwiki-cn) 的纯页面镜像——一个关于神经多样性（Neurodiversity）的中文知识库，**273 个页面**横跨核心概念、批判分析、历史脉络、研究实践、诊断现象、测试工具、作者与参考文献。用 [Obsidian](https://obsidian.md) 打开即可浏览。
+[本仓库]([GitHub - xyzhou0323/wiki · GitHub](https://github.com/xyzhou0323/wiki))是[神经多样性 Wiki](https://github.com/xyzhou0323/ndwiki-cn) 的纯页面镜像——一个关于神经多样性（Neurodiversity）的中文知识库，**273 个页面**横跨核心概念、批判分析、历史脉络、研究实践、诊断现象、测试工具、作者与参考文献。用 [Obsidian](https://obsidian.md) 打开即可浏览。
 
-> 本仓库仅包含 wiki 页面。完整项目（源文件 + 工具链 + 繁体子模块）见 [ndwiki-cn](https://github.com/xyzhou0323/ndwiki-cn)。
+> 本仓库仅包含简体中文 wiki 页面。完整项目（源文件 + 工具链 + 繁体子模块）见 [ndwiki-cn](https://github.com/xyzhou0323/ndwiki-cn)。
 
 ## 快速开始
 
