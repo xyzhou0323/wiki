@@ -5,6 +5,7 @@ aliases:
   - CromptonEtAl2020
   - Autistic peer-to-peer information transfer is highly effective
   - 孤独谱系同伴间信息传递高度有效
+  - Crompton et al. (2020)
 tags:
   - work
   - autism
@@ -15,7 +16,7 @@ sources:
   - 2026-06-24/CromptonEtAl2020-AutisticPeerToPeerInformationTransfer.md
 created: 2026-06-24
 updated: 2026-06-24
-citation_apa: "Crompton, C. J., Ropar, D., Evans-Williams, C. V. M., Flynn, E. G., & Fletcher-Watson, S. (2020). Autistic peer-to-peer information transfer is highly effective. Autism, 24(7), 1704–1712. https://doi.org/10.1177/1362361320919286"
+citation_apa: Crompton, C. J., Ropar, D., Evans-Williams, C. V. M., Flynn, E. G., & Fletcher-Watson, S. (2020). Autistic peer-to-peer information transfer is highly effective. Autism, 24(7), 1704–1712. https://doi.org/10.1177/1362361320919286
 ---
 
 # Crompton et al. (2020) — 孤独谱系同伴间信息传递高度有效

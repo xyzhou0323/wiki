@@ -91,6 +91,7 @@ Chapman 的工作代表了神经多样性研究的范式转变——将讨论从
 - [[ChapmanBotha2023|Chapman & Botha (2023)]] — 神经殊异知情治疗
 - [[MullerKosmarovChapman2026|Müller-Kosmarov & Chapman (2026)]] — 神经多样性哲学综述
 - [[RosqvistEtAl2020|Rosqvist et al. (2020)]] — 含 Chapman 撰写的第 4 章（残障与福祉）及第 14 章（定义神经多样性）
+- [[Chapman2019|Chapman (2019)]] — 作为生命形式的孤独谱系：维特根斯坦与孤独谱系的心理连贯性
 
 ### 其他相关页面
 
