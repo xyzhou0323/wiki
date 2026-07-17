@@ -11,7 +11,7 @@ doi: 10.1177/10870547251361226
 
 # Dwyer et al. (2026) — 跨诊断视角下的注意力与听觉过度反应
 
-引用：Dwyer, P., Williams, Z. J., Lawson, W., & Rivera, S. M. (2026). A trans-diagnostic investigation of attention and diverse phenotypes of "auditory hyperreactivity" in autism, ADHD, and the general population. *Journal of Attention Disorders*, *30*(1), 57–81. https://doi.org/10.1177/10870547251361226
+引用：Dwyer, P., Williams, Z. J., Lawson, W., & Rivera, S. M. (2026). A trans-diagnostic investigation of attention and diverse phenotypes of "auditory hyperreactivity" in autism, ADHD, and the general population. *Journal of Attention Disorders*, *30*(1), 57–81. [https://doi.org/10.1177/10870547251361226](https://doi.org/10.1177/10870547251361226)
 
 **作者**：[[Patrick-Dwyer]]、Zachary J. Williams、[[Wenn-Lawson]]、[[Susan-M-Rivera]]
 **发表**：2026 年（在线首发 2025 年 9 月 18 日），*Journal of Attention Disorders*

@@ -17,7 +17,7 @@ citation_apa: "Zaneva, M., Coll-Martín, T., Héjja-Brichard, Y., Kalandadze, T.
 
 # Zaneva et al. (2024) — 神经多样性导论：一份带注释的阅读清单
 
-引用：Zaneva, M., Coll-Martín, T., Héjja-Brichard, Y., Kalandadze, T., Kis, A., Koperska, A., Manalili, M. A. R., Mathy, A., Graham, C. J., Hollis, A., Ross, R. M., Yeung, S. K., Allen, V., Azevedo, F., Friedel, E., Fuller, S., Giannouli, V., Gjoneska, B., Hartmann, H., Korbmacher, M., Elsherif, M. M., & Zisk, A. H. (2024). Introduction to neurodiversity: An annotated reading list. PsyArXiv. https://doi.org/10.31234/osf.io/ugkxp
+引用：Zaneva, M., Coll-Martín, T., Héjja-Brichard, Y., Kalandadze, T., Kis, A., Koperska, A., Manalili, M. A. R., Mathy, A., Graham, C. J., Hollis, A., Ross, R. M., Yeung, S. K., Allen, V., Azevedo, F., Friedel, E., Fuller, S., Giannouli, V., Gjoneska, B., Hartmann, H., Korbmacher, M., Elsherif, M. M., & Zisk, A. H. (2024). Introduction to neurodiversity: An annotated reading list. PsyArXiv. [https://doi.org/10.31234/osf.io/ugkxp](https://doi.org/10.31234/osf.io/ugkxp)
 
 **作者**：[[Mirela-Zaneva]]（通讯作者）、Tao Coll-Martín、Yseult Héjja-Brichard、Tamara Kalandadze、Andrea Kis、Alicja Koperska、Marie Adrienne Robles Manalili、Adrien Mathy、Christopher J. Graham、Anna Hollis、Robert M. Ross、Siu Kit Yeung、Veronica Allen、Flavio Azevedo、Emily Friedel、Stephanie Fuller、Vaitsa Giannouli、Biljana Gjoneska、Helena Hartmann、Max Korbmacher、[[Mahmoud-M-Elsherif]]（共同资深作者）、[[Alyssa-Hillary|Alyssa Hillary Zisk]]（共同第一作者）
 **年份**：2024

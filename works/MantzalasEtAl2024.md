@@ -12,7 +12,7 @@ citation_apa: "Mantzalas, J., Richdale, A. L., Li, X., & Dissanayake, C. (2024).
 
 # Mantzalas et al. (2024) — 测量与验证孤独谱系耗竭
 
-引用：Mantzalas, J., Richdale, A. L., Li, X., & Dissanayake, C. (2024). Measuring and validating autistic burnout. *Autism Research*, 17(7), 1417–1449. https://doi.org/10.1002/aur.3129
+引用：Mantzalas, J., Richdale, A. L., Li, X., & Dissanayake, C. (2024). Measuring and validating autistic burnout. *Autism Research*, 17(7), 1417–1449. [https://doi.org/10.1002/aur.3129](https://doi.org/10.1002/aur.3129)
 
 **作者**：Jane Mantzalas、Amanda L. Richdale、Xia Li、Cheryl Dissanayake（Olga Tennison Autism Research Centre, La Trobe University）
 **期刊**：*Autism Research*，第 17 卷，第 7 期，第 1417–1449 页

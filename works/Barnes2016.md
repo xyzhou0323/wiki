@@ -11,7 +11,7 @@ updated: 2026-05-12
 
 # Barnes (2016) — 少数身体：一种残障理论
 
-引用：Barnes, E. (2016). *The Minority Body: A Theory of Disability*. Oxford: Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198732587.001.0001
+引用：Barnes, E. (2016). *The Minority Body: A Theory of Disability*. Oxford: Oxford University Press. [https://doi.org/10.1093/acprof:oso/9780198732587.001.0001](https://doi.org/10.1093/acprof:oso/9780198732587.001.0001)
 
 Elizabeth Barnes 在本书中提出了一个影响深远的残障定义——以**残障权利运动的团结判断规则**（而非生物医学标准或个体不利益）为基础的社会建构论。
 

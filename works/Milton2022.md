@@ -12,7 +12,7 @@ citation_apa: "Milton, D., Gurbuz, E., & Lopez, B. (2022). The double empathy pr
 
 # Milton et al. (2022) — 双向同理心问题：十年回顾
 
-引用：Milton, D., Gurbuz, E., & Lopez, B. (2022). The double empathy problem: Ten years on. Autism, 26(8), 1901-1903. https://doi.org/10.1177/13623613221129123
+引用：Milton, D., Gurbuz, E., & Lopez, B. (2022). The double empathy problem: Ten years on. Autism, 26(8), 1901-1903. [https://doi.org/10.1177/13623613221129123](https://doi.org/10.1177/13623613221129123)
 
 
 **作者**：Damian Milton（肯特大学 Tizard 中心）、Emine Gurbuz（朴茨茅斯大学心理学系）、Beatriz López（朴茨茅斯大学心理学系）

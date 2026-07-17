@@ -12,7 +12,7 @@ citation_apa: "Dempsey, E. E., Moore, C., Johnson, S. A., Stewart, S. H., & Smit
 
 # Dempsey et al. (2019) — 孤独谱系中的道德判断
 
-引用：Dempsey, E. E., Moore, C., Johnson, S. A., Stewart, S. H., & Smith, I. M. (2019). Morality in autism spectrum disorder: A systematic review. *Development and Psychopathology*, 1–17. https://doi.org/10.1017/S0954579419001160
+引用：Dempsey, E. E., Moore, C., Johnson, S. A., Stewart, S. H., & Smith, I. M. (2019). Morality in autism spectrum disorder: A systematic review. *Development and Psychopathology*, 1–17. [https://doi.org/10.1017/S0954579419001160](https://doi.org/10.1017/S0954579419001160)
 
 **作者**：E. E. Dempsey、C. Moore、S. A. Johnson、S. H. Stewart、I. M. Smith（Dalhousie University）
 **期刊**：*Development and Psychopathology*

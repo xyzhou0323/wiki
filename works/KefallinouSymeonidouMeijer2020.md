@@ -12,7 +12,7 @@ citation_apa: "Kefallinou, A., Symeonidou, S., & Meijer, C. J. W. (2020). Unders
 
 # Kefallinou, Symeonidou & Meijer (2020) — 理解融合教育的价值与实施
 
-引用：Kefallinou, A., Symeonidou, S., & Meijer, C. J. W. (2020). Understanding the value of inclusive education and its implementation: A review of the literature. *Prospects*, 49, 135-152. https://doi.org/10.1007/s11125-020-09500-2
+引用：Kefallinou, A., Symeonidou, S., & Meijer, C. J. W. (2020). Understanding the value of inclusive education and its implementation: A review of the literature. *Prospects*, 49, 135-152. [https://doi.org/10.1007/s11125-020-09500-2](https://doi.org/10.1007/s11125-020-09500-2)
 
 **作者**：Anthoula Kefallinou、Simoni Symeonidou、Cor J. W. Meijer（欧洲特殊需要与融合教育发展署；塞浦路斯大学教育系）
 **期刊**：*Prospects*（UNESCO IBE），第 49 卷，135–152 页

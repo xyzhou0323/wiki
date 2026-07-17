@@ -12,7 +12,7 @@ citation_apa: "Dwyer, P. (2022). The neurodiversity approach(es): What are they 
 
 # Dwyer (2022) — 神经多样性方法群
 
-引用：Dwyer, P. (2022). The neurodiversity approach(es): What are they and what do they mean for researchers? Human Development, 66(2), 73-92. https://doi.org/10.1159/000523723
+引用：Dwyer, P. (2022). The neurodiversity approach(es): What are they and what do they mean for researchers? Human Development, 66(2), 73-92. [https://doi.org/10.1159/000523723](https://doi.org/10.1159/000523723)
 
 
 **作者**：[[Patrick-Dwyer|Patrick Dwyer]]（加州大学戴维斯分校，心智与大脑中心 & 心理学系）

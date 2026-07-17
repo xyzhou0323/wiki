@@ -11,7 +11,7 @@ citation_apa: "Nair, V. K. K., Farah, W., & Boveda, M. (2024). Is neurodiversity
 
 # Nair et al. (2024) — 神经多样性是一个全球北方白人的范式吗？
 
-引用：Nair, V. K. K., Farah, W., & Boveda, M. (2024). Is neurodiversity a Global Northern White paradigm? *Autism, 30*(2), 544–551. https://doi.org/10.1177/13623613241280835
+引用：Nair, V. K. K., Farah, W., & Boveda, M. (2024). Is neurodiversity a Global Northern White paradigm? *Autism, 30*(2), 544–551. [https://doi.org/10.1177/13623613241280835](https://doi.org/10.1177/13623613241280835)
 
 **作者**：[[Vishnu-KK-Nair|Vishnu KK Nair]]（University of Reading，神经殊异者）、[[Warda-Farah|Warda Farah]]（University of Greenwich，神经殊异者）、[[Mildred-Boveda|Mildred Boveda]]（Penn State University）
 

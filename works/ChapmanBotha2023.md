@@ -12,7 +12,7 @@ citation_apa: "Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy
 
 # Chapman & Botha (2023) — 神经殊异知情治疗
 
-引用：Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy. *Developmental Medicine & Child Neurology, 65*(3), 310–317. https://doi.org/10.1111/dmcn.15384
+引用：Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy. *Developmental Medicine & Child Neurology, 65*(3), 310–317. [https://doi.org/10.1111/dmcn.15384](https://doi.org/10.1111/dmcn.15384)
 
 **作者**：[[Robert-Chapman|Robert Chapman]]（Sheffield Hallam University）、[[Monique-Botha|Monique Botha]]（University of Stirling）
 

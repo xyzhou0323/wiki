@@ -12,7 +12,7 @@ citation_apa: "Carmel, J.-M., Chapman, S., & Wright, P. (2026). Disability justi
 
 # Carmel, Chapman & Wright (2026) — 残障正义：日常生活中的包容挑战
 
-引用：Carmel, J.-M., Chapman, S., & Wright, P. (2026). Disability justice: The challenges of inclusion in everyday life. *International Journal of Disability, Development and Education*, 73(4), 621-634. https://doi.org/10.1080/1034912X.2025.2456288
+引用：Carmel, J.-M., Chapman, S., & Wright, P. (2026). Disability justice: The challenges of inclusion in everyday life. *International Journal of Disability, Development and Education*, 73(4), 621-634. [https://doi.org/10.1080/1034912X.2025.2456288](https://doi.org/10.1080/1034912X.2025.2456288)
 
 **作者**：Julie-Mary Carmel, Sian Chapman & Peter Wright（Murdoch University, Perth, Western Australia）
 **期刊**：*International Journal of Disability, Development and Education*，第 73 卷，第 4 期，621–634 页

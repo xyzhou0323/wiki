@@ -11,7 +11,7 @@ citation_apa: "Chapman, R. (2026, April 21). Neurodiversity politics in a post-l
 
 # Chapman (2026) — 后自由主义时代的神经多样性政治
 
-引用：Chapman, R. (2026, April 21). Neurodiversity politics in a post-liberal era. Substack. https://substack.com/@neurodiversityandcapitalism/p-194900020
+引用：Chapman, R. (2026, April 21). Neurodiversity politics in a post-liberal era. Substack. [https://substack.com/@neurodiversityandcapitalism/p-194900020](https://substack.com/@neurodiversityandcapitalism/p-194900020)
 
 
 **作者**：[[Robert-Chapman]]

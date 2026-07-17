@@ -17,7 +17,7 @@ updated: 2026-07-06
 
 # Johnson (2023) — 阅读障碍并非天赋，但事情也没那么简单
 
-引用：Johnson, R. M. (2023). Dyslexia is not a gift, but it is not that simple. *Infant and Child Development*, 32(5), e2454. https://doi.org/10.1002/icd.2454
+引用：Johnson, R. M. (2023). Dyslexia is not a gift, but it is not that simple. *Infant and Child Development*, 32(5), e2454. [https://doi.org/10.1002/icd.2454](https://doi.org/10.1002/icd.2454)
 
 ## 概述
 

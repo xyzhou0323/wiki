@@ -11,7 +11,7 @@ citation_apa: "Chapman, R. (2026, May 9). Class politics and blue-collar neurodi
 
 # Chapman (2026b) — 阶级政治与蓝领神经殊异性
 
-引用：Chapman, R. (2026, May 9). Class politics and blue-collar neurodivergence. Substack. https://substack.com/@neurodiversityandcapitalism/p-196997868
+引用：Chapman, R. (2026, May 9). Class politics and blue-collar neurodivergence. Substack. [https://substack.com/@neurodiversityandcapitalism/p-196997868](https://substack.com/@neurodiversityandcapitalism/p-196997868)
 
 **作者**：[[Robert-Chapman]]（"Neurodiversity and Capitalism" Substack）
 **发布**：2026-05-09

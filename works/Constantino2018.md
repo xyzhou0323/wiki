@@ -11,7 +11,7 @@ citation_apa: "Constantino, C. D. (2018). What can stutterers learn from the neu
 
 # Constantino (2018) — 口吃者能从神经多样性运动中学到什么？
 
-引用：Constantino, C. D. (2018). What can stutterers learn from the neurodiversity movement? Seminars in Speech and Language, 39(4), 382–396. https://doi.org/10.1055/s-0038-1667166
+引用：Constantino, C. D. (2018). What can stutterers learn from the neurodiversity movement? Seminars in Speech and Language, 39(4), 382–396. [https://doi.org/10.1055/s-0038-1667166](https://doi.org/10.1055/s-0038-1667166)
 
 **作者**：[[Christopher-Constantino]]
 **年份**：2018

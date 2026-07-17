@@ -11,7 +11,7 @@ updated: 2026-06-16
 
 # Aiston et al. (2025) - 基于话语的孤独谱系专注兴趣研究路径
 
-引用：Aiston, J., Koteyko, N., & van Driel, M. (2025). Discourse-based approaches to autistic focussed interests: Understanding shared focus, mutual accommodation, and multimodal expression. *Applied Linguistics*, amaf006. https://doi.org/10.1093/applin/amaf006
+引用：Aiston, J., Koteyko, N., & van Driel, M. (2025). Discourse-based approaches to autistic focussed interests: Understanding shared focus, mutual accommodation, and multimodal expression. *Applied Linguistics*, amaf006. [https://doi.org/10.1093/applin/amaf006](https://doi.org/10.1093/applin/amaf006)
 
 ## 摘要
 

@@ -18,7 +18,7 @@ citation_apa: "Botha, M., Hanlon, J., & Williams, G. L. (2023). Does language ma
 
 # Botha et al. (2023) — 语言重要吗？孤独谱系研究中身份在前与人称在前语言的使用
 
-引用：Botha, M., Hanlon, J., & Williams, G. L. (2023). Does language matter? Identity-first versus person-first language use in autism research: A response to Vivanti. *Journal of Autism and Developmental Disorders, 53*(2), 870–878. https://doi.org/10.1007/s10803-020-04858-w
+引用：Botha, M., Hanlon, J., & Williams, G. L. (2023). Does language matter? Identity-first versus person-first language use in autism research: A response to Vivanti. *Journal of Autism and Developmental Disorders, 53*(2), 870–878. [https://doi.org/10.1007/s10803-020-04858-w](https://doi.org/10.1007/s10803-020-04858-w)
 
 **作者**：[[Monique-Botha|Monique Botha]]（University of Stirling）、Jacqueline Hanlon、[[Gemma-Williams|Gemma Louise Williams]]（Brighton and Sussex Medical School / University of Portsmouth，孤独谱系自我倡权者）
 **年份**：2023（在线发表 2021 年 1 月）

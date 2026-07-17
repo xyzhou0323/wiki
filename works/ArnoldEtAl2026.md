@@ -12,7 +12,7 @@ citation_apa: "Arnold, W. M., Bitsika, V., & Sharpley, C. F. (2026). Camouflagin
 
 # Arnold et al. (2026) — 掩饰的概念化与方法论问题
 
-引用：Arnold, W. M., Bitsika, V., & Sharpley, C. F. (2026). Camouflaging and autism: Conceptualisation and methodological issues. *Autism, 30*(5), 1131–1146. https://doi.org/10.1177/13623613261420085
+引用：Arnold, W. M., Bitsika, V., & Sharpley, C. F. (2026). Camouflaging and autism: Conceptualisation and methodological issues. *Autism, 30*(5), 1131–1146. [https://doi.org/10.1177/13623613261420085](https://doi.org/10.1177/13623613261420085)
 
 **作者**：Wayne M Arnold, Vicki Bitsika, Christopher F Sharpley（University of New England, Australia）
 **发表**：2026年，*Autism* 期刊（SAGE）

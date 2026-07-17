@@ -10,7 +10,7 @@ citation_apa: "Sonuga-Barke, E. J. S. (2023). Paradigm 'flipping' to reinvigorat
 
 # Sonuga-Barke (2023) — 范式"翻转"以重振转化科学
 
-引用：Sonuga-Barke, E. J. S. (2023). Paradigm 'flipping' to reinvigorate translational science: Outlining a neurodevelopmental science framework from a 'neurodiversity' perspective. *Journal of Child Psychology and Psychiatry, 64*(10), 1405–1408. https://doi.org/10.1111/jcpp.13886
+引用：Sonuga-Barke, E. J. S. (2023). Paradigm 'flipping' to reinvigorate translational science: Outlining a neurodevelopmental science framework from a 'neurodiversity' perspective. *Journal of Child Psychology and Psychiatry, 64*(10), 1405–1408. [https://doi.org/10.1111/jcpp.13886](https://doi.org/10.1111/jcpp.13886)
 
 **作者**：[[Edmund-Sonuga-Barke|Edmund J. S. Sonuga-Barke]]（King's College London，JCPP 主编）
 **年份**：2023

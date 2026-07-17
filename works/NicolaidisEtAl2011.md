@@ -23,7 +23,7 @@ authors:
 
 # Nicolaidis et al. (2011) — 非传统 CBPR 合作策略
 
-引用：Nicolaidis, C., Raymaker, D., McDonald, K., Dern, S., Ashkenazy, E., Boisclair, C., Robertson, S., & Baggs, A. (2011). Collaboration strategies in nontraditional community-based participatory research partnerships: Lessons from an academic–community partnership with autistic self-advocates. *Progress in Community Health Partnerships*, *5*(2), 143–150. https://doi.org/10.1353/cpr.2011.0022
+引用：Nicolaidis, C., Raymaker, D., McDonald, K., Dern, S., Ashkenazy, E., Boisclair, C., Robertson, S., & Baggs, A. (2011). Collaboration strategies in nontraditional community-based participatory research partnerships: Lessons from an academic–community partnership with autistic self-advocates. *Progress in Community Health Partnerships*, *5*(2), 143–150. [https://doi.org/10.1353/cpr.2011.0022](https://doi.org/10.1353/cpr.2011.0022)
 
 **作者**：[[Christina-Nicolaidis|Christina Nicolaidis]]（OHSU）、[[Dora-Raymaker]]（ASAN/AASPIRE）、Katherine McDonald（Portland State）、Sebastian Dern、Elesia Ashkenazy、Cody Boisclair、Scott Robertson、Amanda Baggs
 **发表**：2011 年，*Progress in Community Health Partnerships* 第 5 卷第 2 期

@@ -11,7 +11,7 @@ citation_apa: "Sinclair, J. (1993). Don't mourn for us. Our Voice, 1(3). Autism 
 
 # Sinclair (1993) — 不要为我们哀悼
 
-引用：Sinclair, J. (1993). Don't mourn for us. Our Voice, 1(3). Autism Network International. https://www.autreat.com/dont_mourn.html
+引用：Sinclair, J. (1993). Don't mourn for us. Our Voice, 1(3). Autism Network International. [https://www.autreat.com/dont_mourn.html](https://www.autreat.com/dont_mourn.html)
 
 
 **作者**：[[Jim-Sinclair]]

@@ -14,7 +14,7 @@ authors:
 
 # Heasman & Gillespie (2019) — 神经殊异交互主体性
 
-引用：Heasman, B., & Gillespie, A. (2019). Neurodivergent intersubjectivity: Distinctive features of how autistic people create shared understanding. *Autism*, *23*(4), 910–921. https://doi.org/10.1177/1362361318785172
+引用：Heasman, B., & Gillespie, A. (2019). Neurodivergent intersubjectivity: Distinctive features of how autistic people create shared understanding. *Autism*, *23*(4), 910–921. [https://doi.org/10.1177/1362361318785172](https://doi.org/10.1177/1362361318785172)
 
 **作者**：[[Brett-Heasman|Brett Heasman]] & [[Alex-Gillespie|Alex Gillespie]]，伦敦政治经济学院（LSE）心理与行为科学系
 **发表**：2018 年在线首发，2019 年于 *Autism* 第 23 卷第 4 期刊出

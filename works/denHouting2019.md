@@ -12,7 +12,7 @@ citation_apa: "den Houting, J. (2019). Neurodiversity: An insider's perspective.
 
 # den Houting (2019) — 神经多样性：内部人视角
 
-引用：den Houting, J. (2019). Neurodiversity: An insider's perspective. Autism, 23(2), 271-273. https://doi.org/10.1177/1362361318820762
+引用：den Houting, J. (2019). Neurodiversity: An insider's perspective. Autism, 23(2), 271-273. [https://doi.org/10.1177/1362361318820762](https://doi.org/10.1177/1362361318820762)
 
 
 **完整引用**：den Houting, J. (2019). Neurodiversity: An insider's perspective. *Autism*, 23(2), 271–273.

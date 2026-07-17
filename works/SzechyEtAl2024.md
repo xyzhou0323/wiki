@@ -12,7 +12,7 @@ citation_apa: "Szechy, K. A., Turk, P. D., & O'Donnell, L. A. (2024). Autism and
 
 # Szechy et al. (2024) — 孤独谱系与就业挑战：职场情境中的双向同理心问题
 
-引用：Szechy, K. A., Turk, P. D., & O'Donnell, L. A. (2024). Autism and employment challenges: The double empathy problem and perceptions of an autistic employee in the workplace. Autism in Adulthood, 6(2), 205-217. https://doi.org/10.1089/aut.2023.0046
+引用：Szechy, K. A., Turk, P. D., & O'Donnell, L. A. (2024). Autism and employment challenges: The double empathy problem and perceptions of an autistic employee in the workplace. Autism in Adulthood, 6(2), 205-217. [https://doi.org/10.1089/aut.2023.0046](https://doi.org/10.1089/aut.2023.0046)
 
 
 **完整引用**：Szechy, K. A., Turk, P. D., & O'Donnell, L. A. (2024). Autism and Employment Challenges: The Double Empathy Problem and Perceptions of an Autistic Employee in the Workplace. *Autism in Adulthood*, 6(2), 205–217.

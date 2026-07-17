@@ -11,7 +11,7 @@ citation_apa: "Walker, N. (2014). Neurodiversity: Some basic terms & definitions
 
 # Walker (2014) — 神经多样性基本术语与定义
 
-引用：Walker, N. (2014). Neurodiversity: Some basic terms & definitions. Neurocosmopolitanism. https://neuroqueer.com/neurodiversity-terms-and-definitions/
+引用：Walker, N. (2014). Neurodiversity: Some basic terms & definitions. Neurocosmopolitanism. [https://neuroqueer.com/neurodiversity-terms-and-definitions/](https://neuroqueer.com/neurodiversity-terms-and-definitions/)
 
 
 **作者**：Nick Walker，加州整合大学（CIIS）心理学教授、孤独谱系酷儿学者

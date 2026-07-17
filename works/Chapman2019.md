@@ -11,7 +11,7 @@ citation_apa: "Chapman, R. (2019). Autism as a form of life: Wittgenstein and th
 
 # Chapman (2019) — 作为生命形式的孤独谱系：维特根斯坦与孤独谱系的心理连贯性
 
-引用：Chapman, R. (2019). Autism as a form of life: Wittgenstein and the psychological coherence of autism. *Metaphilosophy*, *50*(4), 421–440. https://doi.org/10.1111/meta.12366
+引用：Chapman, R. (2019). Autism as a form of life: Wittgenstein and the psychological coherence of autism. *Metaphilosophy*, *50*(4), 421–440. [https://doi.org/10.1111/meta.12366](https://doi.org/10.1111/meta.12366)
 
 **作者**：[[Robert-Chapman|Robert Chapman]]（University of Bristol）
 

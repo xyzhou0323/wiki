@@ -10,7 +10,7 @@ updated: 2026-05-10
 
 # Frith (2026) — 为什么我不再认为孤独谱系是一个谱系
 
-引用：Frith, U. (2026, March 4). Uta Frith: why I no longer think autism is a spectrum (H. Amass, Interviewer). *TES Magazine*. https://www.tes.com/magazine/teaching-learning/general/uta-frith-interview-autism-not-spectrum
+引用：Frith, U. (2026, March 4). Uta Frith: why I no longer think autism is a spectrum (H. Amass, Interviewer). *TES Magazine*. [https://www.tes.com/magazine/teaching-learning/general/uta-frith-interview-autism-not-spectrum](https://www.tes.com/magazine/teaching-learning/general/uta-frith-interview-autism-not-spectrum)
 
 **作者**：Dame Uta Frith（伦敦大学学院认知神经科学研究所荣休教授，孤独谱系认知理论的奠基人）
 **采访者**：Helen Amass

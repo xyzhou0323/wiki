@@ -17,7 +17,7 @@ citation_apa: "Natri, H. M., Abubakare, O., Asasumasu, K., Basargekar, A., Beaud
 
 # Natri et al. (2023) — 反健全中心主义语言与高质量孤独谱系研究完全兼容
 
-引用：Natri, H. M., et al. (2023). Anti-ableist language is fully compatible with high-quality autism research: Response to Singer et al. (2023). *Autism Research, 16*(4), 673–676. https://doi.org/10.1002/aur.2928
+引用：Natri, H. M., et al. (2023). Anti-ableist language is fully compatible with high-quality autism research: Response to Singer et al. (2023). *Autism Research, 16*(4), 673–676. [https://doi.org/10.1002/aur.2928](https://doi.org/10.1002/aur.2928)
 
 **作者**：[[Heini-Natri]]（第一作者）、Olumide Abubakare、Kassiane Asasumasu、[[Monique-Botha|Monique Botha]]、Kristen Bottema-Beutel、[[Sue-Fletcher-Watson]]、Morénike Giwa Onaiwu、[[Steven-Kapp|Steven K. Kapp]]、Marie Manalili、[[Amy-Pearson]]、Liz Pellicano、[[Nick-Walker]]、[[Alyssa-Hillary|Alyssa Hillary Zisk]] 等 68 位联名作者
 **年份**：2023

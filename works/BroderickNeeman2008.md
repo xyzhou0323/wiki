@@ -12,7 +12,7 @@ doi: 10.1080/13603110802377490
 
 # Broderick & Ne'eman (2008) — 孤独症作为隐喻：叙事与反叙事
 
-引用：Broderick, A. A., & Ne'eman, A. (2008). Autism as metaphor: Narrative and counter-narrative. *International Journal of Inclusive Education, 12*(5–6), 459–476. https://doi.org/10.1080/13603110802377490
+引用：Broderick, A. A., & Ne'eman, A. (2008). Autism as metaphor: Narrative and counter-narrative. *International Journal of Inclusive Education, 12*(5–6), 459–476. [https://doi.org/10.1080/13603110802377490](https://doi.org/10.1080/13603110802377490)
 
 **作者**：[[Alicia-Broderick|Alicia A. Broderick]]（哥伦比亚大学教师学院）× [[Ari-Ne'eman|Ari Ne'eman]]（ASAN 创始主席）
 **发表**：2008，*International Journal of Inclusive Education*，第 12 卷第 5-6 期

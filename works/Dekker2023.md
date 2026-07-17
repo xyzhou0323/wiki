@@ -11,7 +11,7 @@ citation_apa: "Dekker, M. (2023, July 13). A correction on the origin of the ter
 
 # Dekker (2023) — 对"神经多样性"术语起源的更正
 
-引用：Dekker, M. (2023, July 13). A correction on the origin of the term 'neurodiversity'. InLv. https://www.inlv.org/2023/07/13/neurodiversity-origin.html
+引用：Dekker, M. (2023, July 13). A correction on the origin of the term 'neurodiversity'. InLv. [https://www.inlv.org/2023/07/13/neurodiversity-origin.html](https://www.inlv.org/2023/07/13/neurodiversity-origin.html)
 
 **作者**：Martijn "McDutchie" [[Martijn-Dekker|Dekker]]（InLv 创始人）
 **发表**：2023 年 7 月 13 日，发布于 inlv.org
