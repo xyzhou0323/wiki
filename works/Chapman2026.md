@@ -1,7 +1,7 @@
 ---
 title: Chapman (2026) - 后自由主义时代的神经多样性政治
 description: Robert Chapman 2026年Substack文章——自由派神经多样性政治的前提（自由主义秩序）正在瓦解，亟需转向激进左翼政治
-aliases: [后自由主义时代的神经多样性政治, Neurodiversity Politics in a Post-Liberal Era, Post-Liberal Neurodiversity Politics]
+aliases: ["Chapman(2026)", 后自由主义时代的神经多样性政治, Neurodiversity Politics in a Post-Liberal Era, Post-Liberal Neurodiversity Politics]
 tags: [work, neurodiversity, political, capitalism]
 sources: [2026-05-07/后自由主义时代神经多样性政治.md]
 created: 2026-05-07

@@ -1,7 +1,7 @@
 ---
 title: Botha (2021) - 学者、行动者还是倡导者？关于孤独谱系知识生产的批判性反思
 description: Monique Botha 的自传式民族志——作为孤独谱系研究者在学术界的经历，揭示实证主义"客观性"如何庇护非人化研究并边缘化孤独谱系者的专业见解
-aliases: [Botha 2021, Academic Activist or Advocate, 孤独谱系知识生产批判]
+aliases: ["Botha(2021)", Botha 2021, Academic Activist or Advocate, 孤独谱系知识生产批判]
 tags: [work, neurodiversity, autism, critique, methodology]
 sources: [2026-05-07/Botha - 2021 - Academic, Activist, or Advocate Angry, Entangled, and Emerging A Critical Reflection on Autism Kno_zh-CN_dual.pdf]
 doi: 10.3389/fpsyg.2021.727542

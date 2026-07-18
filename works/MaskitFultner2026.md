@@ -1,7 +1,7 @@
 ---
 title: Maskit & Fultner (2026) - 摒弃应用行为分析
 description: Dani Maskit（孤独谱系活动家）与 Barbara Fultner（女性主义哲学家）跨神经类型合作，提出反 ABA 宣言——论证 ABA 的行为主义基础与神经多样性范式在原则上不相容，将回避眼神接触、调节行为和伪装重新定义为文化标志而非适应不良行为，指控 ABA 构成文化灭绝；以生物社会模型、吉布森生态心理学和维特根斯坦式"生活形式"概念替代行为主义和神经认知主义框架
-aliases: [MaskitFultner2026, Ain't Misbehavin': Scrapping Applied Behavior Analysis]
+aliases: ["Maskit(2026)", MaskitFultner2026, "Ain't Misbehavin': Scrapping Applied Behavior Analysis"]
 tags: [work, chapter, autism, ABA, neurodiversity, cultural-genocide, critique, behaviorism, double-empathy, ecological-psychology]
 sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
 created: 2026-07-14

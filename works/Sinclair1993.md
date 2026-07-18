@@ -1,7 +1,7 @@
 ---
 title: Sinclair (1993) - 不要为我们哀悼
 description: Jim Sinclair 1993 年发表的神经多样性运动奠基宣言——首次将孤独谱系者的公共发言从个人叙事转变为政治诉求
-aliases: [Don't Mourn for Us, 不要为我们哀悼, Sinclair 1993, Dont Mourn for Us]
+aliases: ["Sinclair(1993)", Don't Mourn for Us, 不要为我们哀悼, Sinclair 1993, Dont Mourn for Us]
 tags: [work, neurodiversity, autism, foundational, historical]
 sources: [2026-05-07/不要为我们悲哀 --- Don't Mourn For Us.md]
 created: 2026-05-07

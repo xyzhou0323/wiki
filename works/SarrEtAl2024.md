@@ -1,7 +1,7 @@
 ---
 title: Sarr et al. (2024) - 孤独谱系、依恋障碍、CPTSD与EUPD的鉴别诊断
 description: 首项采用共制Delphi法系统建立孤独谱系、依恋障碍、复杂性创伤后应激障碍与情绪不稳定人格障碍鉴别诊断共识的研究——106位国际专家就275条陈述达成共识
-aliases: [Sarr 2024, Sarr et al. 2024, 鉴别诊断Delphi]
+aliases: ["Sarr(2025)", Sarr 2024, Sarr et al. 2024, 鉴别诊断Delphi]
 tags: [work, autism, neurodiversity, methodology, applied]
 sources: [2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf]
 doi: 10.1111/bjop.12731

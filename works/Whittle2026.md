@@ -1,7 +1,7 @@
 ---
 title: Whittle (2026) - 道德责任与孤独谱系
 description: Ann Whittle 反驳 Shoemaker 关于孤独谱系群体缺乏同理心因而不可问责的论证，引入双向同理心问题解释表面同理心缺陷，并论证理由响应性道德责任理论不仅能抵御 Stout 的批评，而且能准确追踪涉及孤独谱系行动者案例中的责任判断
-aliases: [Whittle2026, Moral Responsibility and Autism]
+aliases: ["Whittle(2026)", Whittle2026, Moral Responsibility and Autism]
 tags: [work, chapter, autism, philosophy, moral-responsibility, empathy, reasons-responsiveness, double-empathy, accountability]
 sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
 created: 2026-07-14

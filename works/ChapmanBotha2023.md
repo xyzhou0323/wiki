@@ -1,7 +1,7 @@
 ---
 title: Chapman & Botha (2023) — 神经殊异知情治疗
 description: 将神经多样性范式首次形式化应用于心理治疗框架——提出去病理化的神经殊异知情治疗三原则：功能障碍的关系性重构、神经殊异接纳与自尊、治疗师的认识谦逊
-aliases: [ChapmanBotha2023, Neurodivergence-informed therapy, 神经多样性知情治疗]
+aliases: ["Chapman(2023)", ChapmanBotha2023, Neurodivergence-informed therapy, 神经多样性知情治疗]
 tags: [work, neurodiversity, autism, clinical, foundational]
 sources: [2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf]
 doi: 10.1111/dmcn.15384

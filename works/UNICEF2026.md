@@ -2,6 +2,7 @@
 title: UNICEF (2026) - Learning is For Everyone：为残障儿童铺设融合教育之路
 description: UNICEF Innocenti 的 LiFE 全球研究报告综合七国证据，围绕 Recognize-Reform-Resource 三大支柱提出融合教育系统性改革建议，强调理解残障的社会模型和人权模型、通用学习设计、教师培训变革和可及性基础设施投入
 aliases:
+  - UNICEF(2026)
   - UNICEF2026
   - HinostrozaCastilloEtAl2026
   - Learning is For Everyone

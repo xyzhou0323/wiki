@@ -1,10 +1,10 @@
 ---
 title: Lawson (2025) - 孤独谱系与单一聚焦：医疗及其他从业者须知
 description: Wenn Lawson 2025 年专著——以注意力隧道、三条支流、六大认知优势系统阐述单一聚焦理论，并以内部视角对比其他孤独谱系理论，附从业者实用工具清单
-aliases: [Lawson (2025), Autism and Being Monotropic, 单一聚焦从业者指南]
+aliases: ["Lawson(2025)", Lawson (2025), Autism and Being Monotropic, 单一聚焦从业者指南]
 tags: [work, autism, monotropism, neurodiversity, practitioners, applied, book]
 authors: [Wenn B. Lawson]
-source: sources/2026-05-20/books/Lawson - 2025 - Autism and Being Monotropic - What Medical and Other Practitioners Need to Know.pdf
+sources: [2026-05-20/books/Lawson - 2025 - Autism and Being Monotropic - What Medical and Other Practitioners Need to Know.pdf]
 citation_apa: "Lawson, W. B. (2025). *Autism and being monotropic: What medical and other practitioners need to know*. Springer Nature Singapore."
 created: 2026-05-20
 updated: 2026-05-20

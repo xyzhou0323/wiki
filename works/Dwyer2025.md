@@ -1,7 +1,7 @@
 ---
 title: Dwyer et al. (2025) - 社区对神经多样性、残障模式与孤独谱系干预的看法
 description: Patrick Dwyer、Steven Kapp、Kristen Gillespie-Lynch 等发表于 Autism 期刊的混合方法研究——504 名社群成员实证调查，揭示"强"社会模型修辞与实际干预态度之间的系统性差异，以及孤独谱系与非孤独谱系 NDM 支持者的关键张力
-aliases: [Dwyer2025-社区看法, Dwyer et al. 2025, Community views of neurodiversity]
+aliases: ["Dwyer(2025)", Dwyer2025-社区看法, Dwyer et al. 2025, Community views of neurodiversity]
 tags: [work, neurodiversity, disability, autism, methodology, empirical]
 sources: [Dwyer 等 - 2025 - Community views of neurodiversity, models of disability and autism intervention Mixed methods revea.pdf]
 doi: 10.1177/13623613241273029

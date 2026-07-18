@@ -1,7 +1,7 @@
 ---
 title: Botha et al. (2024) - 神经多样性的集体起源
 description: 一项迟来的学术修正——通过档案研究证实神经多样性概念和理论由孤独谱系社群集体发展，而非归功于任何单一作者
-aliases: [Botha et al. 2024, 神经多样性的诞生, The neurodiversity concept was developed collectively]
+aliases: ["Botha(2024)", Botha et al. 2024, 神经多样性的诞生, The neurodiversity concept was developed collectively]
 tags: [work, neurodiversity, historical]
 sources: [2026-05-07/Botha-et-al-2024-神经多样性集体起源.md, 2026-05-07/神经多样性的诞生-社群历史.md]
 doi: 10.1177/13623613241237871

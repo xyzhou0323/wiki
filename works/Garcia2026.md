@@ -1,7 +1,7 @@
 ---
 title: Garcia (2026) - 第二人称视角下的孤独谱系
 description: Francisco García 以孤独谱系者身份写作，挑战心理理论（ToM）模型及其认知主义预设，捍卫第二人称视角（SPP）作为社会认知的基本机制，结合弱中央统合假说将孤独谱系重构为替代性认知风格而非缺陷，并提出"改变环境，而非改变个体"的外部主义认知脚手架治疗路径
-aliases: [Garcia2026, Autism from the Second Person Perspective]
+aliases: ["García(2026)", Garcia2026, Autism from the Second Person Perspective]
 tags: [work, chapter, autism, philosophy, cognition, 4E-cognition, second-person-perspective, theory-of-mind, cognitive-style, externalism]
 sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
 created: 2026-07-14

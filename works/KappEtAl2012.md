@@ -1,7 +1,7 @@
 ---
 title: Kapp et al. (2012) - 缺陷、差异，还是两者兼具？孤独谱系与神经多样性
 description: Kapp, Gillespie-Lynch, Sherman & Hutman (2012) 对 657 人的在线调查，提出"缺陷即差异"概念，揭示医学模型与神经多样性运动并非二元对立
-aliases: [Deficit, Difference, or Both? Autism and Neurodiversity, Kapp et al. 2012, KappEtAl2012, 缺陷差异或两者兼具]
+aliases: ["Kapp(2013)", Deficit, Difference, or Both? Autism and Neurodiversity, Kapp et al. 2012, KappEtAl2012, 缺陷差异或两者兼具]
 tags: [work, neurodiversity, autism, empirical, foundational]
 sources: [2026-05-09/Deficit_Difference_or_Both_Autism_and_Ne.pdf]
 created: 2026-05-10

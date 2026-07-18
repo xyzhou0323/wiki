@@ -1,7 +1,7 @@
 ---
 title: Gernsbacher & Yergeau (2019) - 孤独谱系者缺乏心理理论主张的实证失败
 description: Gernsbacher 与 Yergeau 系统性地检验并驳斥了"孤独谱系者缺乏心理理论"这一心理学界流传甚广的断言，揭示该主张在特异性、普遍性、可重复性、聚合效度和预测效度五个维度上均存在实证失败，并明确指出了其社会危害
-aliases: [Gernsbacher & Yergeau 2019, GernsbacherYergeau2019, 心理理论批判]
+aliases: ["Gernsbacher(2019)", Gernsbacher & Yergeau 2019, GernsbacherYergeau2019, 心理理论批判]
 tags: [work, autism, neurodiversity, critique, methodology]
 sources: [2026-06-16/APA PsycNet 全文 HTML 页面 --- APA PsycNet FullTextHTML page.md]
 doi: 10.1037/arc0000067

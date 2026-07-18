@@ -1,7 +1,7 @@
 ---
 title: den Houting (2019) - 神经多样性：内部人视角
 description: Jacquiline den Houting 以孤独谱系研究者身份在 Autism 期刊发表的社论，系统澄清对 ND 运动的三种常见误解，阐述社会模型在孤独谱系中的应用，并首次将"neurodiversity lite"概念引入学术话语
-aliases: [denHouting2019, Neurodiversity An insider's perspective, ND内部人视角]
+aliases: ["den Houting(2019)", denHouting2019, Neurodiversity An insider's perspective, ND内部人视角]
 tags: [work, neurodiversity, autism, foundational, methodology]
 sources: [2026-05-09/Neurodiversity An insider's perspective (den Houting, Jacquiline) (z-library.sk, 1lib.sk, z-lib.sk).pdf]
 doi: 10.1177/1362361318820762

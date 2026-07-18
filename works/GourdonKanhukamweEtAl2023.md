@@ -1,7 +1,7 @@
 ---
 title: Gourdon-Kanhukamwe et al. (2023) - 拓宽对神经多样性的理解：应用参与式和开放科学实践的呼吁
 description: FORRT 神经多样性团队在 BPS Cognitive Psychology Bulletin 发表的短篇呼吁——论证神经殊异视角在行为与认知科学中被系统性忽视，呼吁将参与式研究与开放科学实践结合以解决权力失衡
-aliases: [Opening up Understanding of Neurodiversity: A Call for Applying Participatory and Open Scholarship Practices, GourdonKanhukamweEtAl2023]
+aliases: ["Gourdon-Kanhukamwe(2023)", "Opening up Understanding of Neurodiversity: A Call for Applying Participatory and Open Scholarship Practices", GourdonKanhukamweEtAl2023]
 tags: [work, neurodiversity, participatory-research, open-scholarship, FORRT]
 created: 2026-06-10
 updated: 2026-06-10

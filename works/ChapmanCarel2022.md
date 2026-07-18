@@ -1,6 +1,7 @@
 ---
 title: Chapman & Carel (2022) — 神经多样性、知识不正义与美好人生
 description: Chapman & Carel (2022) 将 Fricker 的知识不正义框架应用于孤独谱系，论证证言不正义和诠释不正义如何交叉锁定为 catch-22，系统性抹除孤独谱系者繁荣的可能性
+aliases: ["Chapman(2022)"]
 aliases:
   - ChapmanCarel2022
   - Neurodiversity

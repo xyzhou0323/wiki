@@ -3,6 +3,7 @@ title: Jim Sinclair
 description: Jim Sinclair 是神经多样性运动奠基人，ANI 联合创始人，1993 年发表"Don't Mourn for Us"——该运动的第一份政治宣言，首次将孤独谱系者的公共发言从自传式证言转变为政治性诉求
 aliases: [Jim Sinclair, Sinclair]
 tags: [author, neurodiversity, autism, historical, foundational]
+sources: ["2026-05-07/不要为我们悲哀 --- Don't Mourn For Us.md"]
 created: 2026-05-07
 updated: 2026-05-07
 ---

@@ -1,7 +1,7 @@
 ---
 title: Botha (2025) - 批判实在论、社区心理学与孤独谱系：一种具有社会正义导向的科学哲学与实践
 description: Monique Botha 论证批判实在论（Critical Realism）是社区心理学最适切的科学哲学基础——超越实证主义与建构主义的二元对立，为神经多样性研究提供同时容纳物质现实与反本质主义的哲学框架
-aliases: [Botha 2025, Critical Realism Autism, Botha critical realism]
+aliases: ["Botha(2025)", Botha 2025, Critical Realism Autism, Botha critical realism]
 tags: [work, neurodiversity, autism, methodology, critique]
 sources: [2026-05-21/Journal Community Psychology - 2021 - Botha - Critical realism  community psychology  and the curious case of autism  A.pdf]
 created: 2026-05-21

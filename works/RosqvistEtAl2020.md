@@ -1,7 +1,7 @@
 ---
 title: Rosqvist et al. (2020) - 神经多样性研究：一种新的批判范式
 description: 首部提出"神经多样性研究"作为新学术领域的编辑卷——汇集社会学、批判心理学、批判医学人文、残障研究和批判孤独谱系研究，16 章跨 6 大主题
-aliases: [Neurodiversity Studies: A New Critical Paradigm, RosqvistEtAl2020, RosqvistEtAl2020-神经多样性研究]
+aliases: ["Rosqvist(2020)", "Neurodiversity Studies: A New Critical Paradigm", RosqvistEtAl2020, RosqvistEtAl2020-神经多样性研究]
 tags: [work, neurodiversity, foundational, critique, methodology]
 sources: [2026-05-09/0051276.pdf]
 created: 2026-05-09

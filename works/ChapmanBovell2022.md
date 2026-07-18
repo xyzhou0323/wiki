@@ -1,6 +1,7 @@
 ---
 title: Chapman & Bovell (2022) - 神经多样性、倡权与反治疗
 description: Chapman 与 Bovell 概述神经多样性运动的起源与理论立场，以 ABA 争议为案例系统分析疗效、正常化/社会控制、创伤/福祉、自主权四重伦理问题，论证当代 ABA 实践的显著部分需要废除或改革，并探讨此辩论对所有孤独谱系治疗形式的意涵
+aliases: ["Chapman(2022)"]
 aliases:
   - Chapman & Bovell (2022)
   - ChapmanBovell2022

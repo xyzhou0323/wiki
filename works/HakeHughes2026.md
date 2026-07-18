@@ -1,7 +1,7 @@
 ---
 title: Hake & Hughes (2026) - 孤独谱系与性别
 description: Ruby Hake 与 Emily Hughes 梳理孤独谱系与性别自 Kanner 和 Asperger 以来的复杂历史——从极端男性大脑理论到女性孤独谱系表型的本质主义困境，再到反本质主义文献中性别作为表演/幽灵的排他性趋势，论证神经多样性运动以策略性本质主义和交叉性规避了本质主义悖论，并呼吁以批判现象学整合神经多样性与性别多样性的交叉研究
-aliases: [HakeHughes2026, Autism and Gender]
+aliases: ["Hake(2026)", HakeHughes2026, Autism and Gender]
 tags: [work, chapter, autism, gender, essentialism, neurodiversity, phenomenology, EMB-theory, neuroqueer, intersectionality]
 sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
 created: 2026-07-14

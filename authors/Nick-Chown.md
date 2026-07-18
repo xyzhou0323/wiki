@@ -3,6 +3,7 @@ title: Nick Chown
 description: Nick Chown 是独立孤独谱系研究者与书籍索引师，首部《神经多样性研究》编辑卷的联合主编，将 Wittgenstein 语言游戏概念应用于分析孤独谱系如何通过神经典型语言实践被建构为病理
 aliases: [Nick Chown]
 tags: [author, neurodiversity, autism, philosophy, methodology]
+sources: ["2026-05-09/0051276.pdf"]
 created: 2026-05-09
 updated: 2026-05-09
 ---

@@ -1,7 +1,7 @@
 ---
 title: Retief & Letsosa (2018) - 残障模型概述
 description: Retief 与 Letsosa 发表于 HTS Teologiese Studies 的分类论文——系统梳理 9 种主流残障模型的基本特征与神学意义
-aliases: [Retief & Letsosa 2018, RetiefLetsosa2018, Models of disability: A brief overview]
+aliases: ["Retief(2018)", Retief & Letsosa 2018, RetiefLetsosa2018, "Models of disability: A brief overview"]
 tags: [work, disability, foundational, theology]
 sources: [2026-05-12/RetiefLetsosa2018-Models of disability A brief overview.pdf]
 doi: 10.4102/hts.v74i1.4738

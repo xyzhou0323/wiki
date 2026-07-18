@@ -1,7 +1,7 @@
 ---
 title: Lin et al. (2026) - 从孤独谱系知识到复原力：理解中国融合教育教师自我效能感与神经多样性态度的作用
 description: Lin 等人（2026）以 272 名中国融合教育教师为样本，使用有调节的中介模型发现 ASD 知识通过提升融合教学自我效能感减少职业倦怠，且神经多样性肯定态度正向调节知识对自我效能感的影响，为基于优势的教师发展提供了实证依据
-aliases: [LinEtAl2026, Lin et al. (2026), From Autism Knowledge to Resilience]
+aliases: ["Lin(2026)", LinEtAl2026, Lin et al. (2026), From Autism Knowledge to Resilience]
 tags: [work, autism, neurodiversity, education]
 sources: [2026-07-17/LinEtAl2026.md]
 doi: 10.1080/13603116.2026.2645187

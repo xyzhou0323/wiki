@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-基础/神经多样性.md",
+                "file": "01-基础/神经多样性范式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经多样性"
+              "title": "神经多样性范式"
             }
           }
         ]
@@ -182,12 +182,15 @@
   },
   "active": "b8ce71431e6b7390",
   "lastOpenFiles": [
+    "works/Anderson2026.md",
+    "works/AistonEtAl2025.md",
+    "works/AndersonCushingEds2026.md",
+    "01-基础/神经多样性.md",
     "01-基础/神经多样性范式.md",
     "authors/Laura-Tisoncik.md",
     "works/Walker2014.md",
     "01-基础/神经殊异.md",
     "works/Dwyer2022.md",
-    "01-基础/神经多样性.md",
     "00-知识地图.md",
     "术语翻译对照表.md",
     "04-实践应用/应用行为分析.md",
@@ -203,7 +206,6 @@
     "works/KappEtAl2012.md.tmp.40828.cffb8e1f9ab8",
     "authors/Elin-McCready.md",
     "works/RosinaMcCready2026.md",
-    "works/AndersonCushingEds2026.md",
     "authors/Emil-Eva-Rosina.md",
     "works/Maxwell2026.md",
     "works/Chapman2019.md",
@@ -216,8 +218,6 @@
     "authors/Ruby-Hake.md",
     "authors/Francisco-Garcia.md",
     "authors/Sam-Fellowes.md",
-    "authors/Ann-Whittle.md",
-    "authors/Simon-Cushing.md",
     "Pasted image 20260616213853.png"
   ]
 }

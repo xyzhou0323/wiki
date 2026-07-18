@@ -3,6 +3,7 @@ title: Zachary J. Williams
 description: Zachary J. Williams 是范德堡大学医学院的孤独谱系研究者，多维声音耐受量表-成人版（MIST-A）和范德堡听觉分心问卷（VADQ）的开发者，专攻声音耐受下降的测量与分类
 aliases: [Zachary J. Williams, Zachary Williams, ZJW, Williams]
 tags: [author, autism, sensory, audiology]
+sources: ["2026-07-12/DwyerEtAl2026.md"]
 created: 2026-07-12
 ---
 

@@ -3,6 +3,7 @@ title: Frith (2026) - 为什么我不再认为孤独谱系是一个谱系
 description: Uta Frith 在 2026 年 3 月 TES 杂志的访谈——孤独谱系研究奠基人公开主张"谱系已崩溃"，挑战掩饰概念和感官便利措施的科学基础
 aliases: [Uta Frith 2026 interview, Frith 2026]
 tags: [work, autism, critique]
+aliases: ["Frith(2026)"]
 sources: [articles/Uta Frith why I no longer think autism is a spectrum.md]
 created: 2026-05-10
 updated: 2026-05-10

@@ -1,7 +1,7 @@
 ---
 title: Nair et al. (2024) - 神经多样性是一个全球北方白人的范式吗？
 description: Nair、Farah 与 Boveda 对神经多样性学术的去殖民化批判——揭示全球南方认识论的边缘化与种族化神经殊异者的交叉性排斥，呼吁 ND 从"北方独白"走向全球知识连续体
-aliases: [NairEtAl2024, Is neurodiversity a Global Northern White paradigm?, 神经多样性去殖民化, ND White paradigm]
+aliases: ["Nair(2024)", NairEtAl2024, Is neurodiversity a Global Northern White paradigm?, 神经多样性去殖民化, ND White paradigm]
 tags: [work, neurodiversity, critique, intersectionality, political, methodology]
 sources: [2026-05-09/nair-et-al-2024-is-neurodiversity-a-global-northern-white-paradigm.pdf]
 created: 2026-05-09

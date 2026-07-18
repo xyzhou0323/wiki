@@ -1,7 +1,7 @@
 ---
 title: Cushing (2026) - 事情的本质并非如此：为孤独谱系消除主义辩护
 description: Simon Cushing 从反本质主义出发得出消除主义结论，逐一考察三种反本质主义但反消除主义的选项（MPC 种类、共享政治身份、序列集体），论证根据现有证据消除"孤独谱系"这一概念是最合理的立场，并揭示 Chapman 实为长期消除主义者
-aliases: [Cushing2026, The Thing of It Isn't: Defending Eliminativism About Autism]
+aliases: ["Cushing(2026)", Cushing2026, "The Thing of It Isn't: Defending Eliminativism About Autism"]
 tags: [work, chapter, autism, metaphysics, eliminativism, anti-essentialism, natural-kinds, social-construction, self-diagnosis]
 sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
 created: 2026-07-14

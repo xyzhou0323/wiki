@@ -2,6 +2,7 @@
 title: Clarissa Müller-Kosmarov
 description: Clarissa Müller-Kosmarov 是神经多样性哲学研究者，与 Robert Chapman 合著《神经多样性与哲学》（Oxford Research Encyclopedia of Disability Studies, 2026），研究获 Wellcome Trust 资助
 tags: [author, neurodiversity, philosophy]
+sources: ["2026-07-05/MullerKosmarovChapman2026-NeurodiversityAndPhilosophy.md"]
 created: 2026-07-05
 updated: 2026-07-05
 ---

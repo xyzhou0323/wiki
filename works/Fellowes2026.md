@@ -1,7 +1,7 @@
 ---
 title: Fellowes (2026) - 孤独谱系、双向同理心问题与感受他人情绪
 description: Sam Fellowes 以孤独谱系哲学家身份，在 Coplan 六维同理心框架下论证：双向同理心问题主要适用于认知同理心维度且大体正确，但在"感受他人所感"这一特定情感同理心维度上，孤独谱系者可能确实存在内在的、能力降低的差异——这种差异本身就是一种病症（使人生贫瘠），但并不影响道德主体地位
-aliases: [Fellowes2026, Autism, the Double Empathy Problem and Feeling the Emotions of Another Person]
+aliases: ["Fellowes(2026)", Fellowes2026, Autism, the Double Empathy Problem and Feeling the Emotions of Another Person]
 tags: [work, chapter, autism, philosophy, empathy, double-empathy-problem, affective-empathy, alexithymia, morality]
 sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
 created: 2026-07-14

@@ -1,6 +1,7 @@
 ---
 title: Raymaker et al. (2020) - 孤独谱系耗竭的学术定义
 description: 首篇对"孤独谱系耗竭"进行学术定义的论文——以社群参与式研究方法（CBPR），基于19位孤独谱系成人的深度访谈，提炼出耗竭的特征、触发因素、恢复障碍与恢复路径
+aliases: ["Raymaker(2020)"]
 aliases:
   - Raymaker 2020
   - Raymaker et al. 2020

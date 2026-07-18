@@ -1,7 +1,7 @@
 ---
 title: Mandy (2025) - 如今，孤独谱系究竟是什么？
 description: Will Mandy 论证孤独谱系诊断率70倍增长并非"大流行"也非过度诊断，而是晚期现代社会环境对神经殊异者的致残效应
-aliases: [Mandy 2025, What is Autism Now?, 孤独谱系诊断扩展, 超社交性时代]
+aliases: ["Mandy(2025)", Mandy 2025, What is Autism Now?, 孤独谱系诊断扩展, 超社交性时代]
 tags: [work, neurodiversity, autism, political, capitalism]
 sources: [2026-05-07/Mandy2025-如今孤独谱系究竟是什么.md]
 doi: 10.5281/zenodo.17989621

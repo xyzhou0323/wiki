@@ -1,7 +1,7 @@
 ---
 title: Anderson (2026) - 大象与犰狳：反孤独谱系意识形态形成反孤独谱系世界
 description: Jami L. Anderson 追溯应用行为分析（ABA）意识形态从 Løvaas 到当代 EIBI 的谱系——论证 ABA 行业通过妖魔化孤独谱系儿童、传播反孤独谱系叙事（粪便涂抹、暴力自伤、调节行为污名化），积极构建了它声称要保护孤独谱系儿童免受的反孤独谱系世界；最终追溯至 JRC 电击装置（GED）的法律斗争，并以 RFK Jr. 2025 年的言论说明同一反孤独谱系修辞至今仍在循环
-aliases: [Anderson2026, Elephants and Armadillos: Anti-Autistic Ideology Forms an Anti-Autistic World]
+aliases: ["Anderson(2026)", Anderson2026, "Elephants and Armadillos: Anti-Autistic Ideology Forms an Anti-Autistic World"]
 tags: [work, chapter, autism, ABA, ideology, Løvaas, EIBI, ableism, GED, JRC, critique]
 sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
 created: 2026-07-14

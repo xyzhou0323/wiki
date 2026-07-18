@@ -1,7 +1,7 @@
 ---
 title: Dwyer et al. (2026) - 跨诊断视角下的注意力与听觉过度反应
 description: Patrick Dwyer、Zachary J. Williams、Wenn Lawson 和 Susan M. Rivera 发表于 Journal of Attention Disorders 的跨诊断实证研究，探讨孤独谱系、ADHD 及一般人群中注意力与听觉过度反应的多样化表型之间的关系
-aliases: [Dwyer et al. 2026, 跨诊断注意力听觉过度反应, Trans-Diagnostic Auditory Hyperreactivity]
+aliases: ["Dwyer(2026)", Dwyer et al. 2026, 跨诊断注意力听觉过度反应, Trans-Diagnostic Auditory Hyperreactivity]
 tags: [work, neurodiversity, autism, ADHD, sensory, attention]
 sources: [2026-07-12/DwyerEtAl2026.md]
 created: 2026-07-12

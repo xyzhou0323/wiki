@@ -1,6 +1,7 @@
 ---
 title: Crompton et al. (2020) - 孤独谱系同伴间信息传递高度有效
 description: Crompton 等人首次以扩散链实验证明孤独谱系者之间的信息传递效率与非孤独谱系者相当，而跨神经类型配对时信息传递显著衰减、融洽度显著降低，为双向同理心问题提供了最直接的实证证据
+aliases: ["Crompton(2020)"]
 aliases:
   - CromptonEtAl2020
   - Autistic peer-to-peer information transfer is highly effective

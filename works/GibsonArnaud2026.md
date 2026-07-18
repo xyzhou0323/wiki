@@ -1,7 +1,7 @@
 ---
 title: Gibson & Arnaud (2026) - 孤独谱系、照护与去污名化的边界
 description: Quinn Hiroshi Gibson 与 Sarah Arnaud 识别神经多样性运动去污名化目标面临的四类反弹（无害论、模糊科学、丧失帮助、过度诊断）并逐一驳斥，进而论证去污名化旗帜下所能取得的成就有其边界——运动易受精英俘获和美德信号侵蚀，主张以 Joan Tronto 的照护伦理根据每个个体的特定需求塑造所需照护来应对这一危险
-aliases: [GibsonArnaud2026, Autism, Care, and the Limits of Destigmatization]
+aliases: ["Gibson(2026)", GibsonArnaud2026, Autism, Care, and the Limits of Destigmatization]
 tags: [work, chapter, autism, neurodiversity, ethics-of-care, destigmatization, elite-capture, virtue-signaling]
 sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
 created: 2026-07-14

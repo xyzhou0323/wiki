@@ -1,7 +1,7 @@
 ---
 title: Dempsey et al. (2019) - 孤独谱系中的道德判断：系统综述
 description: 对29项孤独谱系者道德判断研究的系统综述——挑战理性主义道德发展理论，提出海特道德基础理论作为替代框架
-aliases: [Dempsey 2019, Dempsey et al. 2019, Morality in ASD]
+aliases: ["Dempsey(2019)", Dempsey 2019, Dempsey et al. 2019, Morality in ASD]
 tags: [work, autism, neurodiversity, systematic-review]
 sources: [2026-05-14/Morality in autism spectrum disorder A systematic review.pdf]
 doi: 10.1017/S0954579419001160

@@ -1,6 +1,7 @@
 ---
 title: Natri et al. (2023) - 反健全中心主义语言与高质量孤独谱系研究完全兼容
 description: 超过60位孤独谱系与非孤独谱系研究者、临床工作者、倡导者联名回应 Singer et al. (2023)——论证反健全中心主义语言并非科学精确性的阻碍，而是更精确、更包容、更去人化的科学传播必要条件
+aliases: ["Natri(2023)"]
 aliases:
   - Anti-ableist language is fully compatible with high-quality autism research
   - NatriEtAl2023

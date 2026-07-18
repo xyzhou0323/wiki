@@ -3,6 +3,7 @@ title: Alyssa Hillary
 description: Alyssa Hillary 是罗德岛大学跨学科神经科学博士生，孤独谱系者，将跨文化沟通的类比框架应用于跨神经类型沟通分析，提出"神经文化性"（neuro-cultural）概念以承认不同神经类型的沟通文化
 aliases: [Alyssa Hillary]
 tags: [author, neurodiversity, autism, communication]
+sources: ["2026-05-09/0051276.pdf"]
 created: 2026-05-09
 updated: 2026-06-10
 ---

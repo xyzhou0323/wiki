@@ -1,7 +1,7 @@
 ---
 title: Pellicano & den Houting (2022) - 从"常规科学"转向孤独谱系科学中的神经多样性
 description: Elizabeth Pellicano 和 Jacquiline den Houting (2022) 在 JCPP 发表的年度研究综述，论证孤独谱系科学应从常规医学范式转向神经多样性范式
-aliases: [Pellicano & den Houting 2022, Shifting from normal science to neurodiversity]
+aliases: ["Pellicano(2022)", Pellicano & den Houting 2022, Shifting from normal science to neurodiversity]
 tags: [work, neurodiversity, autism, foundational]
 sources: [2026-05-09/Child Psychology Psychiatry - 2021 - Pellicano - Annual Research Review  Shifting from  normal science  to neurodiversity_dual_Kimi+DeepSeek.pdf]
 doi: 10.1111/jcpp.13534

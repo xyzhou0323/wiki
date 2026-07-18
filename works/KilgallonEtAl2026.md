@@ -1,7 +1,7 @@
 ---
 title: Kilgallon et al. (2026) - 双向同理心问题是什么（以及不是什么）
 description: Kilgallon、Botha、Dwyer 等七位学者重新阐明双向同理心问题（DEP）是一个关于孤独谱系-非孤独谱系互动的社会学框架，而非关于孤独谱系的社会-认知理论，澄清了 DEP 的概率性主张、认识论基础与实践应用方向
-aliases: [KilgallonEtAl2026, What the Double Empathy Problem Is (and Is Not), DEP概念澄清, 双向同理心问题概念澄清]
+aliases: ["Kilgallon(2026)", KilgallonEtAl2026, What the Double Empathy Problem Is (and Is Not), DEP概念澄清, 双向同理心问题概念澄清]
 tags: [work, neurodiversity, autism, foundational, critique, methodology]
 sources: [2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md]
 created: 2026-06-24

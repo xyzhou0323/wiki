@@ -1,7 +1,7 @@
 ---
 title: Carmel, Chapman & Wright (2026) - 残障正义：日常生活中的包容挑战
 description: Carmel, Chapman 与 Wright 的自传式民族志研究——通过一位使用轮椅儿童 Taylor 的八个生活片段，揭示残障正义在日常场所与空间中的实现与缺失
-aliases: [Carmel Chapman Wright 2026, CarmelChapmanWright2026, Disability Justice: The Challenges of Inclusion in Everyday Life]
+aliases: ["Carmel(2026)", Carmel Chapman Wright 2026, CarmelChapmanWright2026, "Disability Justice: The Challenges of Inclusion in Everyday Life"]
 tags: [work, disability, applied, lived-experience]
 sources: [2026-05-12/Disability Justice  The Challenges of Inclusion in Everyday Life.pdf]
 doi: 10.1080/1034912X.2025.2456288

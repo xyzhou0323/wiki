@@ -1,7 +1,7 @@
 ---
 title: Szechy et al. (2024) - 孤独谱系与就业挑战：职场情境中的双向同理心问题
 description: Szechy、Turk 与 O'Donnell 首次将双向同理心问题（DEP）应用于职场情境，实证比较 ToM 缺陷假说与 DEP 对孤独谱系员工行为的解释力——结果支持 DEP：孤独谱系者比非孤独谱系者更准确地理解孤独谱系员工
-aliases: [SzechyEtAl2024, Autism and Employment Challenges, DEP workplace study]
+aliases: ["Szechy(2024)", SzechyEtAl2024, Autism and Employment Challenges, DEP workplace study]
 tags: [work, autism, neurodiversity, applied, methodology]
 sources: [2026-05-09/aut.2023.0046.pdf]
 doi: 10.1089/aut.2023.0046

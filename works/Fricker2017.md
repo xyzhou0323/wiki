@@ -1,6 +1,7 @@
 ---
 title: Fricker (2017) - 知识不正义概念的演变
 description: Fricker 在 Routledge Handbook of Epistemic Injustice 中细化了知识不正义的概念边界，区分了歧视性知识不正义与分配性知识不正义，强调见证不正义与诠释不正义均以非故意的误判为特征，并重申"从被边缘化的生活出发思考"的方法论立场
+aliases: ["Fricker(2017)"]
 aliases:
   - Fricker (2017)
   - Fricker2017

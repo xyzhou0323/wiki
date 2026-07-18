@@ -1,7 +1,7 @@
 ---
 title: Heraty et al. (2023) - 社群之间的桥梁建设：想象生物医学孤独谱系研究的未来
 description: AIMS-2-TRIALS 联盟的孤独谱系与非孤独谱系科学家联合评论——提出神经多样性肯定式生物医学研究范式，通过参与式研究弥合生物医学界与孤独谱系社群之间的裂痕
-aliases: [HeratyEtAl2023, Heraty et al. (2023), Bridge-building between communities]
+aliases: ["Heraty(2023)", HeratyEtAl2023, Heraty et al. (2023), Bridge-building between communities]
 tags: [work, neurodiversity, autism, methodology, biomedical]
 sources: [2026-06-10/HeratyEtAl2023.md]
 created: 2026-06-10

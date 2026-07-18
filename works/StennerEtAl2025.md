@@ -1,7 +1,7 @@
 ---
 title: Stenner et al. (2025) - 一群神经殊异研究者以Q方法学追问：神经多样性运动是什么，应该做什么？
 description: 10位神经殊异研究者使用Q方法学系统识别关于"神经多样性是什么"的三种理解与"运动应该做什么"的三种处方——首次以集体反思性程序经验性地展示神经多样性运动内部的观点多样性及其共识基础
-aliases: [Stenner 2025, Q Methodology Neurodiversity, 神经多样性Q方法]
+aliases: ["Stenner(2025)", Stenner 2025, Q Methodology Neurodiversity, 神经多样性Q方法]
 tags: [work, neurodiversity, methodology, social-movement, political]
 sources: [2026-05-21/stenner-et-al-2025-using-q-methodology-a-group-of-neurodivergent-neurodiversity-researchers-ask-what-is-the.pdf]
 created: 2026-05-21

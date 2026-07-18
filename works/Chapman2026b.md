@@ -1,7 +1,7 @@
 ---
 title: Chapman (2026b) — 阶级政治与蓝领神经殊异性
 description: Chapman 在 Neurodiversity and Capitalism Substack 发表的短文——论证神经多样性政治并非中产阶级专属，从马克思阶级分析出发探讨蓝领劳动中的神经规范性动力
-aliases: [Class Politics and Blue-Collar Neurodivergence, 蓝领神经多样性, 阶级与神经多样性]
+aliases: ["Chapman(2026)", Class Politics and Blue-Collar Neurodivergence, 蓝领神经多样性, 阶级与神经多样性]
 tags: [work, neurodiversity, capitalism, political]
 sources: [2026-05-09/Class Politics and Blue-Collar Neurodivergence.md]
 created: 2026-05-09

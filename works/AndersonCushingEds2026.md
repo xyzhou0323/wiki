@@ -1,7 +1,7 @@
 ---
 title: Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学
 description: Jami L. Anderson 与 Simon Cushing 合编的哲学论文集，收录 11 篇分析哲学传统的论文，探讨孤独谱系在社会政治理论、伦理学、认识论、形而上学和法学等领域引发的问题——每篇论文至少有一位作者具备孤独谱系直接个人经验
-aliases: [Contemporary Philosophy of Autism, AndersonCushingEds2026, CPA 2026]
+aliases: ["Anderson(2026)", Contemporary Philosophy of Autism, AndersonCushingEds2026, CPA 2026]
 tags: [work, edited-volume, neurodiversity, autism, philosophy]
 sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
 created: 2026-07-14

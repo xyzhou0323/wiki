@@ -3,6 +3,7 @@ title: Mahmoud M. Elsherif
 description: Mahmoud M. Elsherif 是伯明翰大学与莱斯特大学研究员，FORRT 神经多样性团队领导者，Zaneva et al.（2024）神经多样性导论注读清单的共同资深作者，聚焦阅读障碍与口吃的加工机制
 aliases: [Mahmoud-M-Elsherif, Mahmoud Elsherif, Elsherif]
 tags: [author, neurodiversity]
+sources: ["2026-06-10/ZanevaEtAl2024-Introduction-to-Neurodiversity-An-Annotated-Reading-List.md"]
 created: 2026-06-10
 updated: 2026-06-10
 ---

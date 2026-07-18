@@ -1,7 +1,7 @@
 ---
 title: Heasman & Gillespie (2019) - 神经殊异交互主体性：孤独谱系者创造共享理解的独特特征
 description: 首次以交互主体性框架实证研究孤独谱系者之间的社交互动——发现两个核心特征：对共同基础的慷慨假设与对协调的低需求，这两者构成一套功能性系统，使孤独谱系者能够在无神经典型规范约束下创造丰富的共享理解
-aliases: [Heasman Gillespie 2019, Neurodivergent Intersubjectivity, 神经殊异交互主体性]
+aliases: ["Heasman(2019)", Heasman Gillespie 2019, Neurodivergent Intersubjectivity, 神经殊异交互主体性]
 tags: [work, neurodiversity, autism, methodology, social-interaction]
 sources: [2026-05-21/heasman-gillespie-2018-neurodivergent-intersubjectivity-distinctive-features-of-how-autistic-people-create-shared.pdf]
 created: 2026-05-21

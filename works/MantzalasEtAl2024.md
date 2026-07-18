@@ -1,7 +1,7 @@
 ---
 title: Mantzalas et al. (2024) - 测量与验证孤独谱系耗竭
 description: 首篇系统检验AASPIRE孤独谱系耗竭量表（ABM）与哥本哈根倦怠量表（CBI）心理测量特性的研究——ABM四因子结构支持单一高阶"孤独谱系耗竭"构念，CBI-P情绪耗竭子量表可作为替代筛查工具
-aliases: [Mantzalas 2024, Mantzalas et al. 2024, ABM validation, autistic burnout measure]
+aliases: ["Mantzalas(2024)", Mantzalas 2024, Mantzalas et al. 2024, ABM validation, autistic burnout measure]
 tags: [work, autism, neurodiversity, mental-health, applied]
 sources: [2026-05-14/Mantzalas 等 - 2024 - Measuring and validating autistic burnout.pdf]
 doi: 10.1002/aur.3129

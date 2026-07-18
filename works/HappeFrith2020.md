@@ -1,7 +1,7 @@
 ---
 title: Happé & Frith (2020) - 回顾以展望：孤独谱系概念的七大变迁
 description: Happé 与 Frith 以个人回顾视角梳理近三十年孤独谱系研究的七大概念变迁——从狭窄定义到宽泛标准、从罕见到常见、从童年到终身、从离散到维度、从统一到可分解、从纯粹到复杂共现、从发育障碍到神经殊异性——及其对后续研究的深远影响
-aliases: [HappeFrith2020, Changes in the concept of autism]
+aliases: ["Happe(2020)", HappeFrith2020, Changes in the concept of autism]
 tags: [work, autism, neurodiversity, foundational, historical, methodology]
 sources: [2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf]
 created: 2026-05-09

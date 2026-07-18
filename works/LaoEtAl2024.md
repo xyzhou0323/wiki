@@ -1,7 +1,7 @@
 ---
 title: Lao et al. (2024) - 中文孤独症术语的社群感知调查
 description: Lao 等人的实证研究通过 1016 名中文使用者的在线调查，测量了 13 个孤独症相关术语的偏好、冒犯度和熟悉度，发现神经多样性、谱系和孤独症谱系障碍最受偏好，而闭娃、高/低功能和自闭症最不受偏好，不同身份群体间及群体内部均无统一态度
-aliases: [Lao et al. 2024, Unveiling the Perceptions of Autism-Related Chinese Language]
+aliases: ["Lao(2024)", Lao et al. 2024, Unveiling the Perceptions of Autism-Related Chinese Language]
 tags: [work, autism, neurodiversity, methodology]
 sources: []
 doi: 10.1089/aut.2024.0001

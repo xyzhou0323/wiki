@@ -13,6 +13,7 @@ tags:
   - activist
   - foundational
   - health-policy
+sources: ["2026-05-07/Autistic Community and the Neurodiversity Movement机翻双语.pdf"]
 created: 2026-05-08
 updated: 2026-06-24
 ---

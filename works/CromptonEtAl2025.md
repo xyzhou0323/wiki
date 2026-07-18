@@ -1,6 +1,7 @@
 ---
 title: Crompton et al. (2025) - 孤独谱系与非孤独谱系者内及跨群体信息传递
 description: Crompton 等人以更大样本（N=311）三站点预注册复制研究重新检验神经类型匹配对信息传递和融洽度的影响，复制了孤独谱系与非孤独谱系链信息传递无差异的结果，但未发现跨神经类型信息传递的选择性衰减，非孤独谱系链融洽度更高、诊断告知改善融洽度
+aliases: ["Crompton(2025)"]
 aliases:
   - CromptonEtAl2025
   - Information transfer within and between autistic and non-autistic people

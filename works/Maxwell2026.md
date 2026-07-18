@@ -1,7 +1,7 @@
 ---
 title: Maxwell (2026) - 孤独谱系智力傲慢脆弱性
 description: Sydney Maxwell 以孤独谱系说话者身份分析孤独谱系者频繁被误解的现象——将误解原因归咎于非孤独谱系对话者教条式依赖的"常识"背景假设，论证这是一种智力傲慢形式，并主张非孤独谱系者应主动发起第三话轮会话修复来避免对孤独谱系者的持续伤害
-aliases: [Maxwell2026, Autistic Vulnerability to Intellectual Arrogance]
+aliases: ["Maxwell(2026)", Maxwell2026, Autistic Vulnerability to Intellectual Arrogance]
 tags: [work, chapter, autism, philosophy, epistemology, communication, pragmatics, presupposition, intellectual-humility, blame]
 sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
 created: 2026-07-14

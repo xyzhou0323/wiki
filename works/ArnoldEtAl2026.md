@@ -1,7 +1,7 @@
 ---
 title: Arnold et al. (2026) - 掩饰的概念化与方法论问题
 description: 对孤独谱系掩饰研究的系统性批判综述，揭示概念混乱和方法论缺陷——术语不一致、CAT-Q 效度存疑、样本代表性有限
-aliases: [Arnold et al. 2026, Camouflaging and autism: Conceptualisation and methodological issues]
+aliases: ["Arnold(2026)", Arnold et al. 2026, "Camouflaging and autism: Conceptualisation and methodological issues"]
 tags: [work, neurodiversity, autism, methodology, critique]
 sources: [2026-05-09/arnold-et-al-2026-camouflaging-and-autism-conceptualisation-and-methodological-issues.pdf]
 doi: 10.1177/13623613261420085

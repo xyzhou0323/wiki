@@ -3,6 +3,7 @@ title: Akiko Hart
 description: Akiko Hart 是英国国家幸存者用户网络（NSUN）CEO，杜伦大学医学人文研究所（IMH）实务教授，ISPS UK 主席，以倡导听声运动与神经多样性运动建立联盟而闻名
 aliases: [Akiko Hart]
 tags: [author, neurodiversity, hearing-voices, mental-health, mad-studies]
+sources: ["2026-05-09/0051276.pdf"]
 created: 2026-05-09
 updated: 2026-06-24
 ---

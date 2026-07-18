@@ -1,7 +1,7 @@
 ---
 title: Stenning & Bertilsdotter Rosqvist (2021) - 神经多样性研究：绘制新批判范式的可能性
 description: 在 Rosqvist et al. (2020) 编辑卷基础上进一步阐述神经多样性研究作为批判范式的理论框架——提出对神经多样性的三种理解取向并倡导超越它们，批判生物多样性类比，呼吁去殖民化研究方法论
-aliases: [StenningRosqvist2021, Neurodiversity studies: mapping out possibilities of a new critical paradigm]
+aliases: ["Stenning(2021)", StenningRosqvist2021, "Neurodiversity studies: mapping out possibilities of a new critical paradigm"]
 tags: [work, neurodiversity, foundational, critique, methodology]
 sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf]
 created: 2026-05-09

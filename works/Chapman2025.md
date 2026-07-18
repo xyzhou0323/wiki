@@ -3,6 +3,7 @@ title: Chapman (2025) - 是的，每个人都可以是神经殊异者
 description: Robert Chapman 在 Neurodiversity and Capitalism 博客的概念分析——"神经殊异"不存在人数上限，"如果人人都是ND那就没有人是"的论调缺乏原则性依据
 aliases: [Yes it really is possible for everyone to be neurodivergent, Chapman 2025 blog]
 tags: [work, neurodiversity, critique]
+aliases: ["Chapman(2025)"]
 sources: [blog-posts/Yes, it really is possible for everyone to be neurodivergent.md]
 created: 2026-05-10
 updated: 2026-05-10
