@@ -252,9 +252,20 @@ Maxwell 澄清其论点并非主张在话语解读中使用假设是糟糕的，
 
 ## Related
 
-- [[AndersonCushingEds2026]] — 本卷主页
-- [[Whittle2026|Whittle (2026)]] — 第 2 章，讨论孤独谱系者的道德责任
+### 相关概念
 - [[双向同理心问题]] — 孤独谱系与非孤独谱系间沟通困难的核心理论
 - [[掩饰与伪装]] — 孤独谱系者因被误解而发展出的生存策略
 - [[知识不正义]] — 某人以认知主体的身份被不公正地降级或处于不利地位
+
+### 相关文献
+- [[AndersonCushingEds2026]] — 本卷主页
+- [[Whittle2026|Whittle (2026)]] — 第 2 章，讨论孤独谱系者的道德责任
+- [[Milton2012|Milton (2012)]] — DEP 原初论文，本章核心理论资源
+- [[CromptonEtAl2020|Crompton et al. (2020)]] — 孤独谱系间沟通流畅性的核心实证支持
+- [[Chapman2019|Chapman (2019)]] — 维特根斯坦式生活形式（共享维特根斯坦语用学资源）
+- [[KraemerKraemer2026|Kraemer & Kraemer (2026)]] — 第 10 章，共享跨神经类型沟通中认识不正义的分析
+- [[Fellowes2026|Fellowes (2026)]] — 第 3 章，共享对会话语用学和相互误解的分析
+- [[RosinaMcCready2026|Rosina & McCready (2026)]] — 第 9 章，共享对会话修复与语用预设的分析
+
+### 作者
 - [[Sydney-Maxwell]] — 作者页

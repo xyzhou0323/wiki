@@ -82,8 +82,7 @@ citation_apa: "Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy
 
 ## Related
 
-- [[Robert-Chapman]] — 第一作者
-- [[Monique-Botha]] — 第二作者
+### 相关概念
 - [[神经多样性范式]] — 本文试图应用于临床的核心范式
 - [[常态范式]] — 临床替代对象
 - [[去病理化]] — 核心实践意涵
@@ -92,5 +91,11 @@ citation_apa: "Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy
 - [[神经殊异]] — 本文使用的基础术语
 - [[掩饰与伪装]] — 伪装与自杀/抑郁的关联是抵制正常化的关键实证依据
 - [[神经多样性与残障]] — 社会-关系模型的理论基础
+
+### 相关文献
 - [[BothaEtAl2024|Botha et al. (2024)]] — Botha 与 Chapman 的后续合作，修正神经多样性概念的起源叙事
 - [[SonugaBarkeThapar2021|Sonuga-Barke & Thapar (2021)]] — 本文回应的《柳叶刀》评论，提出神经多样性概念的临床意涵
+
+### 作者
+- [[Robert-Chapman]] — 第一作者
+- [[Monique-Botha]] — 第二作者

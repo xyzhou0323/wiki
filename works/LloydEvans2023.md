@@ -108,7 +108,10 @@ University of Reading 持续开展 PAR 相关工作：
 
 ## Related
 
+### 相关概念
 - [[神经多样性与民主研究]] — PAR 是"Nothing About Us Without Us"的研究方法论基础
+
+### 相关文献
 - [[Botha2021|Botha (2021)]] — 追问即使参与式研究形式化实现，知识生产的深层结构是否真正接纳神经殊异者
 - [[Srinivasan2025|Srinivasan (2025)]] — 参与式研究形式主义的批判：社群咨询缺乏实质决策权
 - [[Dwyer2022|Dwyer (2022)]] — 多层次社群参与框架：从咨询委员会到 CBPR

@@ -38,10 +38,15 @@ citation_apa: "Gourdon-Kanhukamwe, A., Kalandadze, T., Yeung, S. K., Azevedo, F.
 
 ## Related
 
-- [[Amelie-Gourdon-Kanhukamwe]] — 第一作者
+### 相关概念
+- [[神经多样性与民主研究]] — 参与式研究框架
+- [[神经多样性范式]] — 理论根基
+
+### 相关文献
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 收录本文为精选文献的阅读清单（主题 9）
+
+### 作者
+- [[Amelie-Gourdon-Kanhukamwe]] — 第一作者
 - [[Mirela-Zaneva]] — 联名作者
 - [[Steven-Kapp|Steven K. Kapp]] — 联名作者
 - [[Mahmoud-M-Elsherif]] — 通讯作者，FORRT 神经多样性团队领导者
-- [[神经多样性与民主研究]] — 参与式研究框架
-- [[神经多样性范式]] — 理论根基

@@ -88,10 +88,13 @@ citation_apa: "Carmel, J.-M., Chapman, S., & Wright, P. (2026). Disability justi
 
 ## Related
 
+### 相关概念
 - [[批判性残障理论]] — 本文的分析框架
 - [[残障的社会模型]] — 本文核心理论工具
 - [[残障模型]] — 医学模式与社会模型的对比在本文中通过具体生活片段被生动呈现
 - [[融合教育]] — 本文的规划性排除与第三方发言为融合教育提供了日常实践层面的质性证据
+
+### 作者
 - [[Julie-Mary-Carmel]] — 第一作者与照护者
 - [[Sian-Chapman]] — 合作作者
 - [[Peter-Wright]] — 合作作者

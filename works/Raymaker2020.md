@@ -122,12 +122,17 @@ citation_apa: 'Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer,
 
 ## Related
 
-- [[Dora-Raymaker]] — 第一作者，CBPR 方法论专家
-- [[Steven-Kapp]] — 合著者
+### 相关概念
 - [[孤独谱系耗竭]] — Wiki 概念页面
 - [[掩饰与伪装]] — 耗竭的核心触发因素
 - [[双向同理心问题]] — 神经典型环境持续压力源的理论基础
-- [[Dwyer2022|Dwyer (2022)]] — 将孤独谱系耗竭列为社群自我理论化的关键成果
 - [[单一聚焦]] — 同为社群原创理论概念
 - [[残障的社会模型]] — 环境改造而非个体正常化的理论依据
+
+### 相关文献
+- [[Dwyer2022|Dwyer (2022)]] — 将孤独谱系耗竭列为社群自我理论化的关键成果
 - [[MantzalasEtAl2024|Mantzalas et al. (2024)]] — ABM 的首次公开发表心理测量验证，AASPIRE 同一研究脉络的量化延伸
+
+### 作者
+- [[Dora-Raymaker]] — 第一作者，CBPR 方法论专家
+- [[Steven-Kapp]] — 合著者

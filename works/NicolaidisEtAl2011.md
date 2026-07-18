@@ -117,11 +117,16 @@ AASPIRE（Academic Autistic Spectrum Partnership in Research and Education, [www
 
 ## Related
 
+### 相关概念
 - [[参与式行动研究]] — PAR 方法论：本文是 PAR 在孤独谱系研究中最早的系统实践记录
 - [[神经多样性与民主研究]] — "Nothing About Us Without Us"的民主研究原则
+- [[常态范式]] — 本文所挑战的"关于我们、没有我们"的传统研究模式
+
+### 相关文献
 - [[Raymaker2020|Raymaker et al. (2020)]] — AASPIRE 的重要成果：孤独谱系耗竭的 CBPR 学术定义
 - [[LloydEvans2023|Lloyd-Evans (2023)]] — PAR 通用工具包：八阶段与 A-Z 车轮
+- [[Botha2025|Botha (2025)]] — 批判实在论作为参与式研究的科学哲学基础
+
+### 作者
 - [[Dora-Raymaker]] — AASPIRE 社群联合主任，本文联合第一作者
 - [[Christina-Nicolaidis]] — AASPIRE 学术联合主任，本文联合第一作者
-- [[Botha2025|Botha (2025)]] — 批判实在论作为参与式研究的科学哲学基础
-- [[常态范式]] — 本文所挑战的"关于我们、没有我们"的传统研究模式

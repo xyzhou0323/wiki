@@ -98,11 +98,16 @@ Jones 和 Orchard 借用 Mitchell 和 Snyder 的"健全民族主义"（ablenatio
 
 ## Related
 
-- [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — Jones 和 Orchard 扩展了其分析
-- [[Hughes2021|Hughes (2021)]] — 被批评为典型的非政治性批判
+### 相关概念
 - [[神经多样性运动]] — 论文中所批评的被净化历史
 - [[神经多样性与交叉性]] — 交叉性分析的另一种路径
 - [[庸俗版神经多样性]] — 神经多样性被收编的相关批判
 - [[神经多样性与学习障碍]] — 论文揭露的神经多样性原初排斥
+
+### 相关文献
+- [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — Jones 和 Orchard 扩展了其分析
+- [[Hughes2021|Hughes (2021)]] — 被批评为典型的非政治性批判
+
+### 作者
 - [[Robert-Chapman]] — 被 Jones 和 Orchard 批评其中某些论证
 - [[Sue-Fletcher-Watson]] — VSI 合著者

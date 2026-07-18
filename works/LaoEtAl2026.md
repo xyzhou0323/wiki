@@ -121,12 +121,17 @@ citation_apa: "Lao, U., Liang, F., Dai, J., Cao, W., Chen, Q., Wang, M., Zou, X.
 
 ## Related
 
-- [[LaoEtAl2024|Lao et al. (2024)]] — 同一团队的前期定量研究，为本研究的问卷调查部分提供数据
-- [[LaoZhu2024|Lao & Zhu (2024)]] — 同一第一作者的中文术语综述
-- [[Uchong-Lao|刘宇翀]] — 第一作者
-- [[Fengjing-Liang|梁凤晶]]、[[Jiamin-Dai|戴嘉敏]]、[[Wei-Cao|曹伟]]、[[Qian-Chen|陈谦]]、[[Min-Wang|王敏]] — 合著者
-- [[Xiaobing-Zou|邹小兵]]、[[Huilin-Zhu|朱绘霖]] — 合著者
+### 相关概念
 - [[神经多样性]] — 核心理论框架
 - [[术语翻译对照表]] — 本 wiki 术语选择
 - [[去病理化]] — 研究结论支持的操作原则
 - [[孤独谱系障碍]] — 核心研究主题
+
+### 相关文献
+- [[LaoEtAl2024|Lao et al. (2024)]] — 同一团队的前期定量研究，为本研究的问卷调查部分提供数据
+- [[LaoZhu2024|Lao & Zhu (2024)]] — 同一第一作者的中文术语综述
+
+### 作者
+- [[Uchong-Lao|刘宇翀]] — 第一作者
+- [[Fengjing-Liang|梁凤晶]]、[[Jiamin-Dai|戴嘉敏]]、[[Wei-Cao|曹伟]]、[[Qian-Chen|陈谦]]、[[Min-Wang|王敏]] — 合著者
+- [[Xiaobing-Zou|邹小兵]]、[[Huilin-Zhu|朱绘霖]] — 合著者

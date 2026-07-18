@@ -39,6 +39,7 @@ citation_apa: "Anderson, J. L., & Cushing, S. (Eds.). (2026). Contemporary Philo
 
 ## Related
 
+### 作者
 - [[Jami-L-Anderson]] — 编者页
 - [[Simon-Cushing]] — 编者页
 

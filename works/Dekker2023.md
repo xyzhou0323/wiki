@@ -73,11 +73,20 @@ Dekker 在结论中强调：神经多样性运动"源于我们作为神经殊异
 
 ## Related
 
-- [[Martijn-Dekker]] — 作者
-- [[Tony-Langdon]] — 1996 年帖子原作者
-- [[BothaEtAl2024|Botha et al. (2024)]] — 六位学者的正式学术修正，明确背书本文
-- [[Singer2017|Singer (2017)]] — Singer 的术语创造者叙事
-- [[Judy-Singer]] — Singer 作者页
-- [[Kapp2020|Kapp (2020)]] — Dekker 此前在其中认可 Singer 为术语创造者
+### 相关概念
 - [[神经多样性运动史]] — InLv 社群与 1990 年代运动史
 - [[神经多样性运动]] — 运动总览
+- [[神经多样性]] — 术语概念页
+
+### 相关文献
+- [[BothaEtAl2024|Botha et al. (2024)]] — 六位学者的正式学术修正，明确背书本文
+- [[Singer2017|Singer (2017)]] — Singer 的术语创造者叙事
+- [[Kapp2020|Kapp (2020)]] — Dekker 此前在其中认可 Singer 为术语创造者
+
+### 作者
+- [[Martijn-Dekker]] — 作者
+- [[Tony-Langdon]] — 1996 年帖子原作者
+- [[Judy-Singer]] — Singer 作者页
+- [[Robert-Chapman]] — Botha et al. (2024) 联合作者，引用并背书本文
+- [[Steven-Kapp]] — Botha et al. (2024) 联合作者
+- [[Nick-Walker]] — Botha et al. (2024) 联合作者

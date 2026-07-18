@@ -101,13 +101,18 @@ Baron-Cohen 团队甚至在使用机器学习对 395 名孤独谱系成人进行
 
 ## Related
 
+### 相关概念
 - [[双向同理心问题]] — Milton (2012) 提出的替代框架，本文直接引用其为理论基础
-- [[Milton2012|Milton (2012)]] — DEP 概念的原始学术论文
-- [[Sinclair1993|Sinclair (1993)]] — 本文引用的运动奠基宣言
-- [[Melanie-Yergeau]] — 合著者，孤独谱系修辞学者，《Authoring Autism》(2018) 作者
-- [[Uta-Frith]] — 本文批判的 ToM 缺陷假说传统的主要代表之一
-- [[HappeFrith2020|Happé & Frith (2020)]] — 本文批判的心智理论传统三十年的回顾与演变
-- [[DempseyEtAl2019|Dempsey et al. (2019)]] — 平行批判：以 Haidt 道德基础理论替代理性主义传统
 - [[神经多样性范式]] — 本文的哲学框架：差异≠缺陷
 - [[孤独谱系障碍]] — 本文的实证对象
 - [[掩饰与伪装]] — 与 ToM 任务表现相关的社会适应策略
+
+### 相关文献
+- [[Milton2012|Milton (2012)]] — DEP 概念的原始学术论文
+- [[Sinclair1993|Sinclair (1993)]] — 本文引用的运动奠基宣言
+- [[HappeFrith2020|Happé & Frith (2020)]] — 本文批判的心智理论传统三十年的回顾与演变
+- [[DempseyEtAl2019|Dempsey et al. (2019)]] — 平行批判：以 Haidt 道德基础理论替代理性主义传统
+
+### 作者
+- [[Melanie-Yergeau]] — 合著者，孤独谱系修辞学者，《Authoring Autism》(2018) 作者
+- [[Uta-Frith]] — 本文批判的 ToM 缺陷假说传统的主要代表之一

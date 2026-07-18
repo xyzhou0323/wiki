@@ -244,12 +244,22 @@ Henderson & McCready（2023）描述的**丰富性狗哨**（enriching dogwhistl
 
 ## Related
 
-- [[AndersonCushingEds2026]] — 本卷主页
-- [[Maxwell2026|Maxwell (2026)]] — 第 1 章，共享对会话修复和语用预设的分析
-- [[Garcia2026|Garcia (2026)]] — 第 4 章，共享 SPP 与替代性认知风格的框架
+### 相关概念
 - [[掩饰与伪装]] — 概念专题页
 - [[信息大放送]] — 话语真诚驱动的沟通模式
 - [[双向同理心问题]] — 跨神经类型沟通中的不信任循环
 - [[神经多样性范式]] — 非缺陷模式的理论基础
+
+### 相关文献
+- [[AndersonCushingEds2026]] — 本卷主页
+- [[Maxwell2026|Maxwell (2026)]] — 第 1 章，共享对会话修复和语用预设的分析
+- [[Garcia2026|Garcia (2026)]] — 第 4 章，共享 SPP 与替代性认知风格的框架
+- [[Fellowes2026|Fellowes (2026)]] — 第 3 章，共享对情绪表达与情感真诚的分析
+- [[HakeHughes2026|Hake & Hughes (2026)]] — 第 5 章，共享对性别与伪装的讨论
+- [[Cushing2026|Cushing (2026)]] — 第 11 章，共享对自我/身份本质主义与反本质主义的讨论
+- [[Chapman2019|Chapman (2019)]] — 维特根斯坦式语言游戏（与人格解析共享形式分析资源）
+- [[KraemerKraemer2026|Kraemer & Kraemer (2026)]] — 第 10 章，共享"被全世界煤气灯操控"的分析
+
+### 作者
 - [[Emil-Eva-Rosina]] — 作者页
 - [[Elin-McCready]] — 作者页

@@ -74,15 +74,20 @@ updated: 2026-06-16
 
 ## Related
 
+### 相关概念
 - [[信息大放送]] — 本论文系统定位的核心沟通实践
 - [[单一聚焦]] — 论文的认知理论基础：注意力隧道与兴趣作为组织原则
 - [[双向同理心问题]] — 论文所服务解决的核心问题
-- [[Hanna-Bertilsdotter-Rosqvist]] — 兴趣为本社交 vs 社交为本社交的概念区分
-- [[Anna-Stenning]] — Stenning (2024) 的关系性自我与抵抗性主体概念
-- [[HeasmanGillespie2019|Heasman & Gillespie (2019)]] — 神经殊异交互主体性的实证基础——论文引为关键先例
-- [[Jessica-Aiston]] — 第一作者
-- [[Nelya-Koteyko]] — 通讯作者团队核心成员
-- [[Martine-van-Driel]] — 合著者（孤独谱系研究者）
 - [[神经多样性范式]] — 论文的理论框架立场
 - [[参与式行动研究]] — 论文的核心方法论要求
 - [[神经多样性研究]] — 论文所体现的批判研究范式
+
+### 相关文献
+- [[HeasmanGillespie2019|Heasman & Gillespie (2019)]] — 神经殊异交互主体性的实证基础——论文引为关键先例
+
+### 作者
+- [[Jessica-Aiston]] — 第一作者
+- [[Nelya-Koteyko]] — 通讯作者团队核心成员
+- [[Martine-van-Driel]] — 合著者（孤独谱系研究者）
+- [[Hanna-Bertilsdotter-Rosqvist]] — 兴趣为本社交 vs 社交为本社交的概念区分
+- [[Anna-Stenning]] — Stenning (2024) 的关系性自我与抵抗性主体概念

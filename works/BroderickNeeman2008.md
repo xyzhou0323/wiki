@@ -119,11 +119,16 @@ Ari Ne'eman 提出双轨策略：
 
 ## Related
 
-- [[Alicia-Broderick]] — 第一作者
-- [[Ari-Ne'eman]] — 第二作者，ASAN 创始主席
+### 相关概念
 - [[神经多样性运动]] — 本文是对运动早期话语斗争的核心记录
 - [[神经规范性]] — 本文分析的"疾病隐喻"是神经规范性的主要再生产机制
 - [[去病理化]] — 本文的隐喻分析是去病理化批判的理论资源
+
+### 相关文献
 - [[Sinclair1993|Sinclair (1993)]] — 运动中引用的奠基宣言
 - [[Kapp2020|Kapp (2020)]] — 20 年后 Kapp 主编的运动史内部视角文集
 - [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — Ne'eman 对运动内部分歧的后续分析
+
+### 作者
+- [[Alicia-Broderick]] — 第一作者
+- [[Ari-Ne'eman]] — 第二作者，ASAN 创始主席

@@ -88,12 +88,17 @@ Srinivasan 是孤独谱系自我倡权者和神经科学研究者——同时处
 
 ## Related
 
-- [[Hari-Srinivasan]] — 作者
-- [[Dwyer2022|Dwyer (2022)]] — 互动主义/生态模型的理论基础
-- [[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]] — ND 2.0 扩展的核心原则
-- [[JonesOrchard2024|Jones & Orchard (2024)]] — 神经中心主义批判与 ND 2.0 共享的反思方向
+### 相关概念
 - [[庸俗版神经多样性]] — ND 2.0 试图抵抗的企业收编
 - [[残障模型]] — 生物心理社会模型与 ICF 被整合为桥梁
 - [[残障正义]] — ND 2.0 五大社会正义理论资源之一，DJ 原则应用于工作场所重塑
 - [[神经多样性与民主研究]] — 参与式研究的实质性升级
 - [[神经多样性与学习障碍]] — 研究排斥与诊断遮蔽问题
+
+### 相关文献
+- [[Dwyer2022|Dwyer (2022)]] — 互动主义/生态模型的理论基础
+- [[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]] — ND 2.0 扩展的核心原则
+- [[JonesOrchard2024|Jones & Orchard (2024)]] — 神经中心主义批判与 ND 2.0 共享的反思方向
+
+### 作者
+- [[Hari-Srinivasan]] — 作者

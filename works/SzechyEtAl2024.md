@@ -102,9 +102,14 @@ citation_apa: "Szechy, K. A., Turk, P. D., & O'Donnell, L. A. (2024). Autism and
 
 ## Related
 
+### 相关概念
 - [[双向同理心问题]] — DEP 概念
-- [[Milton2012|Milton (2012)]] — DEP 原初论文
-- [[Milton2022|Milton (2022)]] — DEP 十年回顾
-- [[Kathryn-Szechy]] — 第一作者
 - [[孤独谱系障碍]] — 核心研究对象
 - [[神经多样性范式]] — DEP 职场研究的理论框架基础
+
+### 相关文献
+- [[Milton2012|Milton (2012)]] — DEP 原初论文
+- [[Milton2022|Milton (2022)]] — DEP 十年回顾
+
+### 作者
+- [[Kathryn-Szechy]] — 第一作者

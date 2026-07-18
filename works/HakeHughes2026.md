@@ -241,13 +241,22 @@ Hake 与 Hughes 最后论证批判现象学可与 NM 合作，支持向更大交
 
 ## Related
 
-- [[AndersonCushingEds2026]] — 本卷主页
-- [[Garcia2026|Garcia (2026)]] — 第 4 章，共享 4E 认知框架
-- [[Fellowes2026|Fellowes (2026)]] — 第 3 章，讨论 DEP 与同理心——EMB 理论共享的认知预设
-- [[Whittle2026|Whittle (2026)]] — 第 2 章，共享对孤独谱系者道德地位的辩护
+### 相关概念
 - [[神经多样性范式]] — NM 的核心理论框架
 - [[掩饰与伪装]] — FAP 的伪装行为维度和神经酷儿作为去伪装
 - [[双向同理心问题]] — 性别之间的误解同样构成"双重问题"
 - [[ASD干预]] — 批判现象学视角下的替代治疗路径
+
+### 相关文献
+- [[AndersonCushingEds2026]] — 本卷主页
+- [[Garcia2026|Garcia (2026)]] — 第 4 章，共享 4E 认知框架
+- [[Fellowes2026|Fellowes (2026)]] — 第 3 章，讨论 DEP 与同理心——EMB 理论共享的认知预设
+- [[Whittle2026|Whittle (2026)]] — 第 2 章，共享对孤独谱系者道德地位的辩护
+- [[Cushing2026|Cushing (2026)]] — 第 11 章，共享反本质主义与策略性本质主义讨论
+- [[RosinaMcCready2026|Rosina & McCready (2026)]] — 第 9 章，共享对性别与伪装的讨论
+- [[GibsonArnaud2026|Gibson & Arnaud (2026)]] — 第 6 章，共享神经多样性运动分析
+- [[Chapman2019|Chapman (2019)]] — 维特根斯坦式生活形式与反本质主义
+
+### 作者
 - [[Ruby-Hake]] — 作者页
 - [[Emily-Hughes]] — 作者页

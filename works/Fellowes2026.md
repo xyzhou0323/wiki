@@ -266,11 +266,21 @@ Fellowes 总结：
 
 ## Related
 
+### 相关概念
+- [[双向同理心问题]] — DEP 概念专题页
+- [[述情障碍]] — Fellowes 讨论述情障碍与感受他人情绪的关系
+
+### 相关文献
 - [[AndersonCushingEds2026]] — 本卷主页
 - [[Maxwell2026|Maxwell (2026)]] — 第 1 章
 - [[Whittle2026|Whittle (2026)]] — 第 2 章，本章与之在双向同理心问题和道德责任问题上密切对话
 - [[Garcia2026|Garcia (2026)]] — 第 4 章，进一步发展 4E 认知和第二人称视角
-- [[双向同理心问题]] — DEP 概念专题页
+- [[RosinaMcCready2026|Rosina & McCready (2026)]] — 第 9 章，共享对情绪表达与真诚的分析
+- [[KraemerKraemer2026|Kraemer & Kraemer (2026)]] — 第 10 章，共享述情障碍和感官体验讨论
+- [[Cushing2026|Cushing (2026)]] — 第 11 章，Cushing 引述 Fellowes 关于症状"建构"的论点
+- [[MaskitFultner2026|Maskit & Fultner (2026)]] — 第 8 章，共享维特根斯坦式 DEP 分析框架
 - [[Milton2012]] — DEP 原初论文
 - [[Chapman2019]] — 孤独谱系作为生活形式
+
+### 作者
 - [[Sam-Fellowes]] — 作者页

@@ -80,9 +80,14 @@ citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., Mc
 
 ## Related
 
-- [[Alyssa-Hillary|Alyssa Hillary]] — 合著者（以 "Alyssa _" 署名）
-- [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 主题 7 精選文獻：將本文納入神經多樣性入門閱讀清單
+### 相关概念
 - [[神经多样性与民主研究]] — 参与式方法论与多声部研究的交叉
 - [[去病理化]] — 对话中对 DSM 诊断框架的批判与此交叉
 - [[神经多样性研究]] — Price、Dolmage、Yergeau 等残障修辞学者在此对话中的理论角色
 - [[神经多样性与交叉性]] — 性别、性取向、职业安全与精神健康的交叉运作
+
+### 相关文献
+- [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 主题 7 精選文獻：將本文納入神經多樣性入門閱讀清單
+
+### 作者
+- [[Alyssa-Hillary|Alyssa Hillary]] — 合著者（以 "Alyssa _" 署名）
