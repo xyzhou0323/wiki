@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-基础/神经多样性范式.md",
+                "file": "06-测试/GADC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经多样性范式"
+              "title": "GADC"
             }
           }
         ]
@@ -182,6 +182,23 @@
   },
   "active": "b8ce71431e6b7390",
   "lastOpenFiles": [
+    "06-测试/ITQ-CA.md.tmp.37072.4e8f3da72698",
+    "06-测试/ITQ.md",
+    "06-测试/AABS-R14.md",
+    "06-测试/ITQ.md.tmp.37072.3f2dad072539",
+    "06-测试/相关测试.md.tmp.37072.c0c90cd40dd1",
+    "00-知识地图.md.tmp.37072.2777d07f349b",
+    "06-测试/AABS-R14.md.tmp.37072.03bb67b30446",
+    "06-测试/AABS-R14.md.tmp.37072.654ef864863a",
+    "06-测试/AABS-R14.md.tmp.37072.534be80f6f32",
+    "06-测试/AABS-R14.md.tmp.37072.09b148e7245c",
+    "works/BougoureEtAl2025.md",
+    "works/BougoureEtAl2025.md.tmp.37072.454436d7a896",
+    "works/MantzalasEtAl2024.md.tmp.37072.f1f2963d67b7",
+    "works/MantzalasEtAl2024.md.tmp.37072.4c0a360da007",
+    "works/RaymakerEtAl2026.md",
+    "06-测试/相关测试.md",
+    "01-基础/神经多样性范式.md",
     "04-实践应用/神经多样性研究.md",
     "00-知识地图.md",
     "TEMPLATE.md",
@@ -191,20 +208,8 @@
     "05-诊断与现象/掩饰与伪装.md",
     "05-诊断与现象/孤独谱系耗竭.md",
     "01-基础/残障模型.md",
-    "06-测试/ITQ.md",
     "06-测试/ITQ-CA.md",
     "06-测试/ITQ-CG.md",
-    "06-测试/ITQ-CG.md.tmp.21216.f3a6be353803",
-    "06-测试/ITQ-CA.md.tmp.21216.594fc05df9c7",
-    "06-测试/ITQ.md.tmp.21216.ea01fd2354a7",
-    "06-测试/ITQ-CG.md.tmp.21216.f0ab397ac797",
-    "06-测试/ITQ-CA.md.tmp.21216.ce68c1242c25",
-    "06-测试/ITQ.md.tmp.21216.ac25e4a7d9d4",
-    "06-测试/ITQ-CG.md.tmp.21216.0602df7a2fe1",
-    "06-测试/ITQ-CA.md.tmp.21216.d9572d04a8c6",
-    "06-测试/ITQ.md.tmp.21216.6ab4676646f2",
-    "06-测试/ITQ-CA.md.tmp.21216.330d0d03e18a",
-    "01-基础/神经多样性范式.md",
     "works/Anderson2026.md",
     "works/AistonEtAl2025.md",
     "works/MullerKosmarovChapman2026.md",
@@ -213,11 +218,6 @@
     "authors/Laura-Tisoncik.md",
     "works/Walker2014.md",
     "01-基础/神经殊异.md",
-    "术语翻译对照表.md",
-    "04-实践应用/应用行为分析.md",
-    "authors/Elin-McCready.md",
-    "works/RosinaMcCready2026.md",
-    "authors/Emil-Eva-Rosina.md",
     "Pasted image 20260616213853.png"
   ]
 }
