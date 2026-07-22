@@ -1,9 +1,23 @@
 ---
 title: Maskit & Fultner (2026) - 摒弃应用行为分析
-description: Dani Maskit（孤独谱系活动家）与 Barbara Fultner（女性主义哲学家）跨神经类型合作，提出反 ABA 宣言——论证 ABA 的行为主义基础与神经多样性范式在原则上不相容，将回避眼神接触、调节行为和伪装重新定义为文化标志而非适应不良行为，指控 ABA 构成文化灭绝；以生物社会模型、吉布森生态心理学和维特根斯坦式"生活形式"概念替代行为主义和神经认知主义框架
-aliases: ["Maskit(2026)", MaskitFultner2026, "Ain't Misbehavin': Scrapping Applied Behavior Analysis"]
-tags: [work, chapter, autism, ABA, neurodiversity, cultural-genocide, critique, behaviorism, double-empathy, ecological-psychology]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+description: Dani Maskit（孤独谱系行动者）与 Barbara Fultner（女性主义哲学家）跨神经类型合作，提出反 ABA 宣言——论证 ABA 的行为主义基础与神经多样性范式在原则上不相容，将回避眼神接触、调节行为和伪装重新定义为文化标志而非适应不良行为，指控 ABA 构成文化灭绝；以生物社会模型、吉布森生态心理学和维特根斯坦式"生活形式"概念替代行为主义和神经认知主义框架
+aliases:
+  - Maskit(2026)
+  - MaskitFultner2026
+  - "Ain't Misbehavin': Scrapping Applied Behavior Analysis"
+tags:
+  - work
+  - chapter
+  - autism
+  - ABA
+  - neurodiversity
+  - cultural-genocide
+  - critique
+  - behaviorism
+  - double-empathy
+  - ecological-psychology
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
 updated: 2026-07-14
 citation_apa: "Maskit, D., & Fultner, B. (2026). Ain't misbehavin': Scrapping applied behavior analysis. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 144–167). Routledge."
@@ -13,7 +27,7 @@ citation_apa: "Maskit, D., & Fultner, B. (2026). Ain't misbehavin': Scrapping ap
 
 引用：Maskit, D., & Fultner, B. (2026). Ain't misbehavin': Scrapping applied behavior analysis. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 144–167). Routledge.
 
-**作者**：[[Dani-Maskit|Dani Maskit]]（孤独谱系活动家、创意技术专家）、[[Barbara-Fultner|Barbara Fultner]]（Denison University 哲学与女性及性别研究教授）
+**作者**：[[Dani-Maskit|Dani Maskit]]（孤独谱系行动者、创意技术专家）、[[Barbara-Fultner|Barbara Fultner]]（Denison University 哲学与女性及性别研究教授）
 
 **收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 8 章
 
@@ -21,7 +35,7 @@ citation_apa: "Maskit, D., & Fultner, B. (2026). Ain't misbehavin': Scrapping ap
 
 ## 作者位置与合作形式
 
-本章是一次跨越神经多样性的合作——Maskit 为成年后确诊的孤独谱系活动家，Fultner 为女性主义哲学家。两人在尾声（8.8）中反思了这次合著过程：选择以统一笔调而非复调文本写作，需要细致对话——正是本章所倡导的那种跨越差异的对话。她们指出，"成功在生活中的许多神经殊异群体取决于能否形成持久的共生关系——在这种关系中，弱点可以被视为差异而非缺陷，优势能够以其自身价值被认可"。
+本章是一次跨越神经多样性的合作——Maskit 为成年后确诊的孤独谱系行动者，Fultner 为女性主义哲学家。两人在尾声（8.8）中反思了这次合著过程：选择以统一笔调而非复调文本写作，需要细致对话——正是本章所倡导的那种跨越差异的对话。她们指出，"成功在生活中的许多神经殊异群体取决于能否形成持久的共生关系——在这种关系中，弱点可以被视为差异而非缺陷，优势能够以其自身价值被认可"。
 
 ## 核心论证结构
 

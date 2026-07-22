@@ -1,16 +1,23 @@
 ---
 title: Shain M. Neumeier
-description: Shain M. Neumeier 是孤独谱系倡导者、作家与残障权利活动家，2018 年首次提出"庸俗版神经多样性"（neurodiversity-lite）批判术语，并与 Lydia X. Z. Brown 共同领导了反对 Judge Rotenberg Center 电击"治疗"的废除运动
-aliases: [Shain M. Neumeier, Shain Neumeier]
-tags: [person, author, activist, neurodiversity]
-sources: [2026-05-07/Neurodiversity lite is still evolving.md]
+description: Shain M. Neumeier 是孤独谱系倡权者、作家与残障权利行动者，2018 年首次提出"庸俗版神经多样性"（neurodiversity-lite）批判术语，并与 Lydia X. Z. Brown 共同领导了反对 Judge Rotenberg Center 电击"治疗"的废除运动
+aliases:
+  - Shain M. Neumeier
+  - Shain Neumeier
+tags:
+  - person
+  - author
+  - activist
+  - neurodiversity
+sources:
+  - 2026-05-07/Neurodiversity lite is still evolving.md
 created: 2026-05-08
 updated: 2026-06-16
 ---
 
 # Shain M. Neumeier
 
-Shain M. Neumeier 是孤独谱系倡导者、作家与残障权利活动家。其两项核心贡献深刻地塑造了神经多样性运动的批判维度。
+Shain M. Neumeier 是孤独谱系倡权者、作家与残障权利行动者。其两项核心贡献深刻地塑造了神经多样性运动的批判维度。
 
 ## 庸俗版神经多样性（Neurodiversity-Lite）
 

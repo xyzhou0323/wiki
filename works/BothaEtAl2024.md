@@ -22,7 +22,7 @@ citation_apa: "Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard As
 
 ## 核心论点
 
-这封由国际孤独谱系学者联名发表的学术通讯，纠正了一个已流传甚广但**错误且有害**的叙事：神经多样性概念并非由 Judy Singer 一人创造，而是由**孤独谱系活动家社群在1990年代中期集体理论化和发展**的。
+这封由国际孤独谱系学者联名发表的学术通讯，纠正了一个已流传甚广但**错误且有害**的叙事：神经多样性概念并非由 Judy Singer 一人创造，而是由**孤独谱系行动者社群在1990年代中期集体理论化和发展**的。
 
 ## 被修正的主流叙事
 
@@ -61,8 +61,8 @@ citation_apa: "Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard As
 ## 更早的运动起源
 
 - **1992年**：国际孤独谱系网络（Autism Network International, ANI）成立
-- **[[Jim-Sinclair]]**（酷儿双性人活动家）：1993年撰写具有奠基意义的 [[Sinclair1993|"Don't Mourn for Us"]]，被描述为"神经多样性运动的试金石"
-- **Ed Roberts、Judy Heumann、Anita Cameron**（孤独谱系者）等人的跨残障倡导工作为神经多样性理论奠定了基础
+- **[[Jim-Sinclair]]**（酷儿行动者）：1993年撰写具有奠基意义的 [[Sinclair1993|"Don't Mourn for Us"]]，被描述为"神经多样性运动的奠基石"
+- **Ed Roberts、Judy Heumann、Anita Cameron**（孤独谱系者）等人的跨残障倡权工作为神经多样性理论奠定了基础
 - **Kassiane Asasuasu**：2000年创造"[[神经殊异|neurodivergent]]"和"neurodivergence"两个术语
 
 ## 为什么这很重要

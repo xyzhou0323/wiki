@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-测试/GADC.md",
+                "file": "authors/Dani-Maskit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GADC"
+              "title": "Dani-Maskit"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "活动家",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,9 +182,33 @@
   },
   "active": "b8ce71431e6b7390",
   "lastOpenFiles": [
+    "02-批判分析/知识不正义.md",
+    "02-批判分析/庸俗版神经多样性.md",
+    "02-批判分析/新自由主义与精神健康.md",
+    "02-批判分析/神经殊异马克思主义.md",
+    "02-批判分析/神经撒切尔主义.md",
+    "02-批判分析/神经规范性.md",
+    "02-批判分析/神经多样性与资本主义.md",
+    "02-批判分析/神经多样性与交叉性.md",
+    "02-批判分析/神经多样性与残障.md",
+    "02-批判分析/神经多样性批判与回应.md",
+    "02-批判分析/神经多样性的去殖民化.md",
+    "02-批判分析/去病理化.md",
+    "02-批判分析/批判性残障理论.md",
+    "02-批判分析/残障正义.md",
+    "02-批判分析/残障肯定模型.md",
+    "02-批判分析/残障的哲学定义.md",
+    "02-批判分析/阿斯至上主义.md",
+    "01-基础/神经殊异.md",
+    "01-基础/残障模型.md",
+    "works/ZanevaEtAl2024.md",
+    "works/Walker2014.md",
+    "authors/Steven-Kapp.md",
+    "works/StennerEtAl2025.md",
+    "authors/Sharon-daVanport.md",
+    "authors/Shain-M-Neumeier.md",
+    "authors/Nick-Walker.md",
     "06-测试/ITQ-CA.md.tmp.37072.4e8f3da72698",
-    "06-测试/ITQ.md",
-    "06-测试/AABS-R14.md",
     "06-测试/ITQ.md.tmp.37072.3f2dad072539",
     "06-测试/相关测试.md.tmp.37072.c0c90cd40dd1",
     "00-知识地图.md.tmp.37072.2777d07f349b",
@@ -192,32 +216,8 @@
     "06-测试/AABS-R14.md.tmp.37072.654ef864863a",
     "06-测试/AABS-R14.md.tmp.37072.534be80f6f32",
     "06-测试/AABS-R14.md.tmp.37072.09b148e7245c",
-    "works/BougoureEtAl2025.md",
     "works/BougoureEtAl2025.md.tmp.37072.454436d7a896",
     "works/MantzalasEtAl2024.md.tmp.37072.f1f2963d67b7",
-    "works/MantzalasEtAl2024.md.tmp.37072.4c0a360da007",
-    "works/RaymakerEtAl2026.md",
-    "06-测试/相关测试.md",
-    "01-基础/神经多样性范式.md",
-    "04-实践应用/神经多样性研究.md",
-    "00-知识地图.md",
-    "TEMPLATE.md",
-    "works/ChapmanFletcherWatson2026.md",
-    "authors/Robert-Chapman.md",
-    "works/Dwyer2022.md",
-    "05-诊断与现象/掩饰与伪装.md",
-    "05-诊断与现象/孤独谱系耗竭.md",
-    "01-基础/残障模型.md",
-    "06-测试/ITQ-CA.md",
-    "06-测试/ITQ-CG.md",
-    "works/Anderson2026.md",
-    "works/AistonEtAl2025.md",
-    "works/MullerKosmarovChapman2026.md",
-    "works/AndersonCushingEds2026.md",
-    "01-基础/神经多样性.md",
-    "authors/Laura-Tisoncik.md",
-    "works/Walker2014.md",
-    "01-基础/神经殊异.md",
     "Pasted image 20260616213853.png"
   ]
 }
