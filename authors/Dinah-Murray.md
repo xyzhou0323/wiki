@@ -1,15 +1,27 @@
 ---
 title: Dinah Murray
 description: Dinah Murray 是孤独谱系研究者，2005 年与 Mike Lesser 和 Wenn Lawson 共同提出单一聚焦（Monotropism）理论，是孤独谱系社群自我理论化的关键人物
-aliases: [Dinah Murray]
-tags: [person, researcher, autism, monotropism]
-sources: ["2026-05-07/Dwyer - 2022 - 神经多样性方法群 - 脑脑空间.pdf"]
+aliases:
+  - Dinah Murray
+tags:
+  - stub
+  - person
+  - researcher
+  - autism
+  - monotropism
+sources:
+  - 2026-05-07/Dwyer - 2022 - 神经多样性方法群 - 脑脑空间.pdf
 created: 2026-05-08
+updated: 2026-08-12
 ---
 
 # Dinah Murray
 
-孤独谱系研究者。2005 年与 Mike Lesser 和 Wenn Lawson 在 *Autism* 期刊共同提出**单一聚焦**（Monotropism）理论——主张孤独谱系心智的认知与感知在根本上体现为高度集中、狭窄聚焦的注意力模式。
+> [!infobox] Dinah Murray
+> **职业**：孤独谱系研究者
+> **主要领域**：单一聚焦（Monotropism）理论、孤独谱系社群自我理论化
+
+Dinah Murray 是孤独谱系研究者，2005 年与 Mike Lesser 和 Wenn Lawson 在 *Autism* 期刊共同提出**单一聚焦**（Monotropism）理论——主张孤独谱系心智的认知与感知在根本上体现为高度集中、狭窄聚焦的注意力模式。
 
 单一聚焦是孤独谱系社群自我理论化的关键成果：虽然 2005 年即获学术发表，但在线上孤独谱系社群中广受欢迎的该理论在实证研究中长期"鲜受重视"——[[Dwyer2022|Dwyer (2022)]] 将其列为社群知识被学术边缘化的典型案例。
 
@@ -24,3 +36,4 @@ created: 2026-05-08
 - [[单一聚焦]] — Murray 等 (2005) 提出的核心理论
 - [[Patrick-Dwyer]] — 将该理论列为社群自我理论化学术化的案例
 - [[Dwyer2022|Dwyer (2022)]] — 引用了单一聚焦作为社群概念缓慢渗透学术界的案例
+

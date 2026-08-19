@@ -1,17 +1,30 @@
 ---
 title: Yulin Cheng
 description: Yulin Cheng（郑裕林）是香港大学博士候选人与孤独谱系自我倡权者，Cheng et al.（2023）第一作者，以内部人视角研究孤独谱系福祉并揭示神经多样性运动在东亚威权政治与新自由主义语境中的文化障碍
-aliases: [Yulin Cheng, Cheng, 郑裕林]
-tags: [author, autism, neurodiversity, intersectionality]
-sources: [2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf]
+aliases:
+  - Yulin Cheng
+  - Cheng
+  - 郑裕林
+tags:
+  - author
+  - autism
+  - neurodiversity
+  - intersectionality
+sources:
+  - 2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 ---
 
 # Yulin Cheng
 
-**身份**：孤独谱系自我倡权者，香港大学（University of Hong Kong）博士候选人
-**研究领域**：孤独谱系者福祉、神经多样性、全球 ND 运动的去殖民化
+> [!infobox] Yulin Cheng
+> **职业**：孤独谱系自我倡权者、博士候选人
+> **机构**：香港大学（University of Hong Kong）
+> **主要领域**：孤独谱系福祉、神经多样性、全球 ND 运动的去殖民化
+> **代表著作**：[[ChengEtAl2023]]
+
+Yulin Cheng（郑裕林）是香港大学博士候选人与孤独谱系自我倡权者，Cheng et al.（2023）第一作者，以内部人视角研究孤独谱系福祉并揭示神经多样性运动在东亚威权政治与新自由主义语境中的文化障碍。
 
 ## 相关研究
 

@@ -1,24 +1,35 @@
 ---
 title: Botha (2021) - 学者、行动者还是倡导者？关于孤独谱系知识生产的批判性反思
 description: Monique Botha 的自传式民族志——作为孤独谱系研究者在学术界的经历，揭示实证主义"客观性"如何庇护非人化研究并边缘化孤独谱系者的专业见解
-aliases: ["Botha(2021)", Botha 2021, Academic Activist or Advocate, 孤独谱系知识生产批判]
-tags: [work, neurodiversity, autism, critique, methodology]
-sources: [2026-05-07/Botha - 2021 - Academic, Activist, or Advocate Angry, Entangled, and Emerging A Critical Reflection on Autism Kno_zh-CN_dual.pdf]
+aliases:
+  - Botha(2021)
+  - Botha 2021
+  - Academic Activist or Advocate
+  - 孤独谱系知识生产批判
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - critique
+  - methodology
+sources:
+  - 2026-05-07/Botha - 2021 - Academic, Activist, or Advocate Angry, Entangled, and Emerging A Critical Reflection on Autism Kno_zh-CN_dual.pdf
 doi: 10.3389/fpsyg.2021.727542
 created: 2026-05-07
-updated: 2026-05-08
+updated: 2026-08-12
 citation_apa: "Botha, M. (2021). Academic, activist, or advocate? Angry, entangled, and emerging: A critical reflection on autism knowledge production. Frontiers in Psychology, 12, Article 727542. https://doi.org/10.3389/fpsyg.2021.727542"
 ---
 
 # Botha (2021) — 学者、行动者还是倡导者？关于孤独谱系知识生产的批判性反思
 
+> [!infobox] Botha (2021)
+> **作者**：[[Monique-Botha]]
+> **出版年份**：2021
+> **中文版**：双语对照 PDF
+
 引用：Botha, M. (2021). Academic, activist, or advocate? Angry, entangled, and emerging: A critical reflection on autism knowledge production. Frontiers in Psychology, 12, Article 727542. [https://doi.org/10.3389/fpsyg.2021.727542](https://doi.org/10.3389/fpsyg.2021.727542)
 
-
-**作者**：[[Monique-Botha]]，英国斯特灵大学心理学系
-**发表**：2021年9月28日，*Frontiers in Psychology* 12:727542
-**DOI**：[10.3389/fpsyg.2021.727542](https://doi.org/10.3389/fpsyg.2021.727542)
-**中文版**：双语对照 PDF
+Botha (2021) 以自传式民族志研究审视自己作为孤独谱系研究者在学术界的经历，揭示实证主义"客观性"如何庇护非人化研究并边缘化孤独谱系者的专业见解。
 
 ## 背景
 
@@ -26,7 +37,7 @@ citation_apa: "Botha, M. (2021). Academic, activist, or advocate? Angry, entangl
 
 Botha 以自传式民族志（autoethnography）的方法，审视自己作为孤独谱系研究者在学术界的经历，揭示了学术知识生产中的结构性暴力。
 
-## 核心论点
+## 主要论点
 
 ### 1. "客观性"如何庇护非人化研究
 

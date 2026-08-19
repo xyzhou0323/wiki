@@ -1,14 +1,31 @@
 ---
 title: Emil Eva Rosina
 description: Emil Eva Rosina 是受过训练的语言学家，在波鸿鲁尔大学攻读博士学位，研究记忆报告与形式语用学，自我倡权孤独谱系者
-aliases: [Emil Eva Rosina, Emil-Eva Rosina, Rosina]
-tags: [author, linguistics, philosophy-of-language, autism, masking, pragmatics, sincerity]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Emil Eva Rosina
+  - Emil-Eva Rosina
+  - Rosina
+tags:
+  - author
+  - linguistics
+  - philosophy-of-language
+  - autism
+  - masking
+  - pragmatics
+  - sincerity
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 ---
 
 # Emil Eva Rosina
+
+> [!infobox] Emil Eva Rosina
+> **职业**：语言学家 × 博士研究生 × 自我倡权孤独谱系者
+> **机构**：波鸿鲁尔大学（Ruhr-University Bochum）
+> **主要领域**：语言学、形式语用学、记忆报告
+> **代表著作**：[[RosinaMcCready2026]]
 
 Emil Eva Rosina 是一名受过训练的语言学家，目前在德国波鸿鲁尔大学（Ruhr-University Bochum）攻读博士学位。其博士项目研究记忆报告，涉及语言哲学、心灵哲学、语义学和语用学的交叉领域。其还发表过关于合取和复数的论文，并组织着越来越多的学术与政治阅读小组。其生活在波鸿、维也纳以及夜班火车上。
 

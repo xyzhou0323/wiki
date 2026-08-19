@@ -1,7 +1,8 @@
 ---
 title: Green et al. (2020) - 带着精神健康诊断进行教学与研究：学术健全中心主义的实践与视角
 description: 九位有精神健康诊断的学者以对话形式探讨诊断获取、披露决策、症状的利弊、合理调整的侷限，揭示学术健全中心主义如何渗透学术体系的日常运作
-aliases: ["Green(2020)"]
+aliases:
+  - Green(2020)
 aliases:
   - GreenEtAl2020
   - Green et al. (2020)
@@ -14,18 +15,20 @@ tags:
 sources:
   - 2026-06-12/Teaching and Researching with a Mental Health Diagnosis.md
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-08-12
 citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., McClintick, J., Pfender, E., & Carrasco, R. (2020). Teaching and researching with a mental health diagnosis: Practices and perspectives on academic ableism. Rhetoric of Health & Medicine, 3(2), Article 1."
 ---
 
 # Green et al. (2020) — 带着精神健康诊断进行教学与研究：学术健全中心主义的实践与视角
 
+> [!infobox] Green (2020)
+> **作者**：Ann E. Green、[[Alyssa-Hillary|Alyssa Hillary]]（以 "Alyssa _" 署名）、Lucía Durá、Patrick Harris、Leah Heilig、Bailey Kirby、Jay McClintick、Emily Pfender、Rebecca Carrasco
+> **出版年份**：2020
+> **学科**：修辞学、残障研究、健康传播
+
 引用：Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., McClintick, J., Pfender, E., & Carrasco, R. (2020). Teaching and researching with a mental health diagnosis: Practices and perspectives on academic ableism. _Rhetoric of Health & Medicine_, _3_(2), Article 1.
 
-**作者**：Ann E. Green、[[Alyssa-Hillary|Alyssa Hillary]]（以 "Alyssa _" 署名）、Lucía Durá、Patrick Harris、Leah Heilig、Bailey Kirby、Jay McClintick、Emily Pfender、Rebecca Carrasco
-**年份**：2020
-**来源**：Rhetoric of Health & Medicine
-**学科**：修辞学、残障研究、健康传播
+九位有精神健康诊断的学者以多人对话形式探讨诊断获取、披露决策与症状的利弊，揭示了学术健全中心主义如何渗透学术体系的日常运作。
 
 ## 定位
 

@@ -1,19 +1,34 @@
 ---
 title: de Hooge (2019)
 description: "Binary Boys: Autism, Aspie Supremacy and Post/Humanist Normativity — 以情境知识认识论系统分析阿斯至上主义意识形态，揭示其与白人男性气质、经济价值论和 Lyotard 后现代主义的深层关联"
-aliases: ["de Hooge(2019)", de Hooge (2019), Binary Boys, deHooge2019]
-tags: [work, autism, critique, intersectionality]
+aliases:
+  - de Hooge(2019)
+  - de Hooge (2019)
+  - Binary Boys
+  - deHooge2019
+tags:
+  - work
+  - autism
+  - critique
+  - intersectionality
 citation_apa: "de Hooge, A. N. (2019). Binary Boys: Autism, Aspie Supremacy and Post/Humanist Normativity. Disability Studies Quarterly, 39(1). https://doi.org/10.18061/dsq.v39i1.6461"
-sources: [2026-05-10/Binary Boys Autism, Aspie Supremacy and PostHumanist Normativity.md]
+sources:
+  - 2026-05-10/Binary Boys Autism, Aspie Supremacy and PostHumanist Normativity.md
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-08-12
 ---
 
 # de Hooge (2019)—二元男孩：孤独谱系、阿斯至上主义与后/人文主义规范性
 
+> [!infobox] de Hooge (2019)
+> **作者**：de Hooge
+> **出版年份**：2019
+
 引用：de Hooge, A. N. (2019). Binary Boys: Autism, Aspie Supremacy and Post/Humanist Normativity. _Disability Studies Quarterly_, _39_(1). [https://doi.org/10.18061/dsq.v39i1.6461](https://doi.org/10.18061/dsq.v39i1.6461)
 
-## 核心论点
+de Hooge (2019) 以情境知识认识论对阿斯至上主义（Aspie Supremacy）进行首篇系统性学术分析，揭示其与白人男性气质、经济价值论和 Lyotard 后现代主义的深层关联。
+
+## 主要论点
 
 本文是[[阿斯至上主义]]（Aspie Supremacy）的首篇系统性学术分析。de Hooge 采用情境知识（situated knowledges）认识论，论证阿斯至上主义由两个相互交织的面向构成：**反孤独谱系的健全中心主义**（anti-autistic ableism）和**阿斯主体的优越性建构**——后者以白人气质（whiteness）、男性气质（masculinity）和经济价值（economic worthiness）为定义标准。
 

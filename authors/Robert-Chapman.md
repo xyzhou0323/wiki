@@ -1,14 +1,32 @@
 ---
 title: Robert Chapman
 description: Robert Chapman 是 Sheffield Hallam 大学教育与孤独谱系高级讲师、神经殊异哲学家，《正常帝国》和《神经多样性简论》的作者，神经殊异马克思主义（Neurodivergent Marxism）的提出者，知名博客 Critical Neurodiversity 的作者
-aliases: [罗伯特·查普曼, Chapman]
-tags: [author, neurodiversity, foundational, political]
-sources: [books/正常帝国-Empire of Normality (Robert Chapman).epub, books/神经多样性-Neurodiversity A Very Short Introduction (Robert Chapman, Sue Fletcher-Watson)机翻DeepSeek.epub, 2026-05-09/josp.12456.pdf, 2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf, 2026-07-05/ChapmanBovell2022-NeurodiversityAdvocacyAntiTherapy.md, 2026-07-05/MullerKosmarovChapman2026-NeurodiversityAndPhilosophy.md]
+aliases:
+  - 罗伯特·查普曼
+  - Chapman
+tags:
+  - author
+  - neurodiversity
+  - foundational
+  - political
+sources:
+  - books/正常帝国-Empire of Normality (Robert Chapman).epub
+  - books/神经多样性-Neurodiversity A Very Short Introduction (Robert Chapman, Sue Fletcher-Watson)机翻DeepSeek.epub
+  - 2026-05-09/josp.12456.pdf
+  - 2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf
+  - 2026-07-05/ChapmanBovell2022-NeurodiversityAdvocacyAntiTherapy.md
+  - 2026-07-05/MullerKosmarovChapman2026-NeurodiversityAndPhilosophy.md
 created: 2026-05-07
-updated: 2026-07-05
+updated: 2026-08-12
 ---
 
 # Robert Chapman
+
+> [!infobox] Robert Chapman
+> **职业**：神经殊异哲学家、神经多样性研究学者、教育与孤独谱系高级讲师
+> **机构**：Sheffield Hallam 大学
+> **主要领域**：神经多样性哲学、神经殊异马克思主义、常态范式批判
+> **代表著作**：[[Chapman2023]]、[[ChapmanFletcherWatson2026]]、[[Chapman2021]]
 
 Robert Chapman（罗伯特·查普曼）是神经殊异哲学家、神经多样性研究学者，以将马克思主义分析与神经多样性运动结合而闻名。他是[[神经殊异马克思主义]]（Neurodivergent Marxism）的提出者，现任 Sheffield Hallam 大学教育与孤独谱系高级讲师（Senior Lecturer in Education and Autism）。此前曾任教于布里斯托大学（University of Bristol）、伦敦国王学院（King's College London）和埃塞克斯大学（University of Essex）。
 

@@ -1,27 +1,42 @@
 ---
 title: Whittle (2026) - 道德责任与孤独谱系
 description: Ann Whittle 反驳 Shoemaker 关于孤独谱系群体缺乏同理心因而不可问责的论证，引入双向同理心问题解释表面同理心缺陷，并论证理由响应性道德责任理论不仅能抵御 Stout 的批评，而且能准确追踪涉及孤独谱系行动者案例中的责任判断
-aliases: ["Whittle(2026)", Whittle2026, Moral Responsibility and Autism]
-tags: [work, chapter, autism, philosophy, moral-responsibility, empathy, reasons-responsiveness, double-empathy, accountability]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Whittle(2026)
+  - Whittle2026
+  - Moral Responsibility and Autism
+tags:
+  - work
+  - chapter
+  - autism
+  - philosophy
+  - moral-responsibility
+  - empathy
+  - reasons-responsiveness
+  - double-empathy
+  - accountability
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Whittle, A. (2026). Moral responsibility and autism. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 29–48). Routledge."
 ---
 
 # Whittle (2026) — 道德责任与孤独谱系
 
+> [!infobox] Whittle (2026)
+> **作者**：[[Ann-Whittle|Ann Whittle]]（University of Manchester，高级讲师，主要研究道德责任、能动性和形而上学的交叉领域）
+> **出版年份**：2026
+> **类型**：书章
+> **收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 2 章
+
 引用：Whittle, A. (2026). Moral responsibility and autism. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 29–48). Routledge.
 
-**作者**：[[Ann-Whittle|Ann Whittle]]（University of Manchester，高级讲师，主要研究道德责任、能动性和形而上学的交叉领域）
-
-**收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 2 章
-
-**类型**：论文集章节
+本章中 Ann Whittle 反驳 Shoemaker 关于孤独谱系群体缺乏同理心因而不可问责的论证，引入双向同理心问题解释表面的同理心缺陷，并论证理由响应性道德责任理论不仅能抵御 Stout 的批评，而且能准确追踪涉及孤独谱系行动者案例中的责任判断。
 
 ---
 
-## 核心论证结构
+## 论证结构
 
 Whittle 同时在两条战线上作战：
 

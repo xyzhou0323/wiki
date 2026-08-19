@@ -1,26 +1,38 @@
 ---
 title: Dempsey et al. (2019) - 孤独谱系中的道德判断：系统综述
 description: 对29项孤独谱系者道德判断研究的系统综述——挑战理性主义道德发展理论，提出海特道德基础理论作为替代框架
-aliases: ["Dempsey(2019)", Dempsey 2019, Dempsey et al. 2019, Morality in ASD]
-tags: [work, autism, neurodiversity, systematic-review]
-sources: [2026-05-14/Morality in autism spectrum disorder A systematic review.pdf]
+aliases:
+  - Dempsey(2019)
+  - Dempsey 2019
+  - Dempsey et al. 2019
+  - Morality in ASD
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - systematic-review
+sources:
+  - 2026-05-14/Morality in autism spectrum disorder A systematic review.pdf
 doi: 10.1017/S0954579419001160
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-08-12
 citation_apa: "Dempsey, E. E., Moore, C., Johnson, S. A., Stewart, S. H., & Smith, I. M. (2019). Morality in autism spectrum disorder: A systematic review. Development and Psychopathology, 1–17. https://doi.org/10.1017/S0954579419001160"
 ---
 
 # Dempsey et al. (2019) — 孤独谱系中的道德判断
 
+> [!infobox] Dempsey (2019)
+> **作者**：Dempsey
+> **出版年份**：2019
+> **方法**：系统综述
+> **纳入**：29 项研究
+> **备注**：作者单位：Dalhousie University
+
 引用：Dempsey, E. E., Moore, C., Johnson, S. A., Stewart, S. H., & Smith, I. M. (2019). Morality in autism spectrum disorder: A systematic review. *Development and Psychopathology*, 1–17. [https://doi.org/10.1017/S0954579419001160](https://doi.org/10.1017/S0954579419001160)
 
-**作者**：E. E. Dempsey、C. Moore、S. A. Johnson、S. H. Stewart、I. M. Smith（Dalhousie University）
-**期刊**：*Development and Psychopathology*
-**DOI**：[10.1017/S0954579419001160](https://doi.org/10.1017/S0954579419001160)
-**方法**：系统综述
-**纳入**：29 项研究
+Dempsey et al. (2019) 是对 29 项孤独谱系者道德判断研究的系统综述：孤独谱系者总体上做出与神经典型者相似的道德判断，这一发现挑战了理性主义道德发展理论，并支持海特（Haidt）的道德基础理论作为替代框架。
 
-## 核心论点
+## 主要论点
 
 本文是对孤独谱系者道德判断研究的系统综述，其核心论点是：**孤独谱系者总体上做出与神经典型者相似的道德判断，这一事实挑战了理性主义道德发展理论**（Piaget, Kohlberg, Turiel）——这些理论将常识心理学（心理理论、共情）定位为道德发展的基础。如果严谨的道德推理需要心理理论，那么孤独谱系者应当表现出道德判断的系统性缺损——但她们没有。
 

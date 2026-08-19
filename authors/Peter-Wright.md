@@ -1,14 +1,27 @@
 ---
 title: Peter Wright
 description: Peter Wright 是 Murdoch University 残障与融合研究者，Carmel, Chapman & Wright（2026）合著者，以自传式民族志方法合作研究残障正义的日常实践维度
-aliases: [Peter Wright, Wright P]
-tags: [author, disability, inclusion]
-sources: [2026-05-12/Disability Justice  The Challenges of Inclusion in Everyday Life.pdf]
+aliases:
+  - Peter Wright
+  - Wright P
+tags:
+  - stub
+  - author
+  - disability
+  - inclusion
+sources:
+  - 2026-05-12/Disability Justice  The Challenges of Inclusion in Everyday Life.pdf
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-08-12
 ---
 
 # Peter Wright
+
+> [!infobox] Peter Wright
+> **职业**：残障与融合研究者
+> **机构**：Murdoch University（Perth, Western Australia）
+> **主要领域**：残障正义、教育可及性与包容在日常场所和空间中的实践
+> **代表著作**：[[CarmelChapmanWright2026]]
 
 Peter Wright 是 Murdoch University（Perth, Western Australia）的残障与融合研究者。他的研究关注残障正义、教育可及性与包容在日常场所和空间中的实践。
 
@@ -22,3 +35,4 @@ Peter Wright 是 Murdoch University（Perth, Western Australia）的残障与融
 
 - [[残障正义|残障正义]] — Wright 研究的核心概念
 - [[融合教育]] — Wright 的研究与融合教育的日常实践维度相交
+

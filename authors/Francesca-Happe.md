@@ -1,17 +1,31 @@
 ---
 title: Francesca Happé
 description: Francesca Happé 是伦敦国王学院 SGDP 中心教授，英国孤独谱系认知神经科学权威，弱中央统合假说的提出者与可分解三元假说的共同提出者
-aliases: [Francesca Happé, Happé, Francesca Happe, Happe]
-tags: [author, autism, foundational]
-sources: [2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf, 2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf]
+aliases:
+  - Francesca Happé
+  - Happé
+  - Francesca Happe
+  - Happe
+tags:
+  - author
+  - autism
+  - foundational
+sources:
+  - 2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf
+  - 2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf
 created: 2026-05-09
-updated: 2026-05-17
+updated: 2026-08-12
 ---
 
 # Francesca Happé
 
-**身份**：King's College London 社会、遗传与发展精神病学中心（SGDP Centre）教授，英国国家卫生研究院（NIHR）生物医学研究中心研究员
-**研究领域**：孤独谱系认知神经科学、发展精神病理学
+> [!infobox] Francesca Happé
+> **职业**：孤独谱系认知神经科学研究者 × 教授 × 英国国家卫生研究院（NIHR）生物医学研究中心研究员
+> **机构**：伦敦国王学院（King's College London）社会、遗传与发展精神病学中心（SGDP Centre）
+> **主要领域**：孤独谱系认知神经科学、发展精神病理学
+> **代表著作**：[[HappeFrith2020]]、[[SarrEtAl2024]]
+
+Francesca Happé 是伦敦国王学院 SGDP 中心教授，英国孤独谱系认知神经科学权威，弱中央统合假说的提出者与可分解三元假说的共同提出者。
 
 ## 主要理论贡献
 

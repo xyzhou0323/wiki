@@ -1,11 +1,21 @@
 ---
 title: Stenner et al. (2025) - 一群神经殊异研究者以Q方法学追问：神经多样性运动是什么，应该做什么？
 description: 10位神经殊异研究者使用Q方法学系统识别关于"神经多样性是什么"的三种理解与"运动应该做什么"的三种处方——首次以集体反思性程序经验性地展示神经多样性运动内部的观点多样性及其共识基础
-aliases: ["Stenner(2025)", Stenner 2025, Q Methodology Neurodiversity, 神经多样性Q方法]
-tags: [work, neurodiversity, methodology, social-movement, political]
-sources: [2026-05-21/stenner-et-al-2025-using-q-methodology-a-group-of-neurodivergent-neurodiversity-researchers-ask-what-is-the.pdf]
+aliases:
+  - Stenner(2025)
+  - Stenner 2025
+  - Q Methodology Neurodiversity
+  - 神经多样性Q方法
+tags:
+  - work
+  - neurodiversity
+  - methodology
+  - social-movement
+  - political
+sources:
+  - 2026-05-21/stenner-et-al-2025-using-q-methodology-a-group-of-neurodivergent-neurodiversity-researchers-ask-what-is-the.pdf
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-08-12
 citation_apa: "Stenner, P., Pearson, A., Kapp, S., Watson, C., Pressler, R., Williams, G., Bertilsdotter-Rosqvist, H., Hultman, L., Semmens-Wheeler, R., & Botha, M. (2025). Using Q methodology, a group of neurodivergent neurodiversity researchers ask: What is the neurodiversity movement and what should it do? Neurodiversity, 3, 1–17. https://doi.org/10.1177/27546330251329625"
 authors:
   - Paul-Stenner
@@ -16,12 +26,17 @@ authors:
 
 # Stenner et al. (2025) — 以 Q 方法学追问神经多样性运动
 
+> [!infobox] Stenner (2025)
+> **作者**：[[Paul-Stenner|Paul Stenner]]（The Open University）、Amy Pearson（Durham）、[[Steven-Kapp]]（Portsmouth）、Catherine Watson（Open University）、Ronit Pressler（UCL）、Gemma Williams（独立研究者）、[[Hanna-Bertilsdotter-Rosqvist]]（Södertörn）、Lill Hultman（Södertörn）、Rebecca Semmens-Wheeler（Birmingham City）、[[Monique-Botha]]（Durham / Stirling）
+> **出版年份**：2025
+> **类型**：期刊论文
+> **发表**：2024 年 5 月投稿，2025 年 3 月接收，刊于 *Neurodiversity* 第 3 卷
+> **DOI**：10.1177/27546330251329625
+> **许可**：CC BY-NC 4.0
+
 引用：Stenner, P., Pearson, A., Kapp, S., Watson, C., Pressler, R., Williams, G., Bertilsdotter-Rosqvist, H., Hultman, L., Semmens-Wheeler, R., & Botha, M. (2025). Using Q methodology, a group of neurodivergent neurodiversity researchers ask: What is the neurodiversity movement and what should it do? *Neurodiversity*, *3*, 1–17. [https://doi.org/10.1177/27546330251329625](https://doi.org/10.1177/27546330251329625)
 
-**作者**：[[Paul-Stenner|Paul Stenner]]（The Open University）、Amy Pearson（Durham）、[[Steven-Kapp]]（Portsmouth）、Catherine Watson（Open University）、Ronit Pressler（UCL）、Gemma Williams（独立研究者）、[[Hanna-Bertilsdotter-Rosqvist]]（Södertörn）、Lill Hultman（Södertörn）、Rebecca Semmens-Wheeler（Birmingham City）、[[Monique-Botha]]（Durham / Stirling）
-**发表**：2024 年 5 月投稿，2025 年 3 月接收，刊于 *Neurodiversity* 第 3 卷
-**DOI**：[10.1177/27546330251329625](https://doi.org/10.1177/27546330251329625)
-**许可**：CC BY-NC 4.0
+10 位神经殊异研究者（Stenner et al., 2025）使用 Q 方法学，系统识别关于“神经多样性是什么”的三种理解与“运动应该做什么”的三种处方，首次以集体反思性程序经验性地展示神经多样性运动内部的观点多样性及其共识基础。
 
 ## 背景
 

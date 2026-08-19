@@ -1,24 +1,39 @@
 ---
 title: Milton (2012) - 论孤独谱系的本体论地位：双向同理心问题
 description: Damian Milton 2012 年在 Disability & Society 发表的原初论文，首次在学术文献中提出"双向同理心问题"概念，批判心智理论缺陷说，将孤独谱系的社交差异重新定义为双向的人际关系问题
-aliases: ["Milton(2012)", Milton2012, Milton (2012), "On the Ontological Status of Autism: the 'Double Empathy Problem'", DEP原初论文, 双向同理心问题原初论文]
-tags: [work, neurodiversity, autism, foundational, critique]
-sources: [2026-05-07/Double empathy problem_dual_Kimi+DeepSeek.pdf]
+aliases:
+  - Milton(2012)
+  - Milton2012
+  - Milton (2012)
+  - On the Ontological Status of Autism: the 'Double Empathy Problem'
+  - DEP原初论文
+  - 双向同理心问题原初论文
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - foundational
+  - critique
+sources:
+  - 2026-05-07/Double empathy problem_dual_Kimi+DeepSeek.pdf
 doi: 10.1080/09687599.2012.710008
 created: 2026-05-07
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Milton, D. E. M. (2012). On the ontological status of autism: The 'double empathy problem'. Disability & Society, 27(6), 883-887. https://doi.org/10.1080/09687599.2012.710008"
 ---
 
 # Milton (2012) — 论孤独谱系的本体论地位：双向同理心问题
 
+> [!infobox] Milton (2012)
+> **作者**：Milton
+> **出版年份**：2012
+> **类型**：期刊论文（Current Issues 短论）
+> **机构**：Damian Milton（伯明翰大学）
+> **DOI**：[10.1080/09687599.2012.710008](https://doi.org/10.1080/09687599.2012.710008)
+
 引用：Milton, D. E. M. (2012). On the ontological status of autism: The 'double empathy problem'. Disability & Society, 27(6), 883-887. [https://doi.org/10.1080/09687599.2012.710008](https://doi.org/10.1080/09687599.2012.710008)
 
-
-**作者**：Damian E M Milton（伯明翰大学）
-**发表**：*Disability & Society* (2012), Vol. 27(6), pp. 883–887
-**类型**：Current Issues 短论
-**DOI**：[10.1080/09687599.2012.710008](https://doi.org/10.1080/09687599.2012.710008)
+Milton 首次在学术文献中提出"双向同理心问题"概念，批判心智理论缺陷说，将孤独谱系的社交差异重新定义为双向的人际关系问题。
 
 ## 历史地位
 
@@ -30,7 +45,7 @@ DEP 自提出以来已成为神经多样性研究的核心理论框架之一，�
 
 Milton 以**孤独谱系内亲历者**身份写作。本文采用身份优先语言（"autistic people"），引用 [[Sinclair1993|Sinclair (1993)]] 作为命名惯例依据。
 
-## 核心论点
+## 主要论点
 
 ### 一、对认知-行为范式的批判
 

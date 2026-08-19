@@ -12,10 +12,14 @@ tags:
 sources:
   - 2026-05-07/Neurodiversity lite is still evolving.md
 created: 2026-05-08
-updated: 2026-06-16
+updated: 2026-08-12
 ---
 
 # Shain M. Neumeier
+
+> [!infobox] Shain M. Neumeier
+> **职业**：孤独谱系倡权者、作家、残障权利行动者
+> **主要领域**：神经多样性批判（"神经多样性-lite"概念）、残障权利运动
 
 Shain M. Neumeier 是孤独谱系倡权者、作家与残障权利行动者。其两项核心贡献深刻地塑造了神经多样性运动的批判维度。
 

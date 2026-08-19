@@ -1,24 +1,37 @@
 ---
 title: Ne'eman (2021) - 当残障由行为定义时，结果测量不应鼓励“扮装”
 description: Ari Ne'eman 在 AMA Journal of Ethics 发表的伦理学分析——以孤独谱系为案例，论证以消除诊断特质为目标的结果测量存在严重伦理问题：扮装的内化伤害、内在伤害标准的提出、举证责任的反转、CYBOCS-ASD 的具体批判
-aliases: ["Ne'eman(2021)", Ne'eman 2021, When Disability Is Defined by Behavior]
-tags: [work, neurodiversity, autism, ethics, applied]
-sources: [2026-05-09/nihms-1785456.pdf]
+aliases:
+  - Ne'eman(2021)
+  - Ne'eman 2021
+  - When Disability Is Defined by Behavior
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - ethics
+  - applied
+sources:
+  - 2026-05-09/nihms-1785456.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Ne'eman, A. (2021). When disability is defined by behavior, outcome measures should not promote 'passing'. AMA Journal of Ethics, 23(7), E569-E575. https://doi.org/10.1001/amajethics.2021.569"
 doi: 10.1001/amajethics.2021.569
 ---
 
 # Ne'eman (2021) — 当残障由行为定义时，结果测量不应鼓励“扮装”
 
+> [!infobox] Ne'eman (2021)
+> **作者**：[[Ari-Ne'eman]]
+> **出版年份**：2021
+> **类型**：伦理学分析
+> **机构**：哈佛大学健康政策博士候选人
+
 引用：Ne'eman, A. (2021). When disability is defined by behavior, outcome measures should not promote "passing". AMA Journal of Ethics, 23(7), E569-E575. [https://doi.org/10.1001/amajethics.2021.569](https://doi.org/10.1001/amajethics.2021.569)
 
-**作者**：[[Ari-Ne'eman|Ari Ne'eman]]（哈佛大学健康政策博士候选人）
-**发表**：*AMA Journal of Ethics* (2021), 23(7), E569-E575
-**类型**：伦理学分析
+Ne'eman 在 AMA Journal of Ethics 发表的伦理学分析中以孤独谱系为案例，论证以消除诊断特质为目标的结果测量存在严重伦理问题——从扮装的内化伤害到内在伤害标准的提出与举证责任的反转，并对 CYBOCS-ASD 等具体测量工具提出批判。
 
-## 核心论证
+## 主要论证
 
 当残障由行为定义时，临床工作者和研究者面临如何评估临床进展的难题。一些人选择将诊断特质的减少或消除作为成功标准——这暗含将典型外观作为服务的终极目标。Ne'eman 以孤独谱系和神经多样性运动为案例，系统论证了这一做法的伦理问题，并提出了替代性的评估框架。
 
@@ -51,7 +64,7 @@ doi: 10.1001/amajethics.2021.569
 
 ## 内在伤害标准
 
-### 核心区分
+### 主要区分
 
 当一个行为具有**内在伤害性**（如自伤）时，寻求解决它是适当的。但许多被干预瞄准的孤独谱系特质并不符合内在伤害的高标准：
 

@@ -1,13 +1,32 @@
 ---
 title: AABS-R14
 description: AASPIRE 孤独谱系耗竭量表修订版（AABS-R14, AASPIRE Autistic Burnout Scale – Revised）是一份经 CBPR 方法开发的标准化工具，用于识别和测量慢性孤独谱系耗竭，含 14 道症状题及附加项目，经 AASPIRE 授权在本站发布
-aliases: [AABS-R14, 孤独谱系耗竭量表修订版, AASPIRE Autistic Burnout Scale – Revised, Autistic Burnout Scale, AASPIRE 耗竭量表]
-tags: [test, burnout, autism, neurodiversity, AASPIRE]
+aliases:
+  - AABS-R14
+  - 孤独谱系耗竭量表修订版
+  - AASPIRE Autistic Burnout Scale – Revised
+  - Autistic Burnout Scale
+  - AASPIRE 耗竭量表
+tags:
+  - test
+  - burnout
+  - autism
+  - neurodiversity
+  - AASPIRE
+sources:
+  - Nicolaidis et al. 2025
+  - Raymaker et al. 2026
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-08-12
 ---
 
 # AASPIRE 孤独谱系耗竭量表修订版 (AABS-R14)
+
+> [!infobox] AASPIRE 孤独谱系耗竭量表修订版 (AABS-R14)
+> **测量对象**：慢性孤独谱系耗竭
+> **题数**：14 道症状题（另有附加项目不计入总分）
+> **适用年龄**：孤独谱系成年人（伴或不伴智力障碍）
+> **开发者**：AASPIRE 成果项目团队（CBPR 方法）
 
 **AABS-R14**（AASPIRE Autistic Burnout Scale – Revised，14 项）是由 [[AASPIRE]] 成果项目团队采用社区参与式研究（CBPR）方法开发的标准化量表，用于识别和测量慢性[[孤独谱系耗竭]]。该量表有直接报告版本（自评）和照护者报告版本（他评）两种形式，适用于伴有或不伴有智力障碍的孤独谱系成年人，也可用于其他需要认知无障碍调查工具的人群。
 

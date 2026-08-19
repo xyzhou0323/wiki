@@ -1,22 +1,48 @@
 ---
 title: Schuck et al. (2022) - 神经多样性与孤独谱系干预：通过NDBI框架调和两种视角
 description: Rachel Schuck 等孤独谱系与非孤独谱系合作者共同撰写的评论——论证自然发展行为干预（NDBI）可弥合早期干预与神经多样性运动之间的鸿沟，发表于 JADD
-aliases: [Schuck et al. (2022), NDBI and neurodiversity]
-tags: [work, neurodiversity, autism, intervention, applied, NDBI]
-aliases: ["Schuck(2022)"]
-authors: [Rachel K. Schuck, Daina M. Tagavi, Kaitlynn M. P. Baiden, Patrick Dwyer, Zachary J. Williams, Anthony Osuna, Emily F. Ferguson, Maria Jimenez Muñoz, Samantha K. Poyser, Joy F. Johnson, Ty W. Vernon]
-sources: [2026-05-18/Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf]
+aliases:
+  - Schuck et al. (2022)
+  - Schuck(2022)
+  - NDBI and neurodiversity
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - intervention
+  - applied
+  - NDBI
+authors:
+  - Rachel K. Schuck
+  - Daina M. Tagavi
+  - Kaitlynn M. P. Baiden
+  - Patrick Dwyer
+  - Zachary J. Williams
+  - Anthony Osuna
+  - Emily F. Ferguson
+  - Maria Jimenez Muñoz
+  - Samantha K. Poyser
+  - Joy F. Johnson
+  - Ty W. Vernon
+sources:
+  - 2026-05-18/Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-08-12
 ---
 
 # Schuck et al. (2022) - 神经多样性与孤独谱系干预
 
-**引用**：Schuck, R. K., Tagavi, D. M., Baiden, K. M. P., Dwyer, P., Williams, Z. J., Osuna, A., Ferguson, E. F., Jimenez Muñoz, M., Poyser, S. K., Johnson, J. F., & Vernon, T. W. (2022). Neurodiversity and Autism Intervention: Reconciling Perspectives Through a Naturalistic Developmental Behavioral Intervention Framework. *Journal of Autism and Developmental Disorders*, 52, 4625–4645.
+> [!infobox] Schuck et al. (2022)
+> **作者**：Rachel-K-Schuck, Daina-M-Tagavi, Kaitlynn-M-P-Baiden, [[Patrick-Dwyer]], [[Zachary-J-Williams]], Anthony-Osuna, Emily-F-Ferguson, Maria-Jimenez-Muñoz, Samantha-K-Poyser, Joy-F-Johnson, Ty-W-Vernon
+> **出版年份**：2022
+> **类型**：Commentary（评论）
+> **许可**：CC-BY
 
-**类型**：Commentary（评论）| **开放获取**：CC-BY
+引用：Schuck, R. K., Tagavi, D. M., Baiden, K. M. P., Dwyer, P., Williams, Z. J., Osuna, A., Ferguson, E. F., Jimenez Muñoz, M., Poyser, S. K., Johnson, J. F., & Vernon, T. W. (2022). Neurodiversity and Autism Intervention: Reconciling Perspectives Through a Naturalistic Developmental Behavioral Intervention Framework. *Journal of Autism and Developmental Disorders*, 52, 4625–4645.
 
-## 核心论点
+Schuck 等孤独谱系与非孤独谱系合作者共同撰写的评论论证，自然发展行为干预（NDBI）有望弥合早期干预与神经多样性运动之间的鸿沟，但需要实质性改革。
+
+## 主要论点
 
 孤独谱系干预的倡导者与神经多样性运动支持者看似对立：前者主张强化治疗，后者主张接受孤独谱系为多样性形式。本文由**孤独谱系与非孤独谱系合作者共同撰写**（3 位作者为孤独谱系者），论证**自然发展行为干预（NDBIs）** 有望弥合这一鸿沟——但需要实质性改革。
 

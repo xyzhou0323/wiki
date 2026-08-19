@@ -1,26 +1,37 @@
 ---
 title: Botha et al. (2024) - 神经多样性的集体起源
 description: 一项迟来的学术修正——通过档案研究证实神经多样性概念和理论由孤独谱系社群集体发展，而非归功于任何单一作者
-aliases: ["Botha(2024)", Botha et al. 2024, 神经多样性的诞生, The neurodiversity concept was developed collectively]
-tags: [work, neurodiversity, historical]
-sources: [2026-05-07/Botha-et-al-2024-神经多样性集体起源.md, 2026-05-07/神经多样性的诞生-社群历史.md]
+aliases:
+  - Botha(2024)
+  - Botha et al. 2024
+  - 神经多样性的诞生
+  - The neurodiversity concept was developed collectively
+tags:
+  - work
+  - neurodiversity
+  - historical
+sources:
+  - 2026-05-07/Botha-et-al-2024-神经多样性集体起源.md
+  - 2026-05-07/神经多样性的诞生-社群历史.md
 doi: 10.1177/13623613241237871
 created: 2026-05-07
-updated: 2026-05-08
+updated: 2026-08-12
 citation_apa: "Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard Ashley, A., & Walker, N. (2024). The neurodiversity concept was developed collectively: An overdue correction on the origins of neurodiversity theory. Autism, 28(6), 1591-1594. https://doi.org/10.1177/13623613241237871"
 ---
 
 # Botha et al. (2024) — 神经多样性的集体起源
 
+> [!infobox] Botha (2024)
+> **作者**：Botha
+> **出版年份**：2024
+> **类型**：期刊论文
+> **中文科普**：["神经多样性"的诞生：一段被遗忘的社群历史](https://neurobridge.cn/docs/neurodiversity/collectiveorigin/)（作者：XyZ）
+
 引用：Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard Ashley, A., & Walker, N. (2024). The neurodiversity concept was developed collectively: An overdue correction on the origins of neurodiversity theory. Autism, 28(6), 1591-1594. [https://doi.org/10.1177/13623613241237871](https://doi.org/10.1177/13623613241237871)
 
+这封由国际孤独谱系学者联名发表的学术通讯纠正了一个流传甚广的错误叙事：神经多样性概念并非由 Judy Singer 一人创造，而是由孤独谱系行动者社群在 1990 年代中期集体理论化和发展。
 
-**作者**（按字母顺序）：Monique Botha, [[Robert-Chapman]], Morénike Giwa Onaiwu, [[Steven-Kapp]], Abs Stannard Ashley, [[Nick-Walker]]
-**发表**：2024年，*Autism* 期刊（SAGE）
-**原文**：https://journals.sagepub.com/doi/full/10.1177/13623613241237871
-**中文科普**：["神经多样性"的诞生：一段被遗忘的社群历史](https://neurobridge.cn/docs/neurodiversity/collectiveorigin/)（作者：XyZ，基于 Botha et al. 2024 撰写的科普文章）
-
-## 核心论点
+## 主要论点
 
 这封由国际孤独谱系学者联名发表的学术通讯，纠正了一个已流传甚广但**错误且有害**的叙事：神经多样性概念并非由 Judy Singer 一人创造，而是由**孤独谱系行动者社群在1990年代中期集体理论化和发展**的。
 

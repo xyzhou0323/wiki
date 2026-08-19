@@ -1,23 +1,35 @@
 ---
 title: Szechy et al. (2024) - 孤独谱系与就业挑战：职场情境中的双向同理心问题
 description: Szechy、Turk 与 O'Donnell 首次将双向同理心问题（DEP）应用于职场情境，实证比较 ToM 缺陷假说与 DEP 对孤独谱系员工行为的解释力——结果支持 DEP：孤独谱系者比非孤独谱系者更准确地理解孤独谱系员工
-aliases: ["Szechy(2024)", SzechyEtAl2024, Autism and Employment Challenges, DEP workplace study]
-tags: [work, autism, neurodiversity, applied, methodology]
-sources: [2026-05-09/aut.2023.0046.pdf]
+aliases:
+  - Szechy(2024)
+  - SzechyEtAl2024
+  - Autism and Employment Challenges
+  - DEP workplace study
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - applied
+  - methodology
+sources:
+  - 2026-05-09/aut.2023.0046.pdf
 doi: 10.1089/aut.2023.0046
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Szechy, K. A., Turk, P. D., & O'Donnell, L. A. (2024). Autism and employment challenges: The double empathy problem and perceptions of an autistic employee in the workplace. Autism in Adulthood, 6(2), 205-217. https://doi.org/10.1089/aut.2023.0046"
 ---
 
 # Szechy et al. (2024) — 孤独谱系与就业挑战：职场情境中的双向同理心问题
 
+> [!infobox] Szechy (2024)
+> **作者**：[[Kathryn-Szechy|Kathryn A. Szechy]]（温莎大学社会工作学院）、Pamela D. Turk（密歇根州卫生与公众服务部）、Lisa A. O'Donnell（韦恩州立大学社会工作学院）
+> **出版年份**：2024
+> **类型**：期刊论文
+
 引用：Szechy, K. A., Turk, P. D., & O'Donnell, L. A. (2024). Autism and employment challenges: The double empathy problem and perceptions of an autistic employee in the workplace. Autism in Adulthood, 6(2), 205-217. [https://doi.org/10.1089/aut.2023.0046](https://doi.org/10.1089/aut.2023.0046)
 
-
-**完整引用**：Szechy, K. A., Turk, P. D., & O'Donnell, L. A. (2024). Autism and Employment Challenges: The Double Empathy Problem and Perceptions of an Autistic Employee in the Workplace. *Autism in Adulthood*, 6(2), 205–217.
-
-**作者**：[[Kathryn-Szechy|Kathryn A. Szechy]]（温莎大学社会工作学院）、Pamela D. Turk（密歇根州卫生与公众服务部）、Lisa A. O'Donnell（韦恩州立大学社会工作学院）
+Szechy et al. (2024) 首次将双向同理心问题（DEP）应用于职场情境，实证比较 ToM 缺陷假说与 DEP 对孤独谱系员工行为的解释力，结果显示孤独谱系者比非孤独谱系者更准确地理解孤独谱系员工，从而支持 DEP。
 
 ## 本文要点
 
@@ -40,7 +52,7 @@ citation_apa: "Szechy, K. A., Turk, P. D., & O'Donnell, L. A. (2024). Autism and
 - 孤独谱系组：RAADS-12 均值 23.8（SD=7.13），非孤独谱系组：9.64（SD=8.42），差异显著
 - 孤独谱系参与者就业率显著更低（70.4% vs 81.5%）、收入更低、教育程度更低
 
-## 核心发现
+## 主要发现
 
 ### 1. 行为解读准确率：DEP 预测胜出
 

@@ -1,25 +1,40 @@
 ---
 title: Nair et al. (2024) - 神经多样性是一个全球北方白人的范式吗？
 description: Nair、Farah 与 Boveda 对神经多样性学术的去殖民化批判——揭示全球南方认识论的边缘化与种族化神经殊异者的交叉性排斥，呼吁 ND 从"北方独白"走向全球知识连续体
-aliases: ["Nair(2024)", NairEtAl2024, Is neurodiversity a Global Northern White paradigm?, 神经多样性去殖民化, ND White paradigm]
-tags: [work, neurodiversity, critique, intersectionality, political, methodology]
-sources: [2026-05-09/nair-et-al-2024-is-neurodiversity-a-global-northern-white-paradigm.pdf]
+aliases:
+  - Nair(2024)
+  - NairEtAl2024
+  - Is neurodiversity a Global Northern White paradigm?
+  - 神经多样性去殖民化
+  - ND White paradigm
+tags:
+  - work
+  - neurodiversity
+  - critique
+  - intersectionality
+  - political
+  - methodology
+sources:
+  - 2026-05-09/nair-et-al-2024-is-neurodiversity-a-global-northern-white-paradigm.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Nair, V. K. K., Farah, W., & Boveda, M. (2024). Is neurodiversity a Global Northern White paradigm? Autism, 30(2), 544–551. https://doi.org/10.1177/13623613241280835"
 ---
 
 # Nair et al. (2024) — 神经多样性是一个全球北方白人的范式吗？
 
+> [!infobox] Nair (2024)
+> **作者**：[[Vishnu-KK-Nair]]、[[Warda-Farah]]、[[Mildred-Boveda]]
+> **出版年份**：2024
+> **类型**：期刊论文（Commentary 评论文章）
+> **机构**：Vishnu KK Nair（University of Reading）、Warda Farah（University of Greenwich）、Mildred Boveda（Penn State University）
+> **作者立场**：三位学者均机构性地位于全球北方，但具有与全球南方的亲缘和身体纽带（familial and embodied ties）。作者 1 和 2 认同为神经殊异者。文章立场根植于当代神经多样性学术，拒绝基于 Galton 式意识形态的病理化。
+
 引用：Nair, V. K. K., Farah, W., & Boveda, M. (2024). Is neurodiversity a Global Northern White paradigm? *Autism, 30*(2), 544–551. [https://doi.org/10.1177/13623613241280835](https://doi.org/10.1177/13623613241280835)
 
-**作者**：[[Vishnu-KK-Nair|Vishnu KK Nair]]（University of Reading，神经殊异者）、[[Warda-Farah|Warda Farah]]（University of Greenwich，神经殊异者）、[[Mildred-Boveda|Mildred Boveda]]（Penn State University）
+Nair、Farah 与 Boveda 对神经多样性学术提出去殖民化批判，揭示全球南方认识论的边缘化与种族化神经殊异者的交叉性排斥，呼吁神经多样性从"北方独白"走向全球知识连续体。
 
-**类型**：Commentary（评论文章），发表于 *Autism* 期刊
-
-**作者立场**：三位学者均机构性地位于全球北方，但具有与全球南方的亲缘和身体纽带（familial and embodied ties）。作者 1 和 2 认同为神经殊异者。文章立场根植于当代神经多样性学术，拒绝基于 Galton 式意识形态的病理化。
-
-## 两条核心批判
+## 两条主要批判
 
 ### 一、地理维度：全球南方认识论的边缘化
 

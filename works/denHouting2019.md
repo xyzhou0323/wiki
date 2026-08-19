@@ -1,31 +1,42 @@
 ---
 title: den Houting (2019) - 神经多样性：内部人视角
 description: Jacquiline den Houting 以孤独谱系研究者身份在 Autism 期刊发表的社论，系统澄清对 ND 运动的三种常见误解，阐述社会模型在孤独谱系中的应用，并首次将"neurodiversity lite"概念引入学术话语
-aliases: ["den Houting(2019)", denHouting2019, Neurodiversity An insider's perspective, ND内部人视角]
-tags: [work, neurodiversity, autism, foundational, methodology]
-sources: [2026-05-09/Neurodiversity An insider's perspective (den Houting, Jacquiline) (z-library.sk, 1lib.sk, z-lib.sk).pdf]
+aliases:
+  - den Houting(2019)
+  - denHouting2019
+  - Neurodiversity An insider's perspective
+  - ND内部人视角
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - foundational
+  - methodology
+sources:
+  - 2026-05-09/Neurodiversity An insider's perspective (den Houting, Jacquiline) (z-library.sk, 1lib.sk, z-lib.sk).pdf
 doi: 10.1177/1362361318820762
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "den Houting, J. (2019). Neurodiversity: An insider's perspective. Autism, 23(2), 271-273. https://doi.org/10.1177/1362361318820762"
 ---
 
 # den Houting (2019) — 神经多样性：内部人视角
 
+> [!infobox] den Houting (2019)
+> **作者**：[[Jacquiline-den-Houting]]
+> **出版年份**：2019
+> **类型**：期刊论文
+> **备注**：Jacquiline den Houting（麦考瑞大学），公开的孤独谱系研究者；Editorial（社论）
+
 引用：den Houting, J. (2019). Neurodiversity: An insider's perspective. Autism, 23(2), 271-273. [https://doi.org/10.1177/1362361318820762](https://doi.org/10.1177/1362361318820762)
 
-
-**完整引用**：den Houting, J. (2019). Neurodiversity: An insider's perspective. *Autism*, 23(2), 271–273.
-
-**作者**：[[Jacquiline-den-Houting|Jacquiline den Houting]]（麦考瑞大学），公开的孤独谱系研究者
-
-**类型**：Editorial（社论）
+den Houting (2019) 以孤独谱系研究者身份在 *Autism* 期刊发表社论，系统澄清了对神经多样性运动的三种常见误解，阐述社会模型在孤独谱系中的应用，并首次将"neurodiversity lite"概念引入学术话语。
 
 ## 定位
 
 本文是神经多样性运动**最早的内部人视角学术陈述之一**——一位公开的孤独谱系研究者，在孤独谱系研究领域的旗舰期刊上，以第一人称阐述 ND 范式的核心假设并澄清对其的常见误解。文章篇幅短小（3 页），但因其作者身份、发表平台和系统性论证而成为该领域引用率最高的基础文献之一。
 
-## 核心论证
+## 主要论证
 
 den Houting 以"作为神经多样性范式的倡导者，我欢迎知情且尊重的辩论"开篇，随后指出她遇到的批评往往不是"细致而复杂的批判"，而是**针对一个虚构的"神经多样性"概念的误解**。问题的加剧来自"neurodiversity lite"——使用运动语言却不理解其基础假设（Neumeier, 2018）。
 

@@ -1,14 +1,28 @@
 ---
 title: PES
 description: 珀斯同理心量表（PES, Perth Empathy Scale）是一份由 Brett et al. (2023) 开发的20题自填工具，用于测量认知同理心与情感同理心，并区分正性与负性情绪维度
-aliases: [PES, PES 珀斯同理心量表, 珀斯同理心量表, Perth Empathy Scale]
-tags: [test, empathy, autism, neurodiversity]
-sources: [Brett et al. 2023]
+aliases:
+  - PES
+  - PES 珀斯同理心量表
+  - 珀斯同理心量表
+  - Perth Empathy Scale
+tags:
+  - test
+  - empathy
+  - autism
+  - neurodiversity
+sources:
+  - Brett et al. 2023
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-08-12
 ---
 
 # PES 珀斯同理心量表
+
+> [!infobox] PES 珀斯同理心量表
+> **测量对象**：认知同理心与情感同理心（区分正性与负性情绪）
+> **题数**：20 题
+> **开发者**：Brett et al. (2023)
 
 **PES**（Perth Empathy Scale）是一份测量**同理心**多维结构的自填工具，由 Brett 等人于2023年开发。
 

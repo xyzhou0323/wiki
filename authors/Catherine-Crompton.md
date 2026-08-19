@@ -1,22 +1,36 @@
 ---
 title: Catherine Crompton
 description: Catherine J. Crompton 是爱丁堡大学 Usher 研究所高级研究员（Ph.D.），Edinburgh Neuroscience 成员，双向同理心问题最重要的实证研究者之一，以扩散链实验首次证明孤独谱系者间信息传递高效、跨神经类型互动融洽度差异著称，获 Autistica 公众参与奖（2018）
-aliases: [Catherine Crompton, Catherine J. Crompton, Crompton, 凯瑟琳·克朗普顿]
-tags: [author, neurodiversity, autism, double-empathy, translational-neuroscience]
-sources: [2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md]
+aliases:
+  - Catherine Crompton
+  - Catherine J. Crompton
+  - Crompton
+  - 凯瑟琳·克朗普顿
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - double-empathy
+  - translational-neuroscience
+sources:
+  - 2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-12
 ---
 
 # Catherine Crompton
 
-**身份**：孤独谱系社交互动研究者 × 双向同理心问题实证验证者 × 转化神经科学学者
-**机构**：爱丁堡大学（University of Edinburgh），人口健康科学学院，Usher 研究所，生物医学、自我与社会中心（Centre for Biomedicine, Self and Society）
-**职称**：高级研究员（Senior Research Fellow）
-**隶属**：Edinburgh Neuroscience、爱丁堡心理健康网络
-**资历**：Ph.D. 心理学（2017），MA 心理学（2011）
-**主页**：[research.ed.ac.uk/en/persons/catherine-crompton](https://www.research.ed.ac.uk/en/persons/catherine-crompton/)
-**备注**：接受 PhD 学生
+> [!infobox] Catherine Crompton
+> **职业**：孤独谱系社交互动研究者 × 双向同理心问题实证验证者 × 转化神经科学学者
+> **机构**：爱丁堡大学（University of Edinburgh），人口健康科学学院，Usher 研究所，生物医学、自我与社会中心（Centre for Biomedicine, Self and Society）；Edinburgh Neuroscience、爱丁堡心理健康网络
+> **主要领域**：孤独谱系社交认知、健康不平等、转化神经科学、双向同理心
+> **代表著作**：[[CromptonEtAl2020]]、[[CromptonEtAl2025]]、[[KilgallonEtAl2026]]
+> **职称**：高级研究员（Senior Research Fellow）
+> **学位**：Ph.D. 心理学（2017），MA 心理学（2011）
+> **主页**：[research.ed.ac.uk/en/persons/catherine-crompton](https://www.research.ed.ac.uk/en/persons/catherine-crompton/)
+> **备注**：接受 PhD 学生
+
+Catherine J. Crompton 是爱丁堡大学 Usher 研究所高级研究员（Ph.D.），Edinburgh Neuroscience 成员，双向同理心问题最重要的实证研究者之一，以扩散链实验首次证明孤独谱系者间信息传递高效、跨神经类型互动融洽度差异著称，获 Autistica 公众参与奖（2018）。
 
 ## 学术定位
 

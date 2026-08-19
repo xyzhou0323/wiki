@@ -1,14 +1,27 @@
 ---
 title: Morton Ann Gernsbacher
 description: Morton Ann Gernsbacher 是威斯康星大学麦迪逊分校心理学教授，以对孤独谱系认知研究传统（特别是心理理论缺陷假说）的系统性方法论批判而闻名，与 Melanie Yergeau 合著了高被引的 ToM 实证失败论文
-aliases: [Morton Ann Gernsbacher, Gernsbacher]
-tags: [author, autism, neurodiversity, methodology]
-sources: ["2026-06-16/APA PsycNet 全文 HTML 页面 --- APA PsycNet FullTextHTML page.md"]
+aliases:
+  - Morton Ann Gernsbacher
+  - Gernsbacher
+tags:
+  - author
+  - autism
+  - neurodiversity
+  - methodology
+sources:
+  - 2026-06-16/APA PsycNet 全文 HTML 页面 --- APA PsycNet FullTextHTML page.md
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-12
 ---
 
 # Morton Ann Gernsbacher
+
+> [!infobox] Morton Ann Gernsbacher
+> **职业**：心理学教授
+> **机构**：威斯康星大学麦迪逊分校心理学系
+> **主要领域**：语言理解、孤独谱系认知、科学方法论
+> **代表著作**：[[GernsbacherYergeau2019]]
 
 Morton Ann Gernsbacher 是威斯康星大学麦迪逊分校（University of Wisconsin—Madison）心理学系教授。她的研究涵盖语言理解、孤独谱系认知和科学方法论。
 

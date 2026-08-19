@@ -13,18 +13,24 @@ tags:
   - activist
   - foundational
   - health-policy
-sources: ["2026-05-07/Autistic Community and the Neurodiversity Movement机翻双语.pdf"]
+sources:
+  - 2026-05-07/Autistic Community and the Neurodiversity Movement机翻双语.pdf
 created: 2026-05-08
-updated: 2026-06-24
+updated: 2026-08-12
 ---
 
 # Ari Ne'eman
 
-**身份**：残障政策研究者 × 孤独谱系自我倡权者 × 政治领导者
-**机构**：哈佛大学陈曾熙公共卫生学院（Harvard T.H. Chan School of Public Health），卫生政策与管理系（Department of Health Policy and Management）
-**职称**：助理教授（Assistant Professor）
-**学位**：PhD，卫生政策（政治分析方向），哈佛大学（2024）
-**主页**：[hsph.harvard.edu/profile/ari-neeman](https://hsph.harvard.edu/profile/ari-neeman/)
+> [!infobox] Ari Ne'eman
+> **职业**：残障政策研究者 × 孤独谱系自我倡权者 × 政治领导者
+> **机构**：哈佛大学陈曾熙公共卫生学院（Harvard T.H. Chan School of Public Health），卫生政策与管理系（Department of Health Policy and Management）
+> **主要领域**：残障政策、长期服务与支持、残障就业与福利、公共舆论、生命伦理学政策
+> **代表著作**：[[BroderickNeeman2008]]、[[Neeman2021]]、[[NeemanPellicano2022]]
+> **职称**：助理教授（Assistant Professor）
+> **学位**：PhD，卫生政策（政治分析方向），哈佛大学（2024）
+> **主页**：[hsph.harvard.edu/profile/ari-neeman](https://hsph.harvard.edu/profile/ari-neeman/)
+
+Ari Ne'eman 是哈佛大学陈曾熙公共卫生学院卫生政策与管理系助理教授，ASAN 联合创始人与前执行主任（2006–2016），奥巴马总统任命的全国残障委员会成员（2010–2015），以 DSM-5 游说和残障政策研究深刻塑造了神经多样性运动的政治方向。
 
 ## 学术与运动定位
 

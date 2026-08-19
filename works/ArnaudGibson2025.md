@@ -1,19 +1,36 @@
 ---
 title: Arnaud & Gibson (2025) - 神经多样性、身份与实体抽象
 description: Arnaud 与 Gibson 提出 ND 运动的核心诉求（去病理化）应理解为拒绝"实体抽象原则"（HAP）——将孤独谱系从"一个人拥有的可剥离之物"重新概念化为"一个人之所是"；区分孤独谱系身份的两个层次（前反思体验结构与政治/社会认同），并论证由此观之，四类批评均未触及运动实质
-aliases: ["Arnaud(2025)", ArnaudGibson2025, 神经多样性与实体抽象, Neurodiversity identity and hypostatic abstraction]
-tags: [work, neurodiversity, autism, foundational, methodology]
-sources: [2026-05-09/Arnaud和Gibson - Neurodiversity, identity, and hypostatic abstraction.pdf]
+aliases:
+  - Arnaud(2025)
+  - ArnaudGibson2025
+  - 神经多样性与实体抽象
+  - Neurodiversity identity and hypostatic abstraction
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - foundational
+  - methodology
+sources:
+  - 2026-05-09/Arnaud和Gibson - Neurodiversity, identity, and hypostatic abstraction.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Arnaud, S., & Gibson, Q. H. (2025). Neurodiversity, identity, and hypostatic abstraction. Philosophical Studies, 182, 1157-1178."
 ---
 
 # Arnaud & Gibson (2025) — 神经多样性、身份与实体抽象
 
+> [!infobox] Arnaud (2025)
+> **作者**：Arnaud
+> **出版年份**：2025
+> **类型**：期刊论文
+
 引用：Arnaud, S., & Gibson, Q. H. (2025). Neurodiversity, identity, and hypostatic abstraction. Philosophical Studies, 182, 1157-1178.
 
-## 核心论点
+Arnaud 与 Gibson (2025) 提出，神经多样性运动的核心诉求（去病理化）应理解为拒绝"实体抽象原则"（Hypostatic Abstraction Principle, HAP）——将孤独谱系从"一个人拥有的可剥离之物"重新概念化为"一个人之所是"，并论证由此观之，针对运动的各类批评均未触及其实质。
+
+## 主要论点
 
 ND 运动的核心诉求（"去病理化"）的最佳理解是**拒绝实体抽象原则（Hypostatic Abstraction Principle, HAP）**。批评者之所以一再误解运动，是因为他们要么未察觉 HAP 正在被拒绝，要么自身隐含地承诺了 HAP。
 

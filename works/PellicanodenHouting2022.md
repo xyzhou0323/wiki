@@ -1,25 +1,36 @@
 ---
 title: Pellicano & den Houting (2022) - 从"常规科学"转向孤独谱系科学中的神经多样性
 description: Elizabeth Pellicano 和 Jacquiline den Houting (2022) 在 JCPP 发表的年度研究综述，论证孤独谱系科学应从常规医学范式转向神经多样性范式
-aliases: ["Pellicano(2022)", Pellicano & den Houting 2022, Shifting from normal science to neurodiversity]
-tags: [work, neurodiversity, autism, foundational]
-sources: [2026-05-09/Child Psychology Psychiatry - 2021 - Pellicano - Annual Research Review  Shifting from  normal science  to neurodiversity_dual_Kimi+DeepSeek.pdf]
+aliases:
+  - Pellicano(2022)
+  - Pellicano & den Houting 2022
+  - Shifting from normal science to neurodiversity
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - foundational
+sources:
+  - 2026-05-09/Child Psychology Psychiatry - 2021 - Pellicano - Annual Research Review  Shifting from  normal science  to neurodiversity_dual_Kimi+DeepSeek.pdf
 doi: 10.1111/jcpp.13534
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from 'normal science' to neurodiversity in autism science. Journal of Child Psychology and Psychiatry, 63(4), 381-396. https://doi.org/10.1111/jcpp.13534"
 ---
 
 # Pellicano & den Houting (2022) — 从"常规科学"转向孤独谱系科学中的神经多样性
 
+> [!infobox] Pellicano (2022)
+> **作者**：[[Elizabeth-Pellicano]]、[[Jacquiline-den-Houting]]
+> **出版年份**：2022
+> **类型**：年度研究综述（Annual Research Review），英中双语版
+> **机构**：麦考瑞大学教育学院 / 孤独谱系生活合作研究中心（两位作者）
+
 引用：Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from 'normal science' to neurodiversity in autism science. Journal of Child Psychology and Psychiatry, 63(4), 381-396. [https://doi.org/10.1111/jcpp.13534](https://doi.org/10.1111/jcpp.13534)
 
+Pellicano 与 den Houting 在 JCPP 发表的年度研究综述中，以库恩的科学范式理论为框架，论证孤独谱系科学正处于从"常规科学"（医学范式）向神经多样性范式的转型期。
 
-**作者**：[[Elizabeth-Pellicano|Elizabeth Pellicano]]（麦考瑞大学教育学院 / 孤独谱系生活合作研究中心）和 [[Jacquiline-den-Houting|Jacquiline den Houting]]（同上）
-**发表**：*Journal of Child Psychology and Psychiatry* (2022), 63(4): 381–396
-**类型**：年度研究综述（Annual Research Review），英中双语版
-
-## 核心论证
+## 主要论证
 
 论文以库恩的科学范式理论为框架，论证孤独谱系科学正处于从"常规科学"（医学范式）向神经多样性范式的转型期。作者系统梳理了常规医学范式的三大局限，并说明神经多样性范式如何回应这些局限。
 

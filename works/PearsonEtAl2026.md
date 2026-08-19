@@ -1,18 +1,43 @@
 ---
 title: Pearson et al. (2026) - 就像把矮个子叫做"垂直挑战者"：英国神经殊异成人的语言与术语偏好
 description: 首项跨神经发育类型的术语偏好混合方法研究（n=902）——发现身份优先语言在多数类别中显著更受欢迎和较少冒犯（Tourette与口吃除外），揭示外部标签的不充分与污名化、社群内部的体验与主体性两大主题
-aliases: ["Pearson(2026)", Pearson et al. 2026, Pearson2026]
-tags: [work, neurodiversity, autism, critique]
+aliases:
+  - Pearson(2026)
+  - Pearson et al. 2026
+  - Pearson2026
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - critique
 citation_apa: "Pearson, A., Grant, A., Leigh, J., Macdonald, S. J., Williams, K., Williams, G., Spaeth, E., Rose, K., Memmott, A., & Botha, M. (2026). 'It's like calling short people vertically challenged': Language and terminology preferences among neurodivergent adults in the United Kingdom. Neurodiversity, 4, 1–16. https://doi.org/10.1177/27546330261428235"
-authors: [Amy Pearson, Aimee Grant, Jennifer Leigh, Stephen J Macdonald, Kathryn Williams, Gemma Williams, Elliott Spaeth, Kieran Rose, Ann Memmott, Monique Botha]
-sources: [2026-05-21/pearson-et-al-2026-it-s-like-calling-short-people-vertically-challenged-language-and-terminology-preferences-among.pdf]
+authors:
+  - Amy Pearson
+  - Aimee Grant
+  - Jennifer Leigh
+  - Stephen J Macdonald
+  - Kathryn Williams
+  - Gemma Williams
+  - Elliott Spaeth
+  - Kieran Rose
+  - Ann Memmott
+  - Monique Botha
+sources:
+  - papers/pearson-et-al-2026-it-s-like-calling-short-people-vertically-challenged-language-and-terminology-preferences-among.pdf
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-08-12
 ---
 
 # Pearson et al. (2026) - 就像把矮个子叫做"垂直挑战者"：英国神经殊异成人的语言与术语偏好
 
+> [!infobox] Pearson (2026)
+> **作者**：Pearson
+> **出版年份**：2026
+> **类型**：期刊论文
+
 引用：Pearson, A., Grant, A., Leigh, J., Macdonald, S. J., Williams, K., Williams, G., Spaeth, E., Rose, K., Memmott, A., & Botha, M. (2026). 'It's like calling short people vertically challenged': Language and terminology preferences among neurodivergent adults in the United Kingdom. *Neurodiversity*, *4*, 1–16. [https://doi.org/10.1177/27546330261428235](https://doi.org/10.1177/27546330261428235)
+
+Pearson et al. (2026) 是第一项跨神经发育类型的术语偏好混合方法研究（n = 902），发现身份优先语言在多数类别中显著更受欢迎且较少冒犯（Tourette 与口吃除外），并揭示外部标签的不充分与污名化、社群内部的体验与主体性两大主题。
 
 ## 研究概述
 
@@ -64,11 +89,11 @@ updated: 2026-05-21
 
 **感受残障**：孤独谱系和 ADHD 参与者普遍认同"残障"标签；阅读/计算/书写/运用障碍群体存在更多变异——部分人因障碍未造成显著劣势而不认同残障身份，但这并非必然反映内化健全中心主义。
 
-## 核心结论
+## 主要结论
 
 语言是症状，不是解药——将注意力集中在用词而非行动上会掩盖根本问题：神经殊异者的持续去人化。在学术环境中，术语之所以重要，并非因为词语本身，而是因为语言形塑行动——从学术界渗透到临床实践、政府政策，以及社会如何对待神经殊异者。**行动比言辞更有说服力**（Actions speak louder than words）。
 
-## 相关页面
+## Related
 
 ### 相关概念
 - [[神经殊异]] — "神经殊异"作为包容性术语的起源与争论
@@ -76,3 +101,11 @@ updated: 2026-05-21
 - [[去病理化]] — "disorder"语言批判的理论基础
 - [[残障模型]] — 残障认同争议的模型语境
 - [[掩饰与伪装]] — 语言选择作为掩饰策略的一部分
+
+### 相关文献
+- [[NatriEtAl2023|Natri et al. (2023)]] — 反健全中心主义语言与孤独谱系研究的兼容性论证
+- [[LaoEtAl2024|Lao et al. (2024)]] — 中文语境下的术语偏好实证研究
+
+### 作者
+- [[Amy-Pearson]] — 第一作者
+- [[Monique-Botha]] — 合著者

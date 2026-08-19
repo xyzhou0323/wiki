@@ -1,26 +1,36 @@
 ---
 title: Sonuga-Barke & Thapar (2021) - 神经多样性概念对临床医生和科学家是否有帮助？
 description: Sonuga-Barke 与 Thapar 在 Lancet Psychiatry 发表的主流派临床视角评论——拒绝 ND 的"激进"解释，但主张将 ND 概念纳入主流研究与实践并行的整合路径
-aliases: ["Sonuga-Barke(2021)", SonugaBarkeThapar2021, Neurodiversity concept clinicians scientists, ND概念临床效用]
-tags: [work, neurodiversity, adhd, autism, methodology]
-sources: [2026-05-09/SonugaBarke_Thapar_2021_Neurodiversity_concept_clinicians_scientists.pdf]
+aliases:
+  - Sonuga-Barke(2021)
+  - SonugaBarkeThapar2021
+  - Neurodiversity concept clinicians scientists
+  - ND概念临床效用
+tags:
+  - work
+  - neurodiversity
+  - adhd
+  - autism
+  - methodology
+sources:
+  - 2026-05-09/SonugaBarke_Thapar_2021_Neurodiversity_concept_clinicians_scientists.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Sonuga-Barke, E., & Thapar, A. (2021). The neurodiversity concept: Is it helpful for clinicians and scientists? The Lancet Psychiatry, 8(7), 559-561."
 ---
 
 # Sonuga-Barke & Thapar (2021) — 神经多样性概念对临床医生和科学家是否有帮助？
 
+> [!infobox] Sonuga-Barke (2021)
+> **作者**：Edmund Sonuga-Barke（伦敦国王学院精神病学、心理学与神经科学研究所）、Anita Thapar（卡迪夫大学医学院心理医学与临床神经科学部；ADHD Foundation 董事会成员）
+> **出版年份**：2021
+> **类型**：Comment（评论/立场声明）
+
 引用：Sonuga-Barke, E., & Thapar, A. (2021). The neurodiversity concept: Is it helpful for clinicians and scientists? The Lancet Psychiatry, 8(7), 559-561.
 
+Sonuga-Barke & Thapar (2021) 在 *The Lancet Psychiatry* 发表的临床视角评论拒绝 ND 的“激进”解释，但主张将 ND 概念纳入主流研究与实践并行的整合路径。
 
-**完整引用**：Sonuga-Barke, E., & Thapar, A. (2021). The neurodiversity concept: is it helpful for clinicians and scientists? *The Lancet Psychiatry*, 8(7), 559–561.
-
-**作者**：Edmund Sonuga-Barke（伦敦国王学院精神病学、心理学与神经科学研究所）、Anita Thapar（卡迪夫大学医学院心理医学与临床神经科学部；ADHD Foundation 董事会成员）
-
-**类型**：Comment（评论/立场声明）
-
-## 核心立场
+## 主要立场
 
 这是一篇来自**主流临床研究界**的立场声明。两位作者均为 ADHD/神经发育障碍领域的资深临床研究者（Thapar 为 *JCPP* 前主编，Sonuga-Barke 为现任主编）。论文拒绝 ND 的"激进"解释，但主张将 ND 概念**纳入**主流研究框架和临床实践——两者并行不悖、互为补充。
 

@@ -1,11 +1,21 @@
 ---
 title: Botha (2025) - 批判实在论、社区心理学与孤独谱系：一种具有社会正义导向的科学哲学与实践
 description: Monique Botha 论证批判实在论（Critical Realism）是社区心理学最适切的科学哲学基础——超越实证主义与建构主义的二元对立，为神经多样性研究提供同时容纳物质现实与反本质主义的哲学框架
-aliases: ["Botha(2025)", Botha 2025, Critical Realism Autism, Botha critical realism]
-tags: [work, neurodiversity, autism, methodology, critique]
-sources: [2026-05-21/Journal Community Psychology - 2021 - Botha - Critical realism  community psychology  and the curious case of autism  A.pdf]
+aliases:
+  - Botha(2025)
+  - Botha 2025
+  - Critical Realism Autism
+  - Botha critical realism
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - methodology
+  - critique
+sources:
+  - 2026-05-21/Journal Community Psychology - 2021 - Botha - Critical realism  community psychology  and the curious case of autism  A.pdf
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-08-12
 citation_apa: "Botha, M. (2025). Critical realism, community psychology, and the curious case of autism: A philosophy and practice of science with social justice in mind. Journal of Community Psychology, 53, e22764. https://doi.org/10.1002/jcop.22764"
 authors:
   - Monique-Botha
@@ -13,12 +23,15 @@ authors:
 
 # Botha (2025) — 批判实在论、社区心理学与孤独谱系
 
+> [!infobox] Botha (2025)
+> **作者**：[[Monique-Botha]]
+> **出版年份**：2025
+> **备注**：2021 年 11 月接收
+> **许可**：CC BY 4.0 开放获取
+
 引用：Botha, M. (2025). Critical realism, community psychology, and the curious case of autism: A philosophy and practice of science with social justice in mind. *Journal of Community Psychology*, *53*, e22764. [https://doi.org/10.1002/jcop.22764](https://doi.org/10.1002/jcop.22764)
 
-**作者**：[[Monique-Botha]]，University of Stirling 心理学系 / University of Surrey 心理学院
-**发表**：2021 年 11 月接收，2025 年于 *Journal of Community Psychology* 第 53 卷正式刊出
-**DOI**：[10.1002/jcop.22764](https://doi.org/10.1002/jcop.22764)
-**许可**：CC BY 4.0 开放获取
+Botha (2025) 论证批判实在论（Critical Realism）是社区心理学最适切的科学哲学基础——超越实证主义与建构主义的二元对立，为神经多样性研究提供同时容纳物质现实与反本质主义的哲学框架。
 
 ## 背景
 
@@ -72,7 +85,7 @@ Botha 总结了 CP 面临的三难困境（trilemma）：
 
 ## 批判实在论框架
 
-### 核心主张
+### 基本主张
 
 批判实在论（Critical Realism, CR）由 Roy Bhaskar（1975, 1979）提出，核心区分为**本体论实在论**（ontological realism）与**认识论相对主义**（epistemological relativism）：
 

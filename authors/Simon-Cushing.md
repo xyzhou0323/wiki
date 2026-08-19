@@ -1,14 +1,29 @@
 ---
 title: Simon Cushing
 description: Simon Cushing 是密歇根大学弗林特分校哲学教授，《孤独谱系哲学》(2013) 与《当代孤独谱系哲学》(2026) 的联合编辑，主张孤独谱系消除主义
-aliases: [Simon Cushing, Cushing]
-tags: [author, philosophy, autism, metaphysics, eliminativism, editor]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Simon Cushing
+  - Cushing
+tags:
+  - author
+  - philosophy
+  - autism
+  - metaphysics
+  - eliminativism
+  - editor
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 ---
 
 # Simon Cushing
+
+> [!infobox] Simon Cushing
+> **职业**：哲学教授、联合编辑
+> **机构**：密歇根大学弗林特分校（University of Michigan-Flint）
+> **主要领域**：孤独谱系哲学、孤独谱系消除主义、形而上学
+> **代表著作**：[[Cushing2026]]、[[AndersonCushingEds2026]]
 
 Simon Cushing 是密歇根大学弗林特分校（University of Michigan-Flint）哲学教授。他是《孤独谱系哲学》(*The Philosophy of Autism*, 2013) 和《当代孤独谱系哲学》(*Contemporary Philosophy of Autism*, 2026) 的联合编辑，亦编辑了 *Heaven and Philosophy* (2017) 及 *New Philosophical Essays on Love and Loving* (2021)。他目前正在撰写一部关于堕胎形而上学的专著。同时也是一名已出版作品的诗人（《米尔弗顿周报》，1979 年）。
 

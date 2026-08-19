@@ -1,14 +1,25 @@
 ---
 title: Virginia Bovell
 description: Virginia Bovell 是英国孤独谱系伦理学者，牛津大学博士，以对预防与治愈孤独谱系是否具有道德合法性的系统性伦理分析著称，超越"治疗 vs 接受"的抽象对峙
-aliases: [Virginia Bovell]
-tags: [author, neurodiversity, autism, ethics]
-sources: ["2026-07-05/ChapmanBovell2022-NeurodiversityAdvocacyAntiTherapy.md"]
+aliases:
+  - Virginia Bovell
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - ethics
+sources:
+  - 2026-07-05/ChapmanBovell2022-NeurodiversityAdvocacyAntiTherapy.md
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 ---
 
 # Virginia Bovell
+
+> [!infobox] Virginia Bovell
+> **职业**：孤独谱系伦理学者、社会政策研究者
+> **主要领域**：孤独谱系预防与治愈的伦理分析、干预伦理
+> **代表著作**：[[ChapmanBovell2022]]、[[RosqvistEtAl2020]]
 
 英国社会政策研究者（原伦敦政治经济学院），因照顾孤独谱系儿子而放弃有薪工作后转而从事孤独谱系伦理研究。2015 年获牛津大学博士学位，论文题目为《预防和/或治愈孤独谱系是否是道德上合法的追求？》。
 

@@ -17,27 +17,29 @@ sources:
   - 2026-05-07/Dwyer - 2022 - 神经多样性方法群 - 脑脑空间.pdf
 doi: 10.1159/000523723
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Dwyer, P. (2022). The neurodiversity approach(es): What are they and what do they mean for researchers? Human Development, 66(2), 73-92. https://doi.org/10.1159/000523723"
 ---
 
 # Dwyer (2022) — 神经多样性方法群
 
+> [!infobox] Dwyer (2022)
+> **作者**：[[Patrick-Dwyer]]
+> **出版年份**：2022
+> **类型**：期刊论文
+> **许可**：CC BY-NC，PMCID: PMC9261839
+> **翻译**：脑脑空间 NeuroBridge（Admin、Guillotine、XyZ 翻译，Rossa、Alexander 审校）
+> **备注**：作者单位：Patrick Dwyer（加州大学戴维斯分校，心智与大脑中心 & 心理学系）；2022 年 2 月 22 日在线发表（2021 年 8 月收稿，12 月接受）
+
 引用：Dwyer, P. (2022). The neurodiversity approach(es): What are they and what do they mean for researchers? Human Development, 66(2), 73-92. [https://doi.org/10.1159/000523723](https://doi.org/10.1159/000523723)
 
-
-**作者**：[[Patrick-Dwyer|Patrick Dwyer]]（加州大学戴维斯分校，心智与大脑中心 & 心理学系）
-**期刊**：*Human Development*，第 66 卷，第 2 期，第 73–92 页
-**DOI**：[10.1159/000523723](https://doi.org/10.1159/000523723)
-**发表**：2022 年 2 月 22 日在线发表（2021 年 8 月收稿，12 月接受）
-**开放获取**：CC BY-NC，PMCID: PMC9261839
-**翻译**：脑脑空间 NeuroBridge（Admin、Guillotine、XyZ 翻译，Rossa、Alexander 审校）
+Dwyer (2022) 在 *Human Development* 发表的理论论文首次系统梳理"神经多样性方法群"（复数）的内涵、与强社会模型的争论及适用范围争议，并基于互动主义/生态残障观为发展研究者提供实践建议。
 
 ## 作者立场
 
 Dwyer 自我认同为孤独谱系者（已获正式诊断），并认同自己是神经多样性运动的一员。这一身份立场对本文所表达的观点产生了影响。作者特别感谢 [[Robert-Chapman]] 审阅本文并提出使用复数形式 "neurodiversity approaches" 的建议。
 
-## 核心论点
+## 主要论点
 
 本文是神经多样性研究从社群话语进入学术领域的关键过渡文献。Dwyer 主张：**不存在单一的“神经多样性方法”，而是存在多个方法组成的“神经多样性方法群”（neurodiversity approaches）**——不同倡导者和研究者对其内涵有实质性分歧，应当被理解为库恩意义上的“范式”：难以定义、通过范例相似性来识别、行动导向且规范性。
 
@@ -51,7 +53,7 @@ Dwyer 自我认同为孤独谱系者（已获正式诊断），并认同自己�
 | **神经多样性方法群（范式）** | 关于如何对待人类神经认知多样性的理论视角与规范性主张——**本文的核心讨论对象** |
 | **神经多样性运动** | 倡导神经殊异有障人士权利与福祉的行动主义运动 |
 
-## 核心立场：互动主义/生态的中间道路
+## 立场：互动主义/生态的中间道路
 
 ### 问题：强社会模型的死胡同
 

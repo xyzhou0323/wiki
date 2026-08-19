@@ -1,21 +1,37 @@
 ---
 title: Dwyer et al. (2026) - 跨诊断视角下的注意力与听觉过度反应
 description: Patrick Dwyer、Zachary J. Williams、Wenn Lawson 和 Susan M. Rivera 发表于 Journal of Attention Disorders 的跨诊断实证研究，探讨孤独谱系、ADHD 及一般人群中注意力与听觉过度反应的多样化表型之间的关系
-aliases: ["Dwyer(2026)", Dwyer et al. 2026, 跨诊断注意力听觉过度反应, Trans-Diagnostic Auditory Hyperreactivity]
-tags: [work, neurodiversity, autism, ADHD, sensory, attention]
-sources: [2026-07-12/DwyerEtAl2026.md]
+aliases:
+  - Dwyer(2026)
+  - Dwyer et al. 2026
+  - 跨诊断注意力听觉过度反应
+  - Trans-Diagnostic Auditory Hyperreactivity
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - ADHD
+  - sensory
+  - attention
+sources:
+  - 2026-07-12/DwyerEtAl2026.md
 created: 2026-07-12
+updated: 2026-08-12
 citation_apa: "Dwyer, P., Williams, Z. J., Lawson, W., & Rivera, S. M. (2026). A trans-diagnostic investigation of attention and diverse phenotypes of \"auditory hyperreactivity\" in autism, ADHD, and the general population. Journal of Attention Disorders, 30(1), 57–81. https://doi.org/10.1177/10870547251361226"
 doi: 10.1177/10870547251361226
 ---
 
 # Dwyer et al. (2026) — 跨诊断视角下的注意力与听觉过度反应
 
+> [!infobox] Dwyer (2026)
+> **作者**：[[Patrick-Dwyer]]、[[Wenn-Lawson]]、[[Susan-M-Rivera]]
+> **出版年份**：2026
+> **类型**：期刊论文
+> **备注**：在线首发 2025 年 9 月 18 日；横截面实证研究，开放获取
+
 引用：Dwyer, P., Williams, Z. J., Lawson, W., & Rivera, S. M. (2026). A trans-diagnostic investigation of attention and diverse phenotypes of "auditory hyperreactivity" in autism, ADHD, and the general population. *Journal of Attention Disorders*, *30*(1), 57–81. [https://doi.org/10.1177/10870547251361226](https://doi.org/10.1177/10870547251361226)
 
-**作者**：[[Patrick-Dwyer]]、Zachary J. Williams、[[Wenn-Lawson]]、[[Susan-M-Rivera]]
-**发表**：2026 年（在线首发 2025 年 9 月 18 日），*Journal of Attention Disorders*
-**类型**：横截面实证研究，开放获取
+Dwyer et al. (2026) 在 *Journal of Attention Disorders* 发表的跨诊断实证研究探讨孤独谱系、ADHD 及一般人群中注意力与听觉过度反应的多样化表型之间的关系。
 
 ## 概述
 
@@ -44,7 +60,7 @@ doi: 10.1177/10870547251361226
 | 仅孤独谱系 | 130 |
 | 孤独谱系 + ADHD | 141 |
 
-### 核心测量工具
+### 测量工具
 
 - **MIST-A**（多维声音耐受量表-成人版）：26 条目，四个维度——厌声障碍、听觉过敏（响度听觉过敏和听觉过载）、恐惧/恐慌、疼痛
 - **VADQ**（范德堡听觉分心问卷）：7 条目单维度听觉分心测量

@@ -1,18 +1,33 @@
 ---
 title: Rachel Sarr
 description: Rachel Sarr 是伦敦国王学院 IoPPN 临床心理学博士（DClinPsy），研究孤独谱系、依恋障碍、CPTSD 与 EUPD 的鉴别诊断，以 Delphi 法与混合方法为主要研究工具，关注少数族裔青年的心理健康服务体验
-aliases: [Rachel Sarr, Sarr]
-tags: [author, autism, neurodiversity, differential-diagnosis, trauma, cptsd, mixed-methods]
-sources: [2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf]
+aliases:
+  - Rachel Sarr
+  - Sarr
+tags:
+  - author
+  - autism
+  - neurodiversity
+  - differential-diagnosis
+  - trauma
+  - cptsd
+  - mixed-methods
+sources:
+  - 2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf
 created: 2026-05-17
-updated: 2026-06-24
+updated: 2026-08-12
 ---
 
 # Rachel Sarr
 
-**身份**：临床心理学研究者 × 鉴别诊断方法学家 × 少数族裔心理健康倡导者
-**机构**：伦敦国王学院（King's College London），精神病学、心理学与神经科学研究所（IoPPN）
-**主页**：[kclpure.kcl.ac.uk/portal/en/persons/rachel-sarr](https://kclpure.kcl.ac.uk/portal/en/persons/rachel-sarr/)
+> [!infobox] Rachel Sarr
+> **职业**：临床心理学研究者（DClinPsy）、鉴别诊断方法学家、少数族裔心理健康倡导者
+> **机构**：伦敦国王学院（King's College London）精神病学、心理学与神经科学研究所（IoPPN）
+> **主要领域**：孤独谱系、依恋障碍、CPTSD 与 EUPD 的鉴别诊断
+> **代表著作**：[[SarrEtAl2024]]
+> **主页**：[kclpure.kcl.ac.uk/portal/en/persons/rachel-sarr](https://kclpure.kcl.ac.uk/portal/en/persons/rachel-sarr/)
+
+Rachel Sarr 是伦敦国王学院 IoPPN 临床心理学博士（DClinPsy），研究孤独谱系、依恋障碍、CPTSD 与 EUPD 的鉴别诊断，以 Delphi 法与混合方法为主要研究工具，并关注少数族裔青年的心理健康服务体验。
 
 ## 学术定位
 

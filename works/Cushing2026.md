@@ -1,27 +1,43 @@
 ---
 title: Cushing (2026) - 事情的本质并非如此：为孤独谱系消除主义辩护
 description: Simon Cushing 从反本质主义出发得出消除主义结论，逐一考察三种反本质主义但反消除主义的选项（MPC 种类、共享政治身份、序列集体），论证根据现有证据消除"孤独谱系"这一概念是最合理的立场，并揭示 Chapman 实为长期消除主义者
-aliases: ["Cushing(2026)", Cushing2026, "The Thing of It Isn't: Defending Eliminativism About Autism"]
-tags: [work, chapter, autism, metaphysics, eliminativism, anti-essentialism, natural-kinds, social-construction, self-diagnosis]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Cushing(2026)
+  - Cushing2026
+  - The Thing of It Isn't: Defending Eliminativism About Autism
+tags:
+  - work
+  - chapter
+  - autism
+  - metaphysics
+  - eliminativism
+  - anti-essentialism
+  - natural-kinds
+  - social-construction
+  - self-diagnosis
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Cushing, S. (2026). The thing of it isn't: Defending eliminativism about autism. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 206–225). Routledge."
 ---
 
 # Cushing (2026) — 事情的本质并非如此：为孤独谱系消除主义辩护
 
+> [!infobox] Cushing (2026)
+> **作者**：[[Simon-Cushing]]
+> **出版年份**：2026
+> **类型**：书章
+> **备注**：Simon Cushing（University of Michigan-Flint）
+> **收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 11 章
+
 引用：Cushing, S. (2026). The thing of it isn't: Defending eliminativism about autism. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 206–225). Routledge.
 
-**作者**：[[Simon-Cushing|Simon Cushing]]（University of Michigan-Flint）
-
-**收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 11 章
-
-**类型**：论文集章节
+Cushing (2026) 从反本质主义出发得出消除主义结论：Cushing 逐一考察三种反本质主义但反消除主义的选项（MPC 种类、共享政治身份、序列集体），论证根据现有证据消除"孤独谱系"这一概念是最合理的立场，并揭示 Chapman 实为长期消除主义者。
 
 ---
 
-## 核心论证结构
+## 论证结构
 
 Cushing 从对孤独谱系的反本质主义出发，得出消除主义结论：**没有本质，孤独谱系作为诊断就毫无意义**。他以两个 Reddit 帖子中的自我诊断争论开篇——双方都是关于孤独谱系的实在论者，分歧仅在于谁最有资格识别其出现——这指向了一个更深层的问题：哪些现象是相关的还不明确。
 

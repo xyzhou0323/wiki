@@ -1,14 +1,31 @@
 ---
 title: CAT-Q
 description: 掩饰孤独谱系特征问卷（CAT-Q, Camouflaging Autistic Traits Questionnaire）是一份25题自填量表，由 Hull et al. (2019) 开发，用于评估补偿、伪装和融入三种掩饰策略，对识别女性和性别多元个体的孤独谱系特征尤为重要
-aliases: [CAT-Q, 掩饰孤独谱系特征问卷, 掩饰问卷, Camouflaging Autistic Traits Questionnaire]
-tags: [test, autism, camouflaging, neurodiversity]
-sources: [Hull et al. 2019, Hull et al. 2020, Baker et al. 2024]
+aliases:
+  - CAT-Q
+  - 掩饰孤独谱系特征问卷
+  - 掩饰问卷
+  - Camouflaging Autistic Traits Questionnaire
+tags:
+  - test
+  - autism
+  - camouflaging
+  - neurodiversity
+sources:
+  - Hull et al. 2019
+  - Hull et al. 2020
+  - Baker et al. 2024
 created: 2026-05-08
-updated: 2026-05-11
+updated: 2026-08-12
 ---
 
 # CAT-Q
+
+> [!infobox] CAT-Q
+> **测量对象**：16 岁及以上个体的掩饰策略使用程度（补偿、伪装、融入）
+> **题数**：25 题
+> **适用年龄**：16 岁及以上
+> **开发者**：Hull et al. (2019)
 
 **掩饰孤独谱系特征问卷**（Camouflaging Autistic Traits Questionnaire，CAT-Q）是一份 25 题的自填量表，用于评估 16 岁及以上个体的掩饰策略使用程度（Hull et al., 2019）。掩饰（camouflaging）指个体在社交互动中适应或隐藏其[[孤独谱系障碍]]特征的策略，通常是为了在以[[神经典型]]为主的社会环境中生存。CAT-Q 评估掩饰策略的使用程度，尤其有助于识别**女性和性别多元个体中的孤独谱系**——这些群体因擅长掩饰孤独谱系特征而常被漏诊或误诊。
 

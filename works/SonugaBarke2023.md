@@ -1,22 +1,35 @@
 ---
 title: Sonuga-Barke (2023) - 范式"翻转"以重振转化科学
 description: JCPP 主编 Sonuga-Barke 的社论——论证神经多样性视角的本体论假设可从意识形态主张中分离，提出从"障碍范式"到"分歧范式"的范式翻转，以"个人成长弧"重新定义干预目标，以 RE-STAR 青年研究者小组（Y-RP）作为参与式研究典范
-aliases: ["Sonuga-Barke(2023)", Paradigm flipping to reinvigorate translational science, SonugaBarke2023]
-tags: [work, neurodiversity, ADHD, translational-science, paradigm, participatory-research]
+aliases:
+  - Sonuga-Barke(2023)
+  - Paradigm flipping to reinvigorate translational science
+  - SonugaBarke2023
+tags:
+  - work
+  - neurodiversity
+  - ADHD
+  - translational-science
+  - paradigm
+  - participatory-research
+sources:
+  - 2026-06-10/SonugaBarke2023.md
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-12
 citation_apa: "Sonuga-Barke, E. J. S. (2023). Paradigm 'flipping' to reinvigorate translational science: Outlining a neurodevelopmental science framework from a 'neurodiversity' perspective. Journal of Child Psychology and Psychiatry, 64(10), 1405–1408. https://doi.org/10.1111/jcpp.13886"
 ---
 
 # Sonuga-Barke (2023) — 范式"翻转"以重振转化科学
 
+> [!infobox] Sonuga-Barke (2023)
+> **作者**：[[Edmund-Sonuga-Barke|Edmund J. S. Sonuga-Barke]]（King's College London，JCPP 主编）
+> **出版年份**：2023
+> **类型**：Editorial（社论）
+> **DOI**：10.1111/jcpp.13886
+
 引用：Sonuga-Barke, E. J. S. (2023). Paradigm 'flipping' to reinvigorate translational science: Outlining a neurodevelopmental science framework from a 'neurodiversity' perspective. *Journal of Child Psychology and Psychiatry, 64*(10), 1405–1408. [https://doi.org/10.1111/jcpp.13886](https://doi.org/10.1111/jcpp.13886)
 
-**作者**：[[Edmund-Sonuga-Barke|Edmund J. S. Sonuga-Barke]]（King's College London，JCPP 主编）
-**年份**：2023
-**期刊**：*Journal of Child Psychology and Psychiatry*, Vol. 64, No. 10, pp. 1405–1408
-**DOI**：10.1111/jcpp.13886
-**类型**：Editorial（社论）
+Sonuga-Barke (2023) 作为 JCPP 主编发表社论，论证神经多样性视角的本体论假设可从意识形态主张中分离，提出从“障碍范式”到“分歧范式”的范式翻转，以“个人成长弧”重新定义干预目标，并以 RE-STAR 青年研究者小组（Y-RP）作为参与式研究典范。
 
 ## 定位
 
@@ -24,7 +37,7 @@ JCPP 主编 Sonuga-Barke 以 Kuhn 的范式理论为框架，论证当前神经�
 
 Sonuga-Barke 的贡献在于：他拒绝将神经多样性仅视为**意识形态**（如果这样，它将使转化科学变得无关而非更新），而是论证 ND 概念包含**可分离的本体论假设**——即使你拒绝其更激进的意识形态主张（善意的人们可以这样做），你仍可利用这些本体论假设来"翻转"障碍范式。
 
-## 核心论证
+## 主要论证
 
 ### 障碍范式的三重危机
 

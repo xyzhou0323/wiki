@@ -1,26 +1,39 @@
 ---
 title: Casten et al. (2023) - 孤独谱系与高认知能力的组合与自杀意念相关
 description: 首项大规模遗传学研究发现：高认知能力在孤独谱系中从保护因素逆转为自杀意念的风险因素——双重特殊儿童是自杀意念最高风险群体
-aliases: ["Casten(2023)", Casten 2023, Casten et al. 2023, twice-exceptional suicide, 2e suicide]
-tags: [work, autism, neurodiversity, mental-health]
-sources: [2026-05-14/The combination of autism and exceptional cognitive ability is associated with suicidal ideation.pdf]
+aliases:
+  - Casten(2023)
+  - Casten 2023
+  - Casten et al. 2023
+  - twice-exceptional suicide
+  - 2e suicide
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - mental-health
+sources:
+  - 2026-05-14/The combination of autism and exceptional cognitive ability is associated with suicidal ideation.pdf
 doi: 10.1016/j.nlm.2022.107698
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-08-12
 citation_apa: "Casten, L. G., Thomas, T. R., Doobay, A. F., Foley-Nicpon, M., Kramer, S., Nickl-Jockschat, T., Abel, T., Assouline, S., & Michaelson, J. J. (2023). The combination of autism and exceptional cognitive ability is associated with suicidal ideation. Neurobiology of Learning and Memory, 197, 107698. https://doi.org/10.1016/j.nlm.2022.107698"
 ---
 
 # Casten et al. (2023) — 孤独谱系、高认知能力与自杀意念
 
+> [!infobox] Casten (2023)
+> **作者**：Casten
+> **出版年份**：2023
+> **类型**：期刊论文
+> **方法**：多队列分析（临床样本 N=1,074 + SPARK N=4,371 + ABCD N=11,878）+ 多基因评分
+> **语言选择**：论文明确选择身份优先语言（identity-first），并在正文中解释缘由
+
 引用：Casten, L. G., Thomas, T. R., Doobay, A. F., Foley-Nicpon, M., Kramer, S., Nickl-Jockschat, T., Abel, T., Assouline, S., & Michaelson, J. J. (2023). The combination of autism and exceptional cognitive ability is associated with suicidal ideation. *Neurobiology of Learning and Memory*, 197, 107698. [https://doi.org/10.1016/j.nlm.2022.107698](https://doi.org/10.1016/j.nlm.2022.107698)
 
-**作者**：Lucas G. Casten、Taylor R. Thomas、Alissa F. Doobay、Megan Foley-Nicpon、Sydney Kramer、Thomas Nickl-Jockschat、Ted Abel、Susan Assouline、Jacob J. Michaelson（University of Iowa）
-**期刊**：*Neurobiology of Learning and Memory*，第 197 卷，107698
-**DOI**：[10.1016/j.nlm.2022.107698](https://doi.org/10.1016/j.nlm.2022.107698)
-**方法**：多队列分析（临床样本 N=1,074 + SPARK N=4,371 + ABCD N=11,878）+ 多基因评分
-**语言选择**：论文明确选择身份优先语言（identity-first），并在正文中解释缘由
+Casten et al. (2023) 是首项大规模遗传学-表型联合研究，发现高认知能力在孤独谱系中从保护因素逆转为自杀意念的风险因素——双重特殊（2e）儿童是自杀意念的最高风险群体。
 
-## 核心贡献
+## 主要贡献
 
 本文是**首项大规模遗传学-表型联合研究**，揭示了一个反直觉的发现：**高认知能力在孤独谱系中从保护因素逆转为自杀意念的风险因素**。在非孤独谱系儿童中，高 IQ 降低自杀意念风险——但在孤独谱系儿童中，高 IQ **增加**风险。
 

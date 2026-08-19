@@ -1,21 +1,36 @@
 ---
 title: Anders Nordahl-Hansen
 description: Anders Nordahl-Hansen 是挪威 Østfold University College 教育、ICT 与学习系教授，DeveLeP 研究组组长，特殊教育学科负责人，研究孤独谱系、早期发展、虚拟现实干预与替代沟通，担任多家国际期刊编委，性别多样性与孤独谱系交叉研究先驱
-aliases: [Anders Nordahl-Hansen, Nordahl-Hansen, Anders Johan Nordahl-Hansen]
-tags: [author, autism, neurodiversity, gender-diversity, methodology, open-science, special-education]
-sources: [2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md]
+aliases:
+  - Anders Nordahl-Hansen
+  - Nordahl-Hansen
+  - Anders Johan Nordahl-Hansen
+tags:
+  - author
+  - autism
+  - neurodiversity
+  - gender-diversity
+  - methodology
+  - open-science
+  - special-education
+sources:
+  - 2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md
 created: 2026-06-06
-updated: 2026-06-24
+updated: 2026-08-12
 ---
 
 # Anders Nordahl-Hansen
 
-**身份**：孤独谱系研究者 × 特殊教育学者 × 研究组组长 × 期刊编委
-**机构**：Østfold University College（挪威哈尔登），教育、ICT 与学习系（Institutt for pedagogikk, IKT og læring），隶属于教师教育与语言学院
-**职称**：教授（Professor）
-**主页**：[hiof.no/lusp/pil/personer/und-forsk-ansatte/anh](https://www.hiof.no/lusp/pil/personer/und-forsk-ansatte/anh/index.html)
-**研究组**：DeveLeP（Development Learning and Psychological Processes）——组长
-**学术管理**：特殊教育学科负责人（Fagkoordinator for Spesialpedagogikk）
+> [!infobox] Anders Nordahl-Hansen
+> **职业**：孤独谱系研究者 × 特殊教育学者 × 研究组组长 × 期刊编委
+> **机构**：Østfold University College（挪威哈尔登），教育、ICT 与学习系（Institutt for pedagogikk, IKT og læring），隶属于教师教育与语言学院
+> **主要领域**：孤独谱系、早期发展、虚拟现实干预、替代沟通、性别多样性与孤独谱系交叉研究
+> **代表著作**：[[ReaEtAl2024]]
+> **职称**：教授（Professor）；特殊教育学科负责人（Fagkoordinator for Spesialpedagogikk）
+> **主页**：[hiof.no/lusp/pil/personer/und-forsk-ansatte/anh](https://www.hiof.no/lusp/pil/personer/und-forsk-ansatte/anh/index.html)
+> **研究组**：DeveLeP（Development Learning and Psychological Processes）——组长
+
+Anders Nordahl-Hansen 是挪威 Østfold University College 教育、ICT 与学习系教授，DeveLeP 研究组组长，特殊教育学科负责人，研究孤独谱系、早期发展、虚拟现实干预与替代沟通，担任多家国际期刊编委，性别多样性与孤独谱系交叉研究先驱。
 
 ## 学术定位
 

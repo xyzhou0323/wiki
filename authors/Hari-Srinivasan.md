@@ -1,14 +1,26 @@
 ---
 title: Hari Srinivasan
 description: Hari Srinivasan 是孤独谱系自我倡权者与范德堡大学神经科学博士生，2025 年提出"神经多样性 2.0"跨学科整合框架，拒绝社会 vs 医学模型、自主 vs 依赖、优势 vs 缺陷三组虚假二元
-aliases: [Hari Srinivasan]
-tags: [author, neurodiversity, autism, neuroscience]
-sources: ["2026-05-07/Dwyer - 2022 - 神经多样性方法群 - 脑脑空间.pdf"]
+aliases:
+  - Hari Srinivasan
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - neuroscience
+sources:
+  - 2026-05-07/Dwyer - 2022 - 神经多样性方法群 - 脑脑空间.pdf
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-08-12
 ---
 
 # Hari Srinivasan
+
+> [!infobox] Hari Srinivasan
+> **职业**：孤独谱系自我倡权者、神经科学博士生
+> **机构**：范德堡大学
+> **主要领域**：神经多样性 2.0、孤独谱系大脑与环境的互动
+> **代表著作**：[[Srinivasan2025]]
 
 **Hari Srinivasan** 是孤独谱系自我倡权者和神经科学研究者的罕见双重身份持有者——正在范德堡大学攻读神经科学博士学位，研究孤独谱系大脑与环境的互动（具体为近体空间 peripersonal space）。
 

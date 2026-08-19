@@ -1,14 +1,25 @@
 ---
 title: Elizabeth Barnes
 description: Elizabeth Barnes 是弗吉尼亚大学哲学家与残障研究学者，The Minority Body 作者，提出以残障权利运动团结判断规则为基础的社会建构论残障定义，取消了损伤与残障的传统区分
-aliases: [伊丽莎白·巴恩斯, Barnes]
-tags: [author, disability]
-sources: [2026-05-12/Disability Definitions and Models (Stanford Encyclopedia of Philosophy).md]
+aliases:
+  - 伊丽莎白·巴恩斯
+  - Barnes
+tags:
+  - author
+  - disability
+sources:
+  - 2026-05-12/Disability Definitions and Models (Stanford Encyclopedia of Philosophy).md
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-08-12
 ---
 
 # Elizabeth Barnes
+
+> [!infobox] Elizabeth Barnes
+> **职业**：哲学家 × 残障研究学者
+> **机构**：弗吉尼亚大学（University of Virginia）
+> **主要领域**：形而上学、残障哲学、社会哲学
+> **代表著作**：[[Barnes2016]]
 
 Elizabeth Barnes（伊丽莎白·巴恩斯）是哲学家，现任教于弗吉尼亚大学（University of Virginia）。她的研究涵盖形而上学、残障哲学和社会哲学。
 

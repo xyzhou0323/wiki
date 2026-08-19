@@ -1,13 +1,30 @@
 ---
 title: EDA-QA
 description: 成人极端要求回避（EDA-QA, Extreme Demand Avoidance Questionnaire – Adult）是一份自填工具，用于评估成年孤独谱系个体的 PDA（极端/广泛性要求回避）特征
-aliases: [EDA-QA, 成人要求回避, 成人PDA, Extreme Demand Avoidance Questionnaire Adult]
-tags: [test, autism, PDA, demand-avoidance, neurodiversity]
+aliases:
+  - EDA-QA
+  - 成人要求回避
+  - 成人PDA
+  - Extreme Demand Avoidance Questionnaire Adult
+tags:
+  - test
+  - autism
+  - PDA
+  - demand-avoidance
+  - neurodiversity
+sources:
+  - Egan et al. 2019
 created: 2026-05-08
-updated: 2026-05-14
+updated: 2026-08-12
 ---
 
 # EDA-QA 成人要求回避
+
+> [!infobox] EDA-QA 成人要求回避
+> **测量对象**：成年孤独谱系个体的极端/广泛性要求回避（PDA）特征
+> **题数**：26 题
+> **适用年龄**：成年个体自填
+> **开发者**：Egan et al. (2019)
 
 **EDA-QA**（Extreme Demand Avoidance Questionnaire – Adult）是一份评估成年[[孤独谱系障碍]]个体**极端/广泛性要求回避**（PDA，也称"广泛性要求回避"）特征的自填工具。
 

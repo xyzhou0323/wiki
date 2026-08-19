@@ -1,14 +1,28 @@
 ---
 title: Sydney Maxwell
 description: Sydney Maxwell 是西北大学的博士生，研究方向为语言哲学、分析形而上学和古代哲学，在 Anderson & Cushing (2026) 中撰文分析孤独谱系与智力傲慢的脆弱性
-aliases: [Sydney Maxwell, Maxwell]
-tags: [author, philosophy, language, autism]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Sydney Maxwell
+  - Maxwell
+tags:
+  - stub
+  - author
+  - philosophy
+  - language
+  - autism
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 ---
 
 # Sydney Maxwell
+
+> [!infobox] Sydney Maxwell
+> **职业**：博士生（哲学）
+> **机构**：西北大学（Northwestern University）
+> **主要领域**：语言哲学、分析形而上学、古代哲学
+> **代表著作**：[[Maxwell2026]]
 
 Sydney Maxwell 是西北大学（Northwestern University）的博士生。他们的研究兴趣包括语言哲学、分析形而上学和古代哲学。未来的计划项目涉及进一步思考，在一个认可并珍视生活经验多样性的社会中，成为良好的对话参与者意味着什么。他们喜欢和他们的狗 Bastion（一只黑色的吉娃娃混种犬）在狗公园里度过时光。
 
@@ -23,3 +37,4 @@ Sydney Maxwell 是西北大学（Northwestern University）的博士生。他们
 ### 其他相关页面
 
 - [[AndersonCushingEds2026]] — 收录卷
+

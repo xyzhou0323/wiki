@@ -1,24 +1,36 @@
 ---
 title: Retief & Letsosa (2018) - 残障模型概述
 description: Retief 与 Letsosa 发表于 HTS Teologiese Studies 的分类论文——系统梳理 9 种主流残障模型的基本特征与神学意义
-aliases: ["Retief(2018)", Retief & Letsosa 2018, RetiefLetsosa2018, "Models of disability: A brief overview"]
-tags: [work, disability, foundational, theology]
-sources: [2026-05-12/RetiefLetsosa2018-Models of disability A brief overview.pdf]
+aliases:
+  - Retief(2018)
+  - Retief & Letsosa 2018
+  - RetiefLetsosa2018
+  - Models of disability: A brief overview
+tags:
+  - work
+  - disability
+  - foundational
+  - theology
+sources:
+  - 2026-05-12/RetiefLetsosa2018-Models of disability A brief overview.pdf
 doi: 10.4102/hts.v74i1.4738
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-08-12
 citation_apa: "Retief, M. & Letsosa, R. (2018). Models of disability: A brief overview. HTS Teologiese Studies/Theological Studies, 74(1), a4738. https://doi.org/10.4102/hts.v74i1.4738"
 ---
 
 # Retief & Letsosa (2018) — 残障模型概述
 
+> [!infobox] Retief (2018)
+> **作者**：Retief
+> **出版年份**：2018
+> **机构**：西北大学神学院（南非）
+> **发表**：2018 年 3 月 6 日发表（2017 年 7 月收稿，12 月接受）
+> **许可**：CC BY
+
 引用：Retief, M. & Letsosa, R. (2018). Models of disability: A brief overview. *HTS Teologiese Studies/Theological Studies*, 74(1), a4738. [https://doi.org/10.4102/hts.v74i1.4738](https://doi.org/10.4102/hts.v74i1.4738)
 
-**作者**：Marno Retief & Rantoa Letsosa（西北大学神学院，南非）
-**期刊**：*HTS Teologiese Studies/Theological Studies*，第 74 卷，第 1 期，a4738
-**DOI**：[10.4102/hts.v74i1.4738](https://doi.org/10.4102/hts.v74i1.4738)
-**发表**：2018 年 3 月 6 日发表（2017 年 7 月收稿，12 月接受）
-**开放获取**：CC BY
+Retief 与 Letsosa 在 HTS Teologiese Studies 发表的分类论文系统梳理了 9 种主流残障模型的基本特征及其神学意义。
 
 ## 背景与方法
 
@@ -59,7 +71,7 @@ citation_apa: "Retief, M. & Letsosa, R. (2018). Models of disability: A brief ov
 ### 9. 极限模型（Limits Model）
 残障 = 具身体验。Creamer (2009) 提出的独特神学模型。核心概念：具身体现（embodiment）和"极限性"（limit-ness）。所有人类都经历限制——残障只是人类普遍具身体验光谱上的一部分。拒绝"残障/健全"二元分类，同时承认社会模型的核心洞见。
 
-## 核心论点
+## 主要论点
 
 模型的重要性（Smart 2004）在于它们：
 - 提供残障的定义

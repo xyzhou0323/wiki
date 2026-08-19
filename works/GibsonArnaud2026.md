@@ -1,27 +1,43 @@
 ---
 title: Gibson & Arnaud (2026) - 孤独谱系、照护与去污名化的边界
 description: Quinn Hiroshi Gibson 与 Sarah Arnaud 识别神经多样性运动去污名化目标面临的四类反弹（无害论、模糊科学、丧失帮助、过度诊断）并逐一驳斥，进而论证去污名化旗帜下所能取得的成就有其边界——运动易受精英俘获和美德信号侵蚀，主张以 Joan Tronto 的照护伦理根据每个个体的特定需求塑造所需照护来应对这一危险
-aliases: ["Gibson(2026)", GibsonArnaud2026, Autism, Care, and the Limits of Destigmatization]
-tags: [work, chapter, autism, neurodiversity, ethics-of-care, destigmatization, elite-capture, virtue-signaling]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Gibson(2026)
+  - GibsonArnaud2026
+  - Autism
+  - Care
+  - and the Limits of Destigmatization
+tags:
+  - work
+  - chapter
+  - autism
+  - neurodiversity
+  - ethics-of-care
+  - destigmatization
+  - elite-capture
+  - virtue-signaling
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Gibson, Q. H., & Arnaud, S. (2026). Autism, care, and the limits of destigmatization. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 93–111). Routledge."
 ---
 
 # Gibson & Arnaud (2026) — 孤独谱系、照护与去污名化的边界
 
+> [!infobox] Gibson (2026)
+> **作者**：[[Quinn-Hiroshi-Gibson|Quinn Hiroshi Gibson]]（Clemson University）、[[Sarah-Arnaud|Sarah Arnaud]]（Édouard Montpetit College）
+> **出版年份**：2026
+> **收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 6 章
+> **类型**：书章
+
 引用：Gibson, Q. H., & Arnaud, S. (2026). Autism, care, and the limits of destigmatization. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 93–111). Routledge.
 
-**作者**：[[Quinn-Hiroshi-Gibson|Quinn Hiroshi Gibson]]（Clemson University）、[[Sarah-Arnaud|Sarah Arnaud]]（Édouard Montpetit College）
-
-**收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 6 章
-
-**类型**：论文集章节
+Gibson 与 Arnaud 识别并逐一驳斥神经多样性运动去污名化目标面临的四类反弹，进而论证去污名化的成就有其边界——运动易受精英俘获和美德信号侵蚀，主张以 Joan Tronto 的照护伦理根据每个个体的特定需求塑造照护来应对这一危险。
 
 ---
 
-## 核心论证结构
+## 论证结构
 
 Gibson 与 Arnaud 在两条战线上作战：
 

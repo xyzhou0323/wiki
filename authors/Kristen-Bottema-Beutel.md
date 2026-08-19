@@ -1,20 +1,36 @@
 ---
 title: Kristen Bottema-Beutel
 description: Kristen Bottema-Beutel 是波士顿学院 Lynch 教育学院教授（Ph.D., UC Berkeley），Autism in Adulthood 副主编，Autism 副编辑，孤独谱系教育硕士证书项目主任，以 Project AIM 孤独谱系干预元分析、反健全中心主义方法论批判与学校融合教育中的对话分析研究著称，获 ASAN 孤独谱系社群盟友奖（2023）
-aliases: [Kristen Bottema-Beutel, Bottema-Beutel, 克里斯滕·博特马-博伊特尔]
-tags: [author, neurodiversity, autism, education, methodology, intervention-research, ableism]
-sources: [2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md]
+aliases:
+  - Kristen Bottema-Beutel
+  - Bottema-Beutel
+  - 克里斯滕·博特马-博伊特尔
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - education
+  - methodology
+  - intervention-research
+  - ableism
+sources:
+  - 2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-12
 ---
 
 # Kristen Bottema-Beutel
 
-**身份**：特殊教育教授 × 孤独谱系干预元科学家 × 反健全中心主义方法论者
-**机构**：波士顿学院（Boston College），Carolyn A. and Peter S. Lynch 教育学院，教学、课程与社会学系（TCS）
-**职称**：教授（Professor），2013 年至今
-**资历**：Ph.D.（UC Berkeley），M.A.（San Francisco State University），B.S.（University of Michigan）
-**主页**：[bc.edu/lynch-school/faculty-research/faculty-directory/kristen-bottema-beutel](https://www.bc.edu/bc-web/schools/lynch-school/faculty-research/faculty-directory/kristen-bottema-beutel.html)
+> [!infobox] Kristen Bottema-Beutel
+> **职业**：特殊教育教授、孤独谱系干预元科学家、反健全中心主义方法论者
+> **机构**：波士顿学院（Boston College）Carolyn A. and Peter S. Lynch 教育学院，教学、课程与社会学系（TCS）
+> **主要领域**：孤独谱系干预研究伦理、反健全中心主义方法论、融合教育
+> **代表著作**：[[KilgallonEtAl2026]]
+> **职称**：教授（Professor），2013 年至今
+> **学位**：Ph.D.（UC Berkeley），M.A.（San Francisco State University），B.S.（University of Michigan）
+> **主页**：[bc.edu/lynch-school/faculty-research/faculty-directory/kristen-bottema-beutel](https://www.bc.edu/bc-web/schools/lynch-school/faculty-research/faculty-directory/kristen-bottema-beutel.html)
+
+Kristen Bottema-Beutel 是波士顿学院 Lynch 教育学院教授（Ph.D., UC Berkeley），Autism in Adulthood 副主编，以 Project AIM 孤独谱系干预元分析、反健全中心主义方法论批判与学校融合教育中的对话分析研究著称，获 ASAN 孤独谱系社群盟友奖（2023）。
 
 ## 学术定位
 
@@ -34,7 +50,7 @@ Bottema-Beutel 以**定性与定量混合方法**研究孤独谱系沟通、语�
 - 孤独谱系教育硕士证书项目主任
 - 课程与教学博士咨询委员会主席
 
-## 核心研究贡献
+## 主要研究贡献
 
 ### Project AIM：孤独谱系干预元分析
 

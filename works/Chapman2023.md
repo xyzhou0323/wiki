@@ -17,20 +17,22 @@ tags:
 sources:
   - books/正常帝国-Empire of Normality (Robert Chapman).epub
 created: 2026-05-07
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Chapman, R. (2023). Empire of normality: Neurodiversity and capitalism. Pluto Press."
 ---
 
 # Chapman (2023) — 正常帝国
 
+> [!infobox] Chapman (2023)
+> **作者**：[[Robert-Chapman]]
+> **出版年份**：2023
+> **类型**：专著/编著
+
 引用：Chapman, R. (2023). Empire of normality: Neurodiversity and capitalism. Pluto Press.
 
+本书从马克思主义视角追溯"正常"概念的建构史，论证常态范式与资本主义的共生关系，提出神经殊异马克思主义作为解放路径。
 
-**完整标题**：Empire of Normality: Neurodiversity and Capitalism
-**作者**：[[Robert-Chapman]]
-**出版年份**：2023
-
-## 核心论点
+## 主要论点
 
 Chapman 的核心命题是：**常态范式（pathology paradigm）并非纯粹的科学建构，而是资本主义生产方式的产物**——它诞生于资本对生产力的需求，并持续服务于将资本主义的认知等级制度自然化。
 

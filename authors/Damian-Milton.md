@@ -1,20 +1,36 @@
 ---
 title: Damian Milton
 description: Damian E. M. Milton 是肯特大学 Tizard 中心智力与发展残障高级讲师，双向同理心问题（Double Empathy Problem）原创者，参与式孤独谱系研究集体（PARC）主席，National Autistic Society 顾问，Routledge 批判孤独谱系研究手册联合主编，250 篇出版物
-aliases: [Damian Milton, Damian E. M. Milton, Milton, 戴米安·米尔顿]
-tags: [author, neurodiversity, autism, foundational, double-empathy, participatory-research]
-sources: [2026-05-07/Double empathy problem_dual_Kimi+DeepSeek.pdf, 2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md]
+aliases:
+  - Damian Milton
+  - Damian E. M. Milton
+  - Milton
+  - 戴米安·米尔顿
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - foundational
+  - double-empathy
+  - participatory-research
+sources:
+  - 2026-05-07/Double empathy problem_dual_Kimi+DeepSeek.pdf
+  - 2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-12
 ---
 
 # Damian Milton
 
-**身份**：孤独谱系学者 × [[双向同理心问题]]原创者 × 参与式研究倡导者 × PARC 主席
-**机构**：肯特大学（University of Kent），Tizard 中心（SSPSSR）
-**职称**：智力与发展残障高级讲师（Senior Lecturer in Intellectual and Developmental Disabilities），2017 年至今
-**兼任**：National Autistic Society（NAS）孤独谱系知识与专长顾问
-**主页**：[kent.ac.uk/school-of-psychology/tizard/people/1419/milton-damian](https://www.kent.ac.uk/school-of-psychology/tizard/people/1419/milton-damian)
+> [!infobox] Damian Milton
+> **职业**：孤独谱系学者 × [[双向同理心问题]]原创者 × 参与式研究倡导者 × PARC 主席
+> **机构**：肯特大学（University of Kent）Tizard 中心（SSPSSR）
+> **主要领域**：双向同理心问题、参与式孤独谱系研究、批判孤独谱系研究
+> **代表著作**：[[Milton2012]]、[[Milton2022]]、[[KilgallonEtAl2026]]
+> **职称**：智力与发展残障高级讲师（Senior Lecturer in Intellectual and Developmental Disabilities），2017 年至今；National Autistic Society（NAS）孤独谱系知识与专长顾问
+> **主页**：[kent.ac.uk/school-of-psychology/tizard/people/1419/milton-damian](https://www.kent.ac.uk/school-of-psychology/tizard/people/1419/milton-damian)
+
+Damian E. M. Milton 是肯特大学 Tizard 中心智力与发展残障高级讲师，双向同理心问题（Double Empathy Problem）原创者，参与式孤独谱系研究集体（PARC）主席，National Autistic Society 顾问，Routledge 批判孤独谱系研究手册联合主编，250 篇出版物。
 
 ## 学术定位
 

@@ -1,19 +1,29 @@
 ---
 title: Wei Cao
 description: 曹伟（Wei Cao）具有心理学背景，Lao et al. (2024) 和 Lao et al. (2026) 合著者，参与了中国孤独症术语感知调查与中文自闭症话语解构研究
-aliases: [Wei Cao, Cao, 曹伟]
-tags: [author, autism]
-sources: []
+aliases:
+  - Wei Cao
+  - Cao
+  - 曹伟
+tags:
+  - stub
+  - author
+  - autism
+sources:
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-12
 ---
 
 # Wei Cao
 
-**中文名**：曹伟
-**任职**：广东培正学院人文学院（广州）
-**角色**：科研工作者
-**专业背景**：心理学
+> [!infobox] Wei Cao
+> **职业**：科研工作者（心理学背景）
+> **机构**：广东培正学院人文学院（广州）
+> **主要领域**：中文孤独症术语研究
+> **代表著作**：[[LaoEtAl2024]]、[[LaoEtAl2026]]
+> **中文名**：曹伟
+
+曹伟（Wei Cao）具有心理学背景，是 Lao et al. (2024) 和 Lao et al. (2026) 的合著者，参与了中国孤独症术语感知调查与中文自闭症话语解构研究。
 
 ## Related
 
@@ -26,3 +36,4 @@ updated: 2026-07-03
 
 - [[Uchong-Lao|刘宇翀]] — 合作者
 - [[Huilin-Zhu|朱绘霖]] — 合作者
+

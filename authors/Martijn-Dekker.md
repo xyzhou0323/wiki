@@ -1,14 +1,27 @@
 ---
 title: Martijn Dekker
 description: Martijn "McDutchie" Dekker 是 InLv（Independent Living Listserv）的创始人——1996 年创建的孤独谱系自我倡权在线论坛，是神经多样性概念集体诞生的核心场域
-aliases: [Martijn Dekker, Martijn "McDutchie" Dekker, McDutchie]
-tags: [author, neurodiversity, autism, historical]
-sources: [2026-07-12/Dekker2023-NeurodiversityOrigin.md]
+aliases:
+  - Martijn Dekker
+  - Martijn "McDutchie" Dekker
+  - McDutchie
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - historical
+sources:
+  - 2026-07-12/Dekker2023-NeurodiversityOrigin.md
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-08-12
 ---
 
 # Martijn Dekker
+
+> [!infobox] Martijn Dekker
+> **职业**：孤独谱系行动者、InLv 创始人
+> **主要领域**：神经多样性概念起源、在线自我倡权社群
+> **代表著作**：[[Dekker2023]]、[[Kapp2020]]
 
 Martijn "McDutchie" Dekker 是荷兰裔孤独谱系行动者，InLv（Independent Living Listserv）的创始人。InLv 于 1996 年创建，是早期互联网上最重要的孤独谱系自我倡权在线论坛之一——集结了最早一批在线组织起来的孤独谱系自我倡权者，成为神经多样性概念**集体诞生**的核心场域。
 

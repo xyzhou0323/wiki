@@ -1,23 +1,39 @@
 ---
 title: Aiston et al. (2025) - 基于话语的孤独谱系专注兴趣研究路径
 description: Aiston、Koteyko 与 van Driel (2025) 在 Applied Linguistics 发表立场论文，首次将信息大放送（info-dumping）和兴趣为本社交系统引入应用语言学——论证未来研究须以参与式、神经多样性肯定的方式通过话语分析理解和改善孤独谱系沟通
-aliases: ["Aiston(2025)", Aiston et al. (2025), AistonKoteykoVanDriel2025]
-tags: [work, autism, neurodiversity, communication, methodology, applied]
+aliases:
+  - Aiston(2025)
+  - Aiston et al. (2025)
+  - AistonKoteykoVanDriel2025
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - communication
+  - methodology
+  - applied
 citation_apa: "Aiston, J., Koteyko, N., & van Driel, M. (2025). Discourse-based approaches to autistic focussed interests: Understanding shared focus, mutual accommodation, and multimodal expression. Applied Linguistics, amaf006. https://doi.org/10.1093/applin/amaf006"
-sources: [2026-06-16/Aiston et al. - 2025 - Discourse-based approaches to autistic focussed interests.md]
+sources:
+  - 2026-06-16/Aiston et al. - 2025 - Discourse-based approaches to autistic focussed interests.md
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-12
 ---
 
 # Aiston et al. (2025) - 基于话语的孤独谱系专注兴趣研究路径
 
+> [!infobox] Aiston (2025)
+> **作者**：Aiston
+> **出版年份**：2025
+
 引用：Aiston, J., Koteyko, N., & van Driel, M. (2025). Discourse-based approaches to autistic focussed interests: Understanding shared focus, mutual accommodation, and multimodal expression. *Applied Linguistics*, amaf006. [https://doi.org/10.1093/applin/amaf006](https://doi.org/10.1093/applin/amaf006)
+
+Aiston、Koteyko 与 van Driel (2025) 在 *Applied Linguistics* 发表立场论文，首次将信息大放送（info-dumping）和兴趣为本社交系统引入应用语言学，论证未来研究须以参与式、神经多样性肯定的方式，通过话语分析理解和改善孤独谱系沟通。
 
 ## 摘要
 
 本文是一篇立场论文（position paper），批判检视了现有孤独谱系沟通话语研究路径，主张未来研究必须是**参与式、神经多样性肯定**的，并服务于解决[[双向同理心问题]]。论文特别论证应用语言学者应更多关注**专注兴趣**在孤独谱系沟通中的角色，并展示话语分析如何揭示兴趣驱动互动的价值——既包括孤独谱系者之间的互动，也包括孤独谱系者与非孤独谱系者之间的跨神经类型互动。
 
-## 核心论证框架
+## 论证框架
 
 ### 理论基础
 

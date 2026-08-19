@@ -1,16 +1,32 @@
 ---
 title: Mildred Boveda
 description: Mildred Boveda 是宾夕法尼亚州立大学特殊教育学者，DisCrit（残障批判种族研究）框架的重要贡献者，Nair et al.（2024）神经多样性去殖民化批判的共同作者
-aliases: [Boveda, Mildred Boveda]
-tags: [author, neurodiversity, critique, intersectionality, education, decolonial, DisCrit]
-sources: [2026-05-09/nair-et-al-2024-is-neurodiversity-a-global-northern-white-paradigm.pdf]
+aliases:
+  - Boveda
+  - Mildred Boveda
+tags:
+  - author
+  - neurodiversity
+  - critique
+  - intersectionality
+  - education
+  - decolonial
+  - DisCrit
+sources:
+  - 2026-05-09/nair-et-al-2024-is-neurodiversity-a-global-northern-white-paradigm.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 ---
 
 # Mildred Boveda
 
-Mildred Boveda 是 Penn State University（美国宾夕法尼亚州立大学）的特殊教育学者，在残障批判种族研究（DisCrit）、交叉性和教师教育领域有重要贡献。
+> [!infobox] Mildred Boveda
+> **职业**：特殊教育学者
+> **机构**：Penn State University（美国宾夕法尼亚州立大学）
+> **主要领域**：DisCrit（残障批判种族研究）、交叉性、教师教育
+> **代表著作**：[[NairEtAl2024]]
+
+Mildred Boveda 是 Penn State University（美国宾夕法尼亚州立大学）的特殊教育学者，研究领域涵盖残障批判种族研究（DisCrit）、交叉性与教师教育。
 
 ## 相关研究
 ### ND 的去殖民化批判

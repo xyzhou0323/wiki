@@ -1,25 +1,36 @@
 ---
 title: Chapman (2021) - 神经多样性与心智功能的社会生态学
 description: Robert Chapman 在 Perspectives on Psychological Science 发表的论文——提出生态模型替代进化/生物统计模型，以社会生态系统类比重新理解心智功能与障碍
-aliases: ["Chapman(2021)", Chapman2021, Neurodiversity and the Social Ecology of Mental Functions, 生态模型, 社会生态学模型]
-tags: [work, neurodiversity, foundational, methodology]
-sources: [2026-05-09/Neurodiversity and the Social Ecology.pdf]
+aliases:
+  - Chapman(2021)
+  - Chapman2021
+  - Neurodiversity and the Social Ecology of Mental Functions
+  - 生态模型
+  - 社会生态学模型
+tags:
+  - work
+  - neurodiversity
+  - foundational
+  - methodology
+sources:
+  - 2026-05-09/Neurodiversity and the Social Ecology.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Chapman, R. (2021). Neurodiversity and the social ecology of mental functions. Perspectives on Psychological Science, 16(6), 1360–1372. https://doi.org/10.1177/1745691620959833"
 ---
 
 # Chapman (2021) — 神经多样性与心智功能的社会生态学
 
+> [!infobox] Chapman (2021)
+> **作者**：[[Robert-Chapman]]
+> **出版年份**：2021
+> **类型**：期刊论文
+
 引用：Chapman, R. (2021). Neurodiversity and the social ecology of mental functions. *Perspectives on Psychological Science, 16*(6), 1360–1372. [https://doi.org/10.1177/1745691620959833](https://doi.org/10.1177/1745691620959833)
 
-**作者**：[[Robert-Chapman|Robert Chapman]]（Durham University）
+Chapman (2021) 提出心智功能的生态模型，以社会生态系统类比替代进化/生物统计模型，重新理解心智功能与障碍，为神经多样性范式提供科学理论基础。
 
-**发表**：*Perspectives on Psychological Science* (2021), 16(6):1360–1372
-
-**类型**：理论论文
-
-## 核心论证
+## 论证
 
 Chapman 提出**心智功能的生态模型**（ecological model of mental functions），作为对正统精神障碍理论（Boorse 的生物统计理论、Wakefield 的有害功能障碍分析）的替代方案，为神经多样性范式提供科学理论基础。
 

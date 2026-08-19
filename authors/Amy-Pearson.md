@@ -1,19 +1,33 @@
 ---
 title: Amy Pearson
 description: Amy Pearson 是杜伦大学心理学系助理教授，神经多样性与发展中心成员，自体认同的孤独谱系成人，主要研究孤独谱系掩饰、人际暴力受害与污名，合著《Autistic Masking》（2023，与 Kieran Rose 合著）
-aliases: [Amy Pearson, Pearson]
-tags: [author, neurodiversity, autism, masking, stigma, interpersonal-violence]
-sources: [2026-05-21/pearson-et-al-2026-it-s-like-calling-short-people-vertically-challenged-language-and-terminology-preferences-among.pdf]
+aliases:
+  - Amy Pearson
+  - Pearson
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - masking
+  - stigma
+  - interpersonal-violence
+sources:
+  - papers/pearson-et-al-2026-it-s-like-calling-short-people-vertically-challenged-language-and-terminology-preferences-among.pdf
 created: 2026-05-21
-updated: 2026-06-24
+updated: 2026-08-12
 ---
 
 # Amy Pearson
 
-**身份**：发育心理学家 × 孤独谱系掩饰研究者 × 人际暴力研究者
-**机构**：杜伦大学（Durham University），心理学系，神经多样性与发展中心（Centre for Neurodiversity and Development）
-**职称**：助理教授（Assistant Professor in Psychology）
-**主页**：[durham.ac.uk/staff/amy-pearson](https://www.durham.ac.uk/staff/amy-pearson/)
+> [!infobox] Amy Pearson
+> **职业**：发育心理学家 × 孤独谱系掩饰研究者 × 人际暴力研究者
+> **机构**：杜伦大学（Durham University），心理学系，神经多样性与发展中心（Centre for Neurodiversity and Development）
+> **主要领域**：孤独谱系掩饰、人际暴力受害、污名、神经多样性与术语
+> **代表著作**：[[PearsonEtAl2026]]
+> **职称**：助理教授（Assistant Professor in Psychology）
+> **主页**：[durham.ac.uk/staff/amy-pearson](https://www.durham.ac.uk/staff/amy-pearson/)
+
+Amy Pearson 是杜伦大学心理学系助理教授，神经多样性与发展中心成员，自体认同的孤独谱系成人，主要研究孤独谱系掩饰、人际暴力受害与污名，合著《Autistic Masking》（2023，与 Kieran Rose 合著）。
 
 ## 学术定位
 

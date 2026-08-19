@@ -1,14 +1,25 @@
 ---
 title: Harvey Blume
 description: Harvey Blume 是记者与作家，第一位在印刷媒体中使用"神经多样性"一词的人，并将概念的起源明确归于孤独谱系在线社群，其角色已由 2024 年档案研究重新确认为社群思想的忠实传递者而非记录者
-aliases: [Harvey Blume]
-tags: [author, neurodiversity, autism, historical]
-sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf, 2026-05-07/神经多样性的诞生-社群历史.md]
+aliases:
+  - Harvey Blume
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - historical
+sources:
+  - 2026-05-09/Neurodiversity studies  mapping out possibilities of a new critical paradigm.pdf
+  - 2026-05-07/神经多样性的诞生-社群历史.md
 created: 2026-05-08
-updated: 2026-06-16
+updated: 2026-08-12
 ---
 
 # Harvey Blume
+
+> [!infobox] Harvey Blume
+> **职业**：记者、作家
+> **主要领域**：神经多样性概念的早期公开传播
 
 Harvey Blume 是记者与作家，以其作为连接孤独谱系在线社群内部思想与外部公共世界的关键桥梁而载入神经多样性运动史。他是第一位在印刷媒体中使用"神经多样性"（neurodiversity）一词的人。
 

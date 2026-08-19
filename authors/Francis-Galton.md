@@ -1,14 +1,25 @@
 ---
 title: Francis Galton
 description: Francis Galton（弗朗西斯·高尔顿）是 19 世纪优生学创始人、心理测量学和行为遗传学先驱，被 Robert Chapman 定位为常态范式的真正奠基人——其对遗传优越性的痴迷为现代"正常"概念奠定了科学外衣
-aliases: [弗朗西斯·高尔顿, Galton, 高尔顿]
-tags: [author, neurodiversity, historical]
-sources: [2026-05-07/正常帝国-Empire of Normality (Robert Chapman).epub]
+aliases:
+  - 弗朗西斯·高尔顿
+  - Galton
+  - 高尔顿
+tags:
+  - author
+  - neurodiversity
+  - historical
+sources:
+  - 2026-05-07/正常帝国-Empire of Normality (Robert Chapman).epub
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 ---
 
 # Francis Galton
+
+> [!infobox] Francis Galton
+> **职业**：19 世纪科学家 × 优生学创始人 × 心理测量学先驱
+> **主要领域**：心理测量学、行为遗传学、优生学
 
 Francis Galton（弗朗西斯·高尔顿，1822-1911）是19世纪有影响力的科学家之一。他是 Erasmus Darwin 的孙子、Charles Darwin 的表弟，创立了心理测量学、行为遗传学和优生学。
 
@@ -19,7 +30,7 @@ Francis Galton（弗朗西斯·高尔顿，1822-1911）是19世纪有影响力�
 - 在伦敦国王学院学医，在剑桥学数学
 - 父亲去世后继承巨额遗产，得以自由旅行、发明和写作
 
-## 核心思想
+## 主要思想
 
 - **对天才的痴迷**：痴迷于在所有可想象的维度上对人类社会进行等级排序
 - **对遗传的迷恋**：在剑桥学习时假设——剑桥充满中产阶级白人男性，可能表明这个群体在体质上优越于其他所有人

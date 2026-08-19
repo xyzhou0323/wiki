@@ -1,8 +1,8 @@
 ---
 title: Raymaker et al. (2020) - 孤独谱系耗竭的学术定义
 description: 首篇对"孤独谱系耗竭"进行学术定义的论文——以社群参与式研究方法（CBPR），基于19位孤独谱系成人的深度访谈，提炼出耗竭的特征、触发因素、恢复障碍与恢复路径
-aliases: ["Raymaker(2020)"]
 aliases:
+  - Raymaker(2020)
   - Raymaker 2020
   - Raymaker et al. 2020
   - Autistic Burnout 2020
@@ -16,20 +16,23 @@ sources:
   - 2026-05-14/raymaker-et-al-2020-having-all-of-your-internal-resources-exhausted-beyond-measure-and-being-left-with-no-clean-up-crew.pdf
 doi: 10.1089/aut.2019.0079
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-08-12
 citation_apa: 'Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer, M., Delos Santos, A., Kapp, S. K., Hunter, M., Joyce, A., & Nicolaidis, C. (2020). "Having all of your internal resources exhausted beyond measure and being left with no clean-up crew": Defining autistic burnout. Autism in Adulthood, 2(2), 132-143. https://doi.org/10.1089/aut.2019.0079'
 ---
 
 # Raymaker et al. (2020) — 孤独谱系耗竭的学术定义
 
+> [!infobox] Raymaker (2020)
+> **作者**：[[Dora-Raymaker]]、[[Steven-Kapp]]
+> **出版年份**：2020
+> **类型**：期刊论文
+> **发表**：2020 年 6 月 10 日在线发表
+> **方法**：扎根理论 × 社群参与式研究（CBPR）
+> **样本**：19 位孤独谱系成人
+
 引用：Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer, M., Delos Santos, A., Kapp, S. K., Hunter, M., Joyce, A., & Nicolaidis, C. (2020). "Having all of your internal resources exhausted beyond measure and being left with no clean-up crew": Defining autistic burnout. *Autism in Adulthood*, 2(2), 132-143. [https://doi.org/10.1089/aut.2019.0079](https://doi.org/10.1089/aut.2019.0079)
 
-**作者**：[[Dora-Raymaker|Dora M. Raymaker]]、Alan R. Teo、Nicole A. Steckler、Brandy Lentz、Mirah Scharer、Austin Delos Santos、[[Steven-Kapp|Steven K. Kapp]]、Morrigan Hunter、Andee Joyce、Christina Nicolaidis
-**期刊**：*Autism in Adulthood*，第 2 卷，第 2 期，第 132–143 页
-**DOI**：[10.1089/aut.2019.0079](https://doi.org/10.1089/aut.2019.0079)
-**发表**：2020 年 6 月 10 日在线发表
-**方法**：扎根理论 × 社群参与式研究（CBPR）
-**样本**：19 位孤独谱系成人
+Raymaker 等以社群参与式研究（CBPR）方法，基于 19 位孤独谱系成人的深度访谈，首次对"孤独谱系耗竭"进行学术定义，提炼出耗竭的特征、触发因素、恢复障碍与恢复路径。
 
 ## 研究团队
 
@@ -48,7 +51,7 @@ citation_apa: 'Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer,
 
 ## 四组主题
 
-### 主题 1：耗竭的核心特征
+### 主题 1：耗竭的主要特征
 
 | 特征 | 描述 |
 |------|------|

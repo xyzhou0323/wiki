@@ -1,19 +1,31 @@
 ---
 title: Xiaobing Zou
 description: 邹小兵（ZOU Xiaobing）是中山大学附属第三医院儿童发育行为中心主任医师、博士生导师、著名儿童发育行为专家，率先将西方发育行为儿科学模式引入中国，Lao et al. (2024) 和 Lao et al. (2026) 通讯作者，率先提出孤独症稳态失衡致病机制及孤独症兼具发育障碍与神经多样性双重特征的新观念，创立了基于孤独症文化的 BSR 干预模式
-aliases: [Xiaobing Zou, Zou, 邹小兵, ZOU Xiaobing]
-tags: [author, autism, neurodiversity]
-sources: []
+aliases:
+  - Xiaobing Zou
+  - Zou
+  - 邹小兵
+  - ZOU Xiaobing
+tags:
+  - author
+  - autism
+  - neurodiversity
+sources:
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-12
 ---
 
 # Xiaobing Zou
 
-**中文名**：邹小兵
-**任职**：中山大学附属第三医院儿童发育行为中心（广州）主任医师、博士生导师
-**角色**：临床医生、科研工作者、孤独症/神经多样性倡导者
-**官方主页**：https://www.zssy.com.cn/node/15313
+> [!infobox] Xiaobing Zou
+> **职业**：主任医师、博士生导师、儿童发育行为专家、临床医生、科研工作者、孤独症/神经多样性倡导者
+> **机构**：中山大学附属第三医院儿童发育行为中心（广州）
+> **主要领域**：儿童发育行为障碍诊断与治疗、孤独症稳态失衡机制、BSR 干预模式
+> **代表著作**：[[LaoEtAl2024]]、[[LaoEtAl2026]]
+> **中文名**：邹小兵
+> **主页**：https://www.zssy.com.cn/node/15313
+
+邹小兵（Zou Xiaobing）是中山大学附属第三医院儿童发育行为中心主任医师、博士生导师，率先将西方发育行为儿科学模式引入中国，提出孤独症稳态失衡致病机制及孤独症兼具发育障碍与神经多样性双重特征的新观念，创立了基于孤独症文化的 BSR 干预模式。
 
 ## 专业领域
 
@@ -26,7 +38,7 @@ updated: 2026-07-03
 - 儿童学习困难
 - 儿童早期教育和高危婴幼儿早期干预
 
-## 核心学术贡献
+## 主要学术贡献
 
 ### 孤独症稳态失衡致病机制
 

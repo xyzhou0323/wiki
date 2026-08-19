@@ -1,18 +1,30 @@
 ---
 title: Elizabeth Kilgallon
 description: Elizabeth Kilgallon 是马萨诸塞大学波士顿分校心理学系研究者（MA），以主导双向同理心问题（DEP）概念澄清论文著称
-aliases: [Elizabeth Kilgallon, Kilgallon, 伊丽莎白·基尔加伦]
-tags: [author, neurodiversity, autism]
-sources: [2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md]
+aliases:
+  - Elizabeth Kilgallon
+  - Kilgallon
+  - 伊丽莎白·基尔加伦
+tags:
+  - author
+  - neurodiversity
+  - autism
+sources:
+  - 2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-12
 ---
 
 # Elizabeth Kilgallon
 
-**身份**：孤独谱系研究者
-**机构**：马萨诸塞大学波士顿分校（University of Massachusetts Boston），心理学系
-**资历**：MA
+> [!infobox] Elizabeth Kilgallon
+> **职业**：孤独谱系研究者
+> **机构**：马萨诸塞大学波士顿分校（University of Massachusetts Boston）心理学系
+> **主要领域**：双向同理心问题（DEP）概念澄清
+> **代表著作**：[[KilgallonEtAl2026]]
+> **学位**：MA
+
+Elizabeth Kilgallon 是马萨诸塞大学波士顿分校心理学系研究者（MA），以主导双向同理心问题（DEP）概念澄清论文著称。
 
 ## 相关研究
 

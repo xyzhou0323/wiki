@@ -1,22 +1,40 @@
 ---
 title: Dwyer et al. (2023) - 建设神经多样性包容高校：给高等教育领导者的建议
 description: Patrick Dwyer 等神经殊异学生与研究者共同撰写的系统建议——三项领域13条建议，获加州大学学术评议会认可，发表于 Autism in Adulthood
-aliases: [Dwyer et al. (2023), Building Neurodiversity-Inclusive Postsecondary Campuses]
-tags: [work, neurodiversity, education, applied, DEI]
-aliases: ["Dwyer(2023)"]
-authors: [Patrick Dwyer, Erica Mineo, Kristin Mifsud, Chris Lindholm, Ava Gurba, T.C. Waisman]
-sources: [2026-05-18/Dwyer 等 - 2023 - Building Neurodiversity-Inclusive Postsecondary Campuses Recommendations for Leaders in Higher Educ.pdf]
+aliases:
+  - Dwyer et al. (2023)
+  - Building Neurodiversity-Inclusive Postsecondary Campuses
+  - Dwyer(2023)
+tags:
+  - work
+  - neurodiversity
+  - education
+  - applied
+  - DEI
+authors:
+  - Patrick Dwyer
+  - Erica Mineo
+  - Kristin Mifsud
+  - Chris Lindholm
+  - Ava Gurba
+  - T.C. Waisman
+sources:
+  - 2026-05-18/Dwyer 等 - 2023 - Building Neurodiversity-Inclusive Postsecondary Campuses Recommendations for Leaders in Higher Educ.pdf
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-08-12
 ---
 
 # Dwyer et al. (2023) - 建设神经多样性包容高校
 
-**引用**：Dwyer, P., Mineo, E., Mifsud, K., Lindholm, C., Gurba, A., & Waisman, T. C. (2023). Building Neurodiversity-Inclusive Postsecondary Campuses: Recommendations for Leaders in Higher Education. *Autism in Adulthood*, 5(1), 1–14.
+> [!infobox] Dwyer et al. (2023)
+> **类型**：Perspective（观点/建议文章）
+> **开放获取**：CC-BY-NC
 
-**类型**：Perspective（观点/建议文章）| **开放获取**：CC-BY-NC
+引用：Dwyer, P., Mineo, E., Mifsud, K., Lindholm, C., Gurba, A., & Waisman, T. C. (2023). Building Neurodiversity-Inclusive Postsecondary Campuses: Recommendations for Leaders in Higher Education. *Autism in Adulthood*, 5(1), 1–14.
 
-## 核心论点
+Dwyer et al. (2023) 由神经殊异学生与研究者共同撰写，提出建设神经多样性包容高校的三项领域 13 条系统建议，并获加州大学学术评议会（UC Academic Senate）正式支持。
+
+## 主要论点
 
 神经殊异者在高校中面临双重障碍——不仅是功能障碍与便利需求，更包括**污名与偏见**。作者团队（均为神经殊异者或家长盟友，多数来自UC Davis的神经殊异者领导社群Aggie Neurodiversity Community）提出**系统层面的变革方案**，其原始建议获加州大学学术评议会（UC Academic Senate）正式支持。
 

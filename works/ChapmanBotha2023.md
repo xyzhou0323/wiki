@@ -1,30 +1,42 @@
 ---
 title: Chapman & Botha (2023) — 神经殊异知情治疗
 description: 将神经多样性范式首次形式化应用于心理治疗框架——提出去病理化的神经殊异知情治疗三原则：功能障碍的关系性重构、神经殊异接纳与自尊、治疗师的认识谦逊
-aliases: ["Chapman(2023)", ChapmanBotha2023, Neurodivergence-informed therapy, 神经多样性知情治疗]
-tags: [work, neurodiversity, autism, clinical, foundational]
-sources: [2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf]
+aliases:
+  - Chapman(2023)
+  - ChapmanBotha2023
+  - Neurodivergence-informed therapy
+  - 神经多样性知情治疗
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - clinical
+  - foundational
+sources:
+  - 2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf
 doi: 10.1111/dmcn.15384
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-12
 citation_apa: "Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy. Developmental Medicine & Child Neurology, 65(3), 310–317. https://doi.org/10.1111/dmcn.15384"
 ---
 
 # Chapman & Botha (2023) — 神经殊异知情治疗
 
+> [!infobox] Chapman (2023)
+> **作者**：[[Robert-Chapman]]、[[Monique-Botha]]
+> **出版年份**：2023
+> **类型**：期刊论文
+> **备注**：受邀综述，在线发表于 2022 年；叙事综述/理论论文；作者单位：Robert Chapman（Sheffield Hallam University）、Monique Botha（University of Stirling）
+
 引用：Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy. *Developmental Medicine & Child Neurology, 65*(3), 310–317. [https://doi.org/10.1111/dmcn.15384](https://doi.org/10.1111/dmcn.15384)
 
-**作者**：[[Robert-Chapman|Robert Chapman]]（Sheffield Hallam University）、[[Monique-Botha|Monique Botha]]（University of Stirling）
+Chapman & Botha (2023) 首次将神经多样性范式形式化地应用于心理治疗框架，提出去病理化的神经殊异知情治疗（neurodivergence-informed therapy）三原则：功能障碍的关系性重构、神经殊异接纳与自尊，以及治疗师的认识谦逊。
 
-**发表**：*Developmental Medicine & Child Neurology* (2023), 65(3):310–317（受邀综述，在线发表于 2022 年）
-
-**类型**：叙事综述 / 理论论文
-
-## 核心论点
+## 主要论点
 
 本文首次尝试将**神经多样性范式**形式化地应用于心理治疗框架，提出**神经殊异知情治疗**（neurodivergence-informed therapy）的概念蓝图。作者综合行动者文献与多学科学术文献（哲学、心理学、社会学、残障研究），聚焦孤独谱系但不限于孤独谱系，为将神经多样性范式纳入临床实践提供三条核心原则。
 
-## 三条核心原则
+## 三条基本原则
 
 ### 一、功能障碍的关系性重构
 

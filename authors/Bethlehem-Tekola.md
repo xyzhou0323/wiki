@@ -1,14 +1,29 @@
 ---
 title: Bethlehem Tekola
 description: Bethlehem Tekola 是伦敦国王学院全球心理健康中心研究员，埃塞俄比亚孤独谱系与发育障碍研究先驱，专注于低资源环境中的污名、文化适应干预与服务改善
-aliases: [Bethlehem Tekola Gebru, Tekola]
-tags: [author, neurodiversity, autism, global-mental-health, Ethiopia]
-sources: ["2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf"]
+aliases:
+  - Bethlehem Tekola Gebru
+  - Tekola
+tags:
+  - stub
+  - author
+  - neurodiversity
+  - autism
+  - global-mental-health
+  - Ethiopia
+sources:
+  - 2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-12
 ---
 
 # Bethlehem Tekola
+
+> [!infobox] Bethlehem Tekola
+> **职业**：全球心理健康中心研究员 × 埃塞俄比亚孤独谱系与发育障碍研究先驱
+> **机构**：伦敦国王学院（King's College London）心理研究所（IoPPN）全球心理健康中心
+> **主要领域**：埃塞俄比亚与撒哈拉以南非洲的孤独谱系与发育障碍、污名、低资源环境中的评估工具适应
+> **代表著作**：[[ChengEtAl2023]]
 
 **Bethlehem Tekola Gebru, PhD**，伦敦国王学院（King's College London）心理研究所（IoPPN）全球心理健康中心研究员。博士毕业于巴斯大学心理学系，曾获亚的斯亚贝巴大学社会人类学硕士与历史学学士。
 
@@ -30,3 +45,4 @@ updated: 2026-06-10
 
 - [[神经多样性与交叉性]] — Tekola 在埃塞俄比亚的污名与发育障碍研究涉及的核心交叉维度
 - [[神经多样性与民主研究]] — 全球心理健康与参与式方法的方法论关联
+

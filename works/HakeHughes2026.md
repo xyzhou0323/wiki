@@ -1,27 +1,43 @@
 ---
 title: Hake & Hughes (2026) - 孤独谱系与性别
 description: Ruby Hake 与 Emily Hughes 梳理孤独谱系与性别自 Kanner 和 Asperger 以来的复杂历史——从极端男性大脑理论到女性孤独谱系表型的本质主义困境，再到反本质主义文献中性别作为表演/幽灵的排他性趋势，论证神经多样性运动以策略性本质主义和交叉性规避了本质主义悖论，并呼吁以批判现象学整合神经多样性与性别多样性的交叉研究
-aliases: ["Hake(2026)", HakeHughes2026, Autism and Gender]
-tags: [work, chapter, autism, gender, essentialism, neurodiversity, phenomenology, EMB-theory, neuroqueer, intersectionality]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Hake(2026)
+  - HakeHughes2026
+  - Autism and Gender
+tags:
+  - work
+  - chapter
+  - autism
+  - gender
+  - essentialism
+  - neurodiversity
+  - phenomenology
+  - EMB-theory
+  - neuroqueer
+  - intersectionality
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Hake, R., & Hughes, E. (2026). Autism and gender. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 79–92). Routledge."
 ---
 
 # Hake & Hughes (2026) — 孤独谱系与性别
 
+> [!infobox] Hake (2026)
+> **作者**：[[Ruby-Hake|Ruby Hake]]（University of Birmingham）、[[Emily-Hughes|Emily Hughes]]（Macquarie University）
+> **出版年份**：2026
+> **收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 5 章
+> **类型**：书章
+
 引用：Hake, R., & Hughes, E. (2026). Autism and gender. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 79–92). Routledge.
 
-**作者**：[[Ruby-Hake|Ruby Hake]]（University of Birmingham）、[[Emily-Hughes|Emily Hughes]]（Macquarie University）
-
-**收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 5 章
-
-**类型**：论文集章节
+Hake 与 Hughes 梳理孤独谱系与性别自 Kanner 和 Asperger 以来的复杂历史，论证神经多样性运动以策略性本质主义和交叉性规避本质主义悖论，并呼吁以批判现象学整合神经多样性与性别多样性的交叉研究。
 
 ---
 
-## 核心论证结构
+## 论证结构
 
 Hake 与 Hughes 论证：孤独谱系自 Kanner 和 Asperger 的时代起就被性别化，但现有文献中的本质主义与反本质主义范式都遵循了一种有害的排他性趋势。她们提出一条中间路径——神经多样性运动以策略性本质主义和交叉性规避了本质主义悖论，同时包容所有性别认同（包括以二元或本质主义术语体验自身性别的跨性别孤独谱系者）。她们最后呼吁以诞生于梅洛-庞蒂、波伏娃和法农著作中的批判现象学整合神经多样性与性别多样性的交叉点，并以参与式共创研究弥合神经多样性运动与主流孤独谱系科学之间的鸿沟。
 

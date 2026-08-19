@@ -1,16 +1,29 @@
 ---
 title: Kathy Leadbitter
 description: Kathy Leadbitter 是曼彻斯特大学心理学与心理健康系研究员，PACT 试验核心成员，超过 18 年孤独谱系研究经验，以推动神经多样性肯定式实践与全球健康领域的参与式研究著称
-aliases: [Leadbitter]
-tags: [author, neurodiversity, autism, intervention, participatory-research]
-sources: ["2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf"]
+aliases:
+  - Leadbitter
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - intervention
+  - participatory-research
+sources:
+  - 2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-12
 ---
 
 # Kathy Leadbitter
 
-**Kathy Leadbitter, PhD**，曼彻斯特大学心理学与心理健康系研究员。博士毕业于兰卡斯特大学（孤独谱系儿童共同注意研究）。超过 18 年孤独谱系研究经验。
+> [!infobox] Kathy Leadbitter
+> **职业**：研究员
+> **机构**：曼彻斯特大学心理学与心理健康系
+> **主要领域**：神经多样性肯定式实践、参与式研究、全球健康
+> **代表著作**：[[ChengEtAl2023]]
+
+**Kathy Leadbitter, PhD** 是曼彻斯特大学心理学与心理健康系研究员，博士毕业于兰卡斯特大学（孤独谱系儿童共同注意研究）。超过 18 年孤独谱系研究经验。
 
 ## 研究领域
 

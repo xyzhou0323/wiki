@@ -1,29 +1,41 @@
 ---
 title: Hughes (2021) - 孤独谱系的异质性是否削弱了神经多样性范式？
 description: Jonathan Hughes (2021) 在 Bioethics 发表的论文，论证孤独谱系的行为和因果异质性对神经多样性范式"非病症"核心主张构成严峻挑战
-aliases: ["Hughes(2021)", Does the heterogeneity of autism undermine the neurodiversity paradigm?, Hughes 2021, 异质性与神经多样性]
-tags: [work, neurodiversity, autism, critique, foundational]
-sources: [2026-05-07/Hughes - 2021 - Does the heterogeneity of autism undermine the neurodiversity paradigm_zh-CN_dual.pdf]
+aliases:
+  - Hughes(2021)
+  - Does the heterogeneity of autism undermine the neurodiversity paradigm?
+  - Hughes 2021
+  - 异质性与神经多样性
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - critique
+  - foundational
+sources:
+  - 2026-05-07/Hughes - 2021 - Does the heterogeneity of autism undermine the neurodiversity paradigm_zh-CN_dual.pdf
 doi: 10.1111/bioe.12780
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Hughes, J. A. (2021). Does the heterogeneity of autism undermine the neurodiversity paradigm? Bioethics, 35(1), 47-60. https://doi.org/10.1111/bioe.12780"
 ---
 
 # Hughes (2021) — 孤独谱系的异质性是否削弱了神经多样性范式？
 
+> [!infobox] Hughes (2021)
+> **作者**：Jonathan A. Hughes（基尔大学法学院）
+> **出版年份**：2021
+> **类型**：开放获取原创论文（英文-中文双语版）
+
 引用：Hughes, J. A. (2021). Does the heterogeneity of autism undermine the neurodiversity paradigm? Bioethics, 35(1), 47-60. [https://doi.org/10.1111/bioe.12780](https://doi.org/10.1111/bioe.12780)
 
+Jonathan Hughes 论证神经多样性范式的核心主张——孤独谱系不是病症——因孤独谱系的行为与因果异质性而无法成立。
 
-**作者**：Jonathan A. Hughes（基尔大学法学院）
-**发表**：*Bioethics* (2021), 35:47–60
-**类型**：开放获取原创论文（英文-中文双语版）
-
-## 核心论点
+## 主要论点
 
 Hughes 论证：神经多样性范式的核心主张——即孤独谱系不是病症（non-disorder claim）——因孤独谱系的异质性而无法成立。
 
-## 神经多样性范式的三个核心主张
+## 神经多样性范式的三个主要主张
 
 Hughes 识别出神经多样性范式文献中三个核心主张，认为第一个最为关键：
 

@@ -13,13 +13,15 @@ tags:
   - methodology
   - community-based-research
   - applied
+sources:
+  - 2026-07-22/AASPIRE Autistic Burnout Scale - Revised.md
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-12
 ---
 
 # AASPIRE
 
-**AASPIRE**（Academic Autism Spectrum Partnership in Research and Education，学术孤独谱系研究与教育伙伴关系）是一个学术-社群合作研究组织，将[[参与式行动研究|社区参与式研究]]（CBPR）方法系统应用于孤独谱系研究领域。它由[[Christina-Nicolaidis]]（学术联合主任）与[[Dora-Raymaker]]（社群联合主任）于 2006 年共同创立，总部位于波特兰州立大学。网站：[https://aaspire.org/](https://aaspire.org/)
+**AASPIRE**（Academic Autism Spectrum Partnership in Research and Education，学术孤独谱系研究与教育伙伴关系）是一个学术-社群合作研究组织，将[[参与式行动研究|社区参与式研究]]（CBPR）方法系统应用于孤独谱系研究领域。它由[[Christina-Nicolaidis]]（学术联合主任）与[[Dora-Raymaker]]（社群联合主任）于 2006 年共同创立，总部位于波特兰州立大学。网站：[https://aaspire.org/](https://aaspire.org/)。
 
 AASPIRE 是孤独谱系 CBPR 的标杆实践——它将孤独谱系社群成员纳入研究全过程，包括议程设定、方法选择、数据收集与分析、成果传播，而非仅将其作为"研究对象"。这一实践体现了[[神经多样性与民主研究|"没有我们的参与，不做关于我们的决定"]]（Nothing About Us Without Us）的核心原则。
 
@@ -60,7 +62,7 @@ AASPIRE 总部位于波特兰州立大学，其团队成员包括来自全美各
 
 学术合作伙伴来自多所学术机构，包括：俄勒冈健康与科学大学、加州大学旧金山分校、印第安纳大学、雪城大学、皇家墨尔本理工大学、朴茨茅斯大学、范德堡大学、圣地亚哥州立大学、华盛顿大学、蒙大拿大学农村研究所和犹他大学。
 
-## 核心研究领域
+## 研究领域
 
 AASPIRE 的研究涵盖多个领域：
 

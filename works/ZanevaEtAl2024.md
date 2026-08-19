@@ -1,7 +1,8 @@
 ---
 title: Zaneva et al. (2024) - 神经多样性导论：一份带注释的阅读清单
 description: 这是一份由神经多元化研究者团队协作开发的带注释阅读清单——涵盖神经多样性的历史与当代理解的 9 个主题，面向希望理解关键概念并推动更严谨、去污名化、无障碍且包容的科研实践的研究者与教育者
-aliases: ["Zaneva(2024)"]
+aliases:
+  - Zaneva(2024)
 aliases:
   - "Introduction to Neurodiversity: An Annotated Reading List"
   - ZanevaEtAl2024
@@ -12,18 +13,21 @@ tags:
 sources:
   - 2026-06-10/ZanevaEtAl2024-Introduction-to-Neurodiversity-An-Annotated-Reading-List.md
 created: 2026-06-10
-updated: 2026-06-16
+updated: 2026-08-12
 citation_apa: "Zaneva, M., Coll-Martín, T., Héjja-Brichard, Y., Kalandadze, T., Kis, A., Koperska, A., Manalili, M. A. R., Mathy, A., Graham, C. J., Hollis, A., Ross, R. M., Yeung, S. K., Allen, V., Azevedo, F., Friedel, E., Fuller, S., Giannouli, V., Gjoneska, B., Hartmann, H., Korbmacher, M., Elsherif, M. M., & Zisk, A. H. (2024). Introduction to neurodiversity: An annotated reading list. PsyArXiv. https://doi.org/10.31234/osf.io/ugkxp"
 ---
 
 # Zaneva et al. (2024) — 神经多样性导论：一份带注释的阅读清单
 
+> [!infobox] Zaneva (2024)
+> **作者**：[[Mirela-Zaneva]]（通讯作者）、Tao Coll-Martín、Yseult Héjja-Brichard、Tamara Kalandadze、Andrea Kis、Alicja Koperska、Marie Adrienne Robles Manalili、Adrien Mathy、Christopher J. Graham、Anna Hollis、Robert M. Ross、Siu Kit Yeung、Veronica Allen、Flavio Azevedo、Emily Friedel、Stephanie Fuller、Vaitsa Giannouli、Biljana Gjoneska、Helena Hartmann、Max Korbmacher、[[Mahmoud-M-Elsherif]]（共同资深作者）、[[Alyssa-Hillary|Alyssa Hillary Zisk]]（共同第一作者）
+> **出版年份**：2024
+> **来源**：PsyArXiv 预印本
+> **FORRT**：Framework for Open and Reproducible Research Training 旗下神经多样性团队项目
+
 引用：Zaneva, M., Coll-Martín, T., Héjja-Brichard, Y., Kalandadze, T., Kis, A., Koperska, A., Manalili, M. A. R., Mathy, A., Graham, C. J., Hollis, A., Ross, R. M., Yeung, S. K., Allen, V., Azevedo, F., Friedel, E., Fuller, S., Giannouli, V., Gjoneska, B., Hartmann, H., Korbmacher, M., Elsherif, M. M., & Zisk, A. H. (2024). Introduction to neurodiversity: An annotated reading list. PsyArXiv. [https://doi.org/10.31234/osf.io/ugkxp](https://doi.org/10.31234/osf.io/ugkxp)
 
-**作者**：[[Mirela-Zaneva]]（通讯作者）、Tao Coll-Martín、Yseult Héjja-Brichard、Tamara Kalandadze、Andrea Kis、Alicja Koperska、Marie Adrienne Robles Manalili、Adrien Mathy、Christopher J. Graham、Anna Hollis、Robert M. Ross、Siu Kit Yeung、Veronica Allen、Flavio Azevedo、Emily Friedel、Stephanie Fuller、Vaitsa Giannouli、Biljana Gjoneska、Helena Hartmann、Max Korbmacher、[[Mahmoud-M-Elsherif]]（共同资深作者）、[[Alyssa-Hillary|Alyssa Hillary Zisk]]（共同第一作者）
-**年份**：2024
-**来源**：PsyArXiv 预印本
-**FORRT**：Framework for Open and Reproducible Research Training 旗下神经多样性团队项目
+Zaneva et al. (2024) 是一份由神经多元化研究者团队协作开发的带注释阅读清单，涵盖神经多样性的历史与当代理解的 9 个主题，面向希望理解关键概念并推动更严谨、去污名化、无障碍且包容的科研实践的研究者与教育者。
 
 ## 定位
 

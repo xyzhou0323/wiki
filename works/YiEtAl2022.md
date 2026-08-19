@@ -1,8 +1,8 @@
 ---
 title: Yi et al. (2022) - 唤起不足还是唤起过度？孤独谱系社会信息加工的机制
 description: 综述孤独谱系社会信息加工的两组对立理论——唤起不足假说（社会动机理论、社会脑理论）与唤起过度假说（视线回避、同理心失衡、激烈世界理论）——并主张二者共存且因个体、情境和发展阶段而异
-aliases: ["Yi(2022)"]
 aliases:
+  - Yi(2022)
   - Yi 2022
   - Yi et al. 2022
   - hypo-arousal hyperarousal autism
@@ -15,18 +15,22 @@ sources:
   - 2026-05-14/Child Dev Perspectives - 2022 - Yi - Hypo‐ or hyperarousal  The .pdf
 doi: 10.1111/cdep.12466
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-08-12
 citation_apa: Yi, L., Wang, Q., Song, C., & Han, Z. R. (2022). Hypo- or hyperarousal? The mechanisms underlying social information processing in autism. Child Development Perspectives, 16, 215–222. https://doi.org/10.1111/cdep.12466
 ---
 
 # Yi et al. (2022) — 唤起不足还是唤起过度？
 
+> [!infobox] Yi (2022)
+> **作者**：Li Yi（北京大学）、Qiandong Wang、Ci Song、Zhuo Rachel Han（北京师范大学）
+> **出版年份**：2022
+> **类型**：期刊论文
+> **DOI**：10.1111/cdep.12466
+> **方法**：综述（整合行为、眼动、神经影像和生理证据）
+
 引用：Yi, L., Wang, Q., Song, C., & Han, Z. R. (2022). Hypo- or hyperarousal? The mechanisms underlying social information processing in autism. *Child Development Perspectives*, 16, 215–222. [https://doi.org/10.1111/cdep.12466](https://doi.org/10.1111/cdep.12466)
 
-**作者**：Li Yi（北京大学）、Qiandong Wang、Ci Song、Zhuo Rachel Han（北京师范大学）
-**期刊**：*Child Development Perspectives*，第 16 卷，第 215–222 页
-**DOI**：[10.1111/cdep.12466](https://doi.org/10.1111/cdep.12466)
-**方法**：综述（整合行为、眼动、神经影像和生理证据）
+Yi et al. (2022) 综述孤独谱系社会信息加工的两组对立理论——唤起不足假说（社会动机理论、社会脑理论）与唤起过度假说（视线回避、同理心失衡、激烈世界理论）——并主张二者共存，且因个体、情境和发展阶段而异。
 
 ## 本文要点
 

@@ -1,16 +1,30 @@
 ---
 title: Wenn Lawson
 description: Wenn Lawson 是澳大利亚科廷大学孤独谱系心理学家与研究者，2005 年与 Murray 和 Lesser 共同提出单一聚焦（Monotropism）理论，2025 年出版该理论 20 年来最全面的单卷处理
-aliases: [Wenn B. Lawson, Wenn Lawson, Lawson]
-tags: [person, researcher, autism, monotropism]
-sources: ["2026-07-12/DwyerEtAl2026.md"]
+aliases:
+  - Wenn B. Lawson
+  - Wenn Lawson
+  - Lawson
+tags:
+  - person
+  - researcher
+  - autism
+  - monotropism
+sources:
+  - 2026-07-12/DwyerEtAl2026.md
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-08-12
 ---
 
 # Wenn Lawson
 
-孤独谱系心理学家、研究者、讲师、倡导者。1952 年出生于英国，现为澳大利亚科廷大学（Curtin University）兼职副教授和高级研究员，美国孤独谱系研究所（ARI）董事会成员。与 [[Dinah-Murray]] 和 Mike Lesser 于 2005 年在 *Autism* 期刊共同提出**[[单一聚焦]]**（Monotropism）理论——主张孤独谱系心智以高度聚焦、狭窄集中的注意力模式为基本特征。
+> [!infobox] Wenn Lawson
+> **职业**：孤独谱系心理学家、研究者、讲师、倡导者
+> **机构**：澳大利亚科廷大学（Curtin University）
+> **主要领域**：单一聚焦（Monotropism）理论、孤独谱系认知架构
+> **代表著作**：[[Lawson2025]]、[[DwyerEtAl2026]]
+
+Wenn Lawson 是孤独谱系心理学家、研究者、讲师和倡导者，1952 年出生于英国，现为澳大利亚科廷大学（Curtin University）兼职副教授和高级研究员，美国孤独谱系研究所（ARI）董事会成员。与 [[Dinah-Murray]] 和 Mike Lesser 于 2005 年在 *Autism* 期刊共同提出**[[单一聚焦]]**（Monotropism）理论——主张孤独谱系心智以高度聚焦、狭窄集中的注意力模式为基本特征。
 
 Lawson 本人为孤独谱系者，是单一聚焦理论的核心理论家之一。著有 30 余部著作，研究聚焦于单一聚焦认知架构如何解释孤独谱系的各种特征——从感官处理、内感觉、物体恒常性到心流状态和任务切换困难。
 

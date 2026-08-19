@@ -1,14 +1,28 @@
 ---
 title: Christopher Constantino
 description: Christopher Constantino 是言语-语言病理学家（CCC-SLP），将神经多样性范式系统应用于口吃治疗的先驱，主张治疗目标应以主观福祉（言语轻松度）而非正常化（流利度）为核心
-aliases: [Christopher-Constantino, Christopher D. Constantino, Constantino]
-tags: [author, neurodiversity, stuttering]
-sources: ["2026-06-10/Constantino2018-What-Can-Stutterers-Learn-from-the-Neurodiversity-Movement.md"]
+aliases:
+  - Christopher-Constantino
+  - Christopher D. Constantino
+  - Constantino
+tags:
+  - stub
+  - author
+  - neurodiversity
+  - stuttering
+sources:
+  - 2026-06-10/Constantino2018-What-Can-Stutterers-Learn-from-the-Neurodiversity-Movement.md
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-12
 ---
 
 # Christopher Constantino
+
+> [!infobox] Christopher Constantino
+> **职业**：言语-语言病理学家（CCC-SLP）
+> **机构**：Shelby County Schools（曾任）
+> **主要领域**：言语-语言病理学、口吃、神经多样性与残障模型
+> **代表著作**：[[Constantino2018]]
 
 Ph.D., CCC-SLP，言语-语言病理学家，曾任职于 Shelby County Schools。将神经多样性范式系统应用于口吃（stuttering）领域的先驱，主张治疗应以主观福祉（言语轻松度）而非正常化（流利度）为目标。
 
@@ -30,3 +44,4 @@ Ph.D., CCC-SLP，言语-语言病理学家，曾任职于 Shelby County Schools�
 - [[Constantino2018|Constantino (2018)]] — 口吃者能从神经多样性运动中学到什么？
 
 ### 其他相关页面
+

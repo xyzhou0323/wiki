@@ -1,22 +1,35 @@
 ---
 title: Steven Kapp
 description: Steven Kapp 是朴茨茅斯大学心理学院高级讲师，发展心理学家，ASAN 前科学主任，Kapp 2020 主编——首部由运动内部 21 位关键领导者以第一人称亲述的神经多样性运动全史，并实质性地影响了 DSM-5 孤独谱系诊断标准的修订
-aliases: [Steven Kapp, Steven K. Kapp, Kapp, 史蒂文·卡普]
-tags: [author, neurodiversity, autism, foundational]
-sources: ["2026-05-07/Autistic Community and the Neurodiversity Movement机翻双语.pdf"]
+aliases:
+  - Steven Kapp
+  - Steven K. Kapp
+  - Kapp
+  - 史蒂文·卡普
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - foundational
+sources:
+  - 2026-05-07/Autistic Community and the Neurodiversity Movement机翻双语.pdf
 created: 2026-05-07
-updated: 2026-07-22
+updated: 2026-08-12
 ---
 
 # Steven K. Kapp
 
-**身份**：发展心理学家 × 孤独谱系与神经多样性研究者
-**机构**：朴茨茅斯大学（University of Portsmouth），科学健康学部，心理、运动与健康科学学院（School of Psychology, Sport and Health Sciences）
-**职称**：高级讲师（Senior Lecturer）
-**所属中心**：整合健康与福祉中心（Centre for Integrated Health and Wellbeing）；互动、发展与多样性中心（Centre for Interaction, Development and Diversity）
-**学位**：PhD（人类发展与教育心理学，UCLA，2016），MA（2013，UCLA），BSc（公共政策，南加州大学 USC）
-**主页**：[researchportal.port.ac.uk/en/persons/steven-kapp](https://researchportal.port.ac.uk/en/persons/steven-kapp)
-**接受博士生**：是
+> [!infobox] Steven K. Kapp
+> **职业**：发展心理学家、高级讲师、孤独谱系与神经多样性研究者
+> **机构**：朴茨茅斯大学（University of Portsmouth），科学健康学部，心理、运动与健康科学学院（School of Psychology, Sport and Health Sciences）；整合健康与福祉中心（Centre for Integrated Health and Wellbeing）；互动、发展与多样性中心（Centre for Interaction, Development and Diversity）
+> **主要领域**：孤独谱系生活质量、神经多样性运动史、DSM-5 诊断标准修订
+> **代表著作**：[[Kapp2020]]、[[KappEtAl2012]]、[[BothaEtAl2024]]
+> **职称**：高级讲师（Senior Lecturer）
+> **学位**：PhD（人类发展与教育心理学，UCLA，2016），MA（2013，UCLA），BSc（公共政策，南加州大学 USC）
+> **主页**：[researchportal.port.ac.uk/en/persons/steven-kapp](https://researchportal.port.ac.uk/en/persons/steven-kapp)
+> **接受博士生**：是
+
+Steven Kapp 是朴茨茅斯大学心理学院高级讲师、发展心理学家，ASAN 前科学主任，Kapp 2020 主编——首部由运动内部 21 位关键领导者以第一人称亲述的神经多样性运动全史，并实质性地影响了 DSM-5 孤独谱系诊断标准的修订。
 
 ## 学术定位
 

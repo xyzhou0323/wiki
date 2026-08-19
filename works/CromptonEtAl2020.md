@@ -1,8 +1,8 @@
 ---
 title: Crompton et al. (2020) - 孤独谱系同伴间信息传递高度有效
 description: Crompton 等人首次以扩散链实验证明孤独谱系者之间的信息传递效率与非孤独谱系者相当，而跨神经类型配对时信息传递显著衰减、融洽度显著降低，为双向同理心问题提供了最直接的实证证据
-aliases: ["Crompton(2020)"]
 aliases:
+  - Crompton(2020)
   - CromptonEtAl2020
   - Autistic peer-to-peer information transfer is highly effective
   - 孤独谱系同伴间信息传递高度有效
@@ -16,18 +16,21 @@ tags:
 sources:
   - 2026-06-24/CromptonEtAl2020-AutisticPeerToPeerInformationTransfer.md
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-12
 citation_apa: Crompton, C. J., Ropar, D., Evans-Williams, C. V. M., Flynn, E. G., & Fletcher-Watson, S. (2020). Autistic peer-to-peer information transfer is highly effective. Autism, 24(7), 1704–1712. https://doi.org/10.1177/1362361320919286
 ---
 
 # Crompton et al. (2020) — 孤独谱系同伴间信息传递高度有效
 
+> [!infobox] Crompton (2020)
+> **作者**：[[Catherine-Crompton]]、[[Sue-Fletcher-Watson]]
+> **出版年份**：2020
+> **类型**：期刊论文
+> **备注**：原创实证研究（扩散链实验）；资助：Templeton World Charity Foundation（TWCF0200）
+
 引用：Crompton, C. J., Ropar, D., Evans-Williams, C. V. M., Flynn, E. G., & Fletcher-Watson, S. (2020). Autistic peer-to-peer information transfer is highly effective. *Autism*, *24*(7), 1704–1712. [https://doi.org/10.1177/1362361320919286](https://doi.org/10.1177/1362361320919286)
 
-**作者**：[[Catherine-Crompton]]、Danielle Ropar、Claire VM Evans-Williams、Emma G Flynn、[[Sue-Fletcher-Watson]]
-**发表**：*Autism*
-**类型**：原创实证研究（扩散链实验）
-**资助**：Templeton World Charity Foundation（TWCF0200）
+Crompton et al. (2020) 是首次以扩散链实验直接检验双向同理心问题的实证研究，证明孤独谱系者之间的信息传递效率与非孤独谱系者相当，而跨神经类型配对时信息传递显著衰减、融洽度显著降低，为双向同理心问题提供了最直接的实证证据。
 
 ## 定位
 

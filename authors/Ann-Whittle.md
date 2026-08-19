@@ -1,14 +1,30 @@
 ---
 title: Ann Whittle
 description: Ann Whittle 是曼彻斯特大学哲学高级讲师，主要研究道德责任、能动性和形而上学的交叉领域，著有《Freedom and Moral Responsibility in Context》
-aliases: [Ann Whittle, Whittle]
-tags: [author, philosophy, moral-responsibility, agency, metaphysics, autism]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Ann Whittle
+  - Whittle
+tags:
+  - stub
+  - author
+  - philosophy
+  - moral-responsibility
+  - agency
+  - metaphysics
+  - autism
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 ---
 
 # Ann Whittle
+
+> [!infobox] Ann Whittle
+> **职业**：哲学高级讲师
+> **机构**：曼彻斯特大学（University of Manchester）
+> **主要领域**：道德责任、能动性与形而上学的交叉领域
+> **代表著作**：[[Whittle2026]]
 
 Ann Whittle 是英国曼彻斯特大学（University of Manchester）哲学高级讲师。她的主要研究领域为道德责任、能动性和形而上学的交叉地带。她的最新专著为 *Freedom and Moral Responsibility in Context*。她的大部分空闲时间都与三个孩子和伴侣 Joel Smith——另一位哲学家——在一起。
 
@@ -24,3 +40,4 @@ Ann Whittle 是英国曼彻斯特大学（University of Manchester）哲学高�
 
 - [[AndersonCushingEds2026]] — 收录卷
 - [[双向同理心问题]] — 论证中的核心理论资源
+

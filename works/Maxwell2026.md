@@ -1,23 +1,40 @@
 ---
 title: Maxwell (2026) - 孤独谱系智力傲慢脆弱性
 description: Sydney Maxwell 以孤独谱系说话者身份分析孤独谱系者频繁被误解的现象——将误解原因归咎于非孤独谱系对话者教条式依赖的"常识"背景假设，论证这是一种智力傲慢形式，并主张非孤独谱系者应主动发起第三话轮会话修复来避免对孤独谱系者的持续伤害
-aliases: ["Maxwell(2026)", Maxwell2026, Autistic Vulnerability to Intellectual Arrogance]
-tags: [work, chapter, autism, philosophy, epistemology, communication, pragmatics, presupposition, intellectual-humility, blame]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Maxwell(2026)
+  - Maxwell2026
+  - Autistic Vulnerability to Intellectual Arrogance
+tags:
+  - work
+  - chapter
+  - autism
+  - philosophy
+  - epistemology
+  - communication
+  - pragmatics
+  - presupposition
+  - intellectual-humility
+  - blame
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Maxwell, S. (2026). Autistic vulnerability to intellectual arrogance. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 10–28). Routledge."
 ---
 
 # Maxwell (2026) — 孤独谱系智力傲慢脆弱性
 
+> [!infobox] Maxwell (2026)
+> **作者**：[[Sydney-Maxwell]]
+> **出版年份**：2026
+> **类型**：书章
+> **机构**：Sydney Maxwell（Northwestern University，博士生，研究方向为语言哲学、分析形而上学和古代哲学）
+> **收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 1 章
+
 引用：Maxwell, S. (2026). Autistic vulnerability to intellectual arrogance. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 10–28). Routledge.
 
-**作者**：[[Sydney-Maxwell|Sydney Maxwell]]（Northwestern University，博士生，研究方向为语言哲学、分析形而上学和古代哲学）
-
-**收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 1 章
-
-**类型**：论文集章节
+Maxwell 以孤独谱系说话者身份分析孤独谱系者频繁被误解的现象，将误解归因于非孤独谱系对话者教条式依赖"常识"背景假设的智力傲慢，并主张非孤独谱系者应主动发起第三话轮会话修复。
 
 ---
 

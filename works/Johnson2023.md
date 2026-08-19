@@ -1,8 +1,8 @@
 ---
 title: Johnson (2023) - 阅读障碍并非天赋，但事情也没那么简单
 description: Johnson 从神经多样性视角审视阅读障碍的"天赋"争论——元分析表明阅读障碍者与常人在创造力上无差异，但"阅读障碍是天赋"这一主张应被理解为对健全中心主义贬低阅读障碍者价值的抵抗，而非需要被科学证据驳斥的错误信念
-aliases: ["Johnson(2023)"]
 aliases:
+  - Johnson(2023)
   - Johnson (2023)
   - Johnson2023
 tags:
@@ -13,12 +13,18 @@ sources:
   - 2026-07-06/Johnson2023-DyslexiaIsNotAGift.md
 citation_apa: "Johnson, R. M. (2023). Dyslexia is not a gift, but it is not that simple. Infant and Child Development, 32(5), e2454. https://doi.org/10.1002/icd.2454"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-08-12
 ---
 
 # Johnson (2023) — 阅读障碍并非天赋，但事情也没那么简单
 
+> [!infobox] Johnson (2023)
+> **作者**：Johnson
+> **出版年份**：2023
+
 引用：Johnson, R. M. (2023). Dyslexia is not a gift, but it is not that simple. *Infant and Child Development*, 32(5), e2454. [https://doi.org/10.1002/icd.2454](https://doi.org/10.1002/icd.2454)
+
+Johnson (2023) 从神经多样性视角审视阅读障碍的"天赋"争论——元分析表明阅读障碍者与常人在创造力上无差异，但"阅读障碍是天赋"这一主张应被理解为对健全中心主义贬低阅读障碍者价值的抵抗，而非需要被科学证据驳斥的错误信念。
 
 ## 概述
 
@@ -63,7 +69,6 @@ Johnson 主张：
 ## 结论
 
 Johnson 重申：目前尚无已知特定于阅读障碍人群层面的内在天赋（Erbeli et al., 2022），但情况并非如此简单。阅读障碍无需成为一种天赋，阅读障碍者才具有价值——阅读障碍者拥有内在价值，并为[[神经多样性]]做出贡献。
-
 
 ## Related
 

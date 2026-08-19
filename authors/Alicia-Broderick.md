@@ -1,19 +1,34 @@
 ---
 title: Alicia A. Broderick
 description: Alicia A. Broderick 是蒙特克莱尔州立大学教育与参与学习学院教授，以孤独症话语的文化批判研究和 2022 年著作《The Autism Industrial Complex》著称，与 Ari Ne'eman 合作完成了为孤独症隐喻分析奠基的系统性话语分析（2008）
-aliases: [Alicia Broderick, Alicia A. Broderick, Broderick, 艾丽西娅·布罗德里克]
-tags: [author, neurodiversity, autism, discourse]
+aliases:
+  - Alicia Broderick
+  - Alicia A. Broderick
+  - Broderick
+  - 艾丽西娅·布罗德里克
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - discourse
+sources:
+  - 2026-05-09/Autism as metaphor narrative and counter-narrative (Broderick, Alicia A. Neeman, Ari).pdf
 created: 2026-05-10
-updated: 2026-06-24
+updated: 2026-08-12
 ---
 
 # Alicia A. Broderick
 
-**身份**：非孤独谱系学者-盟友 × 融合教育研究者 × 孤独症产业批判者
-**机构**：蒙特克莱尔州立大学（Montclair State University），教育与参与学习学院（College for Education and Engaged Learning），教学与学习系
-**职称**：教授（Professor），2012 年至今
-**学位**：PhD（雪城大学），MS（雪城大学），B.Phil.（迈阿密大学西部学院）
-**主页**：[montclair.edu/profilepages](https://www.montclair.edu/profilepages/view_profile.php?username=brodericka)
+> [!infobox] Alicia A. Broderick
+> **职业**：非孤独谱系学者-盟友 × 融合教育研究者 × 孤独症产业批判者
+> **机构**：蒙特克莱尔州立大学（Montclair State University），教育与参与学习学院（College for Education and Engaged Learning），教学与学习系
+> **主要领域**：孤独谱系话语的文化批判、融合教育
+> **代表著作**：[[BroderickNeeman2008]]
+> **职称**：教授（Professor），2012 年至今
+> **学位**：PhD（雪城大学），MS（雪城大学），B.Phil.（迈阿密大学西部学院）
+> **主页**：[montclair.edu/profilepages](https://www.montclair.edu/profilepages/view_profile.php?username=brodericka)
+
+Alicia A. Broderick 是蒙特克莱尔州立大学教育与参与学习学院教授，以孤独症话语的文化批判研究和 2022 年著作《The Autism Industrial Complex》著称，与 Ari Ne'eman 合作完成了为孤独症隐喻分析奠基的系统性话语分析（2008）。
 
 ## 学术定位
 

@@ -1,15 +1,30 @@
 ---
 title: Susan M. Rivera
 description: Susan M. Rivera 是发展认知神经科学研究者，Patrick Dwyer 的学术导师与合作者，在 Dwyer（2025）中担任共同资深作者
-aliases: [Susan M Rivera, Susan M. Rivera, Susan-Rivera]
-tags: [person, researcher, autism, neurodiversity]
-sources: ["2026-07-12/DwyerEtAl2026.md"]
+aliases:
+  - Susan M Rivera
+  - Susan M. Rivera
+  - Susan-Rivera
+tags:
+  - stub
+  - person
+  - researcher
+  - autism
+  - neurodiversity
+sources:
+  - 2026-07-12/DwyerEtAl2026.md
 created: 2026-05-08
+updated: 2026-08-12
 ---
 
 # Susan M. Rivera
 
-发展认知神经科学研究者，[[Patrick-Dwyer]] 的学术导师与合作者。在 [[Dwyer2025|Dwyer (2025)]] 中担任共同资深作者（†co-senior author）。
+> [!infobox] Susan M. Rivera
+> **职业**：发展认知神经科学研究者
+> **主要领域**：发展认知神经科学、孤独谱系
+> **代表著作**：[[Dwyer2025]]、[[DwyerEtAl2026]]
+
+Susan M. Rivera 是发展认知神经科学研究者、[[Patrick-Dwyer]] 的学术导师与合作者，在 [[Dwyer2025|Dwyer (2025)]] 中担任共同资深作者（†co-senior author）。
 
 ## Related
 
@@ -22,3 +37,4 @@ created: 2026-05-08
 
 - [[Patrick-Dwyer]] — 学术合作者
 - [[Kristen-Gillespie-Lynch]] — 共同担任 Dwyer 2025 资深作者
+

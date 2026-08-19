@@ -1,26 +1,40 @@
 ---
 title: Stenning & Bertilsdotter Rosqvist (2021) - 神经多样性研究：绘制新批判范式的可能性
 description: 在 Rosqvist et al. (2020) 编辑卷基础上进一步阐述神经多样性研究作为批判范式的理论框架——提出对神经多样性的三种理解取向并倡导超越它们，批判生物多样性类比，呼吁去殖民化研究方法论
-aliases: ["Stenning(2021)", StenningRosqvist2021, "Neurodiversity studies: mapping out possibilities of a new critical paradigm"]
-tags: [work, neurodiversity, foundational, critique, methodology]
-sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf]
+aliases:
+  - Stenning(2021)
+  - StenningRosqvist2021
+  - Neurodiversity studies: mapping out possibilities of a new critical paradigm
+tags:
+  - work
+  - neurodiversity
+  - foundational
+  - critique
+  - methodology
+sources:
+  - 2026-05-09/Neurodiversity studies  mapping out possibilities of a new critical paradigm.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Stenning, A., & Bertilsdotter Rosqvist, H. (2021). Neurodiversity studies: mapping out possibilities of a new critical paradigm. Disability & Society, 36(9), 1532-1537. https://doi.org/10.1080/09687599.2021.1919503"
 doi: 10.1080/09687599.2021.1919503
 ---
 
 # Stenning & Bertilsdotter Rosqvist (2021) — 神经多样性研究：绘制新批判范式的可能性
 
+> [!infobox] Stenning (2021)
+> **作者**：Stenning
+> **出版年份**：2021
+> **类型**：期刊论文
+
 引用：Stenning, A., & Bertilsdotter Rosqvist, H. (2021). Neurodiversity studies: mapping out possibilities of a new critical paradigm. Disability & Society, 36(9), 1532-1537. [https://doi.org/10.1080/09687599.2021.1919503](https://doi.org/10.1080/09687599.2021.1919503)
 
-**完整引用**：Stenning, A., & Bertilsdotter Rosqvist, H. (2021). Neurodiversity studies: mapping out possibilities of a new critical paradigm. _Disability & Society_, _36_(9), 1532–1537. https://doi.org/10.1080/09687599.2021.1919503
+Stenning & Bertilsdotter Rosqvist (2021) 在 Rosqvist et al. (2020) 编辑卷基础上进一步阐述神经多样性研究作为批判范式的理论框架，提出对神经多样性的三种理解取向并倡导超越它们，批判生物多样性类比，呼吁去殖民化研究方法论。
 
 ## 定位
 
 发表于 _Disability & Society_ 的"Current Issue"（当前议题）文章，是 [[RosqvistEtAl2020]] 编辑卷的后续理论阐述。两位作者——[[Anna-Stenning]] 和 [[Hanna-Bertilsdotter-Rosqvist]]——在该编辑卷出版后，进一步澄清"神经多样性研究"（neurodiversity studies）作为批判范式的理论基础和方法论方向。开放获取（CC BY-NC-ND 4.0），截至 2021 年已有 29,000+ 浏览量、72+ 引用。
 
-## 核心主张
+## 主要主张
 
 ### 神经发育分类作为"移动目标"
 

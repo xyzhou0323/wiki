@@ -1,18 +1,28 @@
 ---
 title: Fengjing Liang
 description: 梁凤晶（Fengjing Liang）是中山大学附属第三医院团队成员，具有精神病学教育背景，Lao et al. (2024) 和 Lao et al. (2026) 合著者，参与了中国孤独症术语感知调查与中文自闭症话语解构研究
-aliases: [Fengjing Liang, Liang, 梁凤晶]
-tags: [author, autism]
-sources: []
+aliases:
+  - Fengjing Liang
+  - Liang
+  - 梁凤晶
+tags:
+  - stub
+  - author
+  - autism
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-12
 ---
 
 # Fengjing Liang
 
-**中文名**：梁凤晶
-**任职**：中山大学附属第三医院儿童发育行为中心（广州）
-**角色**：科研工作者
+> [!infobox] Fengjing Liang
+> **职业**：科研工作者
+> **机构**：中山大学附属第三医院儿童发育行为中心（广州）
+> **主要领域**：中文孤独症术语感知、自闭症话语研究
+> **代表著作**：[[LaoEtAl2024]]、[[LaoEtAl2026]]
+> **中文名**：梁凤晶
+
+梁凤晶（Fengjing Liang）是中山大学附属第三医院团队成员，具有精神病学教育背景，Lao et al. (2024) 和 Lao et al. (2026) 合著者，参与了中国孤独症术语感知调查与中文自闭症话语解构研究。
 
 ## Related
 
@@ -25,3 +35,4 @@ updated: 2026-07-03
 
 - [[Uchong-Lao|刘宇翀]] — 合作者
 - [[Huilin-Zhu|朱绘霖]] — 合作者
+

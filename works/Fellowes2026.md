@@ -1,27 +1,44 @@
 ---
 title: Fellowes (2026) - 孤独谱系、双向同理心问题与感受他人情绪
 description: Sam Fellowes 以孤独谱系哲学家身份，在 Coplan 六维同理心框架下论证：双向同理心问题主要适用于认知同理心维度且大体正确，但在"感受他人所感"这一特定情感同理心维度上，孤独谱系者可能确实存在内在的、能力降低的差异——这种差异本身就是一种病症（使人生贫瘠），但并不影响道德主体地位
-aliases: ["Fellowes(2026)", Fellowes2026, Autism, the Double Empathy Problem and Feeling the Emotions of Another Person]
-tags: [work, chapter, autism, philosophy, empathy, double-empathy-problem, affective-empathy, alexithymia, morality]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Fellowes(2026)
+  - Fellowes2026
+  - Autism
+  - the Double Empathy Problem and Feeling the Emotions of Another Person
+tags:
+  - work
+  - chapter
+  - autism
+  - philosophy
+  - empathy
+  - double-empathy-problem
+  - affective-empathy
+  - alexithymia
+  - morality
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Fellowes, S. (2026). Autism, the double empathy problem and feeling the emotions of another person. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 49–66). Routledge."
 ---
 
 # Fellowes (2026) — 孤独谱系、双向同理心问题与感受他人情绪
 
+> [!infobox] Fellowes (2026)
+> **作者**：[[Sam-Fellowes]]
+> **出版年份**：2026
+> **类型**：书章
+> **备注**：Sam Fellowes（Lancaster University，孤独谱系精神病学哲学家，著有《为精神病诊断辩护》）
+> **收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 3 章
+
 引用：Fellowes, S. (2026). Autism, the double empathy problem and feeling the emotions of another person. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 49–66). Routledge.
 
-**作者**：[[Sam-Fellowes|Sam Fellowes]]（Lancaster University，孤独谱系精神病学哲学家，著有《为精神病诊断辩护》）
-
-**收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 3 章
-
-**类型**：论文集章节
+孤独谱系哲学家 Sam Fellowes 在 Coplan 的六维同理心框架下论证：双向同理心问题主要适用于认知同理心维度且大体正确，但在"感受他人所感"这一特定情感同理心维度上，孤独谱系者可能确实存在内在的、能力降低的差异——这种差异本身就是一种病症（使人生贫瘠），但并不影响道德主体地位。
 
 ---
 
-## 核心论证结构
+## 论证结构
 
 Fellowes 作为孤独谱系哲学家的个人立场使本章格外独特：他**同时**接受[[双向同理心问题]]（DEP）的大部分内容，又论证孤独谱系者在"感受他人所感"这一特定维度上可能确实存在内在能力降低。
 

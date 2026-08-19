@@ -1,16 +1,30 @@
 ---
 title: Hanna Bertilsdotter Rosqvist
 description: Hanna Bertilsdotter Rosqvist 是瑞典 Södertörn 大学社会学副教授，首部《神经多样性研究》编辑卷的联合主编，以孤独谱系感官研究、身份政治与 ND Studies 方法论建构著称
-aliases: [Hanna Bertilsdotter Rosqvist, Bertilsdotter Rosqvist]
-tags: [author, neurodiversity, autism, sociology, methodology]
+aliases:
+  - Hanna Bertilsdotter Rosqvist
+  - Bertilsdotter Rosqvist
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - sociology
+  - methodology
 created: 2026-05-09
-updated: 2026-05-09
-sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf]
+updated: 2026-08-12
+sources:
+  - 2026-05-09/Neurodiversity studies  mapping out possibilities of a new critical paradigm.pdf
 ---
 
 # Hanna Bertilsdotter Rosqvist
 
-瑞典 Södertörn 大学社会学副教授、社会工作高级讲师。曾任 _Scandinavian Journal of Disability Research_ 主编。
+> [!infobox] Hanna Bertilsdotter Rosqvist
+> **职业**：社会学副教授、社会工作高级讲师
+> **机构**：瑞典 Södertörn 大学
+> **主要领域**：孤独谱系感官研究、身份政治与 ND Studies 方法论
+> **代表著作**：[[RosqvistEtAl2020]]、[[StenningRosqvist2021]]
+
+Hanna Bertilsdotter Rosqvist 是瑞典 Södertörn 大学社会学副教授、社会工作高级讲师，曾任 _Scandinavian Journal of Disability Research_ 主编。
 
 ## 相关研究
 

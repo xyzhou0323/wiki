@@ -1,24 +1,37 @@
 ---
 title: Sinclair (1993) - 不要为我们哀悼
 description: Jim Sinclair 1993 年发表的神经多样性运动奠基宣言——首次将孤独谱系者的公共发言从个人叙事转变为政治诉求
-aliases: ["Sinclair(1993)", Don't Mourn for Us, 不要为我们哀悼, Sinclair 1993, Dont Mourn for Us]
-tags: [work, neurodiversity, autism, foundational, historical]
-sources: [2026-05-07/不要为我们悲哀 --- Don't Mourn For Us.md]
+aliases:
+  - Sinclair(1993)
+  - Don't Mourn for Us
+  - 不要为我们哀悼
+  - Sinclair 1993
+  - Dont Mourn for Us
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - foundational
+  - historical
+sources:
+  - 2026-05-07/不要为我们悲哀 --- Don't Mourn For Us.md
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Sinclair, J. (1993). Don't mourn for us. Our Voice, 1(3). Autism Network International. https://www.autreat.com/dont_mourn.html"
 ---
 
 # Sinclair (1993) — 不要为我们哀悼
 
+> [!infobox] Sinclair (1993)
+> **作者**：[[Jim-Sinclair]]
+> **出版年份**：1993
+> **原始场合**：1993 年多伦多国际孤独谱系会议演讲
+> **原文**：https://www.autreat.com/dont_mourn.html
+> **主要受众**：孤独谱系儿童的家长
+
 引用：Sinclair, J. (1993). Don't mourn for us. Our Voice, 1(3). Autism Network International. [https://www.autreat.com/dont_mourn.html](https://www.autreat.com/dont_mourn.html)
 
-
-**作者**：[[Jim-Sinclair]]
-**发表**：1993 年，Autism Network International 通讯 *Our Voice* 第1卷第3期
-**原始场合**：1993 年多伦多国际孤独谱系会议演讲
-**原文**：https://www.autreat.com/dont_mourn.html
-**主要受众**：孤独谱系儿童的家长
+Sinclair (1993) 是神经多样性运动奠基宣言，首次将孤独谱系者的公共发言从个人叙事转变为政治诉求。
 
 ## 历史地位
 
@@ -26,7 +39,7 @@ citation_apa: "Sinclair, J. (1993). Don't mourn for us. Our Voice, 1(3). Autism 
 
 该文至今已近三十年，仍是神经多样性运动的**奠基性文本**——在社交媒体上的日常对话和学术文化评论中持续被引用。许多孤独谱系者和家长称此文引导他们走向自我接纳之路。
 
-## 核心论点
+## 主要论点
 
 ### 一、孤独谱系不是附属物
 

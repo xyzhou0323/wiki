@@ -1,14 +1,27 @@
 ---
 title: Rachelle M. Johnson
 description: Rachelle M. Johnson 是佛罗里达州立大学心理学系及佛罗里达阅读研究中心的阅读障碍研究者，自身为阅读障碍者，研究关注阅读障碍、创造力与神经多样性，致力于倡导神经多元研究团队协作
-aliases: [Rachelle M. Johnson, Rachelle Johnson, Johnson]
-tags: [author, neurodiversity, dyslexia]
-sources: [2026-07-06/Johnson2023-DyslexiaIsNotAGift.md]
+aliases:
+  - Rachelle M. Johnson
+  - Rachelle Johnson
+  - Johnson
+tags:
+  - author
+  - neurodiversity
+  - dyslexia
+sources:
+  - 2026-07-06/Johnson2023-DyslexiaIsNotAGift.md
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-08-12
 ---
 
 # Rachelle M. Johnson
+
+> [!infobox] Rachelle M. Johnson
+> **职业**：阅读障碍研究者（自身为阅读障碍者）
+> **机构**：佛罗里达州立大学（Florida State University）心理学系及佛罗里达阅读研究中心
+> **主要领域**：阅读障碍、创造力与神经多样性
+> **代表著作**：[[Johnson2023]]
 
 Rachelle M. Johnson 是佛罗里达州立大学（Florida State University）心理学系及佛罗里达阅读研究中心（Florida Center for Reading Research）的研究者，自身为阅读障碍者。其研究关注阅读障碍、创造力与[[神经多样性]]，受 FIREFLIES 培训奖学金资助（美国教育科学研究院项目编号 R305B200020）。
 

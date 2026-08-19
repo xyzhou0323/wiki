@@ -1,21 +1,35 @@
 ---
 title: Luodi Yu
 description: 于洛迪（Luodi Yu）是广州大学教育学院特殊教育系"百人计划"副教授、孤独谱系研究中心主任，研究方向为汉语孤独谱系儿童的听觉语言认知发展和感知觉问题，同时致力于孤独谱系公共知识宣导及社区整合
-aliases: [Luodi Yu, 于洛迪, Yu Luodi, Yu, Luodi]
-tags: [author, autism, neurodiversity, education]
-sources: [2026-07-17/LinEtAl2026.md]
+aliases:
+  - Luodi Yu
+  - 于洛迪
+  - Yu Luodi
+  - Yu
+  - Luodi
+tags:
+  - author
+  - autism
+  - neurodiversity
+  - education
+sources:
+  - 2026-07-17/LinEtAl2026.md
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-08-12
 ---
 
 # Luodi Yu
 
-**身份**：孤独谱系研究者 × 特殊教育学者 × 认知神经科学研究者
-**机构**：广州大学（Guangzhou University），教育学院，特殊教育系
-**职称**：广州大学"百人计划"副教授
-**职务**：广州大学教育学院孤独谱系研究中心（Center for Autism Research, CAR）主任
-**资历**：Ph.D. 言语、语言及听力科学，明尼苏达大学双城分校
-**主页**：[jyxy.gzhu.edu.cn/info/1151/2979.htm](https://jyxy.gzhu.edu.cn/info/1151/2979.htm)
+> [!infobox] Luodi Yu
+> **职业**：孤独谱系研究者、特殊教育学者、认知神经科学研究者
+> **机构**：广州大学教育学院特殊教育系
+> **主要领域**：汉语孤独谱系儿童听觉语言认知发展与感知觉问题
+> **代表著作**：[[LinEtAl2026]]
+> **职称**：广州大学"百人计划"副教授、教育学院孤独谱系研究中心（Center for Autism Research, CAR）主任
+> **学位**：Ph.D. 言语、语言及听力科学，明尼苏达大学双城分校
+> **主页**：[jyxy.gzhu.edu.cn/info/1151/2979.htm](https://jyxy.gzhu.edu.cn/info/1151/2979.htm)
+
+Luodi Yu（于洛迪）是广州大学教育学院特殊教育系"百人计划"副教授、孤独谱系研究中心主任，研究方向为汉语孤独谱系儿童的听觉语言认知发展和感知觉问题，同时致力于孤独谱系公共知识宣导及社区整合。
 
 ## 研究方向
 

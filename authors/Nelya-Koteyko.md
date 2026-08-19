@@ -1,14 +1,28 @@
 ---
 title: Nelya Koteyko
 description: Nelya Koteyko 是伦敦玛丽女王大学语言与传播学教授，研究社交媒体话语与日常实践的互动，主导 Wellcome Trust 资助的"亲和空间中的孤独谱系"项目——将孤独谱系社交性的语言学研究推向新方法论前沿
-aliases: [Nelya Koteyko, Koteyko]
-tags: [author, autism, neurodiversity, communication, methodology]
-sources: [2026-06-16/Aiston et al. - 2025 - Discourse-based approaches to autistic focussed interests.md]
+aliases:
+  - Nelya Koteyko
+  - Koteyko
+tags:
+  - author
+  - autism
+  - neurodiversity
+  - communication
+  - methodology
+sources:
+  - 2026-06-16/Aiston et al. - 2025 - Discourse-based approaches to autistic focussed interests.md
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-12
 ---
 
 # Nelya Koteyko
+
+> [!infobox] Nelya Koteyko
+> **职业**：语言与传播学教授
+> **机构**：伦敦玛丽女王大学
+> **主要领域**：社交媒体话语、孤独谱系社交性
+> **代表著作**：[[AistonEtAl2025]]
 
 Nelya Koteyko 是伦敦玛丽女王大学（Queen Mary University of London）语言与传播学教授。她的研究关注印刷与在线媒体话语与日常实践和身份之间的关系。近期项目考察社会技术环境对孤独谱系沟通、感官需求和社会包容的影响。她与孤独谱系社群长期合作，在语言学、人机交互和孤独谱系研究期刊上广泛发表了关于孤独谱系社交性的研究。
 

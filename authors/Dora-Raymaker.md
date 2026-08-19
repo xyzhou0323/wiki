@@ -1,20 +1,34 @@
 ---
 title: Dora Raymaker
 description: Dora Raymaker 是波特兰州立大学社会服务学院区域人类服务研究所（RRI）研究副教授，AASPIRE 联合创始主任，以 CBPR 方法论的先驱性应用和孤独谱系耗竭概念的学术化推动而闻名
-aliases: [Dora Raymaker, Dora M. Raymaker, Raymaker]
-tags: [author, autism, neurodiversity, disability, methodology]
-sources: ["2026-05-14/raymaker-et-al-2020-having-all-of-your-internal-resources-exhausted-beyond-measure-and-being-left-with-no-clean-up-crew.pdf"]
+aliases:
+  - Dora Raymaker
+  - Dora M. Raymaker
+  - Raymaker
+tags:
+  - author
+  - autism
+  - neurodiversity
+  - disability
+  - methodology
+sources:
+  - 2026-05-14/raymaker-et-al-2020-having-all-of-your-internal-resources-exhausted-beyond-measure-and-being-left-with-no-clean-up-crew.pdf
 created: 2026-05-14
-updated: 2026-07-22
+updated: 2026-08-12
 ---
 
 # Dora M. Raymaker
 
-**身份**：孤独谱系研究者 × CBPR 方法论专家 × 科幻作家
-**机构**：波特兰州立大学（Portland State University），区域人类服务研究所（Regional Research Institute for Human Services, RRI），社会服务学院（School of Social Work）；复杂系统项目（Complex Systems program, School of Earth, Environment, and Society）扩展教员
-**学位**：PhD，复杂系统（Complex Systems，原系统科学 Systems Science），波特兰州立大学（2015）
-**代词**：they/them
-**主页**：[pdx.edu/profile/dora-raymaker](https://www.pdx.edu/profile/dora-raymaker)
+> [!infobox] Dora M. Raymaker
+> **职业**：孤独谱系研究者 × CBPR 方法论专家 × 科幻作家
+> **机构**：波特兰州立大学（Portland State University），区域人类服务研究所（Regional Research Institute for Human Services, RRI），社会服务学院（School of Social Work）；复杂系统项目（Complex Systems program, School of Earth, Environment, and Society）扩展教员
+> **主要领域**：社群参与式研究（CBPR）、系统思维、测量科学、孤独谱系耗竭
+> **代表著作**：[[Raymaker2020]]、[[RaymakerEtAl2026]]、[[NicolaidisEtAl2011]]
+> **学位**：PhD，复杂系统（Complex Systems，原系统科学 Systems Science），波特兰州立大学（2015）
+> **代词**：they/them
+> **主页**：[pdx.edu/profile/dora-raymaker](https://www.pdx.edu/profile/dora-raymaker)
+
+Dora Raymaker 是波特兰州立大学社会服务学院区域人类服务研究所（RRI）研究副教授，AASPIRE 联合创始主任，以 CBPR 方法论的先驱性应用和孤独谱系耗竭概念的学术化推动而闻名。
 
 ## 学术定位
 

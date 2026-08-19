@@ -10,14 +10,18 @@ tags:
   - neurodiversity
   - feminism
 sources:
-  - 2026-05-09/Kapp2020.md
+  - 2026-05-07/Autistic Community and the Neurodiversity Movement机翻双语.pdf
 created: 2026-05-08
-updated: 2026-06-16
+updated: 2026-08-12
 ---
 
 # Sharon daVanport
 
-孤独谱系行动者。2010 年创立**孤独谱系女性与非二元性别网络**（Autistic Women & Nonbinary Network, [AWN](https://awnnetwork.org/)），同时联合创办孤独谱系有色人种网络。
+> [!infobox] Sharon daVanport
+> **职业**：孤独谱系行动者
+> **主要领域**：交叉性女权主义与神经多样性运动、孤独谱系自我倡权
+
+Sharon daVanport 是孤独谱系行动者，2010 年创立**孤独谱系女性与非二元性别网络**（Autistic Women & Nonbinary Network, [AWN](https://awnnetwork.org/)），同时联合创办孤独谱系有色人种网络。
 
 ## 相关活动
 

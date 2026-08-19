@@ -1,13 +1,25 @@
 ---
 title: Joshua May
 description: Joshua May 是加州大学圣巴巴拉分校哲学系学者，研究道德心理学与神经伦理学，2025 年提出人格特质模型作为神经多样性方法群的新框架——将神经殊异概念化为维度性人格特质变异
-aliases: [May, Joshua May, Josh May]
-tags: [author, philosopher, neuroethics]
+aliases:
+  - May
+  - Joshua May
+  - Josh May
+tags:
+  - author
+  - philosopher
+  - neuroethics
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-08-12
 ---
 
 # Joshua May
+
+> [!infobox] Joshua May
+> **职业**：哲学系学者
+> **机构**：加州大学圣巴巴拉分校（UC Santa Barbara）哲学系
+> **主要领域**：道德心理学、神经伦理学、神经多样性
+> **代表著作**：[[May2025]]
 
 **Joshua May** 是加州大学圣巴巴拉分校（UC Santa Barbara）哲学系学者，研究领域涵盖道德心理学与神经伦理学。
 

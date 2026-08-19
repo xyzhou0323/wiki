@@ -1,25 +1,39 @@
 ---
 title: Gernsbacher & Yergeau (2019) - 孤独谱系者缺乏心理理论主张的实证失败
 description: Gernsbacher 与 Yergeau 系统性地检验并驳斥了"孤独谱系者缺乏心理理论"这一心理学界流传甚广的断言，揭示该主张在特异性、普遍性、可重复性、聚合效度和预测效度五个维度上均存在实证失败，并明确指出了其社会危害
-aliases: ["Gernsbacher(2019)", Gernsbacher & Yergeau 2019, GernsbacherYergeau2019, 心理理论批判]
-tags: [work, autism, neurodiversity, critique, methodology]
-sources: [2026-06-16/APA PsycNet 全文 HTML 页面 --- APA PsycNet FullTextHTML page.md]
+aliases:
+  - Gernsbacher(2019)
+  - Gernsbacher & Yergeau 2019
+  - GernsbacherYergeau2019
+  - 心理理论批判
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - critique
+  - methodology
+sources:
+  - 2026-06-16/APA PsycNet 全文 HTML 页面 --- APA PsycNet FullTextHTML page.md
 doi: 10.1037/arc0000067
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-12
 citation_apa: "Gernsbacher, M. A., & Yergeau, M. (2019). Empirical failures of the claim that autistic people lack a theory of mind. Archives of Scientific Psychology, 7(1), 102–118. https://doi.org/10.1037/arc0000067"
 ---
 
 # Gernsbacher & Yergeau (2019) — 孤独谱系者缺乏心理理论主张的实证失败
 
+> [!infobox] Gernsbacher (2019)
+> **作者**：Morton Ann Gernsbacher（University of Wisconsin—Madison）、[[Melanie-Yergeau]]（University of Michigan）
+> **出版年份**：2019
+> **类型**：期刊论文
+> **被引**：123+ 次（截至 2026 年）
+> **原文**：https://psycnet.apa.org/fulltext/2019-75285-001.html
+
 引用：Gernsbacher, M. A., & Yergeau, M. (2019). Empirical failures of the claim that autistic people lack a theory of mind. Archives of Scientific Psychology, 7(1), 102–118. [https://doi.org/10.1037/arc0000067](https://doi.org/10.1037/arc0000067)
 
-**作者**：Morton Ann Gernsbacher（University of Wisconsin—Madison）、[[Melanie-Yergeau]]（University of Michigan）
-**发表**：2019 年，*Archives of Scientific Psychology*（APA 期刊），第 7 卷第 1 期
-**被引**：123+ 次（截至 2026 年）
-**原文**：https://psycnet.apa.org/fulltext/2019-75285-001.html
+Gernsbacher 与 Yergeau 系统性地检验并驳斥了"孤独谱系者缺乏心理理论"这一流传甚广的断言，揭示该主张在特异性、普遍性、可重复性、聚合效度和预测效度五个维度上均存在实证失败，并指出其社会危害。
 
-## 核心论点
+## 主要论点
 
 本文系统性地检验并驳斥了"孤独谱系者缺乏心理理论（Theory of Mind）"这一在心理学界流传甚广的断言。作者指出，该主张在**五个维度上均存在实证失败**——特异性、普遍性、可重复性、聚合效度和预测效度——并论证其不仅科学上站不住脚，且对社会有害。
 

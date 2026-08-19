@@ -1,14 +1,28 @@
 ---
 title: Judy Singer
 description: Judy Singer 是澳大利亚社会学者，1998 年首次在学术语境中使用"神经多样性"一词，因 Botha 等（2024）的档案发现其"术语创造者"地位已被学术修正为"最早学术使用者之一"
-aliases: [Judy Singer, Singer]
-tags: [author, neurodiversity, autism, historical]
-sources: [2026-07-12/Singer2017-NeuroDiversityTheBirthOfAnIdea.md, 2026-07-12/Dekker2023-NeurodiversityOrigin.md, 2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf]
+aliases:
+  - Judy Singer
+  - Singer
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - historical
+sources:
+  - 2026-07-12/Singer2017-NeuroDiversityTheBirthOfAnIdea.md
+  - 2026-07-12/Dekker2023-NeurodiversityOrigin.md
+  - 2026-05-09/Neurodiversity studies  mapping out possibilities of a new critical paradigm.pdf
 created: 2026-05-07
-updated: 2026-07-12
+updated: 2026-08-12
 ---
 
 # Judy Singer
+
+> [!infobox] Judy Singer
+> **职业**：社会学者
+> **主要领域**：神经多样性概念的学术使用与传播
+> **代表著作**：[[Singer2017]]
 
 Judy Singer 是澳大利亚社会学者，因其1998年撰写的 Honours 论文 *Odd People In: The Birth of Community amongst people on the Autistic Spectrum* 和其中包含的"神经多样性"（neurodiversity）一词而知名。她长期以来被主流叙事（尤其是 [[Silberman2015|Steve Silberman 的 NeuroTribes]]）归功为该术语的创造者。
 

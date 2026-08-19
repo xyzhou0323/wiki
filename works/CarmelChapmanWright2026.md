@@ -1,31 +1,43 @@
 ---
 title: Carmel, Chapman & Wright (2026) - 残障正义：日常生活中的包容挑战
 description: Carmel, Chapman 与 Wright 的自传式民族志研究——通过一位使用轮椅儿童 Taylor 的八个生活片段，揭示残障正义在日常场所与空间中的实现与缺失
-aliases: ["Carmel(2026)", Carmel Chapman Wright 2026, CarmelChapmanWright2026, "Disability Justice: The Challenges of Inclusion in Everyday Life"]
-tags: [work, disability, applied, lived-experience]
-sources: [2026-05-12/Disability Justice  The Challenges of Inclusion in Everyday Life.pdf]
+aliases:
+  - Carmel(2026)
+  - Carmel Chapman Wright 2026
+  - CarmelChapmanWright2026
+  - Disability Justice: The Challenges of Inclusion in Everyday Life
+tags:
+  - work
+  - disability
+  - applied
+  - lived-experience
+sources:
+  - 2026-05-12/Disability Justice  The Challenges of Inclusion in Everyday Life.pdf
 doi: 10.1080/1034912X.2025.2456288
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-08-12
 citation_apa: "Carmel, J.-M., Chapman, S., & Wright, P. (2026). Disability justice: The challenges of inclusion in everyday life. International Journal of Disability, Development and Education, 73(4), 621-634. https://doi.org/10.1080/1034912X.2025.2456288"
 ---
 
 # Carmel, Chapman & Wright (2026) — 残障正义：日常生活中的包容挑战
 
+> [!infobox] Carmel (2026)
+> **作者**：Carmel
+> **出版年份**：2026
+> **类型**：期刊论文
+> **备注**：2025 年 1 月 27 日在线发表
+> **许可**：CC BY-NC-ND
+> **关键词**：autoethnographic; critical disability theory; disability justice; diversity; equity; inclusion
+
 引用：Carmel, J.-M., Chapman, S., & Wright, P. (2026). Disability justice: The challenges of inclusion in everyday life. *International Journal of Disability, Development and Education*, 73(4), 621-634. [https://doi.org/10.1080/1034912X.2025.2456288](https://doi.org/10.1080/1034912X.2025.2456288)
 
-**作者**：Julie-Mary Carmel, Sian Chapman & Peter Wright（Murdoch University, Perth, Western Australia）
-**期刊**：*International Journal of Disability, Development and Education*，第 73 卷，第 4 期，621–634 页
-**DOI**：[10.1080/1034912X.2025.2456288](https://doi.org/10.1080/1034912X.2025.2456288)
-**发表**：2025 年 1 月 27 日在线发表；2026 年见刊
-**开放获取**：CC BY-NC-ND
-**关键词**：autoethnographic; critical disability theory; disability justice; diversity; equity; inclusion
+Carmel, Chapman & Wright (2026) 是一项自传式民族志研究，通过一位使用轮椅儿童 Taylor 的八个生活片段，揭示残障正义在日常场所与空间中的实现与缺失。
 
 ## 方法
 
 采用**回顾性自传式民族志**（retrospective autoethnography），以第一作者（Julie-Mary Carmel）作为照护者的视角，通过 8 个生活片段（vignettes）呈现 Taylor——一名 3 至 6 岁使用轮椅的儿童——在日常生活中面临的包容与排斥。研究以[[批判性残障理论]]（CDT）和社会模型为分析框架。
 
-## 核心概念
+## 关键概念
 
 ### 残障正义（Disability Justice）
 

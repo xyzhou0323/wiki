@@ -1,27 +1,38 @@
 ---
 title: Dekker (2023) - 对"神经多样性"术语起源的更正
 description: Martijn Dekker 于 2023 年发布的博客文章，撤回此前对 Judy Singer 为术语创造者的认可，并公布 Tony Langdon 1996 年 10 月在 InLv 中使用"neurological diversity"的档案证据——这是已知最早的完整表述
-aliases: ["Dekker(2023)", A correction on the origin of the term neurodiversity, Dekker 2023]
-tags: [work, neurodiversity, autism, historical]
-sources: [2026-07-12/Dekker2023-NeurodiversityOrigin.md]
+aliases:
+  - Dekker(2023)
+  - A correction on the origin of the term neurodiversity
+  - Dekker 2023
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - historical
+sources:
+  - 2026-07-12/Dekker2023-NeurodiversityOrigin.md
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-08-12
 citation_apa: "Dekker, M. (2023, July 13). A correction on the origin of the term 'neurodiversity'. InLv. https://www.inlv.org/2023/07/13/neurodiversity-origin.html"
 ---
 
 # Dekker (2023) — 对"神经多样性"术语起源的更正
 
+> [!infobox] Dekker (2023)
+> **作者**：[[Martijn-Dekker]]
+> **类型**：博客文章 / 个人历史证词
+> **备注**：Martijn "McDutchie" Dekker，InLv 创始人
+
 引用：Dekker, M. (2023, July 13). A correction on the origin of the term 'neurodiversity'. InLv. [https://www.inlv.org/2023/07/13/neurodiversity-origin.html](https://www.inlv.org/2023/07/13/neurodiversity-origin.html)
 
-**作者**：Martijn "McDutchie" [[Martijn-Dekker|Dekker]]（InLv 创始人）
-**发表**：2023 年 7 月 13 日，发布于 inlv.org
-**类型**：博客文章 / 个人历史证词
+Dekker (2023) 的博客文章撤回此前对 Judy Singer 为"神经多样性"术语创造者的认可，并公布 Tony Langdon 于 1996 年 10 月在 InLv 邮件列表中使用"neurological diversity"的档案证据——这是已知最早的完整表述。
 
 ## 概述
 
 2023 年 7 月，InLv（Independent Living Listserv）创始人 Martijn Dekker 发表博客文章，公开撤回了他此前在 [[Kapp2020|Kapp (2020)]] 中认可 Judy Singer 为"神经多样性"术语创造者的说法。Dekker 公布了其 InLv 私人存档中的决定性证据：Tony Langdon 于 **1996 年 10 月 29 日** 在 InLv 邮件列表中使用并完整阐述了"neurological diversity of people"概念——比 [[Singer2017|Singer 的 1998 年论文]]早约两年。
 
-## 核心证据：Langdon 1996 年帖子
+## 证据：Langdon 1996 年帖子
 
 Dekker 在文章中全文转载了 Tony Langdon 1996 年 10 月 29 日发送至 InLv 邮件列表的帖子（经 Langdon 和讨论参与者 Phil Schwarz 授权）。该帖子的关键段落为：
 

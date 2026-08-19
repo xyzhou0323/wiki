@@ -1,14 +1,29 @@
 ---
 title: Sam Fellowes
 description: Sam Fellowes 是兰卡斯特大学的孤独谱系精神病学哲学家，研究精神病诊断、经验专家和自我诊断的哲学地位，著有《为精神病诊断辩护》
-aliases: [Sam Fellowes, Fellowes]
-tags: [author, philosophy, psychiatry, autism, diagnosis, self-diagnosis]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Sam Fellowes
+  - Fellowes
+tags:
+  - author
+  - philosophy
+  - psychiatry
+  - autism
+  - diagnosis
+  - self-diagnosis
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 ---
 
 # Sam Fellowes
+
+> [!infobox] Sam Fellowes
+> **职业**：孤独谱系精神病学哲学家
+> **机构**：兰卡斯特大学（Lancaster University）
+> **主要领域**：精神病诊断、经验专家与自我诊断的哲学地位
+> **代表著作**：[[Fellowes2026]]
 
 Sam Fellowes 是兰卡斯特大学（Lancaster University）的一位孤独谱系精神病学哲学家。他对精神病诊断、精神病学研究和自我诊断中的经验专家（experts-by-experience）的哲学地位感兴趣。他最近出版了专著 *In Defence of Psychiatric Diagnoses*，并发表了文章"Establishing the Accuracy of Self-Diagnosis in Psychiatry"。
 

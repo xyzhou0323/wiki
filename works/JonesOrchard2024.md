@@ -1,25 +1,36 @@
 ---
 title: Jones & Orchard (2024) - 神经多样性与残障：关键何在？
 description: Eleanor Jones 和 Vivienne Orchard (2024) 在 Medical Humanities 发表的概念分析，论证神经多样性通过去历史化和神经中心主义与残障政治脱节
-aliases: ["Jones(2024)", "Neurodiversity and disability: what is at stake?", Jones & Orchard 2024]
-tags: [work, neurodiversity, disability, political, critique]
-sources: [2026-05-07/Jones和Orchard - 2024 - Neurodiversity and disability what is at stake.pdf]
+aliases:
+  - Jones(2024)
+  - Neurodiversity and disability: what is at stake?
+  - Jones & Orchard 2024
+tags:
+  - work
+  - neurodiversity
+  - disability
+  - political
+  - critique
+sources:
+  - 2026-05-07/Jones和Orchard - 2024 - Neurodiversity and disability what is at stake.pdf
 doi: 10.1136/medhum-2023-012808
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Jones, E. K., & Orchard, V. (2024). Neurodiversity and disability: What is at stake? Medical Humanities, 50(3), 456-465. https://doi.org/10.1136/medhum-2023-012808"
 ---
 
 # Jones & Orchard (2024) — 神经多样性与残障：关键何在？
 
+> [!infobox] Jones (2024)
+> **作者**：Eleanor K. Jones（南安普顿大学）、Vivienne Orchard
+> **出版年份**：2024
+> **类型**：原创研究（英文-中文双语版）
+
 引用：Jones, E. K., & Orchard, V. (2024). Neurodiversity and disability: What is at stake? Medical Humanities, 50(3), 456-465. [https://doi.org/10.1136/medhum-2023-012808](https://doi.org/10.1136/medhum-2023-012808)
 
+Jones 与 Orchard 论证神经多样性通过去历史化和神经中心主义与残障政治脱节，并追问神经多样性能为身处精神残障与贫困或种族交叉点的人们做些什么。
 
-**作者**：Eleanor K. Jones（南安普顿大学）和 Vivienne Orchard
-**发表**：*Medical Humanities* (2024), 50:456–465
-**类型**：原创研究（英文-中文双语版）
-
-## 核心论点
+## 主要论点
 
 Jones 和 Orchard 论证：神经多样性日益与残障（disability）分离，通过两个过程使支持者与残障保持距离——
 
@@ -34,7 +45,7 @@ Jones 和 Orchard 论证：神经多样性日益与残障（disability）分离�
 - 同时政客和企业在倡导"神经多元劳动力的益处"
 - **神经多样性嵌入主流与残障人士结构性暴力加深，正在同时发生**
 
-## 三个核心分析
+## 三个主要分析
 
 ### 1. 神经多样性学术研究的局限
 

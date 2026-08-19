@@ -1,8 +1,8 @@
 ---
 title: Rosina & McCready (2026) - 作为人格灵活性的伪装
 description: Emil Eva Rosina 与 Elin McCready 拒绝将伪装视为隐藏孤独谱系特质的传统观点，以 Burnett 的人格解析（persona resolution）和贝叶斯信号博弈建模孤独谱系沟通，论证伪装的核心是人格面具灵活性超出自身标准而"过多"——孤独谱系者具有更高的社会真诚和话语真诚标准，使得神经典型式的角色差异在孤独谱系者中感知为不诚实和自我解体，进而解释去伪装/伪装/社交退缩三分法及"被全世界煤气灯操控"的体验
-aliases: ["Rosina(2026)"]
 aliases:
+  - Rosina(2026)
   - RosinaMcCready2026
   - Masking as Persona Flexibility
 tags:
@@ -18,23 +18,24 @@ tags:
 sources:
   - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: Rosina, E. E., & McCready, E. (2026). Masking as persona flexibility. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 168–184). Routledge.
 ---
 
 # Rosina & McCready (2026) — 作为人格灵活性的伪装
 
+> [!infobox] Rosina (2026)
+> **作者**：[[Emil-Eva-Rosina]]、[[Elin-McCready]]
+> **出版年份**：2026
+> **类型**：书章
+> **机构**：Emil Eva Rosina（Ruhr-University Bochum）；Elin McCready（ICREA / UAB）
+> **收录于**：[[AndersonCushingEds2026]]，第 9 章
+
 引用：Rosina, E. E., & McCready, E. (2026). Masking as persona flexibility. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 168–184). Routledge.
 
-**作者**：[[Emil-Eva-Rosina|Emil Eva Rosina]]（Ruhr-University Bochum）、[[Elin-McCready|Elin McCready]]（ICREA / UAB）
+Rosina 与 McCready 拒绝将伪装视为隐藏孤独谱系特质的传统观点，以人格解析（persona resolution）和贝叶斯信号博弈建模孤独谱系沟通，论证伪装的核心是人格面具灵活性超出自身真诚标准而"过多"。
 
-**收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 9 章
-
-**类型**：论文集章节
-
----
-
-## 核心论证结构
+## 论证结构
 
 Rosina 与 McCready 将伪装从传统病理框架中彻底解放出来，以形式语用学（贝叶斯信号博弈）重构伪装为**人格面具灵活性问题**。核心论证链条：
 
@@ -73,7 +74,7 @@ Rosina 与 McCready 的核心主张：
 
 > **伪装的核心是根据社会语境展示不同人格面具来模仿神经典型沟通——扮演多种社会角色，其兼容性存疑。对神经典型而言这是预期行为，但对孤独谱系者而言，因对真诚自我呈现有更高标准，这感觉像是不诚实。**
 
-### 两个核心原则
+### 两个主要原则
 
 | 原则 | 定义 | 孤独谱系特征 |
 |------|------|------------|

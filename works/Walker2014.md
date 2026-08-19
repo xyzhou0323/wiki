@@ -12,18 +12,21 @@ tags:
 sources:
   - 2026-05-07/Walker-2014-神经多样性基本术语与定义.md
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Walker, N. (2014). Neurodiversity: Some basic terms & definitions. Neurocosmopolitanism. https://neuroqueer.com/neurodiversity-terms-and-definitions/"
 ---
 
 # Walker (2014) — 神经多样性基本术语与定义
 
+> [!infobox] Walker (2014)
+> **作者**：Nick Walker，加州整合大学（CIIS）心理学教授、孤独谱系酷儿学者
+> **出版年份**：2014
+> **发表**：2014 年，最初发布于 Neurocosmopolitanism 网站，现发布于 [Neuroqueer](https://neuroqueer.com/neurodiversity-terms-and-definitions/)
+> **中文版**：译者 Alexander、Rossa、XyZ，发布于 [neurobridge.cn]([翻译丨Walker（2014）：神经多样性：基本术语与定义 | 脑脑客厅](https://neurobridge.cn/docs/neurodiversity/walker2014/))（已获原作者授权）
+
 引用：Walker, N. (2014). Neurodiversity: Some basic terms & definitions. Neurocosmopolitanism. [https://neuroqueer.com/neurodiversity-terms-and-definitions/](https://neuroqueer.com/neurodiversity-terms-and-definitions/)
 
-
-**作者**：Nick Walker，加州整合大学（CIIS）心理学教授、孤独谱系酷儿学者
-**发表**：2014年，最初发布于 Neurocosmopolitanism 网站，现发布于 [Neuroqueer](https://neuroqueer.com/neurodiversity-terms-and-definitions/)
-**中文版**：译者 Alexander、Rossa、XyZ，发布于 [neurobridge.cn]([翻译丨Walker（2014）：神经多样性：基本术语与定义 | 脑脑客厅](https://neurobridge.cn/docs/neurodiversity/walker2014/))（已获原作者授权）
+Walker (2014) 的奠基性术语定义对神经多样性、神经多样性范式、神经多样性运动、神经殊异、神经典型等核心概念作出权威界定。
 
 ## 背景
 

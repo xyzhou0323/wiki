@@ -1,23 +1,33 @@
 ---
 title: Lao et al. (2024) - 中文孤独症术语的社群感知调查
 description: Lao 等人的实证研究通过 1016 名中文使用者的在线调查，测量了 13 个孤独症相关术语的偏好、冒犯度和熟悉度，发现神经多样性、谱系和孤独症谱系障碍最受偏好，而闭娃、高/低功能和自闭症最不受偏好，不同身份群体间及群体内部均无统一态度
-aliases: ["Lao(2024)", Lao et al. 2024, Unveiling the Perceptions of Autism-Related Chinese Language]
-tags: [work, autism, neurodiversity, methodology]
-sources: []
+aliases:
+  - Lao(2024)
+  - Lao et al. 2024
+  - Unveiling the Perceptions of Autism-Related Chinese Language
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - methodology
 doi: 10.1089/aut.2024.0001
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-12
 citation_apa: "Lao, U., Dai, J., Liang, F., Chen, Q., Cao, W., Pan, Y., Zou, X., & Zhu, H. (2024). Unveiling the perceptions of autism-related Chinese language among the autism community and the general public. Autism in Adulthood. https://doi.org/10.1089/aut.2024.0001"
 ---
 
 # Lao et al. (2024) — 中文孤独症术语的社群感知调查
 
+> [!infobox] Lao (2024)
+> **作者**：[[Uchong-Lao]]、[[Jiamin-Dai]]、[[Fengjing-Liang]]、[[Qian-Chen]]、[[Wei-Cao]]、[[Yueran-Pan]]、[[Xiaobing-Zou]]、[[Huilin-Zhu]]
+> **出版年份**：2024
+> **类型**：实证研究（在线调查 + 聚类分析）
+> **发表**：2024 年 11 月 21 日，*Autism in Adulthood*（Mary Ann Liebert / SAGE）
+> **预注册**：Open Science Framework
+
 引用：Lao, U., Dai, J., Liang, F., Chen, Q., Cao, W., Pan, Y., Zou, X., & Zhu, H. (2024). Unveiling the perceptions of autism-related Chinese language among the autism community and the general public. *Autism in Adulthood*. [https://doi.org/10.1089/aut.2024.0001](https://doi.org/10.1089/aut.2024.0001)
 
-**作者**：[[Uchong-Lao|Uchong Lao (刘宇翀)]]、[[Jiamin-Dai|Jiamin Dai (戴嘉敏)]]、[[Fengjing-Liang|Fengjing Liang (梁凤晶)]]、[[Qian-Chen|Qian Chen (陈谦)]]、[[Wei-Cao|Wei Cao (曹伟)]]、[[Yueran-Pan|Yueran Pan (潘悦然)]]、[[Xiaobing-Zou|Xiaobing Zou (邹小兵)]]（通讯作者）、[[Huilin-Zhu|Huilin Zhu (朱绘霖)]]（通讯作者）
-**发表**：2024 年 11 月 21 日，*Autism in Adulthood*（Mary Ann Liebert / SAGE）
-**类型**：实证研究（在线调查 + 聚类分析）
-**预注册**：Open Science Framework
+Lao 等人的实证研究通过 1016 名中文使用者的在线调查，测量了 13 个孤独症相关术语的偏好、冒犯度和熟悉度，发现神经多样性、谱系和孤独症谱系障碍最受偏好，闭娃、高/低功能和自闭症最不受偏好，且不同身份群体间及群体内部均无统一态度。
 
 ## 定位
 
@@ -53,7 +63,7 @@ citation_apa: "Lao, U., Dai, J., Liang, F., Chen, Q., Cao, W., Pan, Y., Zou, X.,
 
 总体四分类：10.4% 为孤独谱系障碍者（n = 106）、30.6% 为孤独症双亲（n = 311）、43.4% 为非孤独谱系障碍者（n = 441）、13.9% 为专业人员（n = 141），另有 3.8% 未定义身份（n = 38）。
 
-## 3. 核心发现
+## 3. 主要发现
 
 ### 整体偏好
 

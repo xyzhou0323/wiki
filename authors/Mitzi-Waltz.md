@@ -1,14 +1,27 @@
 ---
 title: Mitzi Waltz
 description: Mitzi Waltz 是阿姆斯特丹自由大学全球健康研究员、荷兰残障研究高级研究员，以孤独谱系社会史与医学史研究著称，揭示"正常儿童"范畴仅约 100 年的历史建构
-aliases: [Mitzi Waltz]
-tags: [author, neurodiversity, autism, history, disability]
-sources: ["2026-05-09/0051276.pdf"]
+aliases:
+  - Mitzi Waltz
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - history
+  - disability
+sources:
+  - 2026-05-09/0051276.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 ---
 
 # Mitzi Waltz
+
+> [!infobox] Mitzi Waltz
+> **职业**：全球健康研究员、残障研究高级研究员
+> **机构**：阿姆斯特丹自由大学 Athena 研究所
+> **主要领域**：孤独谱系社会史与医学史
+> **代表著作**：[[RosqvistEtAl2020]]
 
 阿姆斯特丹自由大学 Athena 研究所全球健康研究员、荷兰残障研究（Disability Studies in Nederland）高级研究员。曾任谢菲尔德哈勒姆大学孤独谱系研究高级讲师、伯明翰大学孤独谱系研究讲师。
 

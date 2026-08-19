@@ -1,20 +1,34 @@
 ---
 title: Steve Silberman
 description: Steve Silberman（1957–2024）是 Wired 杂志调查记者与作家，2015 年出版 NeuroTribes——将孤独谱系历史和神经多样性概念引入主流公众话语的里程碑式著作，获 Samuel Johnson 奖
-aliases: [Steve Silberman, Silberman, Stephen Louis Silberman]
-tags: [author, neurodiversity, autism, historical, journalist]
-sources: [2026-05-07/《神经部落》-Neurotribes The Legacy of Autism and the Future of Neurodiversity (Steve Silberman) (z-library.sk, 1lib.sk, z-lib.sk).epub]
+aliases:
+  - Steve Silberman
+  - Silberman
+  - Stephen Louis Silberman
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - historical
+  - journalist
+sources:
+  - 2026-05-07/《神经部落》-Neurotribes The Legacy of Autism and the Future of Neurodiversity (Steve Silberman) (z-library.sk, 1lib.sk, z-lib.sk).epub
 created: 2026-05-07
-updated: 2026-06-24
+updated: 2026-08-12
 ---
 
 # Steve Silberman
 
-**身份**：调查记者 × 作家 × 反文化史记录者
-**生卒**：1957 年 12 月 23 日（纽约州伊萨卡）— 2024 年 8 月 29 日（旧金山，66 岁）
-**学历**：Oberlin College（心理学），UC Berkeley（英语文学硕士，导师：诗人 Thom Gunn）
-**配偶**：Keith Karraker（2003 年结婚），高中科学教师
-**网站**：[stevesilberman.com](https://www.stevesilberman.com/)
+> [!infobox] Steve Silberman
+> **职业**：调查记者、作家、反文化史记录者
+> **主要领域**：孤独谱系历史、神经多样性科普、科技文化报道
+> **代表著作**：[[Silberman2015]]
+> **生卒**：1957 年 12 月 23 日（纽约州伊萨卡）— 2024 年 8 月 29 日（旧金山，66 岁）
+> **学位**：Oberlin College（心理学），UC Berkeley（英语文学硕士，导师：诗人 Thom Gunn）
+> **配偶**：Keith Karraker（2003 年结婚），高中科学教师
+> **主页**：[stevesilberman.com](https://www.stevesilberman.com/)
+
+Steve Silberman（1957–2024）是 Wired 杂志调查记者与作家，2015 年出版 NeuroTribes——将孤独谱系历史和神经多样性概念引入主流公众话语的里程碑式著作，获 Samuel Johnson 奖。
 
 ## 生平
 

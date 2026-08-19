@@ -1,24 +1,32 @@
 ---
 title: Frith (2026) - 为什么我不再认为孤独谱系是一个谱系
 description: Uta Frith 在 2026 年 3 月 TES 杂志的访谈——孤独谱系研究奠基人公开主张"谱系已崩溃"，挑战掩饰概念和感官便利措施的科学基础
-aliases: [Uta Frith 2026 interview, Frith 2026]
-tags: [work, autism, critique]
-aliases: ["Frith(2026)"]
-sources: [articles/Uta Frith why I no longer think autism is a spectrum.md]
+aliases:
+  - Uta Frith 2026 interview
+  - Frith 2026
+  - Frith(2026)
+tags:
+  - work
+  - autism
+  - critique
+sources:
+  - articles/Uta Frith why I no longer think autism is a spectrum.md
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-08-12
 ---
 
 # Frith (2026) — 为什么我不再认为孤独谱系是一个谱系
 
+> [!infobox] Frith (2026)
+> **作者**：Dame Uta Frith（伦敦大学学院认知神经科学研究所荣休教授，孤独谱系认知理论的奠基人）
+> **采访者**：Helen Amass
+> **类型**：访谈
+
 引用：Frith, U. (2026, March 4). Uta Frith: why I no longer think autism is a spectrum (H. Amass, Interviewer). *TES Magazine*. [https://www.tes.com/magazine/teaching-learning/general/uta-frith-interview-autism-not-spectrum](https://www.tes.com/magazine/teaching-learning/general/uta-frith-interview-autism-not-spectrum)
 
-**作者**：Dame Uta Frith（伦敦大学学院认知神经科学研究所荣休教授，孤独谱系认知理论的奠基人）
-**采访者**：Helen Amass
-**发表**：*TES Magazine* (2026-03-04)
-**类型**：访谈
+Uta Frith 在 2026 年 3 月接受《TES 杂志》专访，公开主张"谱系已崩溃"，并挑战掩饰概念与感官便利措施的科学基础。
 
-## 核心论点
+## 主要论点
 
 Uta Frith 在长达 150 行的访谈中提出了对神经多样性范式中若干核心概念的正面挑战：
 

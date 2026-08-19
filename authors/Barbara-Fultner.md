@@ -1,14 +1,30 @@
 ---
 title: Barbara Fultner
 description: Barbara Fultner 是丹尼森大学哲学与女性及性别研究教授、黑人研究项目主任，研究社会哲学、女性主义哲学、语言与心灵哲学以及批判理论的交叉领域
-aliases: [Barbara Fultner, Fultner]
-tags: [author, philosophy, feminism, critical-theory, language, intersubjectivity, autism]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Barbara Fultner
+  - Fultner
+tags:
+  - author
+  - philosophy
+  - feminism
+  - critical-theory
+  - language
+  - intersubjectivity
+  - autism
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 ---
 
 # Barbara Fultner
+
+> [!infobox] Barbara Fultner
+> **职业**：哲学与女性及性别研究教授 × 黑人研究项目主任
+> **机构**：丹尼森大学（Denison University）
+> **主要领域**：社会哲学、女性主义哲学、语言与心灵哲学、批判理论
+> **代表著作**：[[MaskitFultner2026]]
 
 Barbara Fultner 是俄亥俄州格兰维尔丹尼森大学（Denison University）的 Maria Theresa Barney 哲学与女性及性别研究教授，同时担任黑人研究项目主任。她的研究领域涵盖社会哲学、女性主义哲学、语言与心灵哲学以及批判理论的交叉点。她尤其对主体间性、具身性、规范性和社会实践等问题感兴趣。她是 *Jürgen Habermas: Key Concepts* (2011) 的编辑，也是 Jürgen Habermas 的 *Truth and Justification* (2003) 的译者。
 

@@ -5,6 +5,7 @@ aliases:
   - Dani Maskit
   - Maskit
 tags:
+  - stub
   - author
   - autism
   - activism
@@ -13,10 +14,15 @@ tags:
 sources:
   - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 ---
 
 # Dani Maskit
+
+> [!infobox] Dani Maskit
+> **职业**：孤独谱系行动者 × 创意技术专家
+> **主要领域**：神经殊异倡导、ABA 批判
+> **代表著作**：[[MaskitFultner2026]]
 
 Dani Maskit 是一位孤独谱系行动者和创意技术专家，她认为神经殊异使她与众不同，而非病症。她是英国电影和电视艺术学院奖（BAFTA）成员、超级马拉松选手，并痴迷于熊。她认为唯一适合她的职位描述和头衔是自己创造的。她在 [zenmasterbear.net](https://zenmasterbear.net) 上写博客。
 
@@ -33,3 +39,4 @@ Dani Maskit 是一位孤独谱系行动者和创意技术专家，她认为神�
 - [[Barbara-Fultner]] — 合著者
 - [[AndersonCushingEds2026]] — 收录卷
 - [[ASD干预]] — 干预模式争议
+

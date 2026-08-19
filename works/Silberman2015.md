@@ -1,29 +1,43 @@
 ---
 title: Silberman (2015) - 神经部落
 description: 一部从18世纪前诊断时代到21世纪神经多样性运动的孤独谱系与神经多样性全面历史——塑造了公众对神经多样性的理解，获2015年Samuel Johnson非虚构奖
-aliases: ["Silberman(2015)", NeuroTribes-神经部落, NeuroTribes, 神经部落, "NeuroTribes: The Legacy of Autism and the Future of Neurodiversity"]
-tags: [work, neurodiversity, autism, historical, foundational]
-sources: [2026-05-07/《神经部落》-Neurotribes The Legacy of Autism and the Future of Neurodiversity (Steve Silberman) (z-library.sk, 1lib.sk, z-lib.sk).epub]
+aliases:
+  - Silberman(2015)
+  - NeuroTribes-神经部落
+  - NeuroTribes
+  - 神经部落
+  - NeuroTribes: The Legacy of Autism and the Future of Neurodiversity
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - historical
+  - foundational
+sources:
+  - 2026-05-07/《神经部落》-Neurotribes The Legacy of Autism and the Future of Neurodiversity (Steve Silberman) (z-library.sk, 1lib.sk, z-lib.sk).epub
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Silberman, S. (2015). NeuroTribes: The legacy of autism and the future of neurodiversity. Avery/Penguin Random House."
 ---
 
 # Silberman (2015) — 神经部落
 
+> [!infobox] Silberman (2015)
+> **作者**：[[Steve-Silberman]]
+> **出版年份**：2015
+> **类型**：普及性科学史著作
+> **机构**：Wired 杂志记者
+> **翻译**：中文名为《神经部落》
+
 引用：Silberman, S. (2015). NeuroTribes: The legacy of autism and the future of neurodiversity. Avery/Penguin Random House.
 
-
-**作者**：[[Steve-Silberman]]（Wired 杂志记者）
-**发表**：2015 年，Avery / Penguin Random House
-**类型**：普及性科学史著作
-**中译**：中文名为《神经部落》
+Silberman 的《神经部落》是一部从 18 世纪前诊断时代到 21 世纪神经多样性运动的孤独谱系与神经多样性全面历史，塑造了公众对神经多样性的理解，并获 2015 年 Samuel Johnson 非虚构奖。
 
 ## 概述
 
 *NeuroTribes*（2015）是神经多样性和孤独谱系史上重要的普及性著作。Steve Silberman 以 Wired 杂志记者的叙事技巧，追溯了从18世纪的 Henry Cavendish 到21世纪神经多样性运动的完整历史。该书获得2015年 Samuel Johnson 非虚构奖，被广泛认为是将神经多样性概念引入主流公共话语的关键作品。
 
-## 核心叙事：孤独谱系作为人类遗产
+## 叙事：孤独谱系作为人类遗产
 
 Silberman 的核心论点是：孤独谱系不是现代文明的独特产物或"流行病"，而是一种**穿越数百万年进化的古老人类遗产**。孤独谱系特征由非常古老的基因携带，广泛分布于全人类群体中。
 

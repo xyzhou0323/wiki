@@ -1,8 +1,8 @@
 ---
 title: Chapman & Bovell (2022) - 神经多样性、倡权与反治疗
 description: Chapman 与 Bovell 概述神经多样性运动的起源与理论立场，以 ABA 争议为案例系统分析疗效、正常化/社会控制、创伤/福祉、自主权四重伦理问题，论证当代 ABA 实践的显著部分需要废除或改革，并探讨此辩论对所有孤独谱系治疗形式的意涵
-aliases: ["Chapman(2022)"]
 aliases:
+  - Chapman(2022)
   - Chapman & Bovell (2022)
   - ChapmanBovell2022
 tags:
@@ -15,12 +15,19 @@ sources:
   - 2026-07-05/ChapmanBovell2022-NeurodiversityAdvocacyAntiTherapy.md
 citation_apa: "Chapman, R., & Bovell, V. (2022). Neurodiversity, advocacy, anti-therapy. In P. Sturmey & J. Matson (Eds.), Handbook of autism and pervasive developmental disorder: Assessment, diagnosis, and treatment (pp. 1519–1536). Springer."
 created: 2026-07-05
-updated: 2026-07-06
+updated: 2026-08-12
 ---
 
 # Chapman & Bovell (2022) — 神经多样性、倡权与反治疗
 
+> [!infobox] Chapman (2022)
+> **作者**：Chapman
+> **出版年份**：2022
+> **类型**：书章
+
 引用：Chapman, R., & Bovell, V. (2022). Neurodiversity, advocacy, anti-therapy. In P. Sturmey & J. Matson (Eds.), *Handbook of autism and pervasive developmental disorder: Assessment, diagnosis, and treatment* (pp. 1519–1536). Springer.
+
+Chapman 与 Bovell (2022) 概述神经多样性运动的起源与理论立场，以应用行为分析（ABA）争议为案例系统分析疗效、正常化/社会控制、创伤/福祉、自主权四重伦理问题，论证当代 ABA 实践的显著部分需要废除或改革。
 
 ## 概述
 

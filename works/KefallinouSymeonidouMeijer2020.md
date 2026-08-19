@@ -1,25 +1,36 @@
 ---
 title: Kefallinou, Symeonidou & Meijer (2020) - 理解融合教育的价值与实施：文献综述
 description: Kefallinou 等发表于 Prospects 的综述——梳理融合教育对学生学业成就、社会融合和长期发展的积极影响，识别学校变革、课堂实践和社区参与三层面的成功实施策略
-aliases: ["Kefallinou(2020)", Kefallinou Symeonidou Meijer 2020, KefallinouSymeonidouMeijer2020]
-tags: [work, education, disability]
-sources: [2026-05-12/Kefallinou_Symeonidou_Meijer_2020.pdf]
+aliases:
+  - Kefallinou(2020)
+  - Kefallinou Symeonidou Meijer 2020
+  - KefallinouSymeonidouMeijer2020
+tags:
+  - work
+  - education
+  - disability
+sources:
+  - 2026-05-12/Kefallinou_Symeonidou_Meijer_2020.pdf
 doi: 10.1007/s11125-020-09500-2
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-08-12
 citation_apa: "Kefallinou, A., Symeonidou, S., & Meijer, C. J. W. (2020). Understanding the value of inclusive education and its implementation: A review of the literature. Prospects, 49, 135-152. https://doi.org/10.1007/s11125-020-09500-2"
 ---
 
 # Kefallinou, Symeonidou & Meijer (2020) — 理解融合教育的价值与实施
 
+> [!infobox] Kefallinou (2020)
+> **作者**：Anthoula Kefallinou、Simoni Symeonidou、Cor J. W. Meijer（欧洲特殊需要与融合教育发展署；塞浦路斯大学教育系）
+> **出版年份**：2020
+> **类型**：期刊论文
+> **发表**：2020 年 9 月在线发表
+> **关键词**：inclusive education; academic outcomes; social inclusion; inclusive practice
+
 引用：Kefallinou, A., Symeonidou, S., & Meijer, C. J. W. (2020). Understanding the value of inclusive education and its implementation: A review of the literature. *Prospects*, 49, 135-152. [https://doi.org/10.1007/s11125-020-09500-2](https://doi.org/10.1007/s11125-020-09500-2)
 
-**作者**：Anthoula Kefallinou、Simoni Symeonidou、Cor J. W. Meijer（欧洲特殊需要与融合教育发展署；塞浦路斯大学教育系）
-**期刊**：*Prospects*（UNESCO IBE），第 49 卷，135–152 页
-**发表**：2020 年 9 月在线发表
-**关键词**：inclusive education; academic outcomes; social inclusion; inclusive practice
+Kefallinou et al. (2020) 综述梳理融合教育对学生学业成就、社会融合和长期发展的积极影响，并识别学校变革、课堂实践和社区参与三个层面的成功实施策略。
 
-## 核心论证
+## 主要论证
 
 本文旨在弥合融合教育的**人权话语与实施证据**之间的鸿沟。作者指出：融合教育的伦理和道德正当性已稳固确立，但"人权的论述尚未找到其在融合实施中的明确含义"——关于融合教育价值的论证往往依赖道德和规范原则，而非实证证据。
 

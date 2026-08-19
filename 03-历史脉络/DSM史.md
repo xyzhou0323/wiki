@@ -1,15 +1,25 @@
 ---
 title: DSM 史
 description: 《精神障碍诊断与统计手册》（DSM）从 1952 年到 2022 年的历史演变，以及塑造这一诊断手册的专业政治、经济与文化力量。
-aliases: [DSM History, 精神障碍诊断与统计手册史, DSM-5-TR, DSM-5, DSM-IV, DSM-III, DSM-II, DSM-I]
-tags: [concept, historical]
+aliases:
+  - DSM History
+  - 精神障碍诊断与统计手册史
+  - DSM-5-TR
+  - DSM-5
+  - DSM-IV
+  - DSM-III
+  - DSM-II
+  - DSM-I
+tags:
+  - concept
+  - historical
 sources:
   - "DSM A History of Psychiatry's Bible (Allan V. Horwitz).epub"
   - "From Planning to Publication: Developing DSM-5-TR (APA, 2022)"
   - "APA Releases Roadmap for the Future of the DSM (APA, 2026-01-28)"
   - "Tsou, J. Y. (2016). Natural kinds, psychiatric classification and the history of the DSM. History of Psychiatry, 27(4), 406-424."
 created: 2026-07-06
-updated: 2026-07-18
+updated: 2026-08-12
 ---
 
 # DSM 史
@@ -109,7 +119,7 @@ DSM-5-TR（文本修订版）于 2022 年 3 月出版，距 DSM-5 发布已有�
 
 以上提案尚处于路线图阶段， DSM 尚未做出正式修订。
 
-## 核心分析视角
+## 三种分析视角
 
 Horwitz（2021）提出了理解 DSM 演变的三种解释框架：
 

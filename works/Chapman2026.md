@@ -1,24 +1,33 @@
 ---
 title: Chapman (2026) - 后自由主义时代的神经多样性政治
 description: Robert Chapman 2026年Substack文章——自由派神经多样性政治的前提（自由主义秩序）正在瓦解，亟需转向激进左翼政治
-aliases: ["Chapman(2026)", 后自由主义时代的神经多样性政治, Neurodiversity Politics in a Post-Liberal Era, Post-Liberal Neurodiversity Politics]
-tags: [work, neurodiversity, political, capitalism]
-sources: [2026-05-07/后自由主义时代神经多样性政治.md]
+aliases:
+  - Chapman(2026)
+  - 后自由主义时代的神经多样性政治
+  - Neurodiversity Politics in a Post-Liberal Era
+  - Post-Liberal Neurodiversity Politics
+tags:
+  - work
+  - neurodiversity
+  - political
+  - capitalism
+sources:
+  - 2026-05-07/后自由主义时代神经多样性政治.md
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Chapman, R. (2026, April 21). Neurodiversity politics in a post-liberal era. Substack. https://substack.com/@neurodiversityandcapitalism/p-194900020"
 ---
 
 # Chapman (2026) — 后自由主义时代的神经多样性政治
 
+> [!infobox] Chapman (2026)
+> **作者**：[[Robert-Chapman]]
+
 引用：Chapman, R. (2026, April 21). Neurodiversity politics in a post-liberal era. Substack. [https://substack.com/@neurodiversityandcapitalism/p-194900020](https://substack.com/@neurodiversityandcapitalism/p-194900020)
 
+Chapman (2026) 指出自由派神经多样性政治的前提——自由主义秩序——正在瓦解，神经多样性运动亟需从自由派政治转向激进左翼神经多样性政治。
 
-**作者**：[[Robert-Chapman]]
-**发布**：2026-04-21，Substack（[@neurodiversityandcapitalism](https://substack.com/@neurodiversityandcapitalism)）
-**原文**：[Neurodiversity Politics in a Post-Liberal Era](https://substack.com/@neurodiversityandcapitalism/p-194900020)
-
-## 核心论点
+## 主要论点
 
 Chapman 在这篇短文中扩展了 [[Chapman2023]] 的论点，指出：神经多样性运动迄今为止的策略——在自由主义秩序内通过权利话语争取缓解措施——预设了一个**正在瓦解的世界**。在后自由主义时代，亟需从自由派神经多样性政治转向激进左翼神经多样性政治。
 

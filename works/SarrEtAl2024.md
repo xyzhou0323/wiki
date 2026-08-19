@@ -1,24 +1,41 @@
 ---
 title: Sarr et al. (2024) - 孤独谱系、依恋障碍、CPTSD与EUPD的鉴别诊断
 description: 首项采用共制Delphi法系统建立孤独谱系、依恋障碍、复杂性创伤后应激障碍与情绪不稳定人格障碍鉴别诊断共识的研究——106位国际专家就275条陈述达成共识
-aliases: ["Sarr(2025)", Sarr 2024, Sarr et al. 2024, 鉴别诊断Delphi]
-tags: [work, autism, neurodiversity, methodology, applied]
-sources: [2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf]
+aliases:
+  - Sarr(2025)
+  - Sarr 2024
+  - Sarr et al. 2024
+  - 鉴别诊断Delphi
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - methodology
+  - applied
+sources:
+  - 2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf
 doi: 10.1111/bjop.12731
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-08-12
 citation_apa: "Sarr, R., Spain, D., Quinton, A. M. G., Happé, F., Brewin, C. R., Radcliffe, J., Jowett, S., Miles, S., González, R. A., Albert, I., Scholwin, A., Stirling, M., Markham, S., Strange, S., & Rumball, F. (2025). Differential diagnosis of autism, attachment disorders, complex post-traumatic stress disorder and emotionally unstable personality disorder: A Delphi study. British Journal of Psychology, 116(1), 1–33. https://doi.org/10.1111/bjop.12731"
 ---
 
 # Sarr et al. (2024) — 鉴别诊断Delphi研究
 
+> [!infobox] Sarr (2025)
+> **作者**：[[Francesca-Happe]]
+> **出版年份**：2025
+> **类型**：期刊论文
+> **机构**：主要来自 King's College London IoPPN
+> **备注**：在线首发 2024 年 9 月 20 日
+> **PMID**：39300915
+> **方法**：共制三轮 Delphi 法
+> **样本**：106 位国际专业人员（R1）→ 59（R2, 56%）→ 55（R3, 52%）
+> **资金**：King's College London、Medical Research Council、NIHR Maudsley Biomedical Research Centre
+
 引用：Sarr, R., Spain, D., Quinton, A. M. G., Happé, F., Brewin, C. R., Radcliffe, J., Jowett, S., Miles, S., González, R. A., Albert, I., Scholwin, A., Stirling, M., Markham, S., Strange, S., & Rumball, F. (2025). Differential diagnosis of autism, attachment disorders, complex post-traumatic stress disorder and emotionally unstable personality disorder: A Delphi study. *British Journal of Psychology*, 116(1), 1–33. [https://doi.org/10.1111/bjop.12731](https://doi.org/10.1111/bjop.12731)
 
-**作者**：Rachel Sarr、Debbie Spain、Alice M. G. Quinton、[[Francesca-Happe|Francesca Happé]]、Chris R. Brewin、Jonathan Radcliffe、Sally Jowett、Sarah Miles、Rafael A. González、Idit Albert、Alix Scholwin、Marguerite Stirling、Sarah Markham、Sally Strange、Freya Rumball（主要来自 King's College London IoPPN）
-**期刊**：*British Journal of Psychology*，第 116 卷，第 1 期，第 1–33 页（在线首发 2024 年 9 月 20 日）
-**DOI**：[10.1111/bjop.12731](https://doi.org/10.1111/bjop.12731) | **PMID**：39300915
-**方法**：共制三轮 Delphi 法 | **样本**：106 位国际专业人员（R1）→ 59（R2, 56%）→ 55（R3, 52%）
-**资金**：King's College London、Medical Research Council、NIHR Maudsley Biomedical Research Centre
+Sarr 等采用共制 Delphi 法，基于 106 位国际专家就 275 条陈述达成的共识，首次系统建立孤独谱系、依恋障碍、复杂性创伤后应激障碍（CPTSD）与情绪不稳定人格障碍（EUPD）之间的鉴别诊断框架。
 
 ## 本文要点
 

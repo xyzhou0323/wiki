@@ -1,18 +1,31 @@
 ---
 title: Amélie Gourdon-Kanhukamwe
 description: Amélie Gourdon-Kanhukamwe 是伦敦国王学院神经科学与心理学教育高级讲师，社会心理学家，FORRT 成员，ADHD 认同者，以实验、计算和质性混合方法研究神经多样性、开放学术与包容性高等教育
-aliases: [Amelie Gourdon-Kanhukamwe, Gourdon-Kanhukamwe]
-tags: [author, neurodiversity, open-scholarship, ADHD, psychology, pedagogy]
+aliases:
+  - Amelie Gourdon-Kanhukamwe
+  - Gourdon-Kanhukamwe
+tags:
+  - author
+  - neurodiversity
+  - open-scholarship
+  - ADHD
+  - psychology
+  - pedagogy
 created: 2026-06-10
-updated: 2026-06-24
+updated: 2026-08-12
 ---
 
 # Amélie Gourdon-Kanhukamwe
 
-**身份**：社会心理学家 × 开放科学倡导者 × 神经多样性研究者
-**机构**：伦敦国王学院（King's College London），精神病学、心理学与神经科学研究所（IoPPN），神经影像系，神经科学学院
-**职称**：高级讲师（Senior Lecturer in Neuroscience and Psychology Education）
-**主页**：[kcl.ac.uk/people/amelie-gourdon-kanhukamwe](https://www.kcl.ac.uk/people/amelie-gourdon-kanhukamwe)
+> [!infobox] Amélie Gourdon-Kanhukamwe
+> **职业**：社会心理学家 × 开放科学倡导者 × 神经多样性研究者
+> **机构**：伦敦国王学院（King's College London），精神病学、心理学与神经科学研究所（IoPPN），神经影像系，神经科学学院
+> **主要领域**：判断与决策、健康传播、神经多样性与学术包容、开放科学
+> **代表著作**：[[GourdonKanhukamweEtAl2023]]
+> **职称**：高级讲师（Senior Lecturer in Neuroscience and Psychology Education）
+> **主页**：[kcl.ac.uk/people/amelie-gourdon-kanhukamwe](https://www.kcl.ac.uk/people/amelie-gourdon-kanhukamwe)
+
+Amélie Gourdon-Kanhukamwe 是伦敦国王学院神经科学与心理学教育高级讲师，社会心理学家，FORRT 成员，ADHD 认同者，以实验、计算和质性混合方法研究神经多样性、开放学术与包容性高等教育。
 
 ## 学术定位
 

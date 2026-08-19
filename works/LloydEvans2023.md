@@ -1,27 +1,47 @@
 ---
 title: Lloyd-Evans (2023) - 参与式行动研究工具包
 description: University of Reading 开发的 PAR 工具包——基于社群研究者和学者的生活经验，提出 PAR 八阶段流程和 PAR 车轮 A-Z 词汇表，CC BY-NC-SA 4.0 许可
-aliases: ["Lloyd-Evans(2023)", Lloyd-Evans (2023), PAR Toolkit, Participatory Action Research Toolkit, 参与式行动研究工具包]
-tags: [work, PAR, participatory-research, methodology, toolkit, social-justice]
-authors: [Sally Lloyd-Evans]
-sources: [2026-05-21/PAR-Toolkit-v10.pdf]
+aliases:
+  - Lloyd-Evans(2023)
+  - Lloyd-Evans (2023)
+  - PAR Toolkit
+  - Participatory Action Research Toolkit
+  - 参与式行动研究工具包
+tags:
+  - work
+  - PAR
+  - participatory-research
+  - methodology
+  - toolkit
+  - social-justice
+authors:
+  - Sally Lloyd-Evans
+sources:
+  - 2026-05-21/PAR-Toolkit-v10.pdf
 citation_apa: "Lloyd-Evans, S., Oenga, E., & the Whitley Researchers Core Group. (2023). *Participatory action research: A toolkit*. University of Reading."
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-08-12
 ---
 
 # Lloyd-Evans (2023) - 参与式行动研究工具包
 
-**引用**：Lloyd-Evans, S., Oenga, E., & the Whitley Researchers Core Group. (2023). *Participatory Action Research: A Toolkit*. University of Reading.
+> [!infobox] Lloyd-Evans (2023)
+> **作者**：Lloyd-Evans
+> **出版年份**：2023
+> **类型**：工具包（Toolkit）
+> **机构**：University of Reading
+> **页数**：36 页
+> **许可**：CC BY-NC-SA 4.0
+> **相关链接**：
+> - University of Reading PAR 页面：[reading.ac.uk/research-innovation-hub/.../participatory-action-research](https://www.reading.ac.uk/research-innovation-hub/communications-engagement-and-impact/participatory-action-research)
+> - CentAUR 存档（完整 PDF）：[doi.org/10.48683/1926.00113719](https://doi.org/10.48683/1926.00113719)
+> - 在线版（含视频）：[research.reading.ac.uk/community-based-research](https://research.reading.ac.uk/community-based-research/)
 
-**类型**：工具包（Toolkit）| **机构**：University of Reading | **页数**：36 页 | **许可**：CC BY-NC-SA 4.0
+引用：Lloyd-Evans, S., Oenga, E., & the Whitley Researchers Core Group. (2023). *Participatory Action Research: A Toolkit*. University of Reading.
 
-**相关链接**：
-- University of Reading PAR 页面：[reading.ac.uk/research-innovation-hub/.../participatory-action-research](https://www.reading.ac.uk/research-innovation-hub/communications-engagement-and-impact/participatory-action-research)
-- CentAUR 存档（完整 PDF）：[doi.org/10.48683/1926.00113719](https://doi.org/10.48683/1926.00113719)
-- 在线版（含视频）：[research.reading.ac.uk/community-based-research](https://research.reading.ac.uk/community-based-research/)
+Lloyd-Evans 等人为 University of Reading 开发的参与式行动研究（PAR）工具包，基于社群研究者和学者的生活经验提出 PAR 八阶段流程与 PAR 车轮 A-Z 词汇表，以 CC BY-NC-SA 4.0 许可发布。
 
-## 核心主旨
+## 主要主旨
 
 本工具包并非另一本"如何做 PAR"的操作指南——它提供的是对参与式行动研究（Participatory Action Research）的**批判性反思**和**原则性理解**，帮助社群研究者、地方组织、学生和学术研究者判断为何以及如何开展 PAR 项目。
 
@@ -36,7 +56,7 @@ updated: 2026-05-21
 - 核心组规划会议讨论
 - 22 人提交的书面回答和培训需求优先排序
 
-## 核心内容
+## 主要内容
 
 ### 一、为什么要选择 PAR 方法
 

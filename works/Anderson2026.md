@@ -1,27 +1,44 @@
 ---
 title: Anderson (2026) - 大象与犰狳：反孤独谱系意识形态形成反孤独谱系世界
 description: Jami L. Anderson 追溯应用行为分析（ABA）意识形态从 Løvaas 到当代 EIBI 的谱系——论证 ABA 行业通过妖魔化孤独谱系儿童、传播反孤独谱系叙事（粪便涂抹、暴力自伤、调节行为污名化），积极构建了它声称要保护孤独谱系儿童免受的反孤独谱系世界；最终追溯至 JRC 电击装置（GED）的法律斗争，并以 RFK Jr. 2025 年的言论说明同一反孤独谱系修辞至今仍在循环
-aliases: ["Anderson(2026)", Anderson2026, "Elephants and Armadillos: Anti-Autistic Ideology Forms an Anti-Autistic World"]
-tags: [work, chapter, autism, ABA, ideology, Løvaas, EIBI, ableism, GED, JRC, critique]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Anderson(2026)
+  - Anderson2026
+  - Elephants and Armadillos: Anti-Autistic Ideology Forms an Anti-Autistic World
+tags:
+  - work
+  - chapter
+  - autism
+  - ABA
+  - ideology
+  - Løvaas
+  - EIBI
+  - ableism
+  - GED
+  - JRC
+  - critique
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Anderson, J. L. (2026). Elephants and armadillos: Anti-autistic ideology forms an anti-autistic world. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 112–143). Routledge."
 ---
 
 # Anderson (2026) — 大象与犰狳：反孤独谱系意识形态形成反孤独谱系世界
 
+> [!infobox] Anderson (2026)
+> **作者**：[[Jami-L-Anderson]]
+> **出版年份**：2026
+> **类型**：书章
+> **收录于**：[[AndersonCushingEds2026]]，第 7 章
+
 引用：Anderson, J. L. (2026). Elephants and armadillos: Anti-autistic ideology forms an anti-autistic world. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 112–143). Routledge.
 
-**作者**：[[Jami-L-Anderson|Jami L. Anderson]]（University of Michigan-Flint）
-
-**收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 7 章
-
-**类型**：论文集章节
+本章追溯应用行为分析（ABA）意识形态从 Løvaas 到当代 EIBI 的谱系，论证 ABA 行业通过妖魔化孤独谱系儿童、传播反孤独谱系叙事（粪便涂抹、暴力自伤、调节行为污名化），积极构建了它声称要保护孤独谱系儿童免受的反孤独谱系世界，并追溯至 JRC 电击装置（GED）的法律斗争。
 
 ---
 
-## 核心论证结构
+## 论证结构
 
 Anderson 使用 **"大象与犰狳"类比**（源自 ABA 批评者 Frank Klein）作为贯穿全章的分析框架：
 

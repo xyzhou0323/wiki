@@ -1,27 +1,43 @@
 ---
 title: Garcia (2026) - 第二人称视角下的孤独谱系
 description: Francisco García 以孤独谱系者身份写作，挑战心理理论（ToM）模型及其认知主义预设，捍卫第二人称视角（SPP）作为社会认知的基本机制，结合弱中央统合假说将孤独谱系重构为替代性认知风格而非缺陷，并提出"改变环境，而非改变个体"的外部主义认知脚手架治疗路径
-aliases: ["García(2026)", Garcia2026, Autism from the Second Person Perspective]
-tags: [work, chapter, autism, philosophy, cognition, 4E-cognition, second-person-perspective, theory-of-mind, cognitive-style, externalism]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - García(2026)
+  - Garcia2026
+  - Autism from the Second Person Perspective
+tags:
+  - work
+  - chapter
+  - autism
+  - philosophy
+  - cognition
+  - 4E-cognition
+  - second-person-perspective
+  - theory-of-mind
+  - cognitive-style
+  - externalism
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "García, F. (2026). Autism from the second person perspective. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 67–78). Routledge."
 ---
 
 # Garcia (2026) — 第二人称视角下的孤独谱系
 
+> [!infobox] García (2026)
+> **作者**：[[Francisco-Garcia|Francisco García]]（University of Buenos Aires 研究生，研究后认知主义心灵哲学、4E 认知、语义规范性、社会认识论）
+> **出版年份**：2026
+> **收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 4 章
+> **类型**：书章
+
 引用：García, F. (2026). Autism from the second person perspective. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 67–78). Routledge.
 
-**作者**：[[Francisco-Garcia|Francisco García]]（University of Buenos Aires 研究生，研究后认知主义心灵哲学、4E 认知、语义规范性、社会认识论）
-
-**收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 4 章
-
-**类型**：论文集章节
+Francisco García 以孤独谱系者身份写作，挑战心理理论（ToM）模型及其认知主义预设，捍卫第二人称视角作为社会认知的基本机制，并将孤独谱系重构为替代性认知风格而非缺陷。
 
 ---
 
-## 核心论证结构
+## 论证结构
 
 García 以孤独谱系者的亲身经历驱动哲学论证——他在学习社会认知的哲学课程中首次接触自己的状况，被告知"孤独谱系个体缺乏心理理论"，他的本能反应是"这肯定不对"：
 

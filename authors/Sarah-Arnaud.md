@@ -10,17 +10,20 @@ tags:
   - autism
   - methodology
 sources:
-  - 2026-05-09/Arnaud和Gibson - Neurodiversity
-  - identity
-  - and hypostatic abstraction.pdf
+  - 2026-05-09/Arnaud和Gibson - Neurodiversity, identity, and hypostatic abstraction.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 ---
 
 # Sarah Arnaud
 
-**身份**：哲学学者，任教于加拿大 Edouard Montpetit College（Longueuil）哲学系
-**研究领域**：神经多样性哲学、精神科哲学、残障理论
+> [!infobox] Sarah Arnaud
+> **职业**：哲学学者
+> **机构**：Edouard Montpetit College（Longueuil）哲学系
+> **主要领域**：神经多样性哲学、精神科哲学、残障理论
+> **代表著作**：[[ArnaudGibson2025]]
+
+Sarah Arnaud 是加拿大 Edouard Montpetit College 哲学系学者，研究神经多样性、精神科哲学与残障理论，与 Quinn Hiroshi Gibson 合作发展了"实体抽象原则"（HAP）框架以形式化"去病理化"的哲学含义。
 
 ## 主要贡献
 

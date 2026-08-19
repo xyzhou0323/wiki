@@ -1,18 +1,31 @@
 ---
 title: Huilin Zhu
 description: 朱绘霖（ZHU Huilin）是中山大学附属第三医院儿童发育行为中心副研究员、硕士生导师，Lao & Zhu (2024)、Lao et al. (2024) 和 Lao et al. (2026) 通讯作者，研究方向为孤独谱系障碍及神经发育障碍的心理健康、认知特征与神经机制，兼任科普号主编与心理咨询师
-aliases: [Huilin Zhu, Zhu, 朱绘霖, ZHU Huilin]
-tags: [author, autism, neurodiversity]
-sources: [2026-06-24/LaoZhu2024-AutismTerminologyReview.md]
+aliases:
+  - Huilin Zhu
+  - Zhu
+  - 朱绘霖
+  - ZHU Huilin
+tags:
+  - author
+  - autism
+  - neurodiversity
+sources:
+  - 2026-06-24/LaoZhu2024-AutismTerminologyReview.md
 created: 2026-06-24
-updated: 2026-07-03
+updated: 2026-08-12
 ---
 
 # Huilin Zhu
 
-**中文名**：朱绘霖
-**任职**：中山大学附属第三医院儿童发育行为中心（广州）副研究员、硕士生导师
-**角色**：科研工作者、科普号主编、心理咨询师
+> [!infobox] Huilin Zhu
+> **职业**：副研究员、硕士生导师、科研工作者、科普号主编、心理咨询师
+> **机构**：中山大学附属第三医院儿童发育行为中心（广州）
+> **主要领域**：孤独谱系障碍及相关神经发育障碍的心理健康、认知特征与神经机制
+> **代表著作**：[[LaoZhu2024]]、[[LaoEtAl2024]]、[[LaoEtAl2026]]
+> **中文名**：朱绘霖
+
+朱绘霖（ZHU Huilin）是中山大学附属第三医院儿童发育行为中心副研究员、硕士生导师，Lao & Zhu (2024)、Lao et al. (2024) 和 Lao et al. (2026) 通讯作者，研究方向为孤独谱系障碍及神经发育障碍的心理健康、认知特征与神经机制，兼任科普号主编与心理咨询师。
 
 ## 教育背景
 

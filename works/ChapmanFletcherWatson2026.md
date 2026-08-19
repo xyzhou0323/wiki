@@ -14,28 +14,30 @@ tags:
   - neurodiversity
   - foundational
 sources:
-  - 2026-05-07/神经多样性-Neurodiversity A Very Short Introduction (Robert Chapman
-  - Sue Fletcher-Watson)机翻DeepSeek.epub
+  - 2026-05-07/神经多样性-Neurodiversity A Very Short Introduction (Robert Chapman, Sue Fletcher-Watson)机翻DeepSeek.epub
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Chapman, R., & Fletcher-Watson, S. (2026). Neurodiversity: A very short introduction. Oxford University Press."
 ---
 
 # Chapman & Fletcher-Watson (2026) — 神经多样性简论
 
+> [!infobox] Chapman & Fletcher-Watson (2026)
+> **作者**：[[Robert-Chapman]]、[[Sue-Fletcher-Watson]]
+> **出版年份**：2026
+> **类型**：专著/编著
+> **系列**：Oxford Very Short Introduction（第 773 卷）
+> **双语版**：[Z-Library]([神经多样性:牛津通识读本(双语版)(Neurodiversity) | Robert Chapman & Sue Fletcher-Watson | download on Z-Library](https://z-lib.sk/book/XqGXa3ro5m/%E7%A5%9E%E7%BB%8F%E5%A4%9A%E6%A0%B7%E6%80%A7%E7%89%9B%E6%B4%A5%E9%80%9A%E8%AF%86%E8%AF%BB%E6%9C%AC%E5%8F%8C%E8%AF%AD%E7%89%88neurodiversity.html))
+
 引用：Chapman, R., & Fletcher-Watson, S. (2026). Neurodiversity: A very short introduction. Oxford University Press.
 
-
-**作者**：[[Robert-Chapman]] 和 [[Sue-Fletcher-Watson]]
-**系列**：Oxford Very Short Introduction（第 773 卷）
-**年份**：2026
-**双语版**：[Z-Library]([神经多样性:牛津通识读本(双语版)(Neurodiversity) | Robert Chapman & Sue Fletcher-Watson | download on Z-Library](https://z-lib.sk/book/XqGXa3ro5m/%E7%A5%9E%E7%BB%8F%E5%A4%9A%E6%A0%B7%E6%80%A7%E7%89%9B%E6%B4%A5%E9%80%9A%E8%AF%86%E8%AF%BB%E6%9C%AC%E5%8F%8C%E8%AF%AD%E7%89%88neurodiversity.html))
+本书是牛津通识读本系列第 773 卷，由 Robert Chapman 与 Sue Fletcher-Watson 合著，是目前最系统的神经多样性范式入门读物——兼具科学范式转变与文化范式转变的纲领性论述。
 
 ## 定位
 
 本书是目前关于神经多样性运动最系统、最权威的入门读物。作者将其定位为一场**科学范式转变**和**文化范式转变**的双重运动——不仅旨在改变科学研究与临床实践，更从根本上改变社会对神经认知差异的理解与回应方式。
 
-## 核心概念创新
+## 概念创新
 
 ### 常态范式（Normalcy Paradigm）
 
@@ -57,7 +59,7 @@ Chapman 与 Fletcher-Watson 用 **"[[常态范式]]"（normalcy paradigm）** �
 - Francis Galton 借鉴 Quetelet，将人类心智功能按"正常"范围排名——Galton 同时是白人至上主义者，著有按认知能力对种族排名的书籍
 - 这一框架自此支撑了心理学和神经科学的主导思维，"正常"与资本主义和工业化对标准化身体/心智的需求深度绑定
 
-## 两条核心原则
+## 两条基本原则
 
 1. **肯定复杂性（Affirm Complexity）**：承认神经发育差异的复杂多维性——摒弃"正常"大脑的单一理想模型，将异质性视为理所当然
 2. **将神经规范性政治化（Politicize Neuronormativity）**：揭示"正常"标准的建构性和压迫性——神经规范性不是自然秩序，而是政治产物，需要被纳入政治分析

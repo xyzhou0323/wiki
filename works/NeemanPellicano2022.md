@@ -1,25 +1,36 @@
 ---
 title: Ne'eman & Pellicano (2022) - 神经多样性作为政治
 description: Ari Ne'eman 和 Elizabeth Pellicano (2022) 在 Human Development 发表的评论，分析神经多样性运动内部的分歧、术语争议及政治风险
-aliases: ["Ne'eman(2022)", Neurodiversity as Politics, Ne'eman & Pellicano 2022]
-tags: [work, neurodiversity, disability, political]
-sources: [2026-05-07/Ne'eman和Pellicano - 2022 - Neurodiversity as Politics.pdf]
+aliases:
+  - Ne'eman(2022)
+  - Neurodiversity as Politics
+  - Ne'eman & Pellicano 2022
+tags:
+  - work
+  - neurodiversity
+  - disability
+  - political
+sources:
+  - 2026-05-07/Ne’eman和Pellicano - 2022 - Neurodiversity as Politics.pdf
 doi: 10.1159/000524277
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Ne'eman, A., & Pellicano, E. (2022). Neurodiversity as politics. Human Development, 66(2), 149-157. https://doi.org/10.1159/000524277"
 ---
 
 # Ne'eman & Pellicano (2022) — 神经多样性作为政治
 
+> [!infobox] Ne'eman (2022)
+> **作者**：Ne'eman
+> **出版年份**：2022
+> **类型**：评论文章（英文-中文双语版）
+> **机构**：Ari Ne'eman（哈佛大学健康政策博士项目）；Elizabeth Pellicano（麦考瑞大学/伦敦大学学院）
+
 引用：Ne'eman, A., & Pellicano, E. (2022). Neurodiversity as politics. Human Development, 66(2), 149-157. [https://doi.org/10.1159/000524277](https://doi.org/10.1159/000524277)
 
+Ne'eman 与 Pellicano 在 Human Development 发表的评论分析神经多样性运动内部的分歧、术语争议及政治风险，论证神经多样性首先是一场政治运动，其术语、边界和操作化都应服务于这一定位。
 
-**作者**：Ari Ne'eman（哈佛大学健康政策博士项目）和 Elizabeth Pellicano（麦考瑞大学/伦敦大学学院）
-**发表**：*Human Development* (2022), 66:149–157
-**类型**：评论文章（英文-中文双语版）
-
-## 核心论证
+## 主要论证
 
 Ne'eman 和 Pellicano 分析神经多样性运动内部的重要分歧，并提出解决路径。他们强调：神经多样性首先是一场政治运动——其术语、边界和操作化都应服务于这一政治定位。
 

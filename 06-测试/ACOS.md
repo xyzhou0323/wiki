@@ -1,13 +1,29 @@
 ---
 title: ACOS
 description: ADHD 临床结果量表（ACOS, ADHD Clinical Outcome Scale）用于评估 ADHD 核心症状、共现心理健康困难及日常功能挑战，适用于长期追踪
-aliases: [ACOS, ACOS ADHD临床结果量表, ADHD临床结果量表, ADHD Clinical Outcome Scale]
-tags: [test, ADHD, neurodiversity]
+aliases:
+  - ACOS
+  - ACOS ADHD临床结果量表
+  - ADHD临床结果量表
+  - ADHD Clinical Outcome Scale
+tags:
+  - test
+  - ADHD
+  - neurodiversity
+sources:
+  - Adamis et al. 2024
+  - Baker et al. 2024
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-08-12
 ---
 
 # ACOS ADHD 临床结果量表
+
+> [!infobox] ACOS ADHD 临床结果量表
+> **测量对象**：ADHD 核心症状、共现心理健康困难及日常功能挑战
+> **题数**：15 题
+> **适用年龄**：成人（自评版）；医师版由临床医师评定
+> **开发者**：Adamis et al. (2024)
 
 **ACOS**（ADHD Clinical Outcome Scale）是一份用于评估和追踪**ADHD**个体临床困难和功能表现的工具，适用于长期追踪。
 

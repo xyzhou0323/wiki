@@ -1,8 +1,8 @@
 ---
 title: Lao et al. (2026) - 与孤独谱系对话：中文自闭症话语的解构与叙事能动性的重建
 description: Lao 等人的混合方法研究通过语料分析、问卷调查和深度访谈，运用反思性主题分析揭示中文孤独谱系术语的社会建构过程——“自闭症”概念在中文语境中被类型化为“自闭”（自我封闭），而孤独谱系障碍者通过术语解构医学标签并重建个人叙事能动性与文化自主性
-aliases: ["Lao(2026)"]
 aliases:
+  - Lao(2026)
   - Lao et al. 2026
   - Dialoguing with autism
 tags:
@@ -12,20 +12,24 @@ tags:
   - methodology
   - discourse-analysis
 sources:
-  - sources/papers/2026-LaoEtAl-DialoguingWithAutism.md
+  - papers/2026-LaoEtAl-DialoguingWithAutism.md
 doi: 10.1057/s41599-026-07772-1
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-12
 citation_apa: "Lao, U., Liang, F., Dai, J., Cao, W., Chen, Q., Wang, M., Zou, X., & Zhu, H. (2026). Dialoguing with autism: Deconstruction of autism discourse and reconstruction of narrative agency in Chinese. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-026-07772-1"
 ---
 
 # Lao et al. (2026) — 与孤独谱系对话：中文自闭症话语的解构与叙事能动性的重建
 
+> [!infobox] Lao (2026)
+> **作者**：[[Uchong-Lao]]、[[Fengjing-Liang]]、[[Jiamin-Dai]]、[[Wei-Cao]]、[[Qian-Chen]]、[[Min-Wang]]、[[Xiaobing-Zou]]、[[Huilin-Zhu]]
+> **出版年份**：2026
+> **类型**：混合方法研究（语料分析 + 文献综述 + 在线调查 + 深度访谈 + 反思性主题分析）
+> **发表**：2026 年 6 月 29 日，*Humanities and Social Sciences Communications*（Springer Nature）
+
 引用：Lao, U., Liang, F., Dai, J., Cao, W., Chen, Q., Wang, M., Zou, X., & Zhu, H. (2026). Dialoguing with autism: Deconstruction of autism discourse and reconstruction of narrative agency in Chinese. *Humanities and Social Sciences Communications*. [https://doi.org/10.1057/s41599-026-07772-1](https://doi.org/10.1057/s41599-026-07772-1)
 
-**作者**：[[Uchong-Lao|Uchong Lao (刘宇翀)]]、[[Fengjing-Liang|Fengjing Liang (梁凤晶)]]、[[Jiamin-Dai|Jiamin Dai (戴嘉敏)]]、[[Wei-Cao|Wei Cao (曹伟)]]、[[Qian-Chen|Qian Chen (陈谦)]]、[[Min-Wang|Min Wang (王敏)]]、[[Xiaobing-Zou|Xiaobing Zou (邹小兵)]]、[[Huilin-Zhu|Huilin Zhu (朱绘霖)]]
-**发表**：2026 年 6 月 29 日，*Humanities and Social Sciences Communications*（Springer Nature）
-**类型**：混合方法研究（语料分析 + 文献综述 + 在线调查 + 深度访谈 + 反思性主题分析）
+Lao 等人的混合方法研究通过语料分析、问卷调查和深度访谈，运用反思性主题分析揭示中文孤独谱系术语的社会建构过程，探讨孤独谱系障碍者如何通过解构医学标签重建叙事能动性与文化自主性。
 
 ## 定位
 
@@ -52,7 +56,7 @@ citation_apa: "Lao, U., Liang, F., Dai, J., Cao, W., Chen, Q., Wang, M., Zou, X.
 - **社区协作**：邀请线上孤独谱系社群成员评估初步发现；每次访谈后参与者审阅自己的转录稿并对主题地图提供反馈
 - **主题生成**：第二阶段生成了两个新主题——“术语是社会建构的”和“社群每一个人都需要共同努力”
 
-## 3. 核心发现
+## 3. 主要发现
 
 ### 官方、公众与学术术语使用的分歧
 

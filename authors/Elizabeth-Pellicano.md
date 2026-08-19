@@ -1,14 +1,26 @@
 ---
 title: Elizabeth Pellicano
 description: Elizabeth Pellicano 是麦考瑞大学教育学院教授，以库恩范式理论为框架系统论证孤独谱系科学正处于从医学范式向神经多样性范式转型的关键时刻，是参与式孤独谱系研究方法的主要推动者
-aliases: [Liz Pellicano, 伊丽莎白·佩利卡诺]
-tags: [author, neurodiversity, autism]
-sources: ["2026-05-09/Child Psychology Psychiatry - 2021 - Pellicano - Annual Research Review  Shifting from  normal science  to neurodiversity_dual_Kimi+DeepSeek.pdf"]
+aliases:
+  - Liz Pellicano
+  - 伊丽莎白·佩利卡诺
+tags:
+  - author
+  - neurodiversity
+  - autism
+sources:
+  - 2026-05-09/Child Psychology Psychiatry - 2021 - Pellicano - Annual Research Review  Shifting from  normal science  to neurodiversity_dual_Kimi+DeepSeek.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 ---
 
 # Elizabeth Pellicano
+
+> [!infobox] Elizabeth Pellicano
+> **职业**：孤独谱系发展心理学与特殊教育研究者 × 教授
+> **机构**：麦考瑞大学（Macquarie University）教育学院
+> **主要领域**：孤独谱系科学的方法论转型、参与式研究方法、孤独谱系社群福祉
+> **代表著作**：[[PellicanodenHouting2022]]、[[NeemanPellicano2022]]
 
 孤独谱系发展心理学和特殊教育研究者，麦考瑞大学教育学院教授，孤独谱系生活合作研究中心（Autism CRC）核心成员。学术工作聚焦于**孤独谱系科学的方法论转型**——从常规医学范式转向神经多样性范式，以及**参与式研究方法**在孤独谱系研究中的应用。
 

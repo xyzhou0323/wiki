@@ -1,14 +1,30 @@
 ---
 title: EDA-8
 description: 儿童要求回避（EDA-8, Extreme Demand Avoidance 8）是一份适用于5-17岁儿童青少年的8题 PDA 特征快速筛查工具，由父母或主要照护者根据观察填写
-aliases: [EDA-8, 儿童要求回避, 儿童PDA筛查, Extreme Demand Avoidance 8]
-tags: [test, autism, PDA, children, neurodiversity]
-sources: [2026-05-14/What-is-PDA-booklet-website-v2.1.pdf]
+aliases:
+  - EDA-8
+  - 儿童要求回避
+  - 儿童PDA筛查
+  - Extreme Demand Avoidance 8
+tags:
+  - test
+  - autism
+  - PDA
+  - children
+  - neurodiversity
+sources:
+  - 2026-05-14/What-is-PDA-booklet-website-v2.1.pdf
 created: 2026-05-08
-updated: 2026-05-14
+updated: 2026-08-12
 ---
 
 # EDA-8 儿童要求回避
+
+> [!infobox] EDA-8 儿童要求回避
+> **测量对象**：儿童青少年的极端/广泛性要求回避（PDA）特征
+> **题数**：8 题
+> **适用年龄**：5-17 岁（由父母或主要照护者填写）
+> **开发者**：O'Nions et al. (2021)（基于 EDA-Q 优化）
 
 **EDA-8** 是一份适用于5-17岁儿童青少年的**极端/广泛性要求回避**（PDA）快速筛查工具，由父母或主要照护者根据观察填写。
 

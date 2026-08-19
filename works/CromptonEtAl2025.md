@@ -1,8 +1,8 @@
 ---
 title: Crompton et al. (2025) - 孤独谱系与非孤独谱系者内及跨群体信息传递
 description: Crompton 等人以更大样本（N=311）三站点预注册复制研究重新检验神经类型匹配对信息传递和融洽度的影响，复制了孤独谱系与非孤独谱系链信息传递无差异的结果，但未发现跨神经类型信息传递的选择性衰减，非孤独谱系链融洽度更高、诊断告知改善融洽度
-aliases: ["Crompton(2025)"]
 aliases:
+  - Crompton(2025)
   - CromptonEtAl2025
   - Information transfer within and between autistic and non-autistic people
   - 孤独谱系与非孤独谱系者内及跨群体信息传递
@@ -16,18 +16,22 @@ tags:
 sources:
   - 2026-06-24/CromptonEtAl2025-InformationTransferWithinAndBetween.md
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-12
 citation_apa: "Crompton, C. J., Foster, S. J., Wilks, C. E. H., Dodd, M., Efthimiou, T. N., Ropar, D., Sasson, N. J., Lages, M., & Fletcher-Watson, S. (2025). Information transfer within and between autistic and non-autistic people. Autism. Advance online publication."
 ---
 
 # Crompton et al. (2025) — 孤独谱系与非孤独谱系者内及跨群体信息传递
 
+> [!infobox] Crompton (2025)
+> **作者**：[[Catherine-Crompton]]、[[Noah-Sasson]]、[[Sue-Fletcher-Watson]]
+> **出版年份**：2025
+> **类型**：预注册复制与扩展研究（Registered Report）
+> **站点**：爱丁堡大学、诺丁汉大学、得克萨斯大学达拉斯分校
+> **备注**：Registered Report，Stage 1 于 2022-08-23 原则接收；在线发表 2025-05-14
+
 引用：Crompton, C. J., Foster, S. J., Wilks, C. E. H., Dodd, M., Efthimiou, T. N., Ropar, D., Sasson, N. J., Lages, M., & Fletcher-Watson, S. (2025). Information transfer within and between autistic and non-autistic people. *Autism*. Advance online publication.
 
-**作者**：[[Catherine-Crompton]]、Sarah J. Foster、Charlotte E. H. Wilks、Michelle Dodd、Themis N. Efthimiou、Danielle Ropar、[[Noah-Sasson]]、Martin Lages、[[Sue-Fletcher-Watson]]
-**发表**：*Autism*（Registered Report，Stage 1 于 2022-08-23 原则接收；在线发表 2025-05-14）
-**类型**：预注册复制与扩展研究（Registered Report）
-**站点**：爱丁堡大学、诺丁汉大学、得克萨斯大学达拉斯分校
+Crompton et al. (2025) 以更大样本（N=311）在三个站点进行预注册复制研究，重新检验神经类型匹配对信息传递和融洽度的影响：复制了孤独谱系与非孤独谱系链信息传递无差异的结果，但未发现跨神经类型信息传递的选择性衰减，且非孤独谱系链融洽度更高、诊断告知改善融洽度。
 
 ## 定位
 
@@ -77,7 +81,7 @@ citation_apa: "Crompton, C. J., Foster, S. J., Wilks, C. E. H., Dodd, M., Efthim
 3. **代际效应**：2025 年参与者更年轻，孤独谱系年轻一代可能更常进行掩饰（masking），从而在跨神经类型互动中表现更好
 4. **交叉性**：多种身份的匹配/错配（性别、种族等）可能同时影响互动，单一操控神经类型不足以捕捉完整图景
 
-### 核心贡献
+### 主要贡献
 
 - 在更大、更多样化的样本中**再次否定**孤独谱系者存在普遍性沟通缺陷的诊断假设
 - 揭示跨神经类型互动的复杂性——神经类型匹配并非唯一影响变量

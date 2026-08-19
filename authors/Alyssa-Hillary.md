@@ -1,16 +1,28 @@
 ---
 title: Alyssa Hillary
 description: Alyssa Hillary 是罗德岛大学跨学科神经科学博士生，孤独谱系者，将跨文化沟通的类比框架应用于跨神经类型沟通分析，提出"神经文化性"（neuro-cultural）概念以承认不同神经类型的沟通文化
-aliases: [Alyssa Hillary]
-tags: [author, neurodiversity, autism, communication]
-sources: ["2026-05-09/0051276.pdf"]
+aliases:
+  - Alyssa Hillary
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - communication
+sources:
+  - 2026-05-09/0051276.pdf
 created: 2026-05-09
-updated: 2026-06-10
+updated: 2026-08-12
 ---
 
 # Alyssa Hillary
 
-美国罗德岛大学跨学科神经科学项目孤独谱系博士生。正式研究领域为增强与替代沟通（AAC）——包括脑机接口和孤独谱系成年人的使用。非正式但更大量地写作关于神经多样性和虚构/媒体/科学研究中的表征问题。
+> [!infobox] Alyssa Hillary
+> **职业**：跨神经科学博士生 × 孤独谱系研究者
+> **机构**：罗德岛大学（University of Rhode Island）跨学科神经科学项目
+> **主要领域**：增强与替代沟通（AAC）、跨神经类型沟通、神经多样性在虚构与媒体中的表征
+> **代表著作**：[[RosqvistEtAl2020]]、[[ZanevaEtAl2024]]、[[GreenEtAl2020]]
+
+Alyssa Hillary 是美国罗德岛大学跨学科神经科学项目孤独谱系博士生，正式研究领域为增强与替代沟通（AAC）——包括脑机接口和孤独谱系成年人的使用。非正式但更大量地写作关于神经多样性和虚构/媒体/科学研究中的表征问题。
 
 ## 相关研究
 

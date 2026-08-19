@@ -1,14 +1,31 @@
 ---
 title: RAADS-R
 description: Ritvo 孤独谱系量表修订版（RAADS-R, Ritvo Autism Asperger Diagnostic Scale–Revised）是一份80题自填工具，由 Ritvo et al. (2011) 开发，区分16岁前与当前的孤独谱系特征，采用 NovoPsych (2025) 更新的临床阈值
-aliases: [RAADS-R, Ritvo孤独谱系量表, 成人孤独谱系评估, Ritvo孤独谱系评估, Ritvo Autism Asperger Diagnostic Scale–Revised]
-tags: [test, autism, neurodiversity]
-sources: [Ritvo et al. 2011, NovoPsych 2025, Hegarty et al. 2025]
+aliases:
+  - RAADS-R
+  - Ritvo孤独谱系量表
+  - 成人孤独谱系评估
+  - Ritvo孤独谱系评估
+  - Ritvo Autism Asperger Diagnostic Scale–Revised
+tags:
+  - test
+  - autism
+  - neurodiversity
+sources:
+  - Ritvo et al. 2011
+  - NovoPsych 2025
+  - Hegarty et al. 2025
 created: 2026-05-08
-updated: 2026-05-11
+updated: 2026-08-12
 ---
 
 # RAADS-R 孤独谱系量表
+
+> [!infobox] RAADS-R 孤独谱系量表
+> **测量对象**：18 岁及以上个体的孤独谱系相关特征（区分 16 岁前与当前）
+> **题数**：80 题
+> **适用年龄**：18 岁及以上
+> **开发者**：Ritvo et al. (2011)
 
 **RAADS-R**（Ritvo Autism Asperger Diagnostic Scale–Revised）是一份用于评估18岁及以上个体[[孤独谱系障碍]]相关特征的自填式工具，共80题，约13分钟完成。由 Ritvo 等人于2011年在原 RAADS（Ritvo et al., 2008）基础上修订，增加了第四症状领域（特殊兴趣）、扩充题量并澄清措辞。NeuroXYZ 版本参考 NovoPsych (2025) 更新的临床阈值和常模数据。
 

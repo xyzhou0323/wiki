@@ -1,14 +1,26 @@
 ---
 title: Edmund Sonuga-Barke
 description: Edmund Sonuga-Barke 是伦敦国王学院发育精神病理学教授，Journal of Child Psychology and Psychiatry 主编，ADHD 领域权威，主张将神经多样性概念纳入主流临床研究与实践
-aliases: [Edmund Sonuga-Barke, Sonuga-Barke]
-tags: [author, adhd, neurodiversity]
-sources: ["2026-05-09/SonugaBarke_Thapar_2021_Neurodiversity_concept_clinicians_scientists.pdf"]
+aliases:
+  - Edmund Sonuga-Barke
+  - Sonuga-Barke
+tags:
+  - author
+  - adhd
+  - neurodiversity
+sources:
+  - 2026-05-09/SonugaBarke_Thapar_2021_Neurodiversity_concept_clinicians_scientists.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 ---
 
 # Edmund Sonuga-Barke
+
+> [!infobox] Edmund Sonuga-Barke
+> **职业**：发育精神病理学教授 × 《Journal of Child Psychology and Psychiatry》主编
+> **机构**：伦敦国王学院（King's College London）精神病学、心理学与神经科学研究所（IoPPN）
+> **主要领域**：ADHD 与神经发育障碍、神经多样性概念的临床整合
+> **代表著作**：[[SonugaBarkeThapar2021]]
 
 伦敦国王学院精神病学、心理学与神经科学研究所（IoPPN）发育精神病理学教授，*Journal of Child Psychology and Psychiatry*（JCPP）主编。
 

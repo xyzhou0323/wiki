@@ -1,20 +1,34 @@
 ---
 title: Li Yi
 description: Li Yi（易莉）是北京大学心理与认知科学学院研究员、博士生导师，北京大学麦戈文脑研究所研究员，以孤独谱系儿童社会认知缺陷机制研究著称，Yi et al. (2022) 系统提出唤起不足与唤起过度共存而非互斥的理论框架
-aliases: [Li Yi, Yi, 易莉]
-tags: [author, autism, neurodiversity, review, developmental]
-sources: [2026-05-14/Child Dev Perspectives - 2022 - Yi - Hypo‐ or hyperarousal  The .pdf]
+aliases:
+  - Li Yi
+  - Yi
+  - 易莉
+tags:
+  - author
+  - autism
+  - neurodiversity
+  - review
+  - developmental
+sources:
+  - 2026-05-14/Child Dev Perspectives - 2022 - Yi - Hypo‐ or hyperarousal  The .pdf
 created: 2026-05-18
-updated: 2026-06-24
+updated: 2026-08-12
 ---
 
 # Li Yi（易莉）
 
-**身份**：发展心理学研究者
-**机构**：北京大学心理与认知科学学院，北京大学麦戈文脑研究所
-**职称**：研究员、博士生导师
-**学位**：PhD（杜克大学心理与神经科学系，2009），MA（发展心理学，杜克大学，2007），BA（心理学，北京大学，2003）
-**主页**：[psy.pku.edu.cn/szdw/qzjy/jsyjy/yl](https://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/yl/index.htm)
+> [!infobox] Li Yi（易莉）
+> **职业**：发展心理学研究者
+> **机构**：北京大学心理与认知科学学院、北京大学麦戈文脑研究所
+> **主要领域**：孤独谱系儿童社会认知
+> **代表著作**：[[YiEtAl2022]]
+> **职称**：研究员、博士生导师
+> **学位**：PhD（杜克大学心理与神经科学系，2009），MA（发展心理学，杜克大学，2007），BA（心理学，北京大学，2003）
+> **主页**：[psy.pku.edu.cn/szdw/qzjy/jsyjy/yl](https://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/yl/index.htm)
+
+Li Yi（易莉）是北京大学心理与认知科学学院研究员、博士生导师，以孤独谱系儿童社会认知缺陷机制研究著称，Yi et al. (2022) 系统提出唤起不足与唤起过度共存而非互斥的理论框架。
 
 ## 学术轨迹
 
@@ -28,7 +42,7 @@ updated: 2026-06-24
 2. **早期筛查与生物标记物**：探讨孤独谱系高危婴幼儿的早期发展轨迹，寻找早期生物标记物，开发辅助孤独谱系早期筛查的客观手段
 3. **异质性与精准诊断**：综合运用神经心理手段，探讨孤独谱系行为和神经方面的异质性——包括孤独谱系与其他相似状况的鉴别诊断以及孤独谱系群体内部的异质性——以辅助精准诊断和治疗
 
-## 核心理论贡献
+## 主要理论贡献
 
 ### 唤起不足与唤起过度共存框架（2022）
 

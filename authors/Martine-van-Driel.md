@@ -1,14 +1,28 @@
 ---
 title: Martine van Driel
 description: Martine van Driel 是伯明翰大学英语语言与传播学助理教授，以孤独谱系研究者身份从神经多样性视角研究孤独谱系沟通语言学——其关于孤独谱系 Twitter 回复的语用分析是应用语言学领域最早以肯定式框架研究孤独谱系在线沟通的研究之一
-aliases: [Martine van Driel, van Driel]
-tags: [author, autism, neurodiversity, communication, methodology]
-sources: [2026-06-16/Aiston et al. - 2025 - Discourse-based approaches to autistic focussed interests.md]
+aliases:
+  - Martine van Driel
+  - van Driel
+tags:
+  - author
+  - autism
+  - neurodiversity
+  - communication
+  - methodology
+sources:
+  - 2026-06-16/Aiston et al. - 2025 - Discourse-based approaches to autistic focussed interests.md
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-12
 ---
 
 # Martine van Driel
+
+> [!infobox] Martine van Driel
+> **职业**：英语语言与传播学助理教授、孤独谱系研究者
+> **机构**：伯明翰大学
+> **主要领域**：孤独谱系沟通语言学、应用语言学
+> **代表著作**：[[AistonEtAl2025]]
 
 Martine van Driel 是伯明翰大学（University of Birmingham）英语语言与传播学助理教授。她在在线读者反应领域获得应用语言学博士学位后，转向孤独谱系沟通的语言学研究——**以孤独谱系研究者身份**，采取神经多样性路径，将孤独谱系体验和群体置于研究中心。
 

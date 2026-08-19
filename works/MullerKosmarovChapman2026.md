@@ -16,20 +16,23 @@ tags:
 sources:
   - 2026-07-05/MullerKosmarovChapman2026-NeurodiversityAndPhilosophy.md
 created: 2026-07-05
-updated: 2026-07-06
+updated: 2026-08-12
 citation_apa: "Müller-Kosmarov, C., & Chapman, R. (2026). Neurodiversity and philosophy. In Oxford Research Encyclopedia of Disability Studies. Oxford University Press. https://doi.org/10.1093/9780197852668.003.0035"
 ---
 
 # Müller-Kosmarov & Chapman (2026) — 神经多样性与哲学
 
+> [!infobox] Müller-Kosmarov (2026)
+> **作者**：[[Clarissa-Muller-Kosmarov]]、[[Robert-Chapman]]
+> **出版年份**：2026
+> **类型**：百科全书条目（Reference Article）
+> **出版日期**：2026 年 6 月 15 日
+> **DOI**：[10.1093/9780197852668.003.0035](https://doi.org/10.1093/9780197852668.003.0035)
+> **学科归属**：Disability Studies
+
 引用：Müller-Kosmarov, C., & Chapman, R. (2026). Neurodiversity and philosophy. In *Oxford Research Encyclopedia of Disability Studies*. Oxford University Press. [https://doi.org/10.1093/9780197852668.003.0035](https://doi.org/10.1093/9780197852668.003.0035)
 
-**作者**：[[Clarissa-Muller-Kosmarov|Clarissa Müller-Kosmarov]]、[[Robert-Chapman]]
-**出版日期**：2026 年 6 月 15 日
-**出版机构**：Oxford University Press（Oxford Research Encyclopedias 系列）
-**DOI**：[10.1093/9780197852668.003.0035](https://doi.org/10.1093/9780197852668.003.0035)
-**类型**：百科全书条目（Reference Article）
-**学科归属**：Disability Studies
+Müller-Kosmarov 与 Chapman 的牛津残障研究百科全书条目是首部系统梳理神经多样性哲学这一新兴子领域的综述性文献，涵盖范式、残障模型、神经规范性、认识论与政治伦理哲学，兼具学科导论与解放政治双重目的。
 
 ## 定位与双重目的
 
@@ -107,7 +110,7 @@ citation_apa: "Müller-Kosmarov, C., & Chapman, R. (2026). Neurodiversity and ph
 - **[[Patrick-Dwyer|Dwyer (2022)]]**：建议将其重新概念化为**框架**（framework）而非范式，以减少哲学包袱——但这可能无法准确捕捉神经多样性倡权者的目标深度
 - 作者立场：范式框架在准确捕捉运动深度与广度方面仍具独特价值
 
-## 核心概念：神经典型性、神经殊异性、神经少数
+## 基本概念：神经典型性、神经殊异性、神经少数
 
 这三个核心概念的发展旨在识别：在人类神经变异中，某些具身心智或认知风格由于社会中运作的与心智、认知或情感功能及相关行为特征有关的社会规范，而占据不同的特权社会位置。
 
@@ -183,7 +186,7 @@ citation_apa: "Müller-Kosmarov, C., & Chapman, R. (2026). Neurodiversity and ph
 
 神经多样性认识论大量运用女性主义认识论中的概念——最显著的是 Miranda Fricker (2007) 的[[知识不正义]]（epistemic injustice）及其两类形式——**证言不正义**（testimonial injustice）与**诠释不正义**（hermeneutical injustice）。此后，Kristie Dotson (2011) 识别了两种认识论消声（epistemic silencing）形式——证言噤声（testimonial quieting）与证言压制（testimonial smothering）。
 
-### 核心应用
+### 主要应用
 
 - **Moore (2024)**：探索"孤独谱系否认经历"中如何涉及多种相互引发和加剧的知识不正义——普遍的有意诠释无知导致证言压制：当孤独谱系个体感到不安全以沟通其孤独谱系身份、经验或需求时——对方既无法理解其证言，又不愿意获取理解其证言所需的诠释资源
 - **Milton & Moon (2012)**：批判 ABA"治疗"模型背后的规范化社会科学原则，展示医疗保健实践中形式化的"正常化议程"如何导致孤独谱系声音在知识生产中被消声

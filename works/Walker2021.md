@@ -1,23 +1,34 @@
 ---
 title: Walker (2021) - 神经酷儿异端
 description: Nick Walker (2021) 的文集——神经多样性范式、孤独谱系赋权与后常态可能性的笔记，收录了影响深远的2014年术语定义及"神经酷儿"概念的首次提出
-aliases: ["Walker(2021)", Neuroqueer Heresies, 神经酷儿异端, "Neuroqueer Heresies: Notes on the Neurodiversity Paradigm, Autistic Empowerment, and Postnormal Possibilities"]
-tags: [work, neurodiversity, autism, foundational]
-sources: [2026-05-07/神经酷儿-Neuroqueer Heresies (Nick Walker).epub]
+aliases:
+  - Walker(2021)
+  - Neuroqueer Heresies
+  - 神经酷儿异端
+  - Neuroqueer Heresies: Notes on the Neurodiversity Paradigm, Autistic Empowerment, and Postnormal Possibilities
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - foundational
+sources:
+  - 2026-05-07/神经酷儿-Neuroqueer Heresies (Nick Walker).epub
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Walker, N. (2021). Neuroqueer heresies: Notes on the neurodiversity paradigm, autistic empowerment, and postnormal possibilities. Autonomous Press."
 ---
 
 # Walker (2021) — 神经酷儿异端
 
+> [!infobox] Walker (2021)
+> **作者**：[[Nick-Walker]]（California Institute of Integral Studies）
+> **出版年份**：2021
+> **类型**：文集——收录并评注此前在 Neurocosmopolitanism 网站上发表的文章
+> **中译**：中文-英文双语 EPUB
+
 引用：Walker, N. (2021). Neuroqueer heresies: Notes on the neurodiversity paradigm, autistic empowerment, and postnormal possibilities. Autonomous Press.
 
-
-**作者**：[[Nick-Walker]]（California Institute of Integral Studies）
-**发表**：2021 年，Autonomous Press
-**类型**：文集——收录并评注此前在 Neurocosmopolitanism 网站上发表的文章
-**中译**：中文-英文双语 EPUB
+《神经酷儿异端》是 Nick Walker (2021) 的文集，汇集其关于神经多样性范式、孤独谱系赋权与后常态可能性的笔记，收录了影响深远的 2014 年术语定义及“神经酷儿”概念的首次提出。
 
 ## 概述
 

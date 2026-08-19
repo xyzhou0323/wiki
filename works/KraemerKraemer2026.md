@@ -1,27 +1,41 @@
 ---
 title: Kraemer & Kraemer (2026) - 重新审视知识：孤独谱系社群中的感官与社会挑战
 description: Eric Kraemer（认识论学者）与 Ira Kraemer（孤独谱系者）合作，梳理孤独谱系感觉超敏的研究证据，论证感官煤气灯效应如何系统性地剥夺孤独谱系者通过亲知知识获取真实信念的能力，并逐一检视基础主义、融贯论、可靠主义、德性知识论、社会认识论和立场认识论在面对孤独谱系认知者时需做出的修正——结论是更全面了解孤独谱系群体的感觉生活不仅能增强其作为知识生产者的能力，还能增加社会对世界的整体知识储备
-aliases: ["Kraemer(2026)", KraemerKraemer2026, Re-Examining Knowledge]
-tags: [work, chapter, autism, epistemology, sensory, standpoint-epistemology, gaslighting, ABA]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Kraemer(2026)
+  - KraemerKraemer2026
+  - Re-Examining Knowledge
+tags:
+  - work
+  - chapter
+  - autism
+  - epistemology
+  - sensory
+  - standpoint-epistemology
+  - gaslighting
+  - ABA
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Kraemer, E., & Kraemer, I. (2026). Re-examining knowledge: Sensory and social challenges in the autistic community. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 185–205). Routledge."
 ---
 
 # Kraemer & Kraemer (2026) — 重新审视知识：孤独谱系社群中的感官与社会挑战
 
+> [!infobox] Kraemer (2026)
+> **作者**：[[Eric-Kraemer|Eric Kraemer]]（University of Wisconsin-La Crosse，认识论专业哲学家）、[[Ira-Kraemer|Ira Kraemer]]（自我认同为孤独谱系者，对感觉超敏极为熟悉）
+> **出版年份**：2026
+> **收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 10 章
+> **类型**：书章
+
 引用：Kraemer, E., & Kraemer, I. (2026). Re-examining knowledge: Sensory and social challenges in the autistic community. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 185–205). Routledge.
 
-**作者**：[[Eric-Kraemer|Eric Kraemer]]（University of Wisconsin-La Crosse，认识论专业哲学家）、[[Ira-Kraemer|Ira Kraemer]]（自我认同为孤独谱系者，对感觉超敏极为熟悉）
-
-**收录于**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 当代孤独谱系哲学]]，第 10 章
-
-**类型**：论文集章节
+Eric Kraemer 与 Ira Kraemer 合作论证感官煤气灯效应如何系统性地剥夺孤独谱系者通过亲知知识获取真实信念的能力，并逐一检视各大认识论理论在面对孤独谱系认知者时需做出的修正。
 
 ---
 
-## 核心论证结构
+## 论证结构
 
 Eric Kraemer（认识论专业哲学家）与 Ira Kraemer（孤独谱系者）合作论证：
 

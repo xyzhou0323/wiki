@@ -1,8 +1,8 @@
 ---
 title: Botha et al. (2023) - 语言重要吗？孤独谱系研究中身份在前与人称在前语言的使用
 description: Botha、Hanlon 与 Williams 在 JADD 发表的对 Vivanti (2020) 的回应——论证语言选择对孤独谱系者具有污名化、去人化和暴力的实质性后果，身份在前语言（"孤独谱系障碍者"）反映自我倡权者自主权，人称在前语言（"有孤独症的人"）驱动"人与孤独症可分离"的危险隐喻
-aliases: ["Botha(2023)"]
 aliases:
+  - Botha(2023)
   - Does Language Matter? Identity-First Versus Person-First Language Use in Autism Research
   - BothaHanlonWilliams2023
 tags:
@@ -12,21 +12,25 @@ tags:
   - language
   - stigma
   - identity
+sources:
+  - 2026-06-10/BothaHanlonWilliams2023.md
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-12
 citation_apa: "Botha, M., Hanlon, J., & Williams, G. L. (2023). Does language matter? Identity-first versus person-first language use in autism research: A response to Vivanti. Journal of Autism and Developmental Disorders, 53(2), 870–878. https://doi.org/10.1007/s10803-020-04858-w"
 ---
 
 # Botha et al. (2023) — 语言重要吗？孤独谱系研究中身份在前与人称在前语言的使用
 
+> [!infobox] Botha (2023)
+> **作者**：[[Monique-Botha]]、[[Gemma-Williams]]
+> **出版年份**：2023
+> **类型**：期刊论文
+> **备注**：Commentary（对 Vivanti (2020) 的回应），在线发表 2021 年 1 月
+> **许可**：CC BY 4.0（开放获取）
+
 引用：Botha, M., Hanlon, J., & Williams, G. L. (2023). Does language matter? Identity-first versus person-first language use in autism research: A response to Vivanti. *Journal of Autism and Developmental Disorders, 53*(2), 870–878. [https://doi.org/10.1007/s10803-020-04858-w](https://doi.org/10.1007/s10803-020-04858-w)
 
-**作者**：[[Monique-Botha|Monique Botha]]（University of Stirling）、Jacqueline Hanlon、[[Gemma-Williams|Gemma Louise Williams]]（Brighton and Sussex Medical School / University of Portsmouth，孤独谱系自我倡权者）
-**年份**：2023（在线发表 2021 年 1 月）
-**期刊**：*Journal of Autism and Developmental Disorders*, Vol. 53, No. 02, pp. 870–878
-**DOI**：10.1007/s10803-020-04858-w
-**许可**：CC BY 4.0（开放获取）
-**类型**：Commentary（对 Vivanti (2020) 的回应）
+Botha et al. (2023) 是对 Vivanti (2020) 的回应，从孤独谱系自我倡权者和批判孤独谱系研究学者的立场论证语言选择对孤独谱系者具有污名化、去人化和暴力的实质性后果——身份在前语言反映自我倡权者自主权，人称在前语言驱动"人与孤独症可分离"的危险隐喻。
 
 ## 定位
 
@@ -37,7 +41,7 @@ citation_apa: "Botha, M., Hanlon, J., & Williams, G. L. (2023). Does language ma
 - **人称在前语言**（person-first language, PFL）："有孤独症的人"（person with autism）——将人置于诊断之前
 - **身份在前语言**（identity-first language, IFL）："孤独谱系障碍者"（autistic person）——将身份作为赋权的表达
 
-## 核心论证
+## 论证
 
 ### 1. PFL 的最低共识是它最不受欢迎
 

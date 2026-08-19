@@ -1,26 +1,38 @@
 ---
 title: Mandy (2025) - 如今，孤独谱系究竟是什么？
 description: Will Mandy 论证孤独谱系诊断率70倍增长并非"大流行"也非过度诊断，而是晚期现代社会环境对神经殊异者的致残效应
-aliases: ["Mandy(2025)", Mandy 2025, What is Autism Now?, 孤独谱系诊断扩展, 超社交性时代]
-tags: [work, neurodiversity, autism, political, capitalism]
-sources: [2026-05-07/Mandy2025-如今孤独谱系究竟是什么.md]
+aliases:
+  - Mandy(2025)
+  - Mandy 2025
+  - What is Autism Now?
+  - 孤独谱系诊断扩展
+  - 超社交性时代
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - political
+  - capitalism
+sources:
+  - 2026-05-07/Mandy-2025-如今孤独谱系究竟是什么.md
 doi: 10.5281/zenodo.17989621
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Mandy, W. (2025). What is autism now? Proceedings of the Paris Institute for Advanced Study, 21. https://doi.org/10.5281/zenodo.17989621"
 ---
 
 # Mandy (2025) — 如今，孤独谱系究竟是什么？
 
+> [!infobox] Mandy (2025)
+> **作者**：Mandy
+> **出版年份**：2025
+> **翻译**：脑脑空间 NeuroBridge 翻译志愿者团队译，发布于 neurobridge.cn
+
 引用：Mandy, W. (2025). What is autism now? Proceedings of the Paris Institute for Advanced Study, 21. [https://doi.org/10.5281/zenodo.17989621](https://doi.org/10.5281/zenodo.17989621)
 
+Will Mandy 论证孤独谱系诊断率约 70 倍的增长既非"大流行"也非过度诊断，而是晚期现代社会环境对神经殊异者的致残效应。
 
-**作者**：Will Mandy
-**发表**：2025年，*Proceedings of the Paris Institute for Advanced Study*（Vol. 21）
-**原文**：https://doi.org/10.5281/zenodo.17989621
-**中文版**：脑脑空间 NeuroBridge 翻译志愿者团队译，发布于 neurobridge.cn
-
-## 核心论点
+## 主要论点
 
 自20世纪90年代以来，英国孤独谱系诊断数量增长约70倍，美国 CDC 统计达每31名儿童中1名。Mandy 论证：
 
@@ -71,7 +83,7 @@ citation_apa: "Mandy, W. (2025). What is autism now? Proceedings of the Paris In
 - 孤独谱系青少年在心理健康问题、社会排斥、同伴欺凌、学业不足、被排斥出校、自我伤害等方面发生率持续较高
 - 向成年过渡面临显著困难：心理健康风险、失业/不充分就业、孤独、贫困、过早死亡风险升高
 
-## 核心论证：环境转变导致了诊断标准拓宽
+## 主要论证：环境转变导致了诊断标准拓宽
 
 Mandy 的核心命题：
 

@@ -1,26 +1,43 @@
 ---
 title: Mantzalas et al. (2024) - 测量与验证孤独谱系耗竭
 description: 首篇系统检验AASPIRE孤独谱系耗竭量表（ABM）与哥本哈根倦怠量表（CBI）心理测量特性的研究——ABM四因子结构支持单一高阶"孤独谱系耗竭"构念，CBI-P情绪耗竭子量表可作为替代筛查工具
-aliases: ["Mantzalas(2024)", Mantzalas 2024, Mantzalas et al. 2024, ABM validation, autistic burnout measure]
-tags: [work, autism, neurodiversity, mental-health, applied]
-sources: ["2026-05-14/Mantzalas 等 - 2024 - Measuring and validating autistic burnout.pdf", "2026-07-22/Mantzalas et al 2024 - Measuring and Validating Autistic Burnout (bilingual).md"]
+aliases:
+  - Mantzalas(2024)
+  - Mantzalas 2024
+  - Mantzalas et al. 2024
+  - ABM validation
+  - autistic burnout measure
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - mental-health
+  - applied
+sources:
+  - 2026-05-14/Mantzalas 等 - 2024 - Measuring and validating autistic burnout.pdf
+  - 2026-07-22/Mantzalas et al 2024 - Measuring and Validating Autistic Burnout (bilingual).md
 doi: 10.1002/aur.3129
 created: 2026-05-15
-updated: 2026-07-22
+updated: 2026-08-12
 citation_apa: "Mantzalas, J., Richdale, A. L., Li, X., & Dissanayake, C. (2024). Measuring and validating autistic burnout. Autism Research, 17(7), 1417–1449. https://doi.org/10.1002/aur.3129"
 ---
 
 # Mantzalas et al. (2024) — 测量与验证孤独谱系耗竭
 
+> [!infobox] Mantzalas (2024)
+> **作者**：Mantzalas
+> **出版年份**：2024
+> **类型**：期刊论文
+> **机构**：Olga Tennison Autism Research Centre, La Trobe University
+> **DOI**：[10.1002/aur.3129](https://doi.org/10.1002/aur.3129)
+> **方法**：在线问卷调查 + 探索性因子分析 + 半探索性结构方程模型 + ROC 分析
+> **样本**：238 位孤独谱系成人（71% 女性，年龄 18–75 岁）
+> **伦理**：研究由 4 位有孤独谱系耗竭亲身经历的孤独谱系成人咨询小组（3 女:1 男）审核并认可
+> **备注**：本研究为 Mantzalas 博士研究项目的一部分，该项目提出并测试孤独谱系耗竭风险与保护因素的概念模型（Mantzalas et al., 2021）
+
 引用：Mantzalas, J., Richdale, A. L., Li, X., & Dissanayake, C. (2024). Measuring and validating autistic burnout. *Autism Research*, 17(7), 1417–1449. [https://doi.org/10.1002/aur.3129](https://doi.org/10.1002/aur.3129)
 
-**作者**：Jane Mantzalas、Amanda L. Richdale、Xia Li、Cheryl Dissanayake（Olga Tennison Autism Research Centre, La Trobe University）
-**期刊**：*Autism Research*，第 17 卷，第 7 期，第 1417–1449 页
-**DOI**：[10.1002/aur.3129](https://doi.org/10.1002/aur.3129)
-**方法**：在线问卷调查 + 探索性因子分析 + 半探索性结构方程模型 + ROC 分析
-**样本**：238 位孤独谱系成人（71% 女性，年龄 18–75 岁）
-**伦理**：研究由 4 位有孤独谱系耗竭亲身经历的孤独谱系成人咨询小组（3 女:1 男）审核并认可
-**项目背景**：本研究为 Mantzalas 博士研究项目的一部分，该项目提出并测试孤独谱系耗竭风险与保护因素的概念模型（Mantzalas et al., 2021）
+Mantzalas 等人的研究首篇系统检验 AASPIRE 孤独谱系耗竭量表（ABM）与哥本哈根倦怠量表（CBI）的心理测量特性，发现 ABM 四因子结构支持单一高阶"孤独谱系耗竭"构念，而 CBI-P 情绪耗竭子量表可作为替代筛查工具。
 
 ## 本文要点
 

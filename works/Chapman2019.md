@@ -1,27 +1,42 @@
 ---
 title: Chapman (2019) - 作为生命形式的孤独谱系：维特根斯坦与孤独谱系的心理连贯性
 description: Robert Chapman 以维特根斯坦式"生活形式"重构孤独谱系心智，同时超越神经认知主义的缺陷框架和 Hobson 的关系性框架，论证双向同理心问题可由相互方面盲解释，过度系统化是对前认知焦虑的非常人性化反应而非静态认知差异
-aliases: ["Chapman(2019)", Chapman2019, "Autism as a Form of Life: Wittgenstein and the Psychological Coherence of Autism"]
-tags: [work, paper, autism, Wittgenstein, form-of-life, philosophy, cognition, double-empathy, systemising, neurodiversity]
-sources: [papers/Chapman2019-AutismAsAFormOfLife.md]
+aliases:
+  - Chapman(2019)
+  - Chapman2019
+  - Autism as a Form of Life: Wittgenstein and the Psychological Coherence of Autism
+tags:
+  - work
+  - paper
+  - autism
+  - Wittgenstein
+  - form-of-life
+  - philosophy
+  - cognition
+  - double-empathy
+  - systemising
+  - neurodiversity
+sources:
+  - papers/Chapman2019-AutismAsAFormOfLife.md
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-08-12
 citation_apa: "Chapman, R. (2019). Autism as a form of life: Wittgenstein and the psychological coherence of autism. Metaphilosophy, 50(4), 421–440. https://doi.org/10.1111/meta.12366"
 ---
 
 # Chapman (2019) — 作为生命形式的孤独谱系：维特根斯坦与孤独谱系的心理连贯性
 
+> [!infobox] Chapman (2019)
+> **作者**：[[Robert-Chapman]]
+> **出版年份**：2019
+> **类型**：期刊论文
+
 引用：Chapman, R. (2019). Autism as a form of life: Wittgenstein and the psychological coherence of autism. *Metaphilosophy*, *50*(4), 421–440. [https://doi.org/10.1111/meta.12366](https://doi.org/10.1111/meta.12366)
 
-**作者**：[[Robert-Chapman|Robert Chapman]]（University of Bristol）
-
-**发表于**：*Metaphilosophy*，第 50 卷第 4 期，2019 年 7 月
-
-**类型**：期刊论文
+Chapman (2019) 以维特根斯坦式"生活形式"重构孤独谱系心智，同时超越神经认知主义的缺陷框架和 Hobson 的关系性框架，论证双向同理心问题可由相互方面盲解释，过度系统化是对前认知焦虑的非常人性化反应而非静态认知差异。
 
 ---
 
-## 核心论证结构
+## 论证结构
 
 Chapman 以维特根斯坦式"**生活形式**"（form of life）为核心概念，试图给出首个能够同时解释三个此前似乎无法调和的经验事实的孤独谱系心智统一理论：(1) 双向同理心问题、(2) 孤独谱系系统化倾向、(3) 孤独谱系的异质性。
 
