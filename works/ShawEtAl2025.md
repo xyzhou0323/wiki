@@ -15,27 +15,61 @@ tags:
   - education
 sources:
   - 2026-08-12/full.md
+  - 2026-10-11/ShawEtAl2025-library-license-check.md
+  - 2026-10-11/ShawEtAl2025-metadata-audit.md
+authors:
+  - Sebastian Charles Keith Shaw
+  - Megan E. L. Brown
+  - Neera R. Jain
+  - Riya Elizabeth George
+  - Sarah Bernard
+  - Megan Godfrey-Harris
+  - Mary Doherty
+corresponding_author: Megan E. L. Brown
+library_translations:
+  - id: ShawEtAl2025
+    path: library/ShawEtAl2025.md
+    language: zh-Hans
+    publication_status: published
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-10-11
 citation_apa: "Shaw, S. C. K., Brown, M. E. L., Jain, N. R., George, R. E., Bernard, S., Godfrey-Harris, M., & Doherty, M. (2025). When I say … neurodiversity paradigm. Medical Education, 59(5), 466-468. https://doi.org/10.1111/medu.15565"
 doi: 10.1111/medu.15565
 ---
 
 # Shaw et al. (2025) — 当我说⋯⋯神经多样性范式
 
-> [!infobox] Shaw (2025)
-> **作者**：Shaw
+> [!infobox] Shaw et al. (2025)
+> **作者**：Sebastian Charles Keith Shaw、Megan E. L. Brown、Neera R. Jain、Riya Elizabeth George、Sarah Bernard、Megan Godfrey-Harris、Mary Doherty
+> **通讯作者**：Megan E. L. Brown
 > **出版年份**：2025
-> **类型**：期刊论文
-> **机构**：Shaw（布莱顿与苏塞克斯医学院）、Brown（纽卡斯尔大学医学院，通讯作者）、Jain（奥克兰大学）、George（伦敦大学学院）、Bernard（珀斯）、Godfrey-Harris（达伦特谷医院）、Doherty（都柏林大学学院）——多位作者拥有神经殊异的生活经验
+> **在线发表**：2024-11-19
+> **类型**：期刊短文（“When I say …”系列）
+> **期刊**：Medical Education，59(5)，466–468
+> **许可**：CC BY 4.0（原作）
+> **译文**：[[library/ShawEtAl2025|当我说⋯⋯神经多样性范式]]
 
 引用：Shaw, S. C. K., Brown, M. E. L., Jain, N. R., George, R. E., Bernard, S., Godfrey-Harris, M., & Doherty, M. (2025). When I say … neurodiversity paradigm. Medical Education, 59(5), 466-468. [https://doi.org/10.1111/medu.15565](https://doi.org/10.1111/medu.15565)
 
-Shaw 等七位医学教育学者在《Medical Education》"When I say ..."系列文章中系统阐释神经多样性范式的本体论与认识论立场——神经殊异者是"不同"而非"缺陷"，并呼吁神经殊异者参与医学教育决策。
+Shaw 等七位作者在《Medical Education》“When I say …”系列短文中阐释神经多样性范式的本体论与认识论立场——神经殊异者是“不同”而非“缺陷”，并呼吁神经殊异者参与医学教育决策。文章于 2024 年 11 月 19 日在线发表，收入 2025 年 5 月刊，引用年份沿用刊期年份 2025。
+
+## 作者与单位
+
+以下按原文署名顺序列出作者及发表时的单位：
+
+- **Sebastian Charles Keith Shaw**：布莱顿与苏塞克斯医学院医学教育系，英国。
+- **Megan E. L. Brown**：纽卡斯尔大学医学院，英国；通讯作者。
+- **Neera R. Jain**：奥克兰大学医学与健康科学学院医学与健康科学教育中心，新西兰。
+- **Riya Elizabeth George**：伦敦大学学院管理与金融学院全球管理 MBA；伦敦玛丽女王大学医学与牙科学院，英国。
+- **Sarah Bernard**：Sir Charles Gairdner Osborne Park Healthcare Group 老年、急症与康复医学科，澳大利亚珀斯。
+- **Megan Godfrey-Harris**：达特福德和格雷夫舍姆 NHS 信托达伦特谷医院，英国。
+- **Mary Doherty**：都柏林大学学院 UCD 医学院，爱尔兰；布莱顿与苏塞克斯医学院临床神经科学系，英国。
+
+作者说明，他们借助各自的生活经验，为医学教育中的神经多样性问题提供多元视角。
 
 ## 概述
 
-《When I say ...》是《Medical Education》的系列短文，由学者以第一人称阐明其使用的关键概念。本文由七位医学教育学者合写，阐述"[[神经多样性范式]]"（neurodiversity paradigm）的含义，并论证：
+《When I say ...》是《Medical Education》的系列短文，由作者阐明关键概念的含义。本文由七位作者合写，阐述"[[神经多样性范式]]"（neurodiversity paradigm）的含义，并论证：
 
 >We argue that medical education will fundamentally fail in its mission to support neurodivergent learners unless we undergo a significant transformation in how we value different ways of thinking and learning. We conceptualise this philosophical transformation as a shift towards the neurodiversity paradigm.
 >除非我们在如何重视不同的思考与学习方式上经历重大转变，否则医学教育将从根本上无法完成支持神经殊异学习者的使命。我们将这一哲学层面的转变定义为向神经多样性范式的转向。
@@ -49,7 +83,7 @@ Shaw 等七位医学教育学者在《Medical Education》"When I say ..."系列
 - **[[神经多样性]]**（neurodiversity）：人类心智中神经认知功能的无限自然变异——生物学事实，并非少数群体属性，也不是单一或静态的概念
 - **神经多元**（neurodiverse）：社会性描述词，概述这种变异在整个人群中的分布
 - **[[神经殊异]]**（neurodivergent）：不同于社会所认知的大脑或心智功能常态的人，即不同于有时被描述为 [[神经典型]] 的大多数人
-- **[[神经多样性运动]]**（neurodiversity movement）：基于于残障权利运动的倡权，在文化、社会和政治层面为神经殊异人群推进正义
+- **[[神经多样性运动]]**（neurodiversity movement）：植根于残障权利运动的倡权，在文化、社会和政治层面为神经殊异人群推进正义
 - **[[神经多样性范式]]**：支撑如下论断的概念性信念或世界观——神经多元的社会由神经典型人群和神经殊异人群组成，神经殊异者并不比神经典型者更缺乏价值
 
 ### 医学教育为何需要范式转向
@@ -80,7 +114,7 @@ Shaw 等七位医学教育学者在《Medical Education》"When I say ..."系列
 - **残障的情境性**：社会因素可因个体差异与任何既定期望之间的不匹配而**情境性地**残障化个体——这类因素在本质上是历史的、政治的、文化的、社会的或环境的
 - 与**优势视角**（strengths-based perspective）的区分：神经多样性范式并非主张神经殊异者拥有固有的"超能力"、忽视残障，与优势视角主张关注颂扬优势不同。
 
-作者指出，有人将优势视角与神经多样性范式的偶然混同招致了长期的批评——有人以为神经多样性范式不考虑残障或断言神经殊异人群具有"超能力"。实际上，神经多样性范式主张优势与困难都是情境性的，取决于差异与特定情境、系统、结构和期望之间的错配。
+作者指出，将优势视角与神经多样性范式无意间混同招致了长期的批评——有人以为神经多样性范式不考虑残障或断言神经殊异人群具有"超能力"。实际上，神经多样性范式主张优势与困难都是情境性的，取决于差异与特定情境、系统、结构和期望之间的错配。
 
 ### 神经多样性范式的认识论立场
 
@@ -113,6 +147,6 @@ Shaw 等七位医学教育学者在《Medical Education》"When I say ..."系列
 - [[神经多样性运动]] — 与范式相区分的术语层次
 
 ### 相关文献
-- [[Kapp2020|Kapp (2020)]] — 本文引用，神经多样性运动定义的主要依据
-- [[Fricker2017|Fricker (2017)]] — 知识不正义概念的奠基文献
+- [[Kapp2020|Kapp (2020)]] — 原文引用其导论，用于区分神经多样性及其运动
+- [[Fricker2017|Fricker (2017)]] — 关于知识不正义概念演变的补充阅读
 

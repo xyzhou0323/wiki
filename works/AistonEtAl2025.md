@@ -16,7 +16,7 @@ citation_apa: "Aiston, J., Koteyko, N., & van Driel, M. (2025). Discourse-based 
 sources:
   - 2026-06-16/Aiston et al. - 2025 - Discourse-based approaches to autistic focussed interests.md
 created: 2026-06-16
-updated: 2026-08-12
+updated: 2026-10-12
 ---
 
 # Aiston et al. (2025) - 基于话语的孤独谱系专注兴趣研究路径
@@ -37,7 +37,7 @@ Aiston、Koteyko 与 van Driel (2025) 在 *Applied Linguistics* 发表立场论�
 
 ### 理论基础
 
-- [[单一聚焦|单一聚焦（Monotropism）]]（[[Dinah-Murray|Murray]], 2018）：孤独谱系的兴趣为本认知理论——注意力资源倾向于集中至少数通道，排他性地排除其他输入
+- [[单焦点注意|单焦点注意（Monotropism）]]（[[Dinah-Murray|Murray]], 2018）：孤独谱系的兴趣为本认知理论——注意力资源倾向于集中至少数通道，排他性地排除其他输入
 - [[双向同理心问题|双向同理心问题（DEP）]]（[[Milton2012|Milton]], 2012）：沟通断裂源于双向误解，而非孤独谱系单方面的缺陷
 - 孤独谱系社交性（autistic sociality）（Ochs & Solomon, 2010）：人类社交性包含多种社交协调的可能性，神经典型标准无法充分捕捉孤独谱系社群中的社交活动
 - 兴趣为本社交 vs 社交为本社交（[[Hanna-Bertilsdotter-Rosqvist|Bertilsdotter Rosqvist]], 2019）：孤独谱系空间偏好前者——互动以对话题的真正兴趣为基础和驱动
@@ -63,7 +63,7 @@ Aiston、Koteyko 与 van Driel (2025) 在 *Applied Linguistics* 发表立场论�
 
 以交流调适理论（Communication Accommodation Theory, CAT）（Giles et al., 2023）为框架：
 - 跨神经类型互动中预期存在**过度调适**和**调适不足**——非孤独谱系者可能基于对孤独谱系者的刻板印象进行调适，而非调适于互动者个体（Coupland et al., 1988）
-- 亲和空间中以兴趣为本的互动**本身就是一项重要的调适策略**——当单一聚焦沟通风格成为共享规范，非孤独谱系互动者可能趋同于孤独谱系沟通风格
+- 亲和空间中以兴趣为本的互动**本身就是一项重要的调适策略**——当单焦点注意沟通风格成为共享规范，非孤独谱系互动者可能趋同于孤独谱系沟通风格
 - 研究成果可应用于设计包容性在线环境的**实用资源**
 
 #### 3. 多模态表达（Multimodal Expression）
@@ -92,7 +92,7 @@ Aiston、Koteyko 与 van Driel (2025) 在 *Applied Linguistics* 发表立场论�
 
 ### 相关概念
 - [[信息大放送]] — 本论文系统定位的核心沟通实践
-- [[单一聚焦]] — 论文的认知理论基础：注意力隧道与兴趣作为组织原则
+- [[单焦点注意]] — 论文的认知理论基础：注意力隧道与兴趣作为组织原则
 - [[双向同理心问题]] — 论文所服务解决的核心问题
 - [[神经多样性范式]] — 论文的理论框架立场
 - [[参与式行动研究]] — 论文的核心方法论要求

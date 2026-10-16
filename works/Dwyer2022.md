@@ -17,7 +17,7 @@ sources:
   - 2026-05-07/Dwyer - 2022 - 神经多样性方法群 - 脑脑空间.pdf
 doi: 10.1159/000523723
 created: 2026-05-07
-updated: 2026-08-12
+updated: 2026-10-12
 citation_apa: "Dwyer, P. (2022). The neurodiversity approach(es): What are they and what do they mean for researchers? Human Development, 66(2), 73-92. https://doi.org/10.1159/000523723"
 ---
 
@@ -168,7 +168,7 @@ Chapman (2021a) 提出医学干预与政治干预之间应存在结合空间。�
 
 ### 融入神经多样性理念
 
-- 社群已发展出独创理论框架：**单一聚焦**（Monotropism, Murray et al. 2005）、**孤独谱系惯性**（Autistic Inertia, Buckle et al. 2021）、**孤独谱系耗竭**（Autistic Burnout, Raymaker et al. 2020）、感官过载/崩溃/宕机、掩饰/伪装
+- 社群已发展出独创理论框架：**单焦点注意**（Monotropism, Murray et al. 2005）、**孤独谱系惯性**（Autistic Inertia, Buckle et al. 2021）、**孤独谱系耗竭**（Autistic Burnout, Raymaker et al. 2020）、感官过载/崩溃/宕机、掩饰/伪装
 - ADHD 领域：拒绝敏感性焦虑（RSD, Dodson 2006）——由临床工作者提出，但与 ADHD 成人体验产生强烈共鸣
 - **警示**：也存在以剥削性/功利性方式挪用神经多样性概念的风险——即[[庸俗版神经多样性]]的早期预警
 

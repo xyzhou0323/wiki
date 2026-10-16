@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "works/SchuckEtAl2022.md",
+                "file": "works/ShawEtAl2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SchuckEtAl2022"
+              "title": "ShawEtAl2025"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "b8ce71431e6b7390",
   "lastOpenFiles": [
+    "works/SchuckEtAl2022.md",
     "authors/Fengjing-Liang.md",
     "works/KefallinouSymeonidouMeijer2020.md.tmp.41696.aad74dfcb44d",
     "authors/Mildred-Boveda.md.tmp.41696.aeb40fd98f91",
@@ -219,7 +220,6 @@
     "02-批判分析/阿斯至上主义.md",
     "02-批判分析/残障的哲学定义.md",
     "02-批判分析/残障的社会模型.md",
-    "04-实践应用/参与式行动研究.md",
     "Pasted image 20260616213853.png"
   ]
 }

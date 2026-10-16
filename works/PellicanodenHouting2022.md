@@ -12,10 +12,17 @@ tags:
   - foundational
 sources:
   - 2026-05-09/Child Psychology Psychiatry - 2021 - Pellicano - Annual Research Review  Shifting from  normal science  to neurodiversity_dual_Kimi+DeepSeek.pdf
+  - 2026-10-12/PellicanodenHouting2022-PMC-fulltext.xml
+  - 2026-10-12/PellicanodenHouting2022-library-license-check.md
 doi: 10.1111/jcpp.13534
 created: 2026-05-09
-updated: 2026-08-12
+updated: 2026-10-12
 citation_apa: "Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from 'normal science' to neurodiversity in autism science. Journal of Child Psychology and Psychiatry, 63(4), 381-396. https://doi.org/10.1111/jcpp.13534"
+library_translations:
+  - id: PellicanodenHouting2022
+    path: library/PellicanodenHouting2022.md
+    language: zh-Hans
+    publication_status: published
 ---
 
 # Pellicano & den Houting (2022) — 从"常规科学"转向孤独谱系科学中的神经多样性
@@ -23,8 +30,11 @@ citation_apa: "Pellicano, E., & den Houting, J. (2022). Annual Research Review: 
 > [!infobox] Pellicano (2022)
 > **作者**：[[Elizabeth-Pellicano]]、[[Jacquiline-den-Houting]]
 > **出版年份**：2022
-> **类型**：年度研究综述（Annual Research Review），英中双语版
+> **类型**：年度研究综述（Annual Research Review）
+> **期刊**：Journal of Child Psychology and Psychiatry，63(4)，381–396
 > **机构**：麦考瑞大学教育学院 / 孤独谱系生活合作研究中心（两位作者）
+> **原作许可**：[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+> **译文**：[[library/PellicanodenHouting2022|年度研究综述：孤独谱系科学从“常规科学”转向神经多样性]]
 
 引用：Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from 'normal science' to neurodiversity in autism science. Journal of Child Psychology and Psychiatry, 63(4), 381-396. [https://doi.org/10.1111/jcpp.13534](https://doi.org/10.1111/jcpp.13534)
 
@@ -76,7 +86,7 @@ Pellicano 与 den Houting 在 JCPP 发表的年度研究综述中，以库恩的
 
 ### 孤独谱系者应主导对话
 
-- 以 [[Milton2022|Milton (2012) 的双向同理心问题]] 为理论支撑：
+- 以 [[Milton2012|Milton (2012) 的双向同理心问题]] 为理论支撑：
   - 非孤独谱系者也难以理解孤独谱系者的面部表情、行为和心理状态
   - 非孤独谱系者基于第一印象就不愿与孤独谱系者互动
   - 孤独谱系者之间沟通更有效、建立更强融洽关系
@@ -106,7 +116,7 @@ Pellicano 与 den Houting 在 JCPP 发表的年度研究综述中，以库恩的
 ### 相关文献
 - [[Dwyer2022|Dwyer (2022)]] — 同期发表的神经多样性方法群框架，本文为其补充了范式转型的宏观论证
 - [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — 同一作者同年的相关政治分析
-- [[Milton2022|Milton (2022)]] — 本文以双向同理心问题为核心理论支撑
+- [[Milton2012|Milton (2012)]] — 本文以双向同理心问题为核心理论支撑
 - [[denHouting2019|den Houting (2019)]] — 本文方法论立场的早期版本：内部人视角与三大误解澄清
 
 ### 作者
