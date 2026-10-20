@@ -1,6 +1,6 @@
 ---
 title: Anna N. de Hooge
-description: Anna N. de Hooge（1996年生）是残障研究领域的写作者、媒体工作者与研究者，以首篇阿斯至上主义（Aspie Supremacy）系统学术分析（2019）著称，采用情境知识认识论和酷残理论框架研究孤独谱系社群中的权力与身份政治
+description: Anna N. de Hooge（1996年生）是残障研究领域的写作者、媒体工作者与研究者，以阿斯至上主义（Aspie Supremacy）系统学术分析（2019）著称，采用情境知识认识论和酷残理论框架研究孤独谱系社群中的权力与身份政治
 aliases:
   - de Hooge
   - Anna de Hooge
@@ -13,7 +13,7 @@ tags:
 sources:
   - 2026-05-10/Binary Boys Autism, Aspie Supremacy and PostHumanist Normativity.md
 created: 2026-05-10
-updated: 2026-08-12
+updated: 2026-10-20
 ---
 
 # Anna N. de Hooge
@@ -23,7 +23,7 @@ updated: 2026-08-12
 > **主要领域**：神经酷儿、阿斯至上主义、残障研究
 > **代表著作**：[[deHooge2019]]
 
-Anna N. de Hooge（1996 年生）是残障研究领域的写作者、媒体工作者与研究者。以[[deHooge2019|《Binary Boys》]]（2019）一文发表了[[阿斯至上主义]]（Aspie Supremacy）的首篇系统性学术分析，发表于 _Disability Studies Quarterly_。
+Anna N. de Hooge（1996 年生）是残障研究领域的写作者、媒体工作者与研究者。以[[deHooge2019|《Binary Boys》]]（2019）一文发表了[[阿斯至上主义]]（Aspie Supremacy）的系统性学术分析，发表于 _Disability Studies Quarterly_。
 
 > 她曾以为自己是为攀爬学术象牙塔而攀上长发公主头发的故事中的女巫——但后来决定，不如一把火烧了这座塔。
 
@@ -58,9 +58,9 @@ de Hooge 指出："受尊重的孤独谱系文本通常不由孤独谱系者撰�
 
 ### 其他相关页面
 
-- [[阿斯至上主义]] — de Hooge 提供了该概念最系统的学术分析
+- [[阿斯至上主义]] — de Hooge 提供了该概念文化与理论分析
 - [[神经多样性运动]] — 阿斯至上主义在运动内部引发的分裂
 - [[神经多样性与交叉性]] — 交叉性方法论在 ND 研究中的应用
-- [[优生学]] — Asperger 与 Aktion T4 的历史关联
+- [[优生学]] — 纳粹时期的生命价值筛选及其历史联系
 - [[常态范式]] — de Hooge 分析的"功能标签"延续的等级体系
 - [[Robert-Chapman]] — 神经撒切尔主义与阿斯至上主义的内在关联

@@ -17,8 +17,8 @@ sources:
   - 2026-05-07/Dwyer 等 - 2025 - Community views of neurodiversity, models of disability and autism intervention Mixed methods revea.pdf
 doi: 10.1177/13623613241273029
 created: 2026-05-08
-updated: 2026-08-12
-citation_apa: "Dwyer, P., Gurba, A. N., Kapp, S. K., Kilgallon, E., Hersh, L. H., Chang, D. S., Rivera, S. M., & Gillespie-Lynch, K. (2025). Community views of neurodiversity, models of disability and autism intervention: Mixed methods reveal mixed views. Autism, 29(9), 2297-2314. https://doi.org/10.1177/13623613241273029"
+updated: 2026-10-17
+citation_apa: "Dwyer, P., Gurba, A. N., Kapp, S. K., Kilgallon, E., Hersh, L. H., Chang, D. S., Rivera, S. M., & Gillespie-Lynch, K. (2025). Community views of neurodiversity, models of disability and autism intervention: Mixed methods reveal shared goals and key tensions. Autism, 29(9), 2297-2314. https://doi.org/10.1177/13623613241273029"
 ---
 
 # Dwyer et al. (2025) — 社区对神经多样性、残障模式与孤独谱系干预的看法
@@ -31,7 +31,7 @@ citation_apa: "Dwyer, P., Gurba, A. N., Kapp, S. K., Kilgallon, E., Hersh, L. H.
 > **研究团队**：所有主要编码者（P.D.、E.K.、S.K.K.、A.N.G.）均为孤独谱系人士——神经多元性极高的研究团队
 > **备注**：作者单位：Patrick Dwyer（UC Davis / La Trobe）；Ava N Gurba、Steven K Kapp、Elizabeth Kilgallon 为共同第二作者；Susan M Rivera、Kristen Gillespie-Lynch 为共同资深作者；2024 年收稿，2025 年出版
 
-引用：Dwyer, P., Gurba, A. N., Kapp, S. K., Kilgallon, E., Hersh, L. H., Chang, D. S., Rivera, S. M., & Gillespie-Lynch, K. (2025). Community views of neurodiversity, models of disability and autism intervention: Mixed methods reveal mixed views. Autism, 29(9), 2297-2314. [https://doi.org/10.1177/13623613241273029](https://doi.org/10.1177/13623613241273029)
+引用：Dwyer, P., Gurba, A. N., Kapp, S. K., Kilgallon, E., Hersh, L. H., Chang, D. S., Rivera, S. M., & Gillespie-Lynch, K. (2025). Community views of neurodiversity, models of disability and autism intervention: Mixed methods reveal shared goals and key tensions. Autism, 29(9), 2297-2314. [https://doi.org/10.1177/13623613241273029](https://doi.org/10.1177/13623613241273029)
 
 Dwyer et al. (2025) 在 *Autism* 期刊发表的混合方法研究基于 504 名社群成员的实证调查，揭示"强"社会模型修辞与实际干预态度之间的系统性差异，以及孤独谱系与非孤独谱系神经多样性方法支持者之间的关键张力。
 

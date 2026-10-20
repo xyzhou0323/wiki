@@ -13,7 +13,7 @@ sources:
   - 2026-07-06/Johnson2023-DyslexiaIsNotAGift.md
 citation_apa: "Johnson, R. M. (2023). Dyslexia is not a gift, but it is not that simple. Infant and Child Development, 32(5), e2454. https://doi.org/10.1002/icd.2454"
 created: 2026-07-06
-updated: 2026-08-12
+updated: 2026-10-20
 ---
 
 # Johnson (2023) — 阅读障碍并非天赋，但事情也没那么简单
@@ -44,7 +44,7 @@ DSM 将阅读障碍定义为"阅读障碍型特定学习障碍"（APA, 2013, p. 
 
 ## 阅读障碍天赋之争
 
-健全中心主义（[[批判性残障理论#健全中心主义（Ableism）|Ableism]]）是一种认为某些能力优于其他能力的信念体系（Wolbring, 2008）。当面对关于残障人士价值的健全中心主义假设时，常见反应是重新认同健全性（及神经典型性），而非质疑最初质疑残障人士价值的社会背景（Brune & Wilson, 2013）。一些善意的阅读障碍者、家长和教育工作者由此声称阅读障碍是"天赋"——尽管这一叙事主要依赖自我报告和有限研究证据（Chakravarty, 2009; Eide & Eide, 2011; Chamberlain et al., 2018），且已被元分析驳斥（Erbeli et al., 2022; Gutiérrez-Ortega et al., 2023）。
+健全中心主义（[[健全中心主义|Ableism]]）是一种认为某些能力优于其他能力的信念体系（Wolbring, 2008）。当面对关于残障人士价值的健全中心主义假设时，常见反应是重新认同健全性（及神经典型性），而非质疑最初质疑残障人士价值的社会背景（Brune & Wilson, 2013）。一些善意的阅读障碍者、家长和教育工作者由此声称阅读障碍是"天赋"——尽管这一叙事主要依赖自我报告和有限研究证据（Chakravarty, 2009; Eide & Eide, 2011; Chamberlain et al., 2018），且已被元分析驳斥（Erbeli et al., 2022; Gutiérrez-Ortega et al., 2023）。
 
 ## 沟通断裂
 

@@ -15,7 +15,7 @@ citation_apa: "de Hooge, A. N. (2019). Binary Boys: Autism, Aspie Supremacy and 
 sources:
   - 2026-05-10/Binary Boys Autism, Aspie Supremacy and PostHumanist Normativity.md
 created: 2026-05-10
-updated: 2026-08-12
+updated: 2026-10-20
 ---
 
 # de Hooge (2019)—二元男孩：孤独谱系、阿斯至上主义与后/人文主义规范性
@@ -26,11 +26,11 @@ updated: 2026-08-12
 
 引用：de Hooge, A. N. (2019). Binary Boys: Autism, Aspie Supremacy and Post/Humanist Normativity. _Disability Studies Quarterly_, _39_(1). [https://doi.org/10.18061/dsq.v39i1.6461](https://doi.org/10.18061/dsq.v39i1.6461)
 
-de Hooge (2019) 以情境知识认识论对阿斯至上主义（Aspie Supremacy）进行首篇系统性学术分析，揭示其与白人男性气质、经济价值论和 Lyotard 后现代主义的深层关联。
+de Hooge (2019) 以情境知识认识论对阿斯至上主义（Aspie Supremacy）进行系统性学术分析，揭示其与白人男性气质、经济价值论和 Lyotard 后现代主义的深层关联。
 
 ## 主要论点
 
-本文是[[阿斯至上主义]]（Aspie Supremacy）的首篇系统性学术分析。de Hooge 采用情境知识（situated knowledges）认识论，论证阿斯至上主义由两个相互交织的面向构成：**反孤独谱系的健全中心主义**（anti-autistic ableism）和**阿斯主体的优越性建构**——后者以白人气质（whiteness）、男性气质（masculinity）和经济价值（economic worthiness）为定义标准。
+本文是[[阿斯至上主义]]（Aspie Supremacy）的系统性学术分析。de Hooge 采用情境知识（situated knowledges）认识论，论证阿斯至上主义由两个相互交织的面向构成：**反孤独谱系的健全中心主义**（anti-autistic ableism）和**阿斯主体的优越性建构**——后者以白人气质（whiteness）、男性气质（masculinity）和经济价值（economic worthiness）为定义标准。
 
 核心论点：阿斯至上主义与反孤独谱系健全中心主义并非对立，而是**同一枚硬币的两面**。这一意识形态不仅隐藏在 Hans Asperger 的纳粹合作行为背后，更持续影响当今的孤独谱系话语。
 
@@ -58,7 +58,7 @@ de Hooge 分析 Autism Speaks 的商业广告《I Am Autism》和纪录片《Aut
 
 **2.1 功能标签的功利主义论证**
 
-Asperger 通过强调"小教授们将成为帝国优秀的密码破译者"来挽救部分儿童——这种基于经济有用性的"拯救"恰恰暴露了逻辑的黑暗面：那些不符合"小教授"框盒的儿童被送往 Spiegelgrund。功能标签至今仍将孤独谱系展平为按经济价值排序的线性等级。
+de Hooge 转述 Silberman（2015）的叙述：Asperger 以部分儿童可能从事密码破译等工作来强调其社会用途。她据此追问，若人的价值取决于用途，未被视为有用的儿童处于何种位置，并将这一问题联系到纳粹时期的筛选与杀害。论文由此分析功能标签怎样承载对经济价值和人格地位的排序。
 
 **2.2 Sherlock Holmes 与白人男性气质**
 
@@ -82,11 +82,11 @@ Asperger 的纳粹合作被揭露后，有人呼吁为 Asperger 综合征更名�
 ## Related
 
 ### 相关概念
-- [[阿斯至上主义]] — 本文是阿斯至上主义最系统的学术分析
+- [[阿斯至上主义]] — 本文是阿斯至上主义文化与理论分析
 - [[神经撒切尔主义]] — 阿斯至上主义与市场逻辑的交叉
 - [[庸俗版神经多样性]] — 与阿斯至上主义的区分与关联
 - [[神经多样性与交叉性]] — 本文对种族×性别×神经类型的交叉分析
-- [[优生学]] — Asperger 与 Aktion T4 的历史关联
+- [[优生学]] — 纳粹时期的生命价值筛选及其历史联系
 - [[神经多样性运动]] — 阿斯至上主义在运动内部引发的风险
 
 ### 作者

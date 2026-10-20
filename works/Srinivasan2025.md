@@ -12,9 +12,11 @@ tags:
   - disability
   - foundational
   - framework
+sources:
+  - 2026-10-17/Neurodiversity-and-disability/Srinivasan2025-publisher-abstract.md
 doi: 10.1016/j.reia.2025.202652
 created: 2026-05-08
-updated: 2026-08-12
+updated: 2026-10-17
 citation_apa: "Srinivasan, H. (2025). Neurodiversity 2.0: Harnessing cross-disciplinary disability insights. Research in Autism, 127, Article 202652. https://doi.org/10.1016/j.reia.2025.202652"
 ---
 

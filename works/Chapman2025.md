@@ -12,7 +12,7 @@ tags:
 sources:
   - blog-posts/Yes, it really is possible for everyone to be neurodivergent.md
 created: 2026-05-10
-updated: 2026-08-12
+updated: 2026-10-19
 ---
 
 # Chapman (2025) — 是的，每个人都可以是神经殊异者
@@ -57,7 +57,7 @@ Chapman 指出，这种论调的真正驱动力并非对概念精确性的学术
 ## Related
 
 ### 相关概念
-- [[神经多样性批判与回应]] — 批评四直接引用本文
+- [[神经多样性批判与回应]] — 自我认同与诊断边界的相关争论
 - [[神经殊异]] — 本文论证的核心概念
 - [[神经多样性范式]] — 本文所基于的理论框架
 

@@ -32,7 +32,7 @@ library_translations:
     language: zh-Hans
     publication_status: published
 created: 2026-08-12
-updated: 2026-10-11
+updated: 2026-10-20
 citation_apa: "Shaw, S. C. K., Brown, M. E. L., Jain, N. R., George, R. E., Bernard, S., Godfrey-Harris, M., & Doherty, M. (2025). When I say … neurodiversity paradigm. Medical Education, 59(5), 466-468. https://doi.org/10.1111/medu.15565"
 doi: 10.1111/medu.15565
 ---
@@ -125,7 +125,7 @@ Shaw 等七位作者在《Medical Education》“When I say …”系列短文�
 
 ## 医学教育中的应用建议
 
-1. **主动考虑歧视与[[批判性残障理论#健全中心主义（Ableism）|健全中心主义]]**：审视系统、政策和实践在"医师"的构想中如何预设了某种特定的身体与心智。
+1. **主动考虑歧视与[[健全中心主义]]**：审视系统、政策和实践在"医师"的构想中如何预设了某种特定的身体与心智。
 2. **有意义地让神经殊异人群参与研究、课程设计与开发**：应对知识不正义、迈向包容与通用设计的积极一步
 3. **寻求本地多元的神经殊异视角**：使神经殊异人群面临障碍的情境在世界各地的文化和环境中各不相同；处于边缘化交叉点的神经殊异人群，其教育和医疗实践经历受到当地社会历史及机构所嵌入的立法、政策和治理框架的影响
 

@@ -15,7 +15,7 @@ sources:
   - 2026-05-07/Jones和Orchard - 2024 - Neurodiversity and disability what is at stake.pdf
 doi: 10.1136/medhum-2023-012808
 created: 2026-05-07
-updated: 2026-08-12
+updated: 2026-10-20
 citation_apa: "Jones, E. K., & Orchard, V. (2024). Neurodiversity and disability: What is at stake? Medical Humanities, 50(3), 456-465. https://doi.org/10.1136/medhum-2023-012808"
 ---
 
@@ -24,7 +24,7 @@ citation_apa: "Jones, E. K., & Orchard, V. (2024). Neurodiversity and disability
 > [!infobox] Jones (2024)
 > **作者**：Eleanor K. Jones（南安普顿大学）、Vivienne Orchard
 > **出版年份**：2024
-> **类型**：原创研究（英文-中文双语版）
+> **类型**：概念分析
 
 引用：Jones, E. K., & Orchard, V. (2024). Neurodiversity and disability: What is at stake? Medical Humanities, 50(3), 456-465. [https://doi.org/10.1136/medhum-2023-012808](https://doi.org/10.1136/medhum-2023-012808)
 
@@ -66,7 +66,7 @@ Jones 和 Orchard 论证：神经多样性日益与残障（disability）分离�
 
 Jones 和 Orchard 指出 Singer 的奠基性文本包含三个关键排斥：
 
-1. **对学习障碍的否认**：Singer 小心地将自己和女儿与"那些摇晃、情感封闭、智力受损的儿童"区分开来。神经多样性从一开始只适用于"高功能"或阿斯伯格群体。
+1. **对学习障碍的否认**：Singer 小心地将自己和女儿与"那些摇晃、情感封闭、智力受损的儿童"区分开来。在作者对 Singer 这篇文本的解读中，神经多样性的对象被限定为没有学习障碍的"高功能"或阿斯伯格群体。
 
 2. **不可还原的神经定位**：将孤独谱系定位于物理大脑——神经而非心理，先天而非后天。Singer 援引 Lorna Wing 的工作，摒弃心理层面理解，却忽略了那些本应质疑这种认可的历史背景。
 
@@ -110,6 +110,7 @@ Jones 和 Orchard 借用 Mitchell 和 Snyder 的"健全民族主义"（ablenatio
 ## Related
 
 ### 相关概念
+- [[阿斯至上主义]] — 能力等级、选择性包容与残障者之间的价值边界
 - [[神经多样性运动]] — 论文中所批评的被净化历史
 - [[神经多样性与交叉性]] — 交叉性分析的另一种路径
 - [[庸俗版神经多样性]] — 神经多样性被收编的相关批判

@@ -12,7 +12,7 @@ tags:
 sources:
   - articles/Uta Frith why I no longer think autism is a spectrum.md
 created: 2026-05-10
-updated: 2026-08-12
+updated: 2026-10-19
 ---
 
 # Frith (2026) — 为什么我不再认为孤独谱系是一个谱系
@@ -70,6 +70,6 @@ Frith 的观点代表了主流精神病学对 ND 范式若干核心支柱的系�
 ## Related
 
 ### 相关概念
-- [[神经多样性批判与回应]] — 本访谈是该页多项批评的最近典型案例
+- [[神经多样性批判与回应]] — 诊断边界、代表性与支持的相关争论
 - [[孤独谱系障碍]] — 被挑战的核心概念
 - [[掩饰与伪装]] — Frith 直接否定的概念
